@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 const GITHUB_TOKEN = process.env.GH_ACTIVITY_TOKEN || process.env.GITHUB_TOKEN;
-const GITHUB_USER = process.env.GITHUB_USER;
+const GH_USERNAME = process.env.GH_USERNAME;
 const DAYS_ACTIVE = Number(process.env.ACTIVE_DAYS ?? 90);
 const README_PATH = process.env.README_PATH ?? 'README.md';
 const START_MARKER = '<!-- REPO_ACTIVITY:START -->';
@@ -12,8 +12,8 @@ if (!GITHUB_TOKEN) {
   process.exit(1);
 }
 
-if (!GITHUB_USER) {
-  console.error('Missing GITHUB_USER. Set it to your GitHub username.');
+if (!GH_USERNAME) {
+  console.error('Missing GH_USERNAME. Set it to your GitHub username.');
   process.exit(1);
 }
 
@@ -94,7 +94,7 @@ async function main() {
 
   const repos = await fetchRepos();
 
-  const ownedByUser = repos.filter((repo) => repo.owner?.login?.toLowerCase() === GITHUB_USER.toLowerCase());
+  const ownedByUser = repos.filter((repo) => repo.owner?.login?.toLowerCase() === GH_USERNAME.toLowerCase());
   const filtered = ownedByUser.filter((repo) => !repo.archived && !repo.disabled);
 
   const activeRepos = [];
