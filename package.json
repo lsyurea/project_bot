@@ -1,0 +1,9 @@
+{
+  "name": "project_bot",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "update:repo-activity": "node scripts/update-repo-activity.mjs"
+  }
+}
