@@ -11,7 +11,7 @@ This repository automatically updates repository activity stats for my GitHub ac
 3. (Optional) Add repository variable: `ACTIVE_DAYS`
    - Defaults to `90` if not set.
 
-After pushing the workflow, GitHub Actions runs automatically on schedule (`0 3 * * *`, UTC) and can also be triggered manually from the Actions tab.
+After pushing the workflow, GitHub Actions runs automatically on schedule (`0 0 * * *`, UTC; 8:00 AM Singapore time) and can also be triggered manually from the Actions tab.
 
 ## Repository Activity
 
