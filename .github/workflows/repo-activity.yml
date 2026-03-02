@@ -2,7 +2,7 @@ name: Update Repo Activity
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '13 */6 * * *'
   workflow_dispatch:
 
 permissions:
