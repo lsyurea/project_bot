@@ -29,14 +29,17 @@ jobs:
         run: node scripts/update-repo-activity.mjs
 
       - name: Commit and push changes
+        env:
+          COMMIT_AUTHOR_NAME: ${{ vars.COMMIT_AUTHOR_NAME || 'lsyurea' }}
+          COMMIT_AUTHOR_EMAIL: ${{ vars.COMMIT_AUTHOR_EMAIL || 'lsyurea@users.noreply.github.com' }}
         run: |
           if git diff --quiet README.md; then
             echo "No changes to commit"
             exit 0
           fi
 
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "$COMMIT_AUTHOR_NAME"
+          git config user.email "$COMMIT_AUTHOR_EMAIL"
           git add README.md
           git commit -m "chore: update repository activity"
           git push
