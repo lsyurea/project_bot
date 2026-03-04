@@ -1,0 +1,43 @@
+name: Update Job Listings
+
+on:
+  schedule:
+    # Every 12 hours at minute 37 — ensures listings always stay within 48h window
+    - cron: '37 */12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-job-listings:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch job listings
+        env:
+          OUTPUT_PATH: docs/companies/README.md
+        run: node scripts/update-job-listings.mjs
+
+      - name: Commit and push changes
+        env:
+          COMMIT_AUTHOR_NAME: ${{ vars.COMMIT_AUTHOR_NAME || 'lsyurea' }}
+          COMMIT_AUTHOR_EMAIL: ${{ vars.COMMIT_AUTHOR_EMAIL || 'lsyurea@users.noreply.github.com' }}
+        run: |
+          if git diff --quiet docs/companies/README.md; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git config user.name "$COMMIT_AUTHOR_NAME"
+          git config user.email "$COMMIT_AUTHOR_EMAIL"
+          git add docs/companies/README.md
+          git commit -m "chore: update sg software engineering job listings"
+          git push

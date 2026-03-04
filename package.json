@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "update:repo-activity": "node scripts/update-repo-activity.mjs"
+    "update:repo-activity": "node scripts/update-repo-activity.mjs",
+    "update:job-listings": "node scripts/update-job-listings.mjs"
   }
 }
