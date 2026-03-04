@@ -152,7 +152,9 @@ async function fetchLinkedIn() {
     const title = extractHtmlText(card, ['base-search-card__title', 'job-search-card__title']);
     const company = extractHtmlText(card, ['base-search-card__subtitle', 'job-search-card__company-name']);
     const linkMatch = card.match(/href="(https:\/\/www\.linkedin\.com\/jobs\/view\/[^"?]+)/);
-    const link = linkMatch ? linkMatch[1] : 'https://www.linkedin.com/jobs/search/';
+    const searchQuery = encodeURIComponent([title, company].filter(Boolean).join(' ').trim());
+    const fallbackLink = `https://www.linkedin.com/jobs/search/?keywords=${searchQuery}&location=Singapore`;
+    const link = linkMatch ? linkMatch[1] : fallbackLink;
 
     // LinkedIn does not always include a parseable posted time in guest API HTML; use now as approximation
     const timeMatch = card.match(/datetime="([^"]+)"/);
