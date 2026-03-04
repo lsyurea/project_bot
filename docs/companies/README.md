@@ -2,7 +2,7 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-03-04T17:22:33.827Z*
+> *Last updated: 2026-03-04T17:27:55.937Z*
 
 **Total listings: 30** *(MyCareersFuture: 25 | LinkedIn: 8)*
 
@@ -21,9 +21,9 @@
 | Software Test Engineer (West/Office Hour/MNC) | ENVIRODYNAMICS SOLUTIONS PTE. LTD. | MyCareersFuture | 2026-03-04 | [Apply](https://www.mycareersfuture.gov.sg/job/f7411220932a0dccdd501cac1d11937f) |
 | System / Software Engineer, Operational Excellence | ETLA LIMITED | MyCareersFuture | 2026-03-04 | [Apply](https://www.mycareersfuture.gov.sg/job/90505c51e6ae4f37ee5813bc609623fa) |
 | Software Engineer | APBA TG HUMAN RESOURCE PTE. LTD. | MyCareersFuture | 2026-03-04 | [Apply](https://www.mycareersfuture.gov.sg/job/3b0763fd1d2d0df5743153a6f8d3687e) |
-| Software Developer | Cygnify | LinkedIn | 2026-03-04 | [Apply](https://www.linkedin.com/jobs/search/) |
-| Software Engineer-Automation, Reporting and API | Manpower Singapore | LinkedIn | 2026-03-04 | [Apply](https://www.linkedin.com/jobs/search/) |
-| Software Engineer, Cloud GPU, PhD, Early Careers, 2026 | Google | LinkedIn | 2026-03-04 | [Apply](https://www.linkedin.com/jobs/search/) |
+| Software Developer | Cygnify | LinkedIn | 2026-03-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Developer%20Cygnify&location=Singapore) |
+| Software Engineer-Automation, Reporting and API | Manpower Singapore | LinkedIn | 2026-03-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer-Automation%2C%20Reporting%20and%20API%20Manpower%20Singapore&location=Singapore) |
+| Software Engineer, Cloud GPU, PhD, Early Careers, 2026 | Google | LinkedIn | 2026-03-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Cloud%20GPU%2C%20PhD%2C%20Early%20Careers%2C%202026%20Google&location=Singapore) |
 | Partner Engineer | FACEBOOK SINGAPORE PTE. LTD. | MyCareersFuture | 2026-03-03 | [Apply](https://www.mycareersfuture.gov.sg/job/a18cae9b4641e4bacbeef7168a8fe461) |
 | Java Developer | TALENTSIS PTE. LTD. | MyCareersFuture | 2026-03-03 | [Apply](https://www.mycareersfuture.gov.sg/job/62eeb4a86040abec361b361190d391af) |
 | Software Engineer (East/ Full Stack / Mobile & Web Applications/Agile environment/Java, C#, Android Studio, Kotlin, .NET Core, .NET 8, Entity Framework, SQL Databases] | LINKEDCORP HR CONSULTANCY PTE. LTD. | MyCareersFuture | 2026-03-03 | [Apply](https://www.mycareersfuture.gov.sg/job/61c020d3947dca400e4911f3165f37fc) |
@@ -33,8 +33,8 @@
 | Software Engineer | LOGICODE PTE LTD | MyCareersFuture | 2026-03-03 | [Apply](https://www.mycareersfuture.gov.sg/job/18abb3f109000ff37c2b2d66cf2fae8d) |
 | Development Engineer (ROS-I Interoperable Robotics Software System), ARTC | A*STAR RESEARCH ENTITIES | MyCareersFuture | 2026-03-03 | [Apply](https://www.mycareersfuture.gov.sg/job/766aae5900230da1892d07f87dd2be53) |
 | Embedded Software Engineer | MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD | MyCareersFuture | 2026-03-03 | [Apply](https://www.mycareersfuture.gov.sg/job/22912e5dc0662c09cb07cad44a91dddf) |
-| Frontend Engineer, Data Infrastructure (Campus Recruitment 2026) | Shopee | LinkedIn | 2026-03-03 | [Apply](https://www.linkedin.com/jobs/search/) |
-| Information Technology - Data Scientist (Data Science Track) | Singapore Airlines | LinkedIn | 2026-03-03 | [Apply](https://www.linkedin.com/jobs/search/) |
-| Data Engineer | AvePoint | LinkedIn | 2026-03-03 | [Apply](https://www.linkedin.com/jobs/search/) |
-| Software Engineer (DevSecOps Platform) | StarHub | LinkedIn | 2026-03-03 | [Apply](https://www.linkedin.com/jobs/search/) |
-| Engineer I, Manufacturing Engineering (Test Engineering) | ASM | LinkedIn | 2026-03-03 | [Apply](https://www.linkedin.com/jobs/search/) |
+| Frontend Engineer, Data Infrastructure (Campus Recruitment 2026) | Shopee | LinkedIn | 2026-03-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Frontend%20Engineer%2C%20Data%20Infrastructure%20(Campus%20Recruitment%202026)%20Shopee&location=Singapore) |
+| Information Technology - Data Scientist (Data Science Track) | Singapore Airlines | LinkedIn | 2026-03-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Information%20Technology%20-%20Data%20Scientist%20(Data%20Science%20Track)%20Singapore%20Airlines&location=Singapore) |
+| Data Engineer | AvePoint | LinkedIn | 2026-03-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Data%20Engineer%20AvePoint&location=Singapore) |
+| Software Engineer (DevSecOps Platform) | StarHub | LinkedIn | 2026-03-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(DevSecOps%20Platform)%20StarHub&location=Singapore) |
+| Engineer I, Manufacturing Engineering (Test Engineering) | ASM | LinkedIn | 2026-03-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Engineer%20I%2C%20Manufacturing%20Engineering%20(Test%20Engineering)%20ASM&location=Singapore) |
