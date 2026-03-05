@@ -2,12 +2,14 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-03-05T09:48:29.902Z*
+> *Last updated: 2026-03-05T13:44:45.671Z*
 
-**Total listings: 33** *(MyCareersFuture: 26 | LinkedIn: 10)*
+**Total listings: 34** *(MyCareersFuture: 28 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Posted | Apply |
 |-----------|---------|--------|--------|-------|
+| Testing Engineer (Software / Semiconductor) | TALENT TRADER GROUP PTE. LTD. | MyCareersFuture | 2026-03-05 | [Apply](https://www.mycareersfuture.gov.sg/job/0812678babd2099a6815abbb0359ecdb) |
+| Software Design Engineer (Full Stack / Solutions Integrator) | TALENT TRADER GROUP PTE. LTD. | MyCareersFuture | 2026-03-05 | [Apply](https://www.mycareersfuture.gov.sg/job/87a9b3a88c39c9e90ed983d1b51546cc) |
 | Software Application Engineer - WCAN | WECRUIT PTE. LTD. | MyCareersFuture | 2026-03-05 | [Apply](https://www.mycareersfuture.gov.sg/job/3635f8386561468e7ab04d9f6559825c) |
 | Software Engineer | GEMINI TRUST COMPANY (Singapore Branch) | MyCareersFuture | 2026-03-05 | [Apply](https://www.mycareersfuture.gov.sg/job/b8504bee6c19c7714aabcfe1f052f912) |
 | Software Engineer and/or Senior Software Engineer (Automation & SCADA System - C - C++) | EA RECRUITMENT PTE. LTD. | MyCareersFuture | 2026-03-05 | [Apply](https://www.mycareersfuture.gov.sg/job/e41b3fe0b19425d96e9692a475320402) |
@@ -19,11 +21,13 @@
 | Software Development Engineer | NUTEK PRIVATE LIMITED | MyCareersFuture | 2026-03-05 | [Apply](https://www.mycareersfuture.gov.sg/job/e2a23d0c56a6ce4ac735eec84cc381b8) |
 | Software Engineer (Many Positions) | TALENTSIS PTE. LTD. | MyCareersFuture | 2026-03-05 | [Apply](https://www.mycareersfuture.gov.sg/job/9f75d2f94252ff946b17323771fc99e9) |
 | software engineer | ZYCRAFT USV PTE. LTD. | MyCareersFuture | 2026-03-05 | [Apply](https://www.mycareersfuture.gov.sg/job/6e231456bf30850f9f79c8c865b61290) |
+| Software Engineer (Web Developer) | Rockwell Automation | LinkedIn | 2026-03-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Web%20Developer)%20Rockwell%20Automation&location=Singapore) |
 | Junior IT Software Engineer | Optimum Solutions Pte Ltd | LinkedIn | 2026-03-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Junior%20IT%20Software%20Engineer%20Optimum%20Solutions%20Pte%20Ltd&location=Singapore) |
 | Software Engineer | StarHub | LinkedIn | 2026-03-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20StarHub&location=Singapore) |
+| Freelance Software Engineer – Remote | Twine | LinkedIn | 2026-03-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Freelance%20Software%20Engineer%20%E2%80%93%20Remote%20Twine&location=Singapore) |
 | Graduate Hiring - QA Engineer | Matrixport Official | LinkedIn | 2026-03-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20Hiring%20-%20QA%20Engineer%20Matrixport%20Official&location=Singapore) |
 | Software Engineering Graduate Programme (April Start) | FDM Group | LinkedIn | 2026-03-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineering%20Graduate%20Programme%20(April%20Start)%20FDM%20Group&location=Singapore) |
-| Software Support Engineer | Canonical | LinkedIn | 2026-03-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Support%20Engineer%20Canonical&location=Singapore) |
+| Software Engineer ++ | Rockwell Automation | LinkedIn | 2026-03-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20%2B%2B%20Rockwell%20Automation&location=Singapore) |
 | IT Analyst Programmer / Software Engineer - RPG/RPGLE/ IBM AS400/System | RECRUITFLASH PTE. LTD. | MyCareersFuture | 2026-03-04 | [Apply](https://www.mycareersfuture.gov.sg/job/71998941cb4270114df85bb7678649ee) |
 | Software Engineer, Payments | STRIPE PAYMENTS SINGAPORE PTE. LTD. | MyCareersFuture | 2026-03-04 | [Apply](https://www.mycareersfuture.gov.sg/job/56a0c469967d2202cd3348ff2b665580) |
 | Software Engineer (Full Stack), Engineering Enablement | MOTIONAL SINGAPORE PTE. LIMITED | MyCareersFuture | 2026-03-04 | [Apply](https://www.mycareersfuture.gov.sg/job/dbf40691852ddd59bbf56824ee5d6bb0) |
@@ -37,7 +41,4 @@
 | System / Software Engineer, Operational Excellence | ETLA LIMITED | MyCareersFuture | 2026-03-04 | [Apply](https://www.mycareersfuture.gov.sg/job/90505c51e6ae4f37ee5813bc609623fa) |
 | Software Engineer | APBA TG HUMAN RESOURCE PTE. LTD. | MyCareersFuture | 2026-03-04 | [Apply](https://www.mycareersfuture.gov.sg/job/3b0763fd1d2d0df5743153a6f8d3687e) |
 | Software Developer | Cygnify | LinkedIn | 2026-03-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Developer%20Cygnify&location=Singapore) |
-| Software Engineer-Automation, Reporting and API | Manpower Singapore | LinkedIn | 2026-03-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer-Automation%2C%20Reporting%20and%20API%20Manpower%20Singapore&location=Singapore) |
 | Frontend Engineer, Data Infrastructure (Campus Recruitment 2026) | Shopee | LinkedIn | 2026-03-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Frontend%20Engineer%2C%20Data%20Infrastructure%20(Campus%20Recruitment%202026)%20Shopee&location=Singapore) |
-| Information Technology - Data Scientist (Data Science Track) | Singapore Airlines | LinkedIn | 2026-03-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Information%20Technology%20-%20Data%20Scientist%20(Data%20Science%20Track)%20Singapore%20Airlines&location=Singapore) |
-| Data Engineer | AvePoint | LinkedIn | 2026-03-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Data%20Engineer%20AvePoint&location=Singapore) |
