@@ -2,12 +2,17 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-03-04T17:27:55.937Z*
+> *Last updated: 2026-03-05T03:16:38.099Z*
 
-**Total listings: 30** *(MyCareersFuture: 25 | LinkedIn: 8)*
+**Total listings: 29** *(MyCareersFuture: 24 | LinkedIn: 8)*
 
 | Job Title | Company | Source | Posted | Apply |
 |-----------|---------|--------|--------|-------|
+| Software Development Engineer | NUTEK PRIVATE LIMITED | MyCareersFuture | 2026-03-05 | [Apply](https://www.mycareersfuture.gov.sg/job/e2a23d0c56a6ce4ac735eec84cc381b8) |
+| Software Engineer (Many Positions) | TALENTSIS PTE. LTD. | MyCareersFuture | 2026-03-05 | [Apply](https://www.mycareersfuture.gov.sg/job/9f75d2f94252ff946b17323771fc99e9) |
+| software engineer | ZYCRAFT USV PTE. LTD. | MyCareersFuture | 2026-03-05 | [Apply](https://www.mycareersfuture.gov.sg/job/6e231456bf30850f9f79c8c865b61290) |
+| Graduate Hiring - QA Engineer | Matrixport Official | LinkedIn | 2026-03-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20Hiring%20-%20QA%20Engineer%20Matrixport%20Official&location=Singapore) |
+| Software Engineering Graduate Programme (April Start) | FDM Group | LinkedIn | 2026-03-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineering%20Graduate%20Programme%20(April%20Start)%20FDM%20Group&location=Singapore) |
 | IT Analyst Programmer / Software Engineer - RPG/RPGLE/ IBM AS400/System | RECRUITFLASH PTE. LTD. | MyCareersFuture | 2026-03-04 | [Apply](https://www.mycareersfuture.gov.sg/job/71998941cb4270114df85bb7678649ee) |
 | Software Engineer, Payments | STRIPE PAYMENTS SINGAPORE PTE. LTD. | MyCareersFuture | 2026-03-04 | [Apply](https://www.mycareersfuture.gov.sg/job/56a0c469967d2202cd3348ff2b665580) |
 | Software Engineer (Full Stack), Engineering Enablement | MOTIONAL SINGAPORE PTE. LIMITED | MyCareersFuture | 2026-03-04 | [Apply](https://www.mycareersfuture.gov.sg/job/dbf40691852ddd59bbf56824ee5d6bb0) |
@@ -22,19 +27,13 @@
 | System / Software Engineer, Operational Excellence | ETLA LIMITED | MyCareersFuture | 2026-03-04 | [Apply](https://www.mycareersfuture.gov.sg/job/90505c51e6ae4f37ee5813bc609623fa) |
 | Software Engineer | APBA TG HUMAN RESOURCE PTE. LTD. | MyCareersFuture | 2026-03-04 | [Apply](https://www.mycareersfuture.gov.sg/job/3b0763fd1d2d0df5743153a6f8d3687e) |
 | Software Developer | Cygnify | LinkedIn | 2026-03-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Developer%20Cygnify&location=Singapore) |
+| Software Engineer | StarHub | LinkedIn | 2026-03-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20StarHub&location=Singapore) |
 | Software Engineer-Automation, Reporting and API | Manpower Singapore | LinkedIn | 2026-03-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer-Automation%2C%20Reporting%20and%20API%20Manpower%20Singapore&location=Singapore) |
-| Software Engineer, Cloud GPU, PhD, Early Careers, 2026 | Google | LinkedIn | 2026-03-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Cloud%20GPU%2C%20PhD%2C%20Early%20Careers%2C%202026%20Google&location=Singapore) |
 | Partner Engineer | FACEBOOK SINGAPORE PTE. LTD. | MyCareersFuture | 2026-03-03 | [Apply](https://www.mycareersfuture.gov.sg/job/a18cae9b4641e4bacbeef7168a8fe461) |
 | Java Developer | TALENTSIS PTE. LTD. | MyCareersFuture | 2026-03-03 | [Apply](https://www.mycareersfuture.gov.sg/job/62eeb4a86040abec361b361190d391af) |
 | Software Engineer (East/ Full Stack / Mobile & Web Applications/Agile environment/Java, C#, Android Studio, Kotlin, .NET Core, .NET 8, Entity Framework, SQL Databases] | LINKEDCORP HR CONSULTANCY PTE. LTD. | MyCareersFuture | 2026-03-03 | [Apply](https://www.mycareersfuture.gov.sg/job/61c020d3947dca400e4911f3165f37fc) |
 | Hardware Electronic Engineer (PCB design) - North | GMP TECHNOLOGIES (S) PTE LTD | MyCareersFuture | 2026-03-03 | [Apply](https://www.mycareersfuture.gov.sg/job/4306bdf090733c78ae862f9526781b0b) |
 | Software QA Engineer (Systems) - GRIT Programme | KULICKE & SOFFA PTE. LTD. | MyCareersFuture | 2026-03-03 | [Apply](https://www.mycareersfuture.gov.sg/job/31c713f5509d7099a79ba3d3c0199d37) |
-| Software Engineer (Frontend/ Backend) | INTUIT RECRUITMENT PTE. LTD. | MyCareersFuture | 2026-03-03 | [Apply](https://www.mycareersfuture.gov.sg/job/ca0764ade7811abbbde5a0bbea05c9e4) |
-| Software Engineer | LOGICODE PTE LTD | MyCareersFuture | 2026-03-03 | [Apply](https://www.mycareersfuture.gov.sg/job/18abb3f109000ff37c2b2d66cf2fae8d) |
-| Development Engineer (ROS-I Interoperable Robotics Software System), ARTC | A*STAR RESEARCH ENTITIES | MyCareersFuture | 2026-03-03 | [Apply](https://www.mycareersfuture.gov.sg/job/766aae5900230da1892d07f87dd2be53) |
-| Embedded Software Engineer | MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD | MyCareersFuture | 2026-03-03 | [Apply](https://www.mycareersfuture.gov.sg/job/22912e5dc0662c09cb07cad44a91dddf) |
 | Frontend Engineer, Data Infrastructure (Campus Recruitment 2026) | Shopee | LinkedIn | 2026-03-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Frontend%20Engineer%2C%20Data%20Infrastructure%20(Campus%20Recruitment%202026)%20Shopee&location=Singapore) |
 | Information Technology - Data Scientist (Data Science Track) | Singapore Airlines | LinkedIn | 2026-03-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Information%20Technology%20-%20Data%20Scientist%20(Data%20Science%20Track)%20Singapore%20Airlines&location=Singapore) |
 | Data Engineer | AvePoint | LinkedIn | 2026-03-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Data%20Engineer%20AvePoint&location=Singapore) |
-| Software Engineer (DevSecOps Platform) | StarHub | LinkedIn | 2026-03-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(DevSecOps%20Platform)%20StarHub&location=Singapore) |
-| Engineer I, Manufacturing Engineering (Test Engineering) | ASM | LinkedIn | 2026-03-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Engineer%20I%2C%20Manufacturing%20Engineering%20(Test%20Engineering)%20ASM&location=Singapore) |
