@@ -2,12 +2,15 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-03-07T03:04:52.971Z*
+> *Last updated: 2026-03-07T13:23:53.639Z*
 
-**Total listings: 38** *(MyCareersFuture: 31 | LinkedIn: 10)*
+**Total listings: 30** *(MyCareersFuture: 23 | LinkedIn: 9)*
 
 | Job Title | Company | Source | Posted | Apply |
 |-----------|---------|--------|--------|-------|
+| Software Development and Support Engineer #SGUnitJobs | WINSYS TECHNOLOGY PTE LTD | MyCareersFuture | 2026-03-07 | [Apply](https://www.mycareersfuture.gov.sg/job/066b60655bee4258ce9b8495b4b9ffef) |
+| Software Engineer (C++/C#, Machine Automation) #76684 | ANRADUS PTE. LTD. | MyCareersFuture | 2026-03-07 | [Apply](https://www.mycareersfuture.gov.sg/job/90bf42cf502b94b690a6dcc96cbe9e4a) |
+| QA / Test Engineer | Only CDR | LinkedIn | 2026-03-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=QA%20%2F%20Test%20Engineer%20Only%20CDR&location=Singapore) |
 | Control (Software) Design Engineer / PLC Programmer #70912 | ANRADUS PTE. LTD. | MyCareersFuture | 2026-03-06 | [Apply](https://www.mycareersfuture.gov.sg/job/8c68bea26052fc6dcc6bf5c50038cf58) |
 | System Engineer lvl 2 at Ang Mo Kio, Up to $4,500 + Offsite stand-by Allowances $200 (Office hours) | SUCCESS HUMAN RESOURCE CENTRE PTE. LTD. | MyCareersFuture | 2026-03-06 | [Apply](https://www.mycareersfuture.gov.sg/job/018d7009acfab431d83613debb6c8499) |
 | L1 System Engineer at Ang Mo Kio, $2700- $3800 + Shift allowance $350 | SUCCESS HUMAN RESOURCE CENTRE PTE. LTD. | MyCareersFuture | 2026-03-06 | [Apply](https://www.mycareersfuture.gov.sg/job/7135417007149a5de50848e04cf5ea65) |
@@ -28,21 +31,10 @@
 | Software Engineer - Solutions Engineering | Canonical | LinkedIn | 2026-03-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20-%20Solutions%20Engineering%20Canonical&location=Singapore) |
 | Software Engineer | Willowmore | LinkedIn | 2026-03-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Willowmore&location=Singapore) |
 | Data Engineer (1-year traineeship programme) | SGInnovate | LinkedIn | 2026-03-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Data%20Engineer%20(1-year%20traineeship%20programme)%20SGInnovate&location=Singapore) |
+| Ola Trainee - Client Engineer | Ola Chat | LinkedIn | 2026-03-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Ola%20Trainee%20-%20Client%20Engineer%20Ola%20Chat&location=Singapore) |
+| Software Test Engineer | Manpower Singapore | LinkedIn | 2026-03-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Test%20Engineer%20Manpower%20Singapore&location=Singapore) |
+| QA Engineer | Binance | LinkedIn | 2026-03-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=QA%20Engineer%20Binance&location=Singapore) |
+| Software Engineer, Test - Python | Rockwell Automation | LinkedIn | 2026-03-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Test%20-%20Python%20Rockwell%20Automation&location=Singapore) |
 | Site Reliability Engineer, Recommendation Architecture (ByteDance Singapore) | BYTEDANCE PTE. LTD. | MyCareersFuture | 2026-03-05 | [Apply](https://www.mycareersfuture.gov.sg/job/577a691ea614f72c3ee1158bd8339a7b) |
 | Software Engineer and/or Senior Software Engineer (Automation & SCADA System - C - C++) | EA RECRUITMENT PTE. LTD. | MyCareersFuture | 2026-03-05 | [Apply](https://www.mycareersfuture.gov.sg/job/693e531fdfdeb7c76e98567592f9279e) |
-| Testing Engineer (Software / Semiconductor) | TALENT TRADER GROUP PTE. LTD. | MyCareersFuture | 2026-03-05 | [Apply](https://www.mycareersfuture.gov.sg/job/0812678babd2099a6815abbb0359ecdb) |
-| Software Design Engineer (Full Stack / Solutions Integrator) | TALENT TRADER GROUP PTE. LTD. | MyCareersFuture | 2026-03-05 | [Apply](https://www.mycareersfuture.gov.sg/job/87a9b3a88c39c9e90ed983d1b51546cc) |
-| Software Application Engineer - WCAN | WECRUIT PTE. LTD. | MyCareersFuture | 2026-03-05 | [Apply](https://www.mycareersfuture.gov.sg/job/3635f8386561468e7ab04d9f6559825c) |
-| Software Engineer | GEMINI TRUST COMPANY (Singapore Branch) | MyCareersFuture | 2026-03-05 | [Apply](https://www.mycareersfuture.gov.sg/job/b8504bee6c19c7714aabcfe1f052f912) |
-| Software Engineer | AVATAR TECHNO SERVICES PTE. LTD. | MyCareersFuture | 2026-03-05 | [Apply](https://www.mycareersfuture.gov.sg/job/72244a31e4008c947db884ade14fd6b5) |
-| SaaS Software Engineer (Enterprise Platforms / GRC / IRM) | TALENT-MERGE PTE. LTD. | MyCareersFuture | 2026-03-05 | [Apply](https://www.mycareersfuture.gov.sg/job/9a370075a70386a1b054b6fb7d61baa7) |
-| Software Engineer | AVN DIGITAL PTE. LTD. | MyCareersFuture | 2026-03-05 | [Apply](https://www.mycareersfuture.gov.sg/job/4b76da00472dcdaea2351ebb640849e4) |
-| Software QA Test Engineer (West/MNC/Office Hour) | ENVIRODYNAMICS SOLUTIONS PTE. LTD. | MyCareersFuture | 2026-03-05 | [Apply](https://www.mycareersfuture.gov.sg/job/670d92f8aa03aff9bdfbfa3bd712077c) |
-| STAFF ENGINEER, SOFTWARE | ULTRAGREEN.AI LIMITED | MyCareersFuture | 2026-03-05 | [Apply](https://www.mycareersfuture.gov.sg/job/718a93df8d82cc42fe5fd7859153fc17) |
-| Software Engineer (Web Developer) | Rockwell Automation | LinkedIn | 2026-03-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Web%20Developer)%20Rockwell%20Automation&location=Singapore) |
-| Junior IT Software Engineer | Optimum Solutions Pte Ltd | LinkedIn | 2026-03-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Junior%20IT%20Software%20Engineer%20Optimum%20Solutions%20Pte%20Ltd&location=Singapore) |
-| Software Engineer | Rockwell Automation | LinkedIn | 2026-03-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Rockwell%20Automation&location=Singapore) |
-| Freelance Software Engineer – Remote | Twine | LinkedIn | 2026-03-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Freelance%20Software%20Engineer%20%E2%80%93%20Remote%20Twine&location=Singapore) |
-| Software Engineer | StarHub | LinkedIn | 2026-03-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20StarHub&location=Singapore) |
-| Junior Software Engineer (1 year contract) | NETS | LinkedIn | 2026-03-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Junior%20Software%20Engineer%20(1%20year%20contract)%20NETS&location=Singapore) |
 | TechOps Engineer I | InvestorFlow | LinkedIn | 2026-03-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=TechOps%20Engineer%20I%20InvestorFlow&location=Singapore) |
