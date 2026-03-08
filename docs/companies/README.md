@@ -2,15 +2,19 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-03-07T13:23:53.639Z*
+> *Last updated: 2026-03-08T03:18:35.669Z*
 
-**Total listings: 30** *(MyCareersFuture: 23 | LinkedIn: 9)*
+**Total listings: 27** *(MyCareersFuture: 18 | LinkedIn: 9)*
 
 | Job Title | Company | Source | Posted | Apply |
 |-----------|---------|--------|--------|-------|
+| Embedded Linux Development Engineer (Software/Hardware/TI ARM / Xilinx SoC) LT89 | TRUST RECRUIT PTE. LTD. | MyCareersFuture | 2026-03-08 | [Apply](https://www.mycareersfuture.gov.sg/job/55c420eebdff3c93a5c21aee8c46c130) |
+| Junior Software Enginer | Nextbot | LinkedIn | 2026-03-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Junior%20Software%20Enginer%20Nextbot&location=Singapore) |
+| Software Engineer and/or Senior Software Engineer (Automation & SCADA System - C - C++) | EA RECRUITMENT PTE. LTD. | MyCareersFuture | 2026-03-07 | [Apply](https://www.mycareersfuture.gov.sg/job/ffe8d35f4ec38cd091c6954cdc93fac1) |
 | Software Development and Support Engineer #SGUnitJobs | WINSYS TECHNOLOGY PTE LTD | MyCareersFuture | 2026-03-07 | [Apply](https://www.mycareersfuture.gov.sg/job/066b60655bee4258ce9b8495b4b9ffef) |
 | Software Engineer (C++/C#, Machine Automation) #76684 | ANRADUS PTE. LTD. | MyCareersFuture | 2026-03-07 | [Apply](https://www.mycareersfuture.gov.sg/job/90bf42cf502b94b690a6dcc96cbe9e4a) |
-| QA / Test Engineer | Only CDR | LinkedIn | 2026-03-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=QA%20%2F%20Test%20Engineer%20Only%20CDR&location=Singapore) |
+| Full Stack Software Developer | Burford Capital | LinkedIn | 2026-03-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Full%20Stack%20Software%20Developer%20Burford%20Capital&location=Singapore) |
+| Test Automation Engineer | Zero Grad | LinkedIn | 2026-03-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Test%20Automation%20Engineer%20Zero%20Grad&location=Singapore) |
 | Control (Software) Design Engineer / PLC Programmer #70912 | ANRADUS PTE. LTD. | MyCareersFuture | 2026-03-06 | [Apply](https://www.mycareersfuture.gov.sg/job/8c68bea26052fc6dcc6bf5c50038cf58) |
 | System Engineer lvl 2 at Ang Mo Kio, Up to $4,500 + Offsite stand-by Allowances $200 (Office hours) | SUCCESS HUMAN RESOURCE CENTRE PTE. LTD. | MyCareersFuture | 2026-03-06 | [Apply](https://www.mycareersfuture.gov.sg/job/018d7009acfab431d83613debb6c8499) |
 | L1 System Engineer at Ang Mo Kio, $2700- $3800 + Shift allowance $350 | SUCCESS HUMAN RESOURCE CENTRE PTE. LTD. | MyCareersFuture | 2026-03-06 | [Apply](https://www.mycareersfuture.gov.sg/job/7135417007149a5de50848e04cf5ea65) |
@@ -25,16 +29,9 @@
 | Software Engineer in Machine Learning Infra, Recommendation Architecture (ByteDance Singapore) | BYTEDANCE PTE. LTD. | MyCareersFuture | 2026-03-06 | [Apply](https://www.mycareersfuture.gov.sg/job/d4cc4a62109ab9ae07a5771ad76dcbb7) |
 | (Security for AI) Software Engineer and DevOps | CLOUDSINE PTE. LTD. | MyCareersFuture | 2026-03-06 | [Apply](https://www.mycareersfuture.gov.sg/job/bfdfcdc96c7b6d30c3d8e906991c4127) |
 | Software Engineer - MNC SEMICON | TALENT TRADER GROUP PTE. LTD. | MyCareersFuture | 2026-03-06 | [Apply](https://www.mycareersfuture.gov.sg/job/646364bebb35cd3eb6ee86675712760e) |
-| Junior IT Software Engineer | OPTIMUM SOLUTIONS (SINGAPORE) PTE LTD | MyCareersFuture | 2026-03-06 | [Apply](https://www.mycareersfuture.gov.sg/job/f70dcfbab6a78894f0a2142c004bf1e1) |
-| Software Engineer, Google Pay - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 2026-03-06 | [Apply](https://www.mycareersfuture.gov.sg/job/edfd98420c18e2d35a181e459c8a81d2) |
-| Software Test Engineer (Industrial Automation) | MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD | MyCareersFuture | 2026-03-06 | [Apply](https://www.mycareersfuture.gov.sg/job/210a03bd6135cad394d45336011fc73f) |
 | Software Engineer - Solutions Engineering | Canonical | LinkedIn | 2026-03-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20-%20Solutions%20Engineering%20Canonical&location=Singapore) |
 | Software Engineer | Willowmore | LinkedIn | 2026-03-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Willowmore&location=Singapore) |
 | Data Engineer (1-year traineeship programme) | SGInnovate | LinkedIn | 2026-03-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Data%20Engineer%20(1-year%20traineeship%20programme)%20SGInnovate&location=Singapore) |
-| Ola Trainee - Client Engineer | Ola Chat | LinkedIn | 2026-03-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Ola%20Trainee%20-%20Client%20Engineer%20Ola%20Chat&location=Singapore) |
 | Software Test Engineer | Manpower Singapore | LinkedIn | 2026-03-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Test%20Engineer%20Manpower%20Singapore&location=Singapore) |
+| Ola Trainee - Client Engineer | Ola Chat | LinkedIn | 2026-03-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Ola%20Trainee%20-%20Client%20Engineer%20Ola%20Chat&location=Singapore) |
 | QA Engineer | Binance | LinkedIn | 2026-03-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=QA%20Engineer%20Binance&location=Singapore) |
-| Software Engineer, Test - Python | Rockwell Automation | LinkedIn | 2026-03-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Test%20-%20Python%20Rockwell%20Automation&location=Singapore) |
-| Site Reliability Engineer, Recommendation Architecture (ByteDance Singapore) | BYTEDANCE PTE. LTD. | MyCareersFuture | 2026-03-05 | [Apply](https://www.mycareersfuture.gov.sg/job/577a691ea614f72c3ee1158bd8339a7b) |
-| Software Engineer and/or Senior Software Engineer (Automation & SCADA System - C - C++) | EA RECRUITMENT PTE. LTD. | MyCareersFuture | 2026-03-05 | [Apply](https://www.mycareersfuture.gov.sg/job/693e531fdfdeb7c76e98567592f9279e) |
-| TechOps Engineer I | InvestorFlow | LinkedIn | 2026-03-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=TechOps%20Engineer%20I%20InvestorFlow&location=Singapore) |
