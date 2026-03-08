@@ -2,36 +2,25 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-03-08T03:18:35.669Z*
+> *Last updated: 2026-03-08T13:25:12.480Z*
 
-**Total listings: 27** *(MyCareersFuture: 18 | LinkedIn: 9)*
+**Total listings: 16** *(MyCareersFuture: 7 | LinkedIn: 9)*
 
 | Job Title | Company | Source | Posted | Apply |
 |-----------|---------|--------|--------|-------|
+| Automation Software Engineer (Robot Programming /  Industrial Automation / Training Provided) | EA RECRUITMENT PTE. LTD. | MyCareersFuture | 2026-03-08 | [Apply](https://www.mycareersfuture.gov.sg/job/45193e316878e2a07ca0bca6c747ea63) |
+| Software Engineer (Frontend/ Backend) | INTUIT RECRUITMENT PTE. LTD. | MyCareersFuture | 2026-03-08 | [Apply](https://www.mycareersfuture.gov.sg/job/8dd5459907105f59f87ec021a06a0a23) |
 | Embedded Linux Development Engineer (Software/Hardware/TI ARM / Xilinx SoC) LT89 | TRUST RECRUIT PTE. LTD. | MyCareersFuture | 2026-03-08 | [Apply](https://www.mycareersfuture.gov.sg/job/55c420eebdff3c93a5c21aee8c46c130) |
-| Junior Software Enginer | Nextbot | LinkedIn | 2026-03-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Junior%20Software%20Enginer%20Nextbot&location=Singapore) |
+| Software Engineer, University Graduate | Google | LinkedIn | 2026-03-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20University%20Graduate%20Google&location=Singapore) |
+| Asset Management Engineer | Alumni Sciences Po Saint-Germain-en-Laye | LinkedIn | 2026-03-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Asset%20Management%20Engineer%20Alumni%20Sciences%20Po%20Saint-Germain-en-Laye&location=Singapore) |
+| Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels) | Canonical | LinkedIn | 2026-03-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Linux%20Software%20Engineer%20-%20Ubuntu%20for%20Next-Gen%20Silicon%20(multiple%20roles%20and%20seniority%20levels)%20Canonical&location=Singapore) |
 | Software Engineer and/or Senior Software Engineer (Automation & SCADA System - C - C++) | EA RECRUITMENT PTE. LTD. | MyCareersFuture | 2026-03-07 | [Apply](https://www.mycareersfuture.gov.sg/job/ffe8d35f4ec38cd091c6954cdc93fac1) |
 | Software Development and Support Engineer #SGUnitJobs | WINSYS TECHNOLOGY PTE LTD | MyCareersFuture | 2026-03-07 | [Apply](https://www.mycareersfuture.gov.sg/job/066b60655bee4258ce9b8495b4b9ffef) |
 | Software Engineer (C++/C#, Machine Automation) #76684 | ANRADUS PTE. LTD. | MyCareersFuture | 2026-03-07 | [Apply](https://www.mycareersfuture.gov.sg/job/90bf42cf502b94b690a6dcc96cbe9e4a) |
 | Full Stack Software Developer | Burford Capital | LinkedIn | 2026-03-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Full%20Stack%20Software%20Developer%20Burford%20Capital&location=Singapore) |
-| Test Automation Engineer | Zero Grad | LinkedIn | 2026-03-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Test%20Automation%20Engineer%20Zero%20Grad&location=Singapore) |
+| Consulting, Digital Village (Developer) - Graduate Associate 2026 | KPMG Singapore | LinkedIn | 2026-03-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Consulting%2C%20Digital%20Village%20(Developer)%20-%20Graduate%20Associate%202026%20KPMG%20Singapore&location=Singapore) |
+| Product Test Engineer | Silicon Labs | LinkedIn | 2026-03-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Product%20Test%20Engineer%20Silicon%20Labs&location=Singapore) |
+| ENGINEER, TEST SOLUTIONS | Micron Technology | LinkedIn | 2026-03-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=ENGINEER%2C%20TEST%20SOLUTIONS%20Micron%20Technology&location=Singapore) |
 | Control (Software) Design Engineer / PLC Programmer #70912 | ANRADUS PTE. LTD. | MyCareersFuture | 2026-03-06 | [Apply](https://www.mycareersfuture.gov.sg/job/8c68bea26052fc6dcc6bf5c50038cf58) |
-| System Engineer lvl 2 at Ang Mo Kio, Up to $4,500 + Offsite stand-by Allowances $200 (Office hours) | SUCCESS HUMAN RESOURCE CENTRE PTE. LTD. | MyCareersFuture | 2026-03-06 | [Apply](https://www.mycareersfuture.gov.sg/job/018d7009acfab431d83613debb6c8499) |
-| L1 System Engineer at Ang Mo Kio, $2700- $3800 + Shift allowance $350 | SUCCESS HUMAN RESOURCE CENTRE PTE. LTD. | MyCareersFuture | 2026-03-06 | [Apply](https://www.mycareersfuture.gov.sg/job/7135417007149a5de50848e04cf5ea65) |
-| Software Engineer (C++) | GOOD JOB CREATIONS (SINGAPORE) PTE. LTD. | MyCareersFuture | 2026-03-06 | [Apply](https://www.mycareersfuture.gov.sg/job/fa7abeb412d8002c00ff2b9f42af5f37) |
-| Software Engineer(C/C++ ,C#) | FA SYSTEMS AUTOMATION (S) PTE LTD | MyCareersFuture | 2026-03-06 | [Apply](https://www.mycareersfuture.gov.sg/job/0aacd2c1e4cd2f8992ae5c5a975fcfa1) |
-| Senior Software Engineer | FA SYSTEMS AUTOMATION (S) PTE LTD | MyCareersFuture | 2026-03-06 | [Apply](https://www.mycareersfuture.gov.sg/job/e28c32220ccff8e88f7b84951c090d49) |
-| Software Engineer (PLC) | FA SYSTEMS AUTOMATION (S) PTE LTD | MyCareersFuture | 2026-03-06 | [Apply](https://www.mycareersfuture.gov.sg/job/46e740532ce2dbe76c34e4de8972e002) |
-| Audio Software Engineer | PERSOL SINGAPORE PTE. LTD. | MyCareersFuture | 2026-03-06 | [Apply](https://www.mycareersfuture.gov.sg/job/31888f5796cd3bebf32508b5777990ea) |
-| Senior/Software Engineer [Java Proficiency Preferred] | TALENTSIS PTE. LTD. | MyCareersFuture | 2026-03-06 | [Apply](https://www.mycareersfuture.gov.sg/job/854035398d8f0caef68ec1551a9c95f6) |
-| Junior Software Test Engineer (Railway System) | ENVIRODYNAMICS SOLUTIONS PTE. LTD. | MyCareersFuture | 2026-03-06 | [Apply](https://www.mycareersfuture.gov.sg/job/e5ced868ffd424189862dd0c4fce704a) |
-| Robotics Software Engineer | DCONSTRUCT ROBOTICS PTE. LTD. | MyCareersFuture | 2026-03-06 | [Apply](https://www.mycareersfuture.gov.sg/job/c536b387528bb52786d7e68180a14399) |
-| Software Engineer in Machine Learning Infra, Recommendation Architecture (ByteDance Singapore) | BYTEDANCE PTE. LTD. | MyCareersFuture | 2026-03-06 | [Apply](https://www.mycareersfuture.gov.sg/job/d4cc4a62109ab9ae07a5771ad76dcbb7) |
-| (Security for AI) Software Engineer and DevOps | CLOUDSINE PTE. LTD. | MyCareersFuture | 2026-03-06 | [Apply](https://www.mycareersfuture.gov.sg/job/bfdfcdc96c7b6d30c3d8e906991c4127) |
-| Software Engineer - MNC SEMICON | TALENT TRADER GROUP PTE. LTD. | MyCareersFuture | 2026-03-06 | [Apply](https://www.mycareersfuture.gov.sg/job/646364bebb35cd3eb6ee86675712760e) |
-| Software Engineer - Solutions Engineering | Canonical | LinkedIn | 2026-03-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20-%20Solutions%20Engineering%20Canonical&location=Singapore) |
-| Software Engineer | Willowmore | LinkedIn | 2026-03-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Willowmore&location=Singapore) |
-| Data Engineer (1-year traineeship programme) | SGInnovate | LinkedIn | 2026-03-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Data%20Engineer%20(1-year%20traineeship%20programme)%20SGInnovate&location=Singapore) |
-| Software Test Engineer | Manpower Singapore | LinkedIn | 2026-03-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Test%20Engineer%20Manpower%20Singapore&location=Singapore) |
-| Ola Trainee - Client Engineer | Ola Chat | LinkedIn | 2026-03-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Ola%20Trainee%20-%20Client%20Engineer%20Ola%20Chat&location=Singapore) |
-| QA Engineer | Binance | LinkedIn | 2026-03-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=QA%20Engineer%20Binance&location=Singapore) |
+| Autonomous Vehicle Test Engineer | Venti | LinkedIn | 2026-03-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Autonomous%20Vehicle%20Test%20Engineer%20Venti&location=Singapore) |
+| Software Engineer (Data Discovery and Operations) | Centre for Strategic Infocomm Technologies (CSIT) | LinkedIn | 2026-03-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Data%20Discovery%20and%20Operations)%20Centre%20for%20Strategic%20Infocomm%20Technologies%20(CSIT)&location=Singapore) |
