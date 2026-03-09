@@ -40,6 +40,7 @@ jobs:
           git config user.email "$COMMIT_AUTHOR_EMAIL"
           git add docs/swe_jobs/README.md
           git commit -m "chore: update sg software engineering job listings"
+          git pull --rebase
           git push
 
   update-hr-job-listings:
@@ -72,4 +73,5 @@ jobs:
           git config user.email "$COMMIT_AUTHOR_EMAIL"
           git add docs/hr_jobs/README.md
           git commit -m "chore: update sg human resources job listings"
+          git pull --rebase
           git push
