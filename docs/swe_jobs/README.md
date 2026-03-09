@@ -2,9 +2,9 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-03-09T16:05:29.544Z*
+> *Last updated: 2026-03-09T16:09:46.805Z*
 
-**Total listings: 19** *(MyCareersFuture: 9 | LinkedIn: 10)*
+**Total listings: 18** *(MyCareersFuture: 9 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Posted | Apply |
 |-----------|---------|--------|--------|-------|
@@ -21,7 +21,6 @@
 | Freelance Software Engineer | Twine | LinkedIn | 2026-03-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Freelance%20Software%20Engineer%20Twine&location=Singapore) |
 | Test Engineer (QA, Interface Testing) l 12-month contract | Manpower Singapore | LinkedIn | 2026-03-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Test%20Engineer%20(QA%2C%20Interface%20Testing)%20l%2012-month%20contract%20Manpower%20Singapore&location=Singapore) |
 | AI Engineer | Asia Pacific Breweries Singapore (Part of The HEINEKEN Company) | LinkedIn | 2026-03-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=AI%20Engineer%20Asia%20Pacific%20Breweries%20Singapore%20(Part%20of%20The%20HEINEKEN%20Company)&location=Singapore) |
-| Enterprise Software Specialist | Golden Eagle Concrete Pvt Ltd | LinkedIn | 2026-03-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Enterprise%20Software%20Specialist%20Golden%20Eagle%20Concrete%20Pvt%20Ltd&location=Singapore) |
 | Automation Software Engineer (Robot Programming /  Industrial Automation / Training Provided) | EA RECRUITMENT PTE. LTD. | MyCareersFuture | 2026-03-08 | [Apply](https://www.mycareersfuture.gov.sg/job/45193e316878e2a07ca0bca6c747ea63) |
 | Software Engineer (Frontend/ Backend) | INTUIT RECRUITMENT PTE. LTD. | MyCareersFuture | 2026-03-08 | [Apply](https://www.mycareersfuture.gov.sg/job/8dd5459907105f59f87ec021a06a0a23) |
 | Embedded Linux Development Engineer (Software/Hardware/TI ARM / Xilinx SoC) LT89 | TRUST RECRUIT PTE. LTD. | MyCareersFuture | 2026-03-08 | [Apply](https://www.mycareersfuture.gov.sg/job/55c420eebdff3c93a5c21aee8c46c130) |
