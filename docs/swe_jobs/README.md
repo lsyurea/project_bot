@@ -2,7 +2,7 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-03-09T13:47:52.965Z*
+> *Last updated: 2026-03-09T16:01:49.213Z*
 
 **Total listings: 18** *(MyCareersFuture: 9 | LinkedIn: 10)*
 
@@ -17,6 +17,7 @@
 | Software Engineer (No Experience Needed) | Red Alpha Cybersecurity | LinkedIn | 2026-03-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(No%20Experience%20Needed)%20Red%20Alpha%20Cybersecurity&location=Singapore) |
 | AI Scientist | IMDA | LinkedIn | 2026-03-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=AI%20Scientist%20IMDA&location=Singapore) |
 | New Product Introduction Engineer | INGRASYS (SINGAPORE) PTE. LTD. | LinkedIn | 2026-03-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=New%20Product%20Introduction%20Engineer%20INGRASYS%20(SINGAPORE)%20PTE.%20LTD.&location=Singapore) |
+| Test Engineer 1 | Ichor Systems, Inc. | LinkedIn | 2026-03-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Test%20Engineer%201%20Ichor%20Systems%2C%20Inc.&location=Singapore) |
 | Freelance Software Engineer | Twine | LinkedIn | 2026-03-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Freelance%20Software%20Engineer%20Twine&location=Singapore) |
 | Test Engineer (QA, Interface Testing) l 12-month contract | Manpower Singapore | LinkedIn | 2026-03-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Test%20Engineer%20(QA%2C%20Interface%20Testing)%20l%2012-month%20contract%20Manpower%20Singapore&location=Singapore) |
 | AI Engineer | Asia Pacific Breweries Singapore (Part of The HEINEKEN Company) | LinkedIn | 2026-03-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=AI%20Engineer%20Asia%20Pacific%20Breweries%20Singapore%20(Part%20of%20The%20HEINEKEN%20Company)&location=Singapore) |
@@ -25,4 +26,3 @@
 | Embedded Linux Development Engineer (Software/Hardware/TI ARM / Xilinx SoC) LT89 | TRUST RECRUIT PTE. LTD. | MyCareersFuture | 2026-03-08 | [Apply](https://www.mycareersfuture.gov.sg/job/55c420eebdff3c93a5c21aee8c46c130) |
 | Software Engineer, University Graduate | Google | LinkedIn | 2026-03-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20University%20Graduate%20Google&location=Singapore) |
 | Software Engineer and/or Senior Software Engineer (Automation & SCADA System - C - C++) | EA RECRUITMENT PTE. LTD. | MyCareersFuture | 2026-03-07 | [Apply](https://www.mycareersfuture.gov.sg/job/ffe8d35f4ec38cd091c6954cdc93fac1) |
-| Full Stack Software Developer | Burford Capital | LinkedIn | 2026-03-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Full%20Stack%20Software%20Developer%20Burford%20Capital&location=Singapore) |
