@@ -103,6 +103,7 @@ async function fetchMyCareersFuture() {
         source: 'MyCareersFuture',
         postedAt: posted,
         url: `https://www.mycareersfuture.gov.sg/job/${job.uuid}`,
+        yearsExp: hasExpData ? String(minExp) : '—',
       });
     }
 
@@ -168,6 +169,7 @@ async function fetchLinkedIn() {
       source: 'LinkedIn',
       postedAt,
       url: link,
+      yearsExp: '—',
     });
   }
 
@@ -239,7 +241,7 @@ function formatMarkdown(jobs, counts) {
     .map((j) => {
       const title = j.title.replace(/\|/g, '-');
       const company = j.company.replace(/\|/g, '-');
-      return `| ${title} | ${company} | ${j.source} | ${formatDate(j.postedAt)} | [Apply](${j.url}) |`;
+      return `| ${title} | ${company} | ${j.source} | ${j.yearsExp} | ${formatDate(j.postedAt)} | [Apply](${j.url}) |`;
     })
     .join('\n');
 
@@ -255,9 +257,9 @@ function formatMarkdown(jobs, counts) {
 
 **Total listings: ${total}** *(${sourceSummary})*
 
-| Job Title | Company | Source | Posted | Apply |
-|-----------|---------|--------|--------|-------|
-${rows || '| — | — | — | — | — |'}
+| Job Title | Company | Source | Yrs Exp | Posted | Apply |
+|-----------|---------|--------|---------|--------|-------|
+${rows || '| — | — | — | — | — | — |'}
 `;
 }
 
