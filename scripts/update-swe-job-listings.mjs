@@ -18,7 +18,7 @@
  * blocked (403). JobStreet also blocks automated access (403). Neither is
  * usable without a commercial agreement.
  *
- * Writes deduplicated results to docs/companies/README.md
+ * Writes deduplicated results to docs/swe_jobs/README.md
  * No external dependencies — pure Node.js ESM with native fetch.
  */
 
@@ -27,7 +27,7 @@ import { dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const OUTPUT_PATH = process.env.OUTPUT_PATH ?? 'docs/companies/README.md';
+const OUTPUT_PATH = process.env.OUTPUT_PATH ?? 'docs/swe_jobs/README.md';
 
 // 48 hours in ms
 const POSTED_WITHIN_MS = 48 * 60 * 60 * 1000;
