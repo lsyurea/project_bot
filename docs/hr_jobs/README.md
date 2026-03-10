@@ -2,12 +2,25 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-03-10T03:14:28.843Z*
+> *Last updated: 2026-03-10T13:45:12.499Z*
 
-**Total listings: 38** *(MyCareersFuture: 29 | LinkedIn: 10)*
+**Total listings: 49** *(MyCareersFuture: 39 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| In-house Security Officer (A/C Environment) | FUTURE ELECTRONICS INC. (DISTRIBUTION) PTE LTD | MyCareersFuture | 1 | 2026-03-10 | [Apply](https://www.mycareersfuture.gov.sg/job/4ab5c38b5cf38c339aa3150a337087ad) |
+| HR Executive, Talent Acquisition (Contract) | ALLIED SEARCH PTE. LTD. | MyCareersFuture | 1 | 2026-03-10 | [Apply](https://www.mycareersfuture.gov.sg/job/11eadfcdf52a6353f79d41cc16a7861e) |
+| Executive (HR & Administration) | EDUBLITZ PTE LTD | MyCareersFuture | 1 | 2026-03-10 | [Apply](https://www.mycareersfuture.gov.sg/job/a8673f2a67d8f217d4d2cfb5e39f0aff) |
+| Commercial Illustrator Executive | HUA CHENG EDUCATION CENTRE PTE LTD | MyCareersFuture | 1 | 2026-03-10 | [Apply](https://www.mycareersfuture.gov.sg/job/5368ff8d226c62dc86df435f0dfbe375) |
+| Assistant HR & Admin Officer (1-year contract, renewable*) | THE POLYOLEFIN COMPANY (SINGAPORE) PTE. LTD. | MyCareersFuture | 0 | 2026-03-10 | [Apply](https://www.mycareersfuture.gov.sg/job/f3cc123a7cc5f4602f0016ecc5e55ca3) |
+| Human Resource Executive – Luxury Fashion Brand | LUXURY CAREERS PTE. LTD. | MyCareersFuture | 2 | 2026-03-10 | [Apply](https://www.mycareersfuture.gov.sg/job/b7f0384f46a1565d033be2a4ef63e79b) |
+| Compliance Senior Consultant (8 months contract) | PRICEWATERHOUSECOOPERS LLP | MyCareersFuture | 2 | 2026-03-10 | [Apply](https://www.mycareersfuture.gov.sg/job/b80c36c991ef4fc456e61bbf13056da1) |
+| Assistant, Human Resources (Learning & Development) (1-Year Contract) | Young Men's Christian Association of Singapore | MyCareersFuture | 1 | 2026-03-10 | [Apply](https://www.mycareersfuture.gov.sg/job/d7e62db763e9dfbda4ed8728bc063183) |
+| HR Digital Solutions Specialist (Internship / Graduate Program) | LITE-ON SINGAPORE PTE. LTD. | MyCareersFuture | 0 | 2026-03-10 | [Apply](https://www.mycareersfuture.gov.sg/job/58f369f3a8bc5c3a8395f3ae2e69a124) |
+| Human Resources | YIN FENG CONSTRUCTION PTE. LTD. | MyCareersFuture | 2 | 2026-03-10 | [Apply](https://www.mycareersfuture.gov.sg/job/5b6977d23c68c5df84f8717d4ec84410) |
+| Recruiter | SUN CITY MAINTENANCE PTE. LTD. | MyCareersFuture | 0 | 2026-03-10 | [Apply](https://www.mycareersfuture.gov.sg/job/c845fa680becb36a73f9257daa76d756) |
+| Recruitment Officer | STELLARTALENTS ASIA PTE. LTD. | MyCareersFuture | 1 | 2026-03-10 | [Apply](https://www.mycareersfuture.gov.sg/job/ca24f8fbbc4d839a9f0222114d9ebceb) |
+| HR Intern (Recruitment) | OCTOMATE STAFFING PTE. LTD. | MyCareersFuture | 0 | 2026-03-10 | [Apply](https://www.mycareersfuture.gov.sg/job/88601ab531d062db32a8332b318bdf8c) |
 | HR Executive | MES LOGISTICS PTE. LTD. | MyCareersFuture | 1 | 2026-03-10 | [Apply](https://www.mycareersfuture.gov.sg/job/f263a38eac560541195502f7ee0a721b) |
 | Human Resources Assistant | YULI CONSULTANCY & ENGINEERING PTE. LTD. | MyCareersFuture | 1 | 2026-03-10 | [Apply](https://www.mycareersfuture.gov.sg/job/5a935d84c118d70659eb64ac3da72044) |
 | Human Resources Operations Associate | RECRUITFIRST PTE. LTD. | MyCareersFuture | 0 | 2026-03-10 | [Apply](https://www.mycareersfuture.gov.sg/job/836c078769576c9e713555fb3cf88813) |
@@ -17,7 +30,8 @@
 | HR and Admin Executive | SEASCAPE TECHNOLOGY PTE. LTD. | MyCareersFuture | 1 | 2026-03-10 | [Apply](https://www.mycareersfuture.gov.sg/job/f789bf4abe39615fa8215d64ed173266) |
 | HR Admin Assistant | SMARTT PRECISION MFG PTE. LTD. | MyCareersFuture | 2 | 2026-03-10 | [Apply](https://www.mycareersfuture.gov.sg/job/3c11a9310850252b4ff4c7a185a6ae7f) |
 | HR Coordinator | Linesight | LinkedIn | — | 2026-03-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Coordinator%20Linesight&location=Singapore) |
-| HR Executive / HR Business Partner | Recruiter RH | LinkedIn | — | 2026-03-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Executive%20%2F%20HR%20Business%20Partner%20Recruiter%20RH&location=Singapore) |
+| HR Support Executive | Twenty Seven Marketing | LinkedIn | — | 2026-03-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Support%20Executive%20Twenty%20Seven%20Marketing&location=Singapore) |
+| Human Resources Executive | Shield Integrated Security Solutions Private Limited | LinkedIn | — | 2026-03-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20Shield%20Integrated%20Security%20Solutions%20Private%20Limited&location=Singapore) |
 | NIGHTCLUB MANAGER | KOSSA PTE. LTD. | MyCareersFuture | 2 | 2026-03-09 | [Apply](https://www.mycareersfuture.gov.sg/job/9588838c41355ec84f7d3935da75b273) |
 | Urgent !! HR Executive (Paya Lebar) | TRUST RECRUIT PTE. LTD. | MyCareersFuture | 2 | 2026-03-09 | [Apply](https://www.mycareersfuture.gov.sg/job/274996210d58d87955685924f4f5dce1) |
 | HR Associate (Healthcare) #HYN | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-03-09 | [Apply](https://www.mycareersfuture.gov.sg/job/7c0b93db6de1c929571298bd734e2084) |
@@ -38,11 +52,8 @@
 | Human Resources Executive | Sunway Construction Group Berhad | LinkedIn | — | 2026-03-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20Sunway%20Construction%20Group%20Berhad&location=Singapore) |
 | HR Executive | Knight Frank | LinkedIn | — | 2026-03-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Executive%20Knight%20Frank&location=Singapore) |
 | Compensation Benefits Specialist | Ju Arantes Consultoria - Recrutamento e Desenvolvimento | LinkedIn | — | 2026-03-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Compensation%20Benefits%20Specialist%20Ju%20Arantes%20Consultoria%20-%20Recrutamento%20e%20Desenvolvimento&location=Singapore) |
-| #PPPintern (Talent Attraction & People Experience), Jul to Dec 2026 | Public Service Division (Singapore) | LinkedIn | — | 2026-03-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=%23PPPintern%20(Talent%20Attraction%20%26amp%3B%20People%20Experience)%2C%20Jul%20to%20Dec%202026%20Public%20Service%20Division%20(Singapore)&location=Singapore) |
 | C&B Officer | Nord Anglia Education | LinkedIn | — | 2026-03-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=C%26amp%3BB%20Officer%20Nord%20Anglia%20Education&location=Singapore) |
+| #PPPintern (Talent Attraction & People Experience), Jul to Dec 2026 | Public Service Division (Singapore) | LinkedIn | — | 2026-03-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=%23PPPintern%20(Talent%20Attraction%20%26amp%3B%20People%20Experience)%2C%20Jul%20to%20Dec%202026%20Public%20Service%20Division%20(Singapore)&location=Singapore) |
+| Job Ambassador, NW CDC | People's Association | LinkedIn | — | 2026-03-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Job%20Ambassador%2C%20NW%20CDC%20People's%20Association&location=Singapore) |
 | Senior Executive (Marketing & Engagement) | Singapore Business Federation | MyCareersFuture | 2 | 2026-03-08 | [Apply](https://www.mycareersfuture.gov.sg/job/68bf4072b3c0c97fab40236c352c90aa) |
-| Assistant Operations Manager (Funeral Industry) | WECRUIT PTE. LTD. | MyCareersFuture | 2 | 2026-03-08 | [Apply](https://www.mycareersfuture.gov.sg/job/c24ebca01be2ef8be1b250d46c7fcc38) |
-| Analyst – Finance & Corporate Secretary | CHIKO PTE. LTD. | MyCareersFuture | 1 | 2026-03-08 | [Apply](https://www.mycareersfuture.gov.sg/job/992ba150f681179cadeb64e87729080f) |
 | Human Resources Associate, People Team (2026 Graduate) | Shopee | LinkedIn | — | 2026-03-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Associate%2C%20People%20Team%20(2026%20Graduate)%20Shopee&location=Singapore) |
-| People Operations Associate | SHIELD | LinkedIn | — | 2026-03-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20Operations%20Associate%20SHIELD&location=Singapore) |
-| Part-time, HR & Admin | KKday | LinkedIn | — | 2026-03-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Part-time%2C%20HR%20%26amp%3B%20Admin%20KKday&location=Singapore) |
