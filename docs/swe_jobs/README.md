@@ -2,7 +2,7 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-03-13T03:16:08.397Z*
+> *Last updated: 2026-03-13T03:28:30.334Z*
 
 **Total listings: 24** *(MyCareersFuture: 16 | LinkedIn: 10)*
 
