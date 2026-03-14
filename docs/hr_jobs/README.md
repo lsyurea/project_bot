@@ -2,12 +2,15 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-03-13T13:42:45.803Z*
+> *Last updated: 2026-03-14T03:14:09.518Z*
 
-**Total listings: 40** *(MyCareersFuture: 33 | LinkedIn: 9)*
+**Total listings: 34** *(MyCareersFuture: 28 | LinkedIn: 9)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Human Resources Executive | CCECC Singapore Pte Ltd | LinkedIn | — | 2026-03-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20CCECC%20Singapore%20Pte%20Ltd&location=Singapore) |
+| HR Executive / HR Business Partner | Code on JVM Chennai | LinkedIn | — | 2026-03-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Executive%20%2F%20HR%20Business%20Partner%20Code%20on%20JVM%20Chennai&location=Singapore) |
+| Human Resource Business Partner | Koufu Group | LinkedIn | — | 2026-03-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resource%20Business%20Partner%20Koufu%20Group&location=Singapore) |
 | Talent Acquisition / Recruitment Consultant (Banking & Technology Sectors) | D L RESOURCES PTE LTD | MyCareersFuture | 1 | 2026-03-13 | [Apply](https://www.mycareersfuture.gov.sg/job/2fbee070c3ebe789e97340591d70f817) |
 | HR Business Partner (Healthcare) | JOBSTUDIO PTE. LTD. | MyCareersFuture | 2 | 2026-03-13 | [Apply](https://www.mycareersfuture.gov.sg/job/cfbb520e920fa531ef5658e62d546101) |
 | HR Associate Executives/Assistants Needed!! (Healthcare) #HCGT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-03-13 | [Apply](https://www.mycareersfuture.gov.sg/job/dd8f530174ee8efed4e4c570856fb752) |
@@ -20,10 +23,8 @@
 | Senior / Executive Assistant, Human Resource | JOBSTUDIO PTE. LTD. | MyCareersFuture | 1 | 2026-03-13 | [Apply](https://www.mycareersfuture.gov.sg/job/d25cb674ac64d5b7a5f71e3fb4b1496e) |
 | Training & Development Executive | THE SINGAPORE CONTRACTORS ASSOCIATION LIMITED | MyCareersFuture | 2 | 2026-03-13 | [Apply](https://www.mycareersfuture.gov.sg/job/ad87351cb144eff3d9813b14ce2541e7) |
 | Human Resources Associate - Product & Engineering (2026 Campus Recruitment) | Shopee | LinkedIn | — | 2026-03-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Associate%20-%20Product%20%26amp%3B%20Engineering%20(2026%20Campus%20Recruitment)%20Shopee&location=Singapore) |
-| Human Resource Assistant (Payroll) | Ebb & Flow Group | LinkedIn | — | 2026-03-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resource%20Assistant%20(Payroll)%20Ebb%20%26amp%3B%20Flow%20Group&location=Singapore) |
 | HR Operation Executive, SEA | The Hoffman Agency | LinkedIn | — | 2026-03-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Operation%20Executive%2C%20SEA%20The%20Hoffman%20Agency&location=Singapore) |
-| Senior HR (Metal Manufacturing) | IEG Oilfield Services Pte Ltd | LinkedIn | — | 2026-03-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20HR%20(Metal%20Manufacturing)%20IEG%20Oilfield%20Services%20Pte%20Ltd&location=Singapore) |
-| Human Resources Executive | Innowave Tech Pte Ltd | LinkedIn | — | 2026-03-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20Innowave%20Tech%20Pte%20Ltd&location=Singapore) |
+| Human Resource Assistant (Payroll) | Ebb & Flow Group | LinkedIn | — | 2026-03-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resource%20Assistant%20(Payroll)%20Ebb%20%26amp%3B%20Flow%20Group&location=Singapore) |
 | Senior HR Specialist (Learning & Development) | PEOPLE PROFILERS PTE. LTD. | MyCareersFuture | 2 | 2026-03-12 | [Apply](https://www.mycareersfuture.gov.sg/job/6b6d9e0cdd2ca7cb9d77360ab7150b5f) |
 | HR Officer (6 months/GOVT) - up to $3k/West/Training Provided #HAO | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-03-12 | [Apply](https://www.mycareersfuture.gov.sg/job/84e910230cddf72298699dddb7110026) |
 | *Up to $3K* Contract HR Senior Executive Assistant Needed! #HCGT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-03-12 | [Apply](https://www.mycareersfuture.gov.sg/job/3501c84bfb582396a15385fffb2d1f78) |
@@ -39,12 +40,5 @@
 | Human Resource, Talent Aquisition | ACG MANAGEMENT PTE. LTD. | MyCareersFuture | 2 | 2026-03-12 | [Apply](https://www.mycareersfuture.gov.sg/job/1f07a9744ef2f1c9488e29499f80a33f) |
 | HR Executive (Fresh Grad) | MIAO WORLDS PTE. LTD. | MyCareersFuture | 1 | 2026-03-12 | [Apply](https://www.mycareersfuture.gov.sg/job/ac01303ab833b243e0a44b4a3aaaf6f0) |
 | Govt* HR Officer | SCIENTEC CONSULTING PTE. LTD. | MyCareersFuture | 1 | 2026-03-12 | [Apply](https://www.mycareersfuture.gov.sg/job/8b9467cf75db430fcd25d91b8e7d6474) |
-| EXECUTIVE CHEF | AL-HAZIMA RESTAURANT PTE. LTD. | MyCareersFuture | 2 | 2026-03-12 | [Apply](https://www.mycareersfuture.gov.sg/job/0cfac5873712d4438e669aeec3bc834a) |
-| Finance & HR Administrator - West-  $2800 (ID:696436) | PERSOL SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-03-12 | [Apply](https://www.mycareersfuture.gov.sg/job/113442891f4af61317a9731c1482be45) |
-| HR & Admin Executive | Helping Hand, The | MyCareersFuture | 2 | 2026-03-12 | [Apply](https://www.mycareersfuture.gov.sg/job/d5f91f739d58a86774c544522c28c15e) |
-| HR & Admin Executive | OMATTRIX PTE. LTD. | MyCareersFuture | 2 | 2026-03-12 | [Apply](https://www.mycareersfuture.gov.sg/job/951a8cb74666d62ce4f8ce4f5a0bf0f5) |
-| HR & Admin Assistant | BA MAINTENANCE PTE. LTD. | MyCareersFuture | 2 | 2026-03-12 | [Apply](https://www.mycareersfuture.gov.sg/job/4bbb153f0ffb3a36fd09bef48b00f477) |
 | Lenovo Edge-NextGen-HR | Lenovo | LinkedIn | — | 2026-03-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Lenovo%20Edge-NextGen-HR%20Lenovo&location=Singapore) |
 | HR & Executive Office Associate | Peakwater Management | LinkedIn | — | 2026-03-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20%26amp%3B%20Executive%20Office%20Associate%20Peakwater%20Management&location=Singapore) |
-| Human Resources Executive | Wee Guan Construction | LinkedIn | — | 2026-03-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20Wee%20Guan%20Construction&location=Singapore) |
-| Workforce Operations Coordinator | Manpower Singapore | LinkedIn | — | 2026-03-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Workforce%20Operations%20Coordinator%20Manpower%20Singapore&location=Singapore) |
