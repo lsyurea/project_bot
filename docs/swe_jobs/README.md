@@ -2,9 +2,9 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-03-13T13:42:50.040Z*
+> *Last updated: 2026-03-14T03:14:07.014Z*
 
-**Total listings: 25** *(MyCareersFuture: 19 | LinkedIn: 10)*
+**Total listings: 21** *(MyCareersFuture: 13 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
@@ -16,20 +16,16 @@
 | Software Engineer | Thunes | LinkedIn | — | 2026-03-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Thunes&location=Singapore) |
 | Software Engineer Traineeship [GRIT@Gov] | Ministry of Defence of Singapore | LinkedIn | — | 2026-03-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Traineeship%20%5BGRIT%40Gov%5D%20Ministry%20of%20Defence%20of%20Singapore&location=Singapore) |
 | Software Engineer | Boxy | LinkedIn | — | 2026-03-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Boxy&location=Singapore) |
+| Software Developer | AvePoint | LinkedIn | — | 2026-03-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Developer%20AvePoint&location=Singapore) |
 | Software Engineer (Computer Vision/Vision Inspection, C++) | RECRUIT EXPERT PTE. LTD. | MyCareersFuture | 2 | 2026-03-12 | [Apply](https://www.mycareersfuture.gov.sg/job/74934088f9d7e5a44a0bf32cf137a4fe) |
 | Software Engineer (C++/C#, Machine Automation) #76684 | ANRADUS PTE. LTD. | MyCareersFuture | 1 | 2026-03-12 | [Apply](https://www.mycareersfuture.gov.sg/job/2d14a66e305c1b618347451b25baad39) |
 | *GOV* Software Engineer - AWS - Terraform | SCIENTEC CONSULTING PTE. LTD. | MyCareersFuture | 2 | 2026-03-12 | [Apply](https://www.mycareersfuture.gov.sg/job/0a9f87fe4c867b48949b2633cf27b351) |
 | Junior software engineer (Java) | NEWTONE CONSULTING PTE. LTD. | MyCareersFuture | 2 | 2026-03-12 | [Apply](https://www.mycareersfuture.gov.sg/job/53202244da3ee23ef1865f41aaf49123) |
 | Audio Software Engineer | PERSOL SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-03-12 | [Apply](https://www.mycareersfuture.gov.sg/job/70b3537b6d21665f863ef3aa4c109b11) |
 | Software Engineer ( Web Applications / Quarkus)  - Singaporean Only ! | APBA TG HUMAN RESOURCE PTE. LTD. | MyCareersFuture | 2 | 2026-03-12 | [Apply](https://www.mycareersfuture.gov.sg/job/5bf43c805f4ed8660d1a50bd6b7d1f6a) |
-| Software Engineer (.NET) | ALPHAWAVE TECHNOLOGY (S) PTE LTD | MyCareersFuture | 1 | 2026-03-12 | [Apply](https://www.mycareersfuture.gov.sg/job/516f33e12eb3edfdffab64cf898ade62) |
-| Software Engineer | PCS SECURITY PRIVATE LIMITED | MyCareersFuture | 0 | 2026-03-12 | [Apply](https://www.mycareersfuture.gov.sg/job/8002abe6d002f5e532bebf2351d992c6) |
-| Senior Software Engineer (Requires at least 3 years of Java experience) | TALENTSIS PTE. LTD. | MyCareersFuture | 1 | 2026-03-12 | [Apply](https://www.mycareersfuture.gov.sg/job/344a9eb7ced8098e9fefe1cdad1a1669) |
 | T&T Software Developer (Outsystems) | Deloitte | LinkedIn | — | 2026-03-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=T%26amp%3BT%20Software%20Developer%20(Outsystems)%20Deloitte&location=Singapore) |
 | Software Engineer (GovTech) | AvePoint | LinkedIn | — | 2026-03-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(GovTech)%20AvePoint&location=Singapore) |
 | Software Engineer | Tower Research Capital | LinkedIn | — | 2026-03-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Tower%20Research%20Capital&location=Singapore) |
 | Software Engineer, Backend - Partners | Jobgether | LinkedIn | — | 2026-03-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Backend%20-%20Partners%20Jobgether&location=Singapore) |
 | Intern, Software Development Engineer [COO-ESE] | Autodesk | LinkedIn | — | 2026-03-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Intern%2C%20Software%20Development%20Engineer%20%5BCOO-ESE%5D%20Autodesk&location=Singapore) |
-| Application Support Developer (Java/C#) | Manpower Singapore | LinkedIn | — | 2026-03-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Application%20Support%20Developer%20(Java%2FC%23)%20Manpower%20Singapore&location=Singapore) |
 | Software Developer | Dayforce | LinkedIn | — | 2026-03-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Developer%20Dayforce&location=Singapore) |
-| Software Engineer (Entry Level - 2 years) | SEVEN HILLS CONSULTING PTE. LTD. | MyCareersFuture | 0 | 2026-03-11 | [Apply](https://www.mycareersfuture.gov.sg/job/21c4fedc7d2a50deb470d3b467e70724) |
