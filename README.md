@@ -3,14 +3,15 @@
 This repository automatically updates repository activity stats for my GitHub account.
 
 <!-- REPO_ACTIVITY:START -->
-Generated: 2026-03-15T13:15:21.141Z
+Generated: 2026-03-15T18:57:30.061Z
 
 Active window: last 90 days (cutoff: 2025-12-15)
 Total repositories analyzed: 66
-Active: 13
-Inactive: 53
+Active: 14
+Inactive: 52
 
 ### Active Repositories
+- 🔒 [lsyurea/frontend_mono](https://github.com/lsyurea/frontend_mono) — last push: 2026-03-15
 - 🌐 [lsyurea/project_bot](https://github.com/lsyurea/project_bot) — last push: 2026-03-15
 - 🔒 [lsyurea/portfolio_next](https://github.com/lsyurea/portfolio_next) — last push: 2026-03-14
 - 🌐 [lsyurea/ml_streamlit_template](https://github.com/lsyurea/ml_streamlit_template) — last push: 2026-03-14
@@ -39,7 +40,6 @@ Inactive: 53
 - 🔒 [lsyurea/Ecommerce_Mobile](https://github.com/lsyurea/Ecommerce_Mobile) — last push: 2024-08-15
 - 🔒 [lsyurea/t3_stripe_template](https://github.com/lsyurea/t3_stripe_template) — last push: 2024-08-13
 - 🔒 [lsyurea/stuBuddy](https://github.com/lsyurea/stuBuddy) — last push: 2024-08-05
-- 🔒 [lsyurea/frontend_mono](https://github.com/lsyurea/frontend_mono) — last push: 2024-07-24
 - 🌐 [lsyurea/Simple_TODO](https://github.com/lsyurea/Simple_TODO) — last push: 2024-07-04
 - 🔒 [lsyurea/monorepo_template](https://github.com/lsyurea/monorepo_template) — last push: 2024-07-03
 - 🔒 [lsyurea/gen_shorts](https://github.com/lsyurea/gen_shorts) — last push: 2024-06-19
