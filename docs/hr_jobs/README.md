@@ -2,19 +2,43 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-03-17T03:21:46.726Z*
+> *Last updated: 2026-03-17T14:00:22.156Z*
 
-**Total listings: 41** *(MyCareersFuture: 31 | LinkedIn: 10)*
+**Total listings: 61** *(MyCareersFuture: 51 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Business Support Executive | Singapore Human Resources Institute (SHRI) | MyCareersFuture | 2 | 2026-03-17 | [Apply](https://www.mycareersfuture.gov.sg/job/86ab53f6fd8b4378c335168fca4bd71a) |
+| Executive (HR & Administration) | EDUBLITZ PTE LTD | MyCareersFuture | 1 | 2026-03-17 | [Apply](https://www.mycareersfuture.gov.sg/job/bc28b2df38a825a2ff3ade7d4b5c00e1) |
+| Technical Recruiter (Tech / Banking Sector) | D L RESOURCES PTE LTD | MyCareersFuture | 1 | 2026-03-17 | [Apply](https://www.mycareersfuture.gov.sg/job/953a33852754d6543e7fe4e2464364ba) |
+| HR Executive | KNIGHT FRANK PROPERTY & FACILITIES MANAGEMENT PTE. LTD. | MyCareersFuture | 2 | 2026-03-17 | [Apply](https://www.mycareersfuture.gov.sg/job/646929e50c54fdaf2975ba18b88bf575) |
+| HR Executive Assistant (Healthcare - Up to $3500) #HJOT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-03-17 | [Apply](https://www.mycareersfuture.gov.sg/job/84244425dbc996d5539ba98fdeb14ae9) |
+| HR Generalist | JJ VISTA MINES RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-03-17 | [Apply](https://www.mycareersfuture.gov.sg/job/154b640b2adcb1298bde419e57e9c222) |
+| Human Resources Executive (Tai Seng / Full Spectrum) - SS10 | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-03-17 | [Apply](https://www.mycareersfuture.gov.sg/job/71ca1e16591f7f349db6798d11d652be) |
+| Human Resource Executive - IR8A / IR21 - Construction and interior design - Ubi - 9755 | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 2 | 2026-03-17 | [Apply](https://www.mycareersfuture.gov.sg/job/4081ac063e781f2baba2614e5e658c9f) |
+| HR Executive - Construction and interior design - Ubi - 9755 | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 2 | 2026-03-17 | [Apply](https://www.mycareersfuture.gov.sg/job/653b658160e30a7d0408687b7e5d2010) |
+| Finance and HR/Admin Executive | SFIC INSTITUTE PTE. LTD. | MyCareersFuture | 2 | 2026-03-17 | [Apply](https://www.mycareersfuture.gov.sg/job/5457f6c0c9cf7d78efcb74fae243ade0) |
+| Human Resources Executive - full spectrum / Tai Seng [2683] | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 2 | 2026-03-17 | [Apply](https://www.mycareersfuture.gov.sg/job/cccc258c4498f3ef7200b4bb224a5f78) |
+| Office Administrative Assistant Manager | SKY FUSION SHIPPING PTE. LTD. | MyCareersFuture | 2 | 2026-03-17 | [Apply](https://www.mycareersfuture.gov.sg/job/74b036db74acf45c7e0d98da4e143b22) |
+| Interior Design HR Executive - Up to $3K - Ubi - 0310 | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-03-17 | [Apply](https://www.mycareersfuture.gov.sg/job/0773401842d8204f6b43c0d0c50ddb70) |
+| Chief HR & Admin Officer (Japanese Speaker) - Construction Industry - Yearly Renewable Contract [GC] | WECRUIT PTE. LTD. | MyCareersFuture | 2 | 2026-03-17 | [Apply](https://www.mycareersfuture.gov.sg/job/cac6bc7789d8a5e49781d77704ebc2ac) |
+| HR Executive - Generalist/ Payroll - Ubi - 5 days / $3k [0580] | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-03-17 | [Apply](https://www.mycareersfuture.gov.sg/job/e72a626fa59158c306afe998c49570c5) |
+| general manager | WEISH PTE. LTD. | MyCareersFuture | 2 | 2026-03-17 | [Apply](https://www.mycareersfuture.gov.sg/job/241f43ad514cc7a3caf2fb5958681898) |
+| Assistant HR & Admin Executive | NAKANO SINGAPORE (PTE) LTD | MyCareersFuture | 1 | 2026-03-17 | [Apply](https://www.mycareersfuture.gov.sg/job/531ce42d4f24b9c5ce7562c666338fed) |
+| HR Admin Assistant/Officer | ABSOLUTE MAINTENANCE SERVICES PTE. LTD. | MyCareersFuture | 1 | 2026-03-17 | [Apply](https://www.mycareersfuture.gov.sg/job/8e05bd523a359a38338178560920135a) |
+| HR Payroll Assistant / Officer | ABSOLUTE MAINTENANCE SERVICES PTE. LTD. | MyCareersFuture | 1 | 2026-03-17 | [Apply](https://www.mycareersfuture.gov.sg/job/51849367080b2bc91019564e370a69c7) |
+| Human Resource Executive (International School Singapore) | KEY TRUST RECRUITMENT PTE. LTD. | MyCareersFuture | 2 | 2026-03-17 | [Apply](https://www.mycareersfuture.gov.sg/job/0e59b26ca02071c248e0439aa9f347f4) |
+| HR Assistant/ HR Executive (Central / Building Project/ 5D/ Salary up $2.8K) | BODHICITTA CONNECT PTE. LTD. | MyCareersFuture | 1 | 2026-03-17 | [Apply](https://www.mycareersfuture.gov.sg/job/92d87be9c7eb97794e90ddbc01c6273f) |
 | 1 Year Associate Executive, HR (WEST, Up to 3.5k) #HFT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 2 | 2026-03-17 | [Apply](https://www.mycareersfuture.gov.sg/job/f24e56b49c10fcbd813552c5eb7790d5) |
 | Talent Acquisition (Associates, Assistant Manager/Manager/AVP) [SCHR] | MCI CAREER  SERVICES PTE. LTD. | MyCareersFuture | 1 | 2026-03-17 | [Apply](https://www.mycareersfuture.gov.sg/job/5e06393bf48113c9b54aef57af3ecf86) |
 | Talent Acquisition - Associate / Assistant Manager / Manager [SCHR] | MCI CONSULTING PTE. LTD. | MyCareersFuture | 1 | 2026-03-17 | [Apply](https://www.mycareersfuture.gov.sg/job/3c478fbcfedb1bfbd614c101b2a017ce) |
 | HR Assistant | Venus Beauty | LinkedIn | — | 2026-03-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Assistant%20Venus%20Beauty&location=Singapore) |
 | HR EXECUTIVE | HPC Builders Pte Ltd | LinkedIn | — | 2026-03-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20EXECUTIVE%20HPC%20Builders%20Pte%20Ltd&location=Singapore) |
 | HR Assistance | Prospect Protection Pte Ltd | LinkedIn | — | 2026-03-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Assistance%20Prospect%20Protection%20Pte%20Ltd&location=Singapore) |
-| Learning & Development Manager / L&D Coordinator / L&D Assistant | Orange Corners Palestinian Territories | LinkedIn | — | 2026-03-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Learning%20%26amp%3B%20Development%20Manager%20%2F%20L%26amp%3BD%20Coordinator%20%2F%20L%26amp%3BD%20Assistant%20Orange%20Corners%20Palestinian%20Territories&location=Singapore) |
+| Assistant Manager/Manager, Talent Development-Scholarship Management | IMDA | LinkedIn | — | 2026-03-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Assistant%20Manager%2FManager%2C%20Talent%20Development-Scholarship%20Management%20IMDA&location=Singapore) |
+| Learning & Development Specialist / Training Coordinator / Training Assistant | Pencilish Animation Studios | LinkedIn | — | 2026-03-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Learning%20%26amp%3B%20Development%20Specialist%20%2F%20Training%20Coordinator%20%2F%20Training%20Assistant%20Pencilish%20Animation%20Studios&location=Singapore) |
+| Talent Acquisition Sourcer - Data - Singapore (Third-party Associate) | ByteDance | LinkedIn | — | 2026-03-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Sourcer%20-%20Data%20-%20Singapore%20(Third-party%20Associate)%20ByteDance&location=Singapore) |
+| Junior Support Analyst | Crédit Agricole CIB | LinkedIn | — | 2026-03-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Junior%20Support%20Analyst%20Cr%C3%A9dit%20Agricole%20CIB&location=Singapore) |
 | Full Time Career and Job Placement Officer cum Operation | STAG MATCH INSTITUTE PRIVATE LIMITED | MyCareersFuture | 2 | 2026-03-16 | [Apply](https://www.mycareersfuture.gov.sg/job/a0fd597e48b8e641aaa0b5a69212be5b) |
 | Internship Opportunities | MUSLIMIN TRUST FUND ASSOCIATION | MyCareersFuture | 0 | 2026-03-16 | [Apply](https://www.mycareersfuture.gov.sg/job/380d6b724893dedde227a22436944ecd) |
 | Temp HR Assistant (Hospital) #HZO | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-03-16 | [Apply](https://www.mycareersfuture.gov.sg/job/28427bc3ef5bbac7c0216e4ab0caf5a1) |
@@ -44,8 +68,4 @@
 | Assistant HR Manager (Learning & Development) | PEOPLE PROFILERS PTE. LTD. | MyCareersFuture | 2 | 2026-03-16 | [Apply](https://www.mycareersfuture.gov.sg/job/01a69b023899d76d44ce8b1068e20ae5) |
 | (32115) HR Executive | NUS Enterprise | LinkedIn | — | 2026-03-16 | [Apply](https://www.linkedin.com/jobs/search/?keywords=(32115)%20HR%20Executive%20NUS%20Enterprise&location=Singapore) |
 | HR Governance and Employee Relations - Singapore Lead | Kerry Consulting | LinkedIn | — | 2026-03-16 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Governance%20and%20Employee%20Relations%20-%20Singapore%20Lead%20Kerry%20Consulting&location=Singapore) |
-| Compensation & Benefits Specialist | Warehouse Tips | LinkedIn | — | 2026-03-16 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Compensation%20%26amp%3B%20Benefits%20Specialist%20Warehouse%20Tips&location=Singapore) |
 | Health Policy Analyst (Resourcing & Retention) | Ministry of Health (Singapore) | LinkedIn | — | 2026-03-16 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Health%20Policy%20Analyst%20(Resourcing%20%26amp%3B%20Retention)%20Ministry%20of%20Health%20(Singapore)&location=Singapore) |
-| Warehouse Packer II | Coherent Corp. | LinkedIn | — | 2026-03-16 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Warehouse%20Packer%20II%20Coherent%20Corp.&location=Singapore) |
-| Talent Acquisition Executive | SKILLS DEVELOPMENT ACADEMY PTE. LTD. | MyCareersFuture | 2 | 2026-03-15 | [Apply](https://www.mycareersfuture.gov.sg/job/61e215108e520038e9a1eb720d5467df) |
-| P2P Executive - APAC Finance Shared Services , Japanese Language required | Korn Ferry | LinkedIn | — | 2026-03-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=P2P%20Executive%20-%20APAC%20Finance%20Shared%20Services%20%2C%20Japanese%20Language%20required%20Korn%20Ferry&location=Singapore) |
