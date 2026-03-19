@@ -2,12 +2,17 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-03-18T14:02:07.046Z*
+> *Last updated: 2026-03-19T03:28:16.359Z*
 
-**Total listings: 47** *(MyCareersFuture: 40 | LinkedIn: 9)*
+**Total listings: 47** *(MyCareersFuture: 38 | LinkedIn: 9)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| HR Generalist (3 months contract) | ROBERT WALTERS (SINGAPORE) PTE LTD | MyCareersFuture | 2 | 2026-03-19 | [Apply](https://www.mycareersfuture.gov.sg/job/d19b2e39a037878b0b23a3b294fcdb18) |
+| Assistant HR & Admin Executive - Construction / Main Contractor [2683] | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-03-19 | [Apply](https://www.mycareersfuture.gov.sg/job/13688c7791ae7e77ee2fe31c7343ff4d) |
+| HR Executive / Senior Executive (L&D) | GAIN CITY BEST-ELECTRIC PTE LTD | MyCareersFuture | 2 | 2026-03-19 | [Apply](https://www.mycareersfuture.gov.sg/job/178e242b55cb19e95fccd0c251d501ae) |
+| ADMIN & HUMAN RESOURCE OFFICER | Ecsal Technologies Pte Ltd | LinkedIn | — | 2026-03-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=ADMIN%20%26amp%3B%20HUMAN%20RESOURCE%20OFFICER%20Ecsal%20Technologies%20Pte%20Ltd&location=Singapore) |
+| HR Executive | KOK TONG CONSTRUCTION PTE LTD | LinkedIn | — | 2026-03-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Executive%20KOK%20TONG%20CONSTRUCTION%20PTE%20LTD&location=Singapore) |
 | 6723 - Human Resources Executive [5 days - up to $3k - Full Spectrum] | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-03-18 | [Apply](https://www.mycareersfuture.gov.sg/job/f4b0a7b397e9e9948e334a7b09fa9971) |
 | Admin Executive | OUYEEL SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-03-18 | [Apply](https://www.mycareersfuture.gov.sg/job/ef7cb13cac3f7a6bc8b9bc666b2c54dd) |
 | HR Operations - Learning & Development | P-SERV PTE LTD | MyCareersFuture | 2 | 2026-03-18 | [Apply](https://www.mycareersfuture.gov.sg/job/bf4adf27719d59a15afb3cc4384f4f6f) |
@@ -24,8 +29,8 @@
 | HR Executive (8 months/FINANCE MNC) - Training Provided/up to $4.5k #HAO | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-03-18 | [Apply](https://www.mycareersfuture.gov.sg/job/b006fc7cc5f1cd23c6a5432e76eabf97) |
 | AIR-CONDITIONING MECHANIC | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-03-18 | [Apply](https://www.mycareersfuture.gov.sg/job/fd633c2d6297b3276a87c2704f57a927) |
 | HR GA Executive (Temp) | Kredivo Group | LinkedIn | — | 2026-03-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20GA%20Executive%20(Temp)%20Kredivo%20Group&location=Singapore) |
-| HR Generalist | Standard Engineering Pte Ltd | LinkedIn | — | 2026-03-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Generalist%20Standard%20Engineering%20Pte%20Ltd&location=Singapore) |
-| Finance and HR/Admin Executive | SFIC Institute | LinkedIn | — | 2026-03-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Finance%20and%20HR%2FAdmin%20Executive%20SFIC%20Institute&location=Singapore) |
+| Learning Experience Officer | Tonik | LinkedIn | — | 2026-03-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Learning%20Experience%20Officer%20Tonik&location=Singapore) |
+| Project eXe | National Trades Union Congress (NTUC) | LinkedIn | — | 2026-03-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Project%20eXe%20National%20Trades%20Union%20Congress%20(NTUC)&location=Singapore) |
 | Business Support Executive | Singapore Human Resources Institute (SHRI) | MyCareersFuture | 2 | 2026-03-17 | [Apply](https://www.mycareersfuture.gov.sg/job/86ab53f6fd8b4378c335168fca4bd71a) |
 | Executive (HR & Administration) | EDUBLITZ PTE LTD | MyCareersFuture | 1 | 2026-03-17 | [Apply](https://www.mycareersfuture.gov.sg/job/bc28b2df38a825a2ff3ade7d4b5c00e1) |
 | Technical Recruiter (Tech / Banking Sector) | D L RESOURCES PTE LTD | MyCareersFuture | 1 | 2026-03-17 | [Apply](https://www.mycareersfuture.gov.sg/job/953a33852754d6543e7fe4e2464364ba) |
@@ -46,12 +51,7 @@
 | HR Admin Assistant/Officer | ABSOLUTE MAINTENANCE SERVICES PTE. LTD. | MyCareersFuture | 1 | 2026-03-17 | [Apply](https://www.mycareersfuture.gov.sg/job/8e05bd523a359a38338178560920135a) |
 | HR Payroll Assistant / Officer | ABSOLUTE MAINTENANCE SERVICES PTE. LTD. | MyCareersFuture | 1 | 2026-03-17 | [Apply](https://www.mycareersfuture.gov.sg/job/51849367080b2bc91019564e370a69c7) |
 | Human Resource Executive (International School Singapore) | KEY TRUST RECRUITMENT PTE. LTD. | MyCareersFuture | 2 | 2026-03-17 | [Apply](https://www.mycareersfuture.gov.sg/job/0e59b26ca02071c248e0439aa9f347f4) |
-| HR Assistant/ HR Executive (Central / Building Project/ 5D/ Salary up $2.8K) | BODHICITTA CONNECT PTE. LTD. | MyCareersFuture | 1 | 2026-03-17 | [Apply](https://www.mycareersfuture.gov.sg/job/92d87be9c7eb97794e90ddbc01c6273f) |
-| 1 Year Associate Executive, HR (WEST, Up to 3.5k) #HFT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 2 | 2026-03-17 | [Apply](https://www.mycareersfuture.gov.sg/job/f24e56b49c10fcbd813552c5eb7790d5) |
-| Talent Acquisition (Associates, Assistant Manager/Manager/AVP) [SCHR] | MCI CAREER  SERVICES PTE. LTD. | MyCareersFuture | 1 | 2026-03-17 | [Apply](https://www.mycareersfuture.gov.sg/job/5e06393bf48113c9b54aef57af3ecf86) |
-| Talent Acquisition - Associate / Assistant Manager / Manager [SCHR] | MCI CONSULTING PTE. LTD. | MyCareersFuture | 1 | 2026-03-17 | [Apply](https://www.mycareersfuture.gov.sg/job/3c478fbcfedb1bfbd614c101b2a017ce) |
-| Assistant Manager/Manager, Talent Development-Scholarship Management | IMDA | LinkedIn | — | 2026-03-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Assistant%20Manager%2FManager%2C%20Talent%20Development-Scholarship%20Management%20IMDA&location=Singapore) |
 | Talent Acquisition Sourcer - Data - Singapore (Third-party Associate) | ByteDance | LinkedIn | — | 2026-03-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Sourcer%20-%20Data%20-%20Singapore%20(Third-party%20Associate)%20ByteDance&location=Singapore) |
+| Assistant Manager/Manager, Talent Development-Scholarship Management | IMDA | LinkedIn | — | 2026-03-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Assistant%20Manager%2FManager%2C%20Talent%20Development-Scholarship%20Management%20IMDA&location=Singapore) |
 | Junior Support Analyst | Crédit Agricole CIB | LinkedIn | — | 2026-03-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Junior%20Support%20Analyst%20Cr%C3%A9dit%20Agricole%20CIB&location=Singapore) |
-| Contractor, Administrative | American Bureau of Shipping (ABS) | LinkedIn | — | 2026-03-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Contractor%2C%20Administrative%20American%20Bureau%20of%20Shipping%20(ABS)&location=Singapore) |
-| Health Policy Analyst (Resourcing & Retention) | Ministry of Health (Singapore) | LinkedIn | — | 2026-03-16 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Health%20Policy%20Analyst%20(Resourcing%20%26amp%3B%20Retention)%20Ministry%20of%20Health%20(Singapore)&location=Singapore) |
+| Customer Engagement Executive (Outbound Service Call) | Manulife | LinkedIn | — | 2026-03-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Customer%20Engagement%20Executive%20(Outbound%20Service%20Call)%20Manulife&location=Singapore) |
