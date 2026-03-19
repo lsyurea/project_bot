@@ -3,17 +3,17 @@
 This repository automatically updates repository activity stats for my GitHub account.
 
 <!-- REPO_ACTIVITY:START -->
-Generated: 2026-03-19T13:40:42.543Z
+Generated: 2026-03-19T19:12:30.387Z
 
 Active window: last 90 days (cutoff: 2025-12-19)
-Total repositories analyzed: 66
+Total repositories analyzed: 60
 Active: 14
-Inactive: 52
+Inactive: 46
 
 ### Active Repositories
+- 🔒 [lsyurea/frontend_mono](https://github.com/lsyurea/frontend_mono) — last push: 2026-03-19
 - 🌐 [lsyurea/project_bot](https://github.com/lsyurea/project_bot) — last push: 2026-03-19
 - 🔒 [lsyurea/Ecommerce](https://github.com/lsyurea/Ecommerce) — last push: 2026-03-18
-- 🔒 [lsyurea/frontend_mono](https://github.com/lsyurea/frontend_mono) — last push: 2026-03-15
 - 🔒 [lsyurea/portfolio_next](https://github.com/lsyurea/portfolio_next) — last push: 2026-03-14
 - 🌐 [lsyurea/ml_streamlit_template](https://github.com/lsyurea/ml_streamlit_template) — last push: 2026-03-14
 - 🔒 [lsyurea/shortcuts](https://github.com/lsyurea/shortcuts) — last push: 2026-03-13
@@ -40,8 +40,7 @@ Inactive: 52
 - 🔒 [lsyurea/Ecommerce_Mobile](https://github.com/lsyurea/Ecommerce_Mobile) — last push: 2024-08-15
 - 🔒 [lsyurea/t3_stripe_template](https://github.com/lsyurea/t3_stripe_template) — last push: 2024-08-13
 - 🔒 [lsyurea/stuBuddy](https://github.com/lsyurea/stuBuddy) — last push: 2024-08-05
-- 🌐 [lsyurea/Simple_TODO](https://github.com/lsyurea/Simple_TODO) — last push: 2024-07-04
-- 🔒 [lsyurea/monorepo_template](https://github.com/lsyurea/monorepo_template) — last push: 2024-07-03
+- 🌐 [lsyurea/monorepo_template](https://github.com/lsyurea/monorepo_template) — last push: 2024-07-03
 - 🔒 [lsyurea/gen_shorts](https://github.com/lsyurea/gen_shorts) — last push: 2024-06-19
 - 🔒 [lsyurea/gen_image](https://github.com/lsyurea/gen_image) — last push: 2024-06-18
 - 🔒 [lsyurea/3d_aigen_shirt](https://github.com/lsyurea/3d_aigen_shirt) — last push: 2024-06-09
@@ -51,7 +50,6 @@ Inactive: 52
 - 🌐 [lsyurea/Deep-Learning](https://github.com/lsyurea/Deep-Learning) — last push: 2024-05-21
 - 🌐 [lsyurea/Unity-Mini-games](https://github.com/lsyurea/Unity-Mini-games) — last push: 2024-05-16
 - 🌐 [lsyurea/AI_ChatBot](https://github.com/lsyurea/AI_ChatBot) — last push: 2024-05-12
-- 🌐 [lsyurea/NUS-CheatSheet](https://github.com/lsyurea/NUS-CheatSheet) — last push: 2024-04-28
 - 🔒 [lsyurea/Blog](https://github.com/lsyurea/Blog) — last push: 2024-04-17
 - 🌐 [lsyurea/Web-Forum](https://github.com/lsyurea/Web-Forum) — last push: 2024-03-02
 - 🌐 [lsyurea/crypto_platform](https://github.com/lsyurea/crypto_platform) — last push: 2024-03-01
@@ -72,11 +70,7 @@ Inactive: 52
 - 🌐 [lsyurea/Python-projects](https://github.com/lsyurea/Python-projects) — last push: 2023-07-21
 - 🌐 [lsyurea/Web-crawling](https://github.com/lsyurea/Web-crawling) — last push: 2023-07-19
 - 🔒 [lsyurea/Web-Development-Project](https://github.com/lsyurea/Web-Development-Project) — last push: 2023-07-16
-- 🔒 [lsyurea/Chattybot](https://github.com/lsyurea/Chattybot) — last push: 2023-07-15
 - 🔒 [lsyurea/hfg-project](https://github.com/lsyurea/hfg-project) — last push: 2023-02-11
 - 🔒 [lsyurea/Go-application](https://github.com/lsyurea/Go-application) — last push: 2022-12-14
 - 🌐 [lsyurea/CS1101S](https://github.com/lsyurea/CS1101S) — last push: 2022-11-07
-- 🔒 [lsyurea/Odin](https://github.com/lsyurea/Odin) — last push: 2022-07-29
-- 🔒 [lsyurea/Parallax-compression](https://github.com/lsyurea/Parallax-compression) — last push: 2022-04-04
-- 🔒 [lsyurea/different-sorting-algorithms](https://github.com/lsyurea/different-sorting-algorithms) — last push: 2022-04-04
 <!-- REPO_ACTIVITY:END -->
