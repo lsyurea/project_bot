@@ -2,13 +2,15 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-03-21T03:09:40.733Z*
+> *Last updated: 2026-03-21T13:27:15.381Z*
 
-**Total listings: 35** *(MyCareersFuture: 26 | LinkedIn: 10)*
+**Total listings: 23** *(MyCareersFuture: 14 | LinkedIn: 9)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Software Engineer II, Growth | AIRWALLEX (SINGAPORE) PTE. LTD. | MyCareersFuture | 2 | 2026-03-21 | [Apply](https://www.mycareersfuture.gov.sg/job/2ce8678a726e3b006051a2932f98e14b) |
 | Software Developer | Dalstech Pte Ltd | LinkedIn | — | 2026-03-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Developer%20Dalstech%20Pte%20Ltd&location=Singapore) |
+| Software Engineer, Desktop | A1 | LinkedIn | — | 2026-03-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Desktop%20A1&location=Singapore) |
 | Control (Software) Design Engineer / PLC Programmer #70912 | ANRADUS PTE. LTD. | MyCareersFuture | 0 | 2026-03-20 | [Apply](https://www.mycareersfuture.gov.sg/job/57194b5f2fed00c6a8696aa01ede2888) |
 | Senior Software Safety Engineer | STAR CAREER CONSULTING PTE. LTD. | MyCareersFuture | 2 | 2026-03-20 | [Apply](https://www.mycareersfuture.gov.sg/job/5fe05b08ebdeab0cbb214d1be58bf976) |
 | Software Engineer III - Java and Cutover Platform Development | JPMORGAN CHASE BANK, N.A. | MyCareersFuture | 2 | 2026-03-20 | [Apply](https://www.mycareersfuture.gov.sg/job/262c2c93c28e29485cb2f18746ffab93) |
@@ -26,20 +28,6 @@
 | Intern, Software Development Engineer [COO-GET-ENG] | Autodesk | LinkedIn | — | 2026-03-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Intern%2C%20Software%20Development%20Engineer%20%5BCOO-GET-ENG%5D%20Autodesk&location=Singapore) |
 | Software Engineer, Python | Grasshopper | LinkedIn | — | 2026-03-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Python%20Grasshopper&location=Singapore) |
 | Software Engineer (No Experience Needed) | Red Alpha Cybersecurity | LinkedIn | — | 2026-03-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(No%20Experience%20Needed)%20Red%20Alpha%20Cybersecurity&location=Singapore) |
-| Software Engineer, Isomer | Open Government Products | LinkedIn | — | 2026-03-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Isomer%20Open%20Government%20Products&location=Singapore) |
-| Senior C++ Software Engineer - Perception | MOTIONAL SINGAPORE PTE. LIMITED | MyCareersFuture | 2 | 2026-03-19 | [Apply](https://www.mycareersfuture.gov.sg/job/92c4d7cc3a9781770586feb98c873e09) |
-| Software Engineer (Application Support) | QUESSCORP SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-03-19 | [Apply](https://www.mycareersfuture.gov.sg/job/900e475783ca25354e7d48e9aa5ea235) |
-| Software Application Engineer - WCAN | WECRUIT PTE. LTD. | MyCareersFuture | 1 | 2026-03-19 | [Apply](https://www.mycareersfuture.gov.sg/job/39985c205d524c18afcdc41ae909da99) |
-| Backend Engineer/Software Engineer (High-Growth Product Company, Engineering-driven team) | DADACONSULTANTS PTE. LTD. | MyCareersFuture | 2 | 2026-03-19 | [Apply](https://www.mycareersfuture.gov.sg/job/591be3dabc241bd37594305d7dc3c250) |
-| Android Software Engineer, Manus | FACEBOOK SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-03-19 | [Apply](https://www.mycareersfuture.gov.sg/job/8ebf4fdc9e1d555262cbd7575a020683) |
-| iOS Software Engineer, Manus | FACEBOOK SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-03-19 | [Apply](https://www.mycareersfuture.gov.sg/job/709fa6f5a4ad21741ba77716ee74bc96) |
-| Software Engineer, Mobile - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 2 | 2026-03-19 | [Apply](https://www.mycareersfuture.gov.sg/job/c07c4147ebcd299adc50f175529e7873) |
-| Software Engineer (System Integrator/ SME/ North) | GMP TECHNOLOGIES (S) PTE LTD | MyCareersFuture | 1 | 2026-03-19 | [Apply](https://www.mycareersfuture.gov.sg/job/e450d0a8396fe8d39a836b388a3c957d) |
-| Software Engineer #SGUnitedJobs | INNOVATIVE TOOL TECHNOLOGY PTE. LTD. | MyCareersFuture | 2 | 2026-03-19 | [Apply](https://www.mycareersfuture.gov.sg/job/4504c6e5eb498ab1642800751501d001) |
-| G16 - Software Quality Engineer | FPT ASIA PACIFIC PTE. LTD. | MyCareersFuture | 2 | 2026-03-19 | [Apply](https://www.mycareersfuture.gov.sg/job/61d1d9b72dfea6353f2896d801532780) |
-| Software Engineer | RAKUTEN ASIA PTE. LTD. | MyCareersFuture | 0 | 2026-03-19 | [Apply](https://www.mycareersfuture.gov.sg/job/564e23b4eb74c6595cba7b809c58b312) |
-| Embedded Software Engineer | NUVOTON TECHNOLOGY SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-03-19 | [Apply](https://www.mycareersfuture.gov.sg/job/f79d256c4b870ae97de0bb2ec408c897) |
 | Software Engineer | Internal Security Department | LinkedIn | — | 2026-03-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Internal%20Security%20Department&location=Singapore) |
 | Engineer I, IT (Technical Solutions) | Scoot | LinkedIn | — | 2026-03-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Engineer%20I%2C%20IT%20(Technical%20Solutions)%20Scoot&location=Singapore) |
 | Software Engineer II | Rockwell Automation | LinkedIn | — | 2026-03-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20II%20Rockwell%20Automation&location=Singapore) |
-| Software Engineer | Pyxis | LinkedIn | — | 2026-03-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Pyxis&location=Singapore) |
