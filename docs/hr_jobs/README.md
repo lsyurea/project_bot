@@ -2,16 +2,14 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-03-21T13:27:14.280Z*
+> *Last updated: 2026-03-22T03:27:18.395Z*
 
-**Total listings: 35** *(MyCareersFuture: 26 | LinkedIn: 9)*
+**Total listings: 28** *(MyCareersFuture: 22 | LinkedIn: 6)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
-| HR Officer | Premium Automobiles Pte Ltd | LinkedIn | — | 2026-03-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Officer%20Premium%20Automobiles%20Pte%20Ltd&location=Singapore) |
-| Talent Acquisition Manager / HR Project Specialist / HR Assistant | Iraq Jobs وظائف العراق | LinkedIn | — | 2026-03-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Manager%20%2F%20HR%20Project%20Specialist%20%2F%20HR%20Assistant%20Iraq%20Jobs%20%D9%88%D8%B8%D8%A7%D8%A6%D9%81%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82&location=Singapore) |
-| Talent Development Manager / Training Executive / L&D Assistant | National Center for Electron Beam Research - Texas A&M University | LinkedIn | — | 2026-03-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Development%20Manager%20%2F%20Training%20Executive%20%2F%20L%26amp%3BD%20Assistant%20National%20Center%20for%20Electron%20Beam%20Research%20-%20Texas%20A%26amp%3BM%20University&location=Singapore) |
-| Learning & Development Manager / Learning & Development Executive / Training Assistant | Digital Witch Support Community | LinkedIn | — | 2026-03-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Learning%20%26amp%3B%20Development%20Manager%20%2F%20Learning%20%26amp%3B%20Development%20Executive%20%2F%20Training%20Assistant%20Digital%20Witch%20Support%20Community&location=Singapore) |
+| Talent Acquisition Specialist / HR Project Lead / HR Project Specialist | Iraq Jobs وظائف العراق | LinkedIn | — | 2026-03-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Specialist%20%2F%20HR%20Project%20Lead%20%2F%20HR%20Project%20Specialist%20Iraq%20Jobs%20%D9%88%D8%B8%D8%A7%D8%A6%D9%81%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82&location=Singapore) |
+| Satair - People Solutions Specialist | Airbus | LinkedIn | — | 2026-03-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Satair%20-%20People%20Solutions%20Specialist%20Airbus&location=Singapore) |
 | Administrative | VIBRANIUM ENGINEERING PTE. LTD. | MyCareersFuture | 2 | 2026-03-20 | [Apply](https://www.mycareersfuture.gov.sg/job/a4d1d86dbd81c64d09be9373fee095ef) |
 | Contract HR Specialist/Assistants (up to $3.6K, Healthcare) #HCGT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-03-20 | [Apply](https://www.mycareersfuture.gov.sg/job/506f4543a88cf14b478099e46870df57) |
 | HR & Admin Officer | CHINA COMMUNICATIONS CONSTRUCTION COMPANY LIMITED (Singapore Branch) | MyCareersFuture | 2 | 2026-03-20 | [Apply](https://www.mycareersfuture.gov.sg/job/944157818830de377ee21740197bd341) |
@@ -34,12 +32,7 @@
 | MARKETING EXECUTIVE | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-03-20 | [Apply](https://www.mycareersfuture.gov.sg/job/4d4e622bbdb313260f4bc29c15f8ab4e) |
 | MANAGEMENT TRAINEE (RETAIL) | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-03-20 | [Apply](https://www.mycareersfuture.gov.sg/job/d4562e5a9816cdcd97c5f90ec69659bf) |
 | MANAGEMENT TRAINEE (F&B) | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-03-20 | [Apply](https://www.mycareersfuture.gov.sg/job/0bf87546e976acda1273939f0bf2ce33) |
-| HR cum Admin Executive | ZENO EXHIBITION PTE. LTD. | MyCareersFuture | 2 | 2026-03-20 | [Apply](https://www.mycareersfuture.gov.sg/job/dde0ad8e8f9ab5451f253386e0836d7b) |
-| HR Executive | MAXX ENGINEERING PTE. LTD. | MyCareersFuture | 2 | 2026-03-20 | [Apply](https://www.mycareersfuture.gov.sg/job/77ba8867bf5f097984a2d8adc352c4fd) |
-| SENIOR HR EXECUTIVE / ASSISTANT HR MANAGER | MANDATE OF MANPOWER PTE. LTD. | MyCareersFuture | 2 | 2026-03-20 | [Apply](https://www.mycareersfuture.gov.sg/job/6b24f4388e249c0a852fc3e23d4814b4) |
-| HR EXECUTIVE | MANDATE OF MANPOWER PTE. LTD. | MyCareersFuture | 1 | 2026-03-20 | [Apply](https://www.mycareersfuture.gov.sg/job/f70249562ab502712cf1b30f94b3f53f) |
 | Regional Human Resources Generalist | HRLinked Asia Search & Consultancy Pte Ltd | LinkedIn | — | 2026-03-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Regional%20Human%20Resources%20Generalist%20HRLinked%20Asia%20Search%20%26amp%3B%20Consultancy%20Pte%20Ltd&location=Singapore) |
 | HR Generalist - 18-week Fix Term Contract | BeyondTrust | LinkedIn | — | 2026-03-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Generalist%20-%2018-week%20Fix%20Term%20Contract%20BeyondTrust&location=Singapore) |
 | Contract Talent Acquisition Specialist | SP Group | LinkedIn | — | 2026-03-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Contract%20Talent%20Acquisition%20Specialist%20SP%20Group&location=Singapore) |
 | Associate / Assistant Manager, Pre-opening & Projects, SEAA (9 months contract) | Frasers Property Limited | LinkedIn | — | 2026-03-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Associate%20%2F%20Assistant%20Manager%2C%20Pre-opening%20%26amp%3B%20Projects%2C%20SEAA%20(9%20months%20contract)%20Frasers%20Property%20Limited&location=Singapore) |
-| People & Culture Executive | Mandarin Oriental | LinkedIn | — | 2026-03-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20%26amp%3B%20Culture%20Executive%20Mandarin%20Oriental&location=Singapore) |
