@@ -3,14 +3,15 @@
 This repository automatically updates repository activity stats for my GitHub account.
 
 <!-- REPO_ACTIVITY:START -->
-Generated: 2026-03-22T03:19:19.896Z
+Generated: 2026-03-22T07:06:22.648Z
 
 Active window: last 90 days (cutoff: 2025-12-22)
-Total repositories analyzed: 51
-Active: 14
-Inactive: 37
+Total repositories analyzed: 50
+Active: 15
+Inactive: 35
 
 ### Active Repositories
+- 🌐 [lsyurea/courserekt](https://github.com/lsyurea/courserekt) — last push: 2026-03-22
 - 🌐 [lsyurea/project_bot](https://github.com/lsyurea/project_bot) — last push: 2026-03-22
 - 🌐 [lsyurea/ollama](https://github.com/lsyurea/ollama) — last push: 2026-03-21
 - 🔒 [lsyurea/frontend_mono](https://github.com/lsyurea/frontend_mono) — last push: 2026-03-20
@@ -32,11 +33,11 @@ Inactive: 37
 - 🔒 [lsyurea/llm_free](https://github.com/lsyurea/llm_free) — last push: 2025-01-08
 - 🔒 [lsyurea/tsa_stock](https://github.com/lsyurea/tsa_stock) — last push: 2025-01-06
 - 🔒 [lsyurea/codeditor](https://github.com/lsyurea/codeditor) — last push: 2024-12-23
+- 🌐 [lsyurea/cs3219-ay2425s1-project-g11](https://github.com/lsyurea/cs3219-ay2425s1-project-g11) — last push: 2024-12-10
 - 🔒 [lsyurea/embedded-code-assistance](https://github.com/lsyurea/embedded-code-assistance) — last push: 2024-11-07
 - 🔒 [lsyurea/Simple_Ecommerce](https://github.com/lsyurea/Simple_Ecommerce) — last push: 2024-10-31
 - 🌐 [lsyurea/code-to-give-frontend](https://github.com/lsyurea/code-to-give-frontend) — last push: 2024-08-26
 - 🔒 [lsyurea/Ecommerce_Mobile](https://github.com/lsyurea/Ecommerce_Mobile) — last push: 2024-08-15
-- 🔒 [lsyurea/t3_stripe_template](https://github.com/lsyurea/t3_stripe_template) — last push: 2024-08-13
 - 🔒 [lsyurea/stuBuddy](https://github.com/lsyurea/stuBuddy) — last push: 2024-08-05
 - 🌐 [lsyurea/monorepo_template](https://github.com/lsyurea/monorepo_template) — last push: 2024-07-03
 - 🔒 [lsyurea/gen_shorts](https://github.com/lsyurea/gen_shorts) — last push: 2024-06-19
@@ -55,8 +56,6 @@ Inactive: 37
 - 🌐 [lsyurea/TriveTribe](https://github.com/lsyurea/TriveTribe) — last push: 2024-02-09
 - 🔒 [lsyurea/ptfolio](https://github.com/lsyurea/ptfolio) — last push: 2024-01-07
 - 🌐 [lsyurea/tskManager](https://github.com/lsyurea/tskManager) — last push: 2024-01-05
-- 🌐 [lsyurea/courserekt](https://github.com/lsyurea/courserekt) — last push: 2023-12-19
-- 🔒 [lsyurea/Portfolio](https://github.com/lsyurea/Portfolio) — last push: 2023-12-03
 - 🌐 [lsyurea/tp](https://github.com/lsyurea/tp) — last push: 2023-11-19
 - 🌐 [lsyurea/ip](https://github.com/lsyurea/ip) — last push: 2023-09-20
 - 🌐 [lsyurea/twittok](https://github.com/lsyurea/twittok) — last push: 2023-09-09
