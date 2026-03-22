@@ -3,15 +3,15 @@
 This repository automatically updates repository activity stats for my GitHub account.
 
 <!-- REPO_ACTIVITY:START -->
-Generated: 2026-03-22T02:57:08.711Z
+Generated: 2026-03-22T03:19:19.896Z
 
 Active window: last 90 days (cutoff: 2025-12-22)
-Total repositories analyzed: 53
+Total repositories analyzed: 51
 Active: 14
-Inactive: 39
+Inactive: 37
 
 ### Active Repositories
-- 🌐 [lsyurea/project_bot](https://github.com/lsyurea/project_bot) — last push: 2026-03-21
+- 🌐 [lsyurea/project_bot](https://github.com/lsyurea/project_bot) — last push: 2026-03-22
 - 🌐 [lsyurea/ollama](https://github.com/lsyurea/ollama) — last push: 2026-03-21
 - 🔒 [lsyurea/frontend_mono](https://github.com/lsyurea/frontend_mono) — last push: 2026-03-20
 - 🔒 [lsyurea/Ecommerce](https://github.com/lsyurea/Ecommerce) — last push: 2026-03-18
@@ -56,9 +56,7 @@ Inactive: 39
 - 🔒 [lsyurea/ptfolio](https://github.com/lsyurea/ptfolio) — last push: 2024-01-07
 - 🌐 [lsyurea/tskManager](https://github.com/lsyurea/tskManager) — last push: 2024-01-05
 - 🌐 [lsyurea/courserekt](https://github.com/lsyurea/courserekt) — last push: 2023-12-19
-- 🔒 [lsyurea/portfolio-v2](https://github.com/lsyurea/portfolio-v2) — last push: 2023-12-13
 - 🔒 [lsyurea/Portfolio](https://github.com/lsyurea/Portfolio) — last push: 2023-12-03
-- 🌐 [lsyurea/pe](https://github.com/lsyurea/pe) — last push: 2023-11-21
 - 🌐 [lsyurea/tp](https://github.com/lsyurea/tp) — last push: 2023-11-19
 - 🌐 [lsyurea/ip](https://github.com/lsyurea/ip) — last push: 2023-09-20
 - 🌐 [lsyurea/twittok](https://github.com/lsyurea/twittok) — last push: 2023-09-09
