@@ -3,15 +3,16 @@
 This repository automatically updates repository activity stats for my GitHub account.
 
 <!-- REPO_ACTIVITY:START -->
-Generated: 2026-03-23T13:45:45.741Z
+Generated: 2026-03-23T17:22:31.950Z
 
 Active window: last 90 days (cutoff: 2025-12-23)
 Total repositories analyzed: 50
-Active: 15
-Inactive: 35
+Active: 16
+Inactive: 34
 
 ### Active Repositories
 - 🔒 [lsyurea/frontend_mono](https://github.com/lsyurea/frontend_mono) — last push: 2026-03-23
+- 🌐 [lsyurea/kimi-cli](https://github.com/lsyurea/kimi-cli) — last push: 2026-03-23
 - 🌐 [lsyurea/project_bot](https://github.com/lsyurea/project_bot) — last push: 2026-03-23
 - 🌐 [lsyurea/miles](https://github.com/lsyurea/miles) — last push: 2026-03-23
 - 🌐 [lsyurea/courserekt](https://github.com/lsyurea/courserekt) — last push: 2026-03-22
@@ -54,7 +55,6 @@ Inactive: 35
 - 🌐 [lsyurea/crypto_platform](https://github.com/lsyurea/crypto_platform) — last push: 2024-03-01
 - 🔒 [lsyurea/ThriftJoy](https://github.com/lsyurea/ThriftJoy) — last push: 2024-02-12
 - 🌐 [lsyurea/TriveTribe](https://github.com/lsyurea/TriveTribe) — last push: 2024-02-09
-- 🔒 [lsyurea/ptfolio](https://github.com/lsyurea/ptfolio) — last push: 2024-01-07
 - 🌐 [lsyurea/tskManager](https://github.com/lsyurea/tskManager) — last push: 2024-01-05
 - 🌐 [lsyurea/tp](https://github.com/lsyurea/tp) — last push: 2023-11-19
 - 🌐 [lsyurea/ip](https://github.com/lsyurea/ip) — last push: 2023-09-20
