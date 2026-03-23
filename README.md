@@ -3,7 +3,7 @@
 This repository automatically updates repository activity stats for my GitHub account.
 
 <!-- REPO_ACTIVITY:START -->
-Generated: 2026-03-23T07:38:00.991Z
+Generated: 2026-03-23T13:45:45.741Z
 
 Active window: last 90 days (cutoff: 2025-12-23)
 Total repositories analyzed: 50
@@ -11,11 +11,11 @@ Active: 15
 Inactive: 35
 
 ### Active Repositories
-- 🌐 [lsyurea/miles](https://github.com/lsyurea/miles) — last push: 2026-03-23
+- 🔒 [lsyurea/frontend_mono](https://github.com/lsyurea/frontend_mono) — last push: 2026-03-23
 - 🌐 [lsyurea/project_bot](https://github.com/lsyurea/project_bot) — last push: 2026-03-23
+- 🌐 [lsyurea/miles](https://github.com/lsyurea/miles) — last push: 2026-03-23
 - 🌐 [lsyurea/courserekt](https://github.com/lsyurea/courserekt) — last push: 2026-03-22
 - 🌐 [lsyurea/ollama](https://github.com/lsyurea/ollama) — last push: 2026-03-21
-- 🔒 [lsyurea/frontend_mono](https://github.com/lsyurea/frontend_mono) — last push: 2026-03-20
 - 🔒 [lsyurea/Ecommerce](https://github.com/lsyurea/Ecommerce) — last push: 2026-03-18
 - 🔒 [lsyurea/portfolio_next](https://github.com/lsyurea/portfolio_next) — last push: 2026-03-14
 - 🌐 [lsyurea/ml_streamlit_template](https://github.com/lsyurea/ml_streamlit_template) — last push: 2026-03-14
