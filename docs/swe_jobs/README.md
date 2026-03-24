@@ -2,12 +2,14 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-03-23T13:57:32.156Z*
+> *Last updated: 2026-03-24T03:21:50.645Z*
 
-**Total listings: 25** *(MyCareersFuture: 16 | LinkedIn: 9)*
+**Total listings: 23** *(MyCareersFuture: 14 | LinkedIn: 9)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Software Engineer - Java & Andriod | EUCHARIST-TECH PTE. LTD. | MyCareersFuture | 2 | 2026-03-24 | [Apply](https://www.mycareersfuture.gov.sg/job/1342b1f9383b07c69812fe44e34643f6) |
+| Software Engineer Intern | PICK NETWORK PTE. LTD. | MyCareersFuture | 2 | 2026-03-24 | [Apply](https://www.mycareersfuture.gov.sg/job/6c79da89c231487fd43d34732efa5f6a) |
 | Software Engineer (C++/C#, Machine Automation) #76684 | ANRADUS PTE. LTD. | MyCareersFuture | 1 | 2026-03-23 | [Apply](https://www.mycareersfuture.gov.sg/job/76ba5be5f0d727c1516398a7d09dd75b) |
 | Full Stack Software Engineer - AI | RANDSTAD PTE. LIMITED | MyCareersFuture | 2 | 2026-03-23 | [Apply](https://www.mycareersfuture.gov.sg/job/d141c56ca5c696eeeafcaf7555b4eac9) |
 | Entry-level Software Engineer (C++) | AMBITION GROUP SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-03-23 | [Apply](https://www.mycareersfuture.gov.sg/job/6ca1d891a9a7623ee6fad2afe8b6a13f) |
@@ -24,12 +26,8 @@
 | Software Engineer (No Experience Needed) | Red Alpha Cybersecurity | LinkedIn | — | 2026-03-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(No%20Experience%20Needed)%20Red%20Alpha%20Cybersecurity&location=Singapore) |
 | Software Developer (Salesforce) (Graduate Program) - 2026 Hires | Capgemini | LinkedIn | — | 2026-03-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Developer%20(Salesforce)%20(Graduate%20Program)%20-%202026%20Hires%20Capgemini&location=Singapore) |
 | Quantitative Developer - AI Implementation | WorldQuant | LinkedIn | — | 2026-03-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Quantitative%20Developer%20-%20AI%20Implementation%20WorldQuant&location=Singapore) |
-| QA Engineer / Test Engineer / Automation Engineer | Recruiter da Incubo | LinkedIn | — | 2026-03-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=QA%20Engineer%20%2F%20Test%20Engineer%20%2F%20Automation%20Engineer%20Recruiter%20da%20Incubo&location=Singapore) |
 | Test Engineer I (HP) | Jabil | LinkedIn | — | 2026-03-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Test%20Engineer%20I%20(HP)%20Jabil&location=Singapore) |
-| Software Engineer (Frontend/ Backend) | INTUIT RECRUITMENT PTE. LTD. | MyCareersFuture | 2 | 2026-03-22 | [Apply](https://www.mycareersfuture.gov.sg/job/80fbab8a19705afae609266bd2cc96d7) |
+| Software Developer (iOS) | Marina Bay Sands | LinkedIn | — | 2026-03-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Developer%20(iOS)%20Marina%20Bay%20Sands&location=Singapore) |
+| Cybersecurity Software Engineer | ST Engineering | LinkedIn | — | 2026-03-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Cybersecurity%20Software%20Engineer%20ST%20Engineering&location=Singapore) |
+| Salesforce DevOps/Test Automation Engineer (Graduate Program) - 2026 Hires | Capgemini | LinkedIn | — | 2026-03-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Salesforce%20DevOps%2FTest%20Automation%20Engineer%20(Graduate%20Program)%20-%202026%20Hires%20Capgemini&location=Singapore) |
 | Java Engineer - Exchange Service | Binance | LinkedIn | — | 2026-03-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Java%20Engineer%20-%20Exchange%20Service%20Binance&location=Singapore) |
-| Cloud and System Engineer | SOURCEO | LinkedIn | — | 2026-03-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Cloud%20and%20System%20Engineer%20SOURCEO&location=Singapore) |
-| Senior Software Safety Engineer | ENGGSOL PTE. LTD. | MyCareersFuture | 2 | 2026-03-21 | [Apply](https://www.mycareersfuture.gov.sg/job/3f9d9819ee6105a7eec40e7ab4a74a72) |
-| System Engineer L1 | ENGGSOL PTE. LTD. | MyCareersFuture | 1 | 2026-03-21 | [Apply](https://www.mycareersfuture.gov.sg/job/7b75bbbbaba4d5a23043613fdc14f20e) |
-| System Engineer L2 | ENGGSOL PTE. LTD. | MyCareersFuture | 2 | 2026-03-21 | [Apply](https://www.mycareersfuture.gov.sg/job/6cd8d5806420f3561a34d7634c6b3efd) |
-| Test Requisition - Engineer | Marriott International | LinkedIn | — | 2026-03-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Test%20Requisition%20-%20Engineer%20Marriott%20International&location=Singapore) |
