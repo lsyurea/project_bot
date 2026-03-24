@@ -2,12 +2,22 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-03-23T13:57:28.050Z*
+> *Last updated: 2026-03-24T03:21:44.226Z*
 
-**Total listings: 29** *(MyCareersFuture: 22 | LinkedIn: 10)*
+**Total listings: 34** *(MyCareersFuture: 28 | LinkedIn: 9)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Recruitment Executive | HONG YE GROUP PTE. LTD. | MyCareersFuture | 2 | 2026-03-24 | [Apply](https://www.mycareersfuture.gov.sg/job/17158231ad503d881f4caf9edb7ba14a) |
+| Store Sales Executive | POKEMON SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-03-24 | [Apply](https://www.mycareersfuture.gov.sg/job/cda54d6f8389bc6abcb1e4bbd383f1af) |
+| Human Resource Executive (International School Singapore) | KEY TRUST RECRUITMENT PTE. LTD. | MyCareersFuture | 2 | 2026-03-24 | [Apply](https://www.mycareersfuture.gov.sg/job/f439831f4b107ce5edf55738b6a96daf) |
+| Client Implementation Specialist | ENABLE BUSINESS PTE. LTD. | MyCareersFuture | 2 | 2026-03-24 | [Apply](https://www.mycareersfuture.gov.sg/job/f8418df2dd694e7f978a4ea23dd2741f) |
+| Postdoctoral/Research Fellowship at the Asia Research Institute (NurseTracs) | NATIONAL UNIVERSITY OF SINGAPORE | MyCareersFuture | 2 | 2026-03-24 | [Apply](https://www.mycareersfuture.gov.sg/job/114eacfa722d05f5d6edbe1e18ee07bf) |
+| HR Executive | HUATIONG CONTRACTOR PTE LTD | MyCareersFuture | 2 | 2026-03-24 | [Apply](https://www.mycareersfuture.gov.sg/job/bb7db914d4ae51cc167a7acd8ff48152) |
+| HR Operations Specialist / HR Operations Coordinator / HR Ops Manager | The Equity Gaming Project | LinkedIn | — | 2026-03-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Operations%20Specialist%20%2F%20HR%20Operations%20Coordinator%20%2F%20HR%20Ops%20Manager%20The%20Equity%20Gaming%20Project&location=Singapore) |
+| HR Coordinator / HR Executive / HR Manager | Talentry Hub | LinkedIn | — | 2026-03-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Coordinator%20%2F%20HR%20Executive%20%2F%20HR%20Manager%20Talentry%20Hub&location=Singapore) |
+| Human Resources Specialist | Insight Genesis - IGAi | LinkedIn | — | 2026-03-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Specialist%20Insight%20Genesis%20-%20IGAi&location=Singapore) |
+| HR Specialist / HR Coordinator / HR Manager | HEAL Society (Health Equity Accelerator Leadership Society) | LinkedIn | — | 2026-03-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Specialist%20%2F%20HR%20Coordinator%20%2F%20HR%20Manager%20HEAL%20Society%20(Health%20Equity%20Accelerator%20Leadership%20Society)&location=Singapore) |
 | ACCOUNTING OFFICER | SAWDUST CARPENTRY PTE. LTD. | MyCareersFuture | 2 | 2026-03-23 | [Apply](https://www.mycareersfuture.gov.sg/job/3154b5b28f0b8f43c78e3c3c5f9a67e0) |
 | Urgent! HR Assistant (Construction / Recruitment) | TRUST RECRUIT PTE. LTD. | MyCareersFuture | 1 | 2026-03-23 | [Apply](https://www.mycareersfuture.gov.sg/job/81a50b4964923aae898f674f93fa12b1) |
 | HR & Admin Executive | GSAFETY TECHNOLOGY PTE. LTD. | MyCareersFuture | 1 | 2026-03-23 | [Apply](https://www.mycareersfuture.gov.sg/job/fe495f95f3a447203d0bb376690bbb3c) |
@@ -26,14 +36,9 @@
 | HR cum Admin Executive | TROPIC PLANNERS & LANDSCAPE PTE. LTD. | MyCareersFuture | 1 | 2026-03-23 | [Apply](https://www.mycareersfuture.gov.sg/job/ee092a4e760e48dd8b4220f5f97b04a2) |
 | HR Reward Executive | RANDSTAD PTE. LIMITED | MyCareersFuture | 2 | 2026-03-23 | [Apply](https://www.mycareersfuture.gov.sg/job/d38db1b12d00c2a8f6fb1b196f354aa3) |
 | Employee Experience Associate | CHARLES & KEITH GROUP | LinkedIn | — | 2026-03-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Employee%20Experience%20Associate%20CHARLES%20%26amp%3B%20KEITH%20GROUP&location=Singapore) |
-| Human Resources Executive | Club21 | LinkedIn | — | 2026-03-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20Club21&location=Singapore) |
 | HR Assistant | Linklaters Asia | LinkedIn | — | 2026-03-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Assistant%20Linklaters%20Asia&location=Singapore) |
+| Human Resources Executive | Club21 | LinkedIn | — | 2026-03-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20Club21&location=Singapore) |
 | Talent Acquisition Manager / HR Operations Executive / HR Coordinator | Ladies of FMCG | LinkedIn | — | 2026-03-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Manager%20%2F%20HR%20Operations%20Executive%20%2F%20HR%20Coordinator%20Ladies%20of%20FMCG&location=Singapore) |
-| Human Resources Executive (Graduate Trainee) | recruitSG | LinkedIn | — | 2026-03-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20(Graduate%20Trainee)%20recruitSG&location=Singapore) |
-| Business Development Analyst | StoneX Group Inc. | LinkedIn | — | 2026-03-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Business%20Development%20Analyst%20StoneX%20Group%20Inc.&location=Singapore) |
-| Account Executive | StoneX Group Inc. | LinkedIn | — | 2026-03-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Account%20Executive%20StoneX%20Group%20Inc.&location=Singapore) |
-| Upper River Valley Patient Care Attendant 2 (3025) PCN 1155157 | Horizon Health Network | LinkedIn | — | 2026-03-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Upper%20River%20Valley%20Patient%20Care%20Attendant%202%20(3025)%20PCN%201155157%20Horizon%20Health%20Network&location=Singapore) |
 | HR Assistant | TRUST RECRUIT PTE. LTD. | MyCareersFuture | 1 | 2026-03-22 | [Apply](https://www.mycareersfuture.gov.sg/job/c0a129189a89e7604cbdb9486be87b4f) |
 | Management Training Executive -INJ-B06 | MCKIN TALENT SOLUTIONS PTE. LTD. | MyCareersFuture | 0 | 2026-03-22 | [Apply](https://www.mycareersfuture.gov.sg/job/fd457358f7234fe0c5534b7252f952a3) |
 | HR Specialist/Assistant | Geomotion (Singapore) Private Limited | LinkedIn | — | 2026-03-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Specialist%2FAssistant%20Geomotion%20(Singapore)%20Private%20Limited&location=Singapore) |
-| Satair - People Solutions Specialist | Airbus | LinkedIn | — | 2026-03-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Satair%20-%20People%20Solutions%20Specialist%20Airbus&location=Singapore) |
