@@ -2,19 +2,32 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-03-25T03:26:20.603Z*
+> *Last updated: 2026-03-25T13:58:05.595Z*
 
-**Total listings: 34** *(MyCareersFuture: 27 | LinkedIn: 9)*
+**Total listings: 36** *(MyCareersFuture: 34 | LinkedIn: 9)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Software Engineer | AIRWALLEX (SINGAPORE) PTE. LTD. | MyCareersFuture | 2 | 2026-03-25 | [Apply](https://www.mycareersfuture.gov.sg/job/c819877c7c95fbeebbbb1b795bf22e1a) |
+| Engineer, Software | LEEDEN NATIONAL OXYGEN LTD. | MyCareersFuture | 2 | 2026-03-25 | [Apply](https://www.mycareersfuture.gov.sg/job/66e2528ecf0b0d844e47dc46ee97c0b7) |
+| Robotic Software Development Engineer (Process Robotisation), ARTC | A*STAR RESEARCH ENTITIES | MyCareersFuture | 2 | 2026-03-25 | [Apply](https://www.mycareersfuture.gov.sg/job/6f7af1d2d53f372fe79113aa43456854) |
+| C/C++ Software Engineer | DCONSTRUCT ROBOTICS PTE. LTD. | MyCareersFuture | 1 | 2026-03-25 | [Apply](https://www.mycareersfuture.gov.sg/job/510e5192a1fc21cc803116e946a130e8) |
+| Backend Software Engineer - Data Management Suite | BYTEDANCE PTE. LTD. | MyCareersFuture | 2 | 2026-03-25 | [Apply](https://www.mycareersfuture.gov.sg/job/0fe9e7f0f39e4671570bf5294b0d1858) |
+| Backend Software Engineer (Aeolus) - Data Platform | BYTEDANCE PTE. LTD. | MyCareersFuture | 2 | 2026-03-25 | [Apply](https://www.mycareersfuture.gov.sg/job/04237d899d7f5123bd305d8b5d82bdf5) |
+| Software Engineer III, Google Ads - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 2 | 2026-03-25 | [Apply](https://www.mycareersfuture.gov.sg/job/dc25e695537dcad9cad26a6de4642628) |
+| Software Engineer | ASSURANCE TECHNOLOGY PTE LTD | MyCareersFuture | 1 | 2026-03-25 | [Apply](https://www.mycareersfuture.gov.sg/job/d5b6f7bfa8bf2ccff9ebed22d68d1e56) |
+| Software Engineer, On-device AI Model Evaluation - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 2 | 2026-03-25 | [Apply](https://www.mycareersfuture.gov.sg/job/281bc0a6e887960f228ae956cf9a8451) |
+| SoC & Multimedia Software Engineer | XG TECH PTE. LTD. | MyCareersFuture | 2 | 2026-03-25 | [Apply](https://www.mycareersfuture.gov.sg/job/f2df845b1820d1a5cc639b09b3a66d60) |
+| Backend Software Engineer (AI Coding), TikTok Live Revenue | TIKTOK PTE. LTD. | MyCareersFuture | 0 | 2026-03-25 | [Apply](https://www.mycareersfuture.gov.sg/job/d5ce7e4ecb49228289a2c76f8e958137) |
+| Senior/Software Engineer [Java Proficiency Preferred] | TALENTSIS PTE. LTD. | MyCareersFuture | 1 | 2026-03-25 | [Apply](https://www.mycareersfuture.gov.sg/job/4b3ee6c5215784643d6d8bed5b141e1b) |
 | Senior/Software Engineer [JS Proficiency Preferred] | TALENTSIS PTE. LTD. | MyCareersFuture | 1 | 2026-03-25 | [Apply](https://www.mycareersfuture.gov.sg/job/6a8ca2f4532aee176dcc10e83add8020) |
 | Backend Software Engineer Graduate (Global LIVE Wallet) | TIKTOK PTE. LTD. | MyCareersFuture | 0 | 2026-03-25 | [Apply](https://www.mycareersfuture.gov.sg/job/c3401e4cfa62dd863983584a559d3e54) |
 | Software Engineer *No exp required (C++ / Java) Boon Lay area | MAESTRO HUMAN RESOURCE PTE. LTD. | MyCareersFuture | 0 | 2026-03-25 | [Apply](https://www.mycareersfuture.gov.sg/job/9906a84f385f4d58423f11d28b6b84f8) |
-| Software Engineer | Open Source | LinkedIn | — | 2026-03-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Open%20Source&location=Singapore) |
-| Junior Developer | Talent Solutions | LinkedIn | — | 2026-03-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Junior%20Developer%20Talent%20Solutions&location=Singapore) |
+| Junior Software Engineer - PL/SQL (Fresh Graduates) | Synpulse | LinkedIn | — | 2026-03-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Junior%20Software%20Engineer%20%7C%20PL%2FSQL%20(Fresh%20Graduates)%20Synpulse&location=Singapore) |
+| Software Developer | Titansoft Pte Ltd | LinkedIn | — | 2026-03-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Developer%20Titansoft%20Pte%20Ltd&location=Singapore) |
 | Software Engineer (No Experience Needed) | Red Alpha Cybersecurity | LinkedIn | — | 2026-03-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(No%20Experience%20Needed)%20Red%20Alpha%20Cybersecurity&location=Singapore) |
-| CloudDeveloper/SoftwareEngineer/FullStackDeveloper | Art Lawyers Association | LinkedIn | — | 2026-03-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=CloudDeveloper%2FSoftwareEngineer%2FFullStackDeveloper%20Art%20Lawyers%20Association&location=Singapore) |
+| Software Engineer (Indonesia) | Willowmore | LinkedIn | — | 2026-03-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Indonesia)%20Willowmore&location=Singapore) |
+| Junior Field Application Engineer (Robotics) | Autolife Robotics Pte Ltd | LinkedIn | — | 2026-03-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Junior%20Field%20Application%20Engineer%20(Robotics)%20Autolife%20Robotics%20Pte%20Ltd&location=Singapore) |
 | Senior Frontend Software Engineer - Map Creator | MOTIONAL SINGAPORE PTE. LIMITED | MyCareersFuture | 2 | 2026-03-24 | [Apply](https://www.mycareersfuture.gov.sg/job/63c876dfb1f5925e170c76b052a13a71) |
 | Senior Software Engineer - Perception Platform | MOTIONAL SINGAPORE PTE. LIMITED | MyCareersFuture | 2 | 2026-03-24 | [Apply](https://www.mycareersfuture.gov.sg/job/1d8546d237db75c8c48133232c464c87) |
 | Software Engineer (Node.js / React) | NEWTONE CONSULTING PTE. LTD. | MyCareersFuture | 2 | 2026-03-24 | [Apply](https://www.mycareersfuture.gov.sg/job/f5972961c7868fae0e439f51212d11d0) |
@@ -29,16 +42,5 @@
 | Software Engineer Intern | PICK NETWORK PTE. LTD. | MyCareersFuture | 2 | 2026-03-24 | [Apply](https://www.mycareersfuture.gov.sg/job/6c79da89c231487fd43d34732efa5f6a) |
 | Software Engineer, University Graduate | Google | LinkedIn | — | 2026-03-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20University%20Graduate%20Google&location=Singapore) |
 | Information Technology - Data Scientist (Data Science Track) | Singapore Airlines | LinkedIn | — | 2026-03-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Information%20Technology%20-%20Data%20Scientist%20(Data%20Science%20Track)%20Singapore%20Airlines&location=Singapore) |
+| Software Engineer (Nucleus Graduate Programme) | NCS Group | LinkedIn | — | 2026-03-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Nucleus%20Graduate%20Programme)%20NCS%20Group&location=Singapore) |
 | Engineer | ST Engineering | LinkedIn | — | 2026-03-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Engineer%20ST%20Engineering&location=Singapore) |
-| Software Engineer (C++/C#, Machine Automation) #76684 | ANRADUS PTE. LTD. | MyCareersFuture | 1 | 2026-03-23 | [Apply](https://www.mycareersfuture.gov.sg/job/76ba5be5f0d727c1516398a7d09dd75b) |
-| Full Stack Software Engineer - AI | RANDSTAD PTE. LIMITED | MyCareersFuture | 2 | 2026-03-23 | [Apply](https://www.mycareersfuture.gov.sg/job/d141c56ca5c696eeeafcaf7555b4eac9) |
-| Entry-level Software Engineer (C++) | AMBITION GROUP SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-03-23 | [Apply](https://www.mycareersfuture.gov.sg/job/6ca1d891a9a7623ee6fad2afe8b6a13f) |
-| Software Engineer (6-month Contract) | RAKUTEN ASIA PTE. LTD. | MyCareersFuture | 2 | 2026-03-23 | [Apply](https://www.mycareersfuture.gov.sg/job/50d8207b4eac60bffa69c8246ceaaea7) |
-| Robotics Software Testing Engineer, Factory Orchestration | INTRINSIC INNOVATION SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-03-23 | [Apply](https://www.mycareersfuture.gov.sg/job/8280a67754910460ee99231dc75e7a0a) |
-| Linux C/C++ Software Engineer | NEXTLABS INTERNATIONAL PRIVATE LIMITED | MyCareersFuture | 1 | 2026-03-23 | [Apply](https://www.mycareersfuture.gov.sg/job/39eea715ac1af40b676cef37f769c06e) |
-| Backend Software Engineer, Account Safety - Trust and Safety | TIKTOK PTE. LTD. | MyCareersFuture | 1 | 2026-03-23 | [Apply](https://www.mycareersfuture.gov.sg/job/295011c6d7d380c5d1d9ff8b44abf438) |
-| Backend Software Engineer - Trust and Safety Engineering | TIKTOK PTE. LTD. | MyCareersFuture | 0 | 2026-03-23 | [Apply](https://www.mycareersfuture.gov.sg/job/e06759884797868797f956290422f05e) |
-| Software Engineer | GRAVITON RESEARCH CAPITAL (SINGAPORE) PTE. LTD. | MyCareersFuture | 2 | 2026-03-23 | [Apply](https://www.mycareersfuture.gov.sg/job/e4d2e358115630a9257ae60fd4a62936) |
-| Software Engineer, Google Pay, Growth - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 2 | 2026-03-23 | [Apply](https://www.mycareersfuture.gov.sg/job/b834886036c2e2fb9b745a99fb375dd3) |
-| Software Engineer (ML/AI) | SHIELD | LinkedIn | — | 2026-03-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(ML%2FAI)%20SHIELD&location=Singapore) |
-| Software Developer (Salesforce) (Graduate Program) - 2026 Hires | Capgemini | LinkedIn | — | 2026-03-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Developer%20(Salesforce)%20(Graduate%20Program)%20-%202026%20Hires%20Capgemini&location=Singapore) |
