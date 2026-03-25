@@ -2,16 +2,23 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-03-25T03:26:13.025Z*
+> *Last updated: 2026-03-25T13:58:07.427Z*
 
-**Total listings: 39** *(MyCareersFuture: 33 | LinkedIn: 9)*
+**Total listings: 31** *(MyCareersFuture: 23 | LinkedIn: 8)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| HR & Admin Officer | CHINA COMMUNICATIONS CONSTRUCTION COMPANY LIMITED (Singapore Branch) | MyCareersFuture | 2 | 2026-03-25 | [Apply](https://www.mycareersfuture.gov.sg/job/80417f309ed62a586a678c8f9483c124) |
+| HR & Ops Executive - Contract Role | APBA TG HUMAN RESOURCE PTE. LTD. | MyCareersFuture | 1 | 2026-03-25 | [Apply](https://www.mycareersfuture.gov.sg/job/1a63cd40c1789e8f2266078e12adfa96) |
+| Recruitment Consultant | TALENTA CONSULTANTS PTE. LTD. | MyCareersFuture | 2 | 2026-03-25 | [Apply](https://www.mycareersfuture.gov.sg/job/bc326f1355223295ded8c248e941958e) |
+| Accounts & HR Executive | SHOPNJOY HOLDINGS PTE. LTD. | MyCareersFuture | 1 | 2026-03-25 | [Apply](https://www.mycareersfuture.gov.sg/job/1c7985664231e22b4e9e7370b0a44621) |
+| HR Associate (GOVT/1 year/West) - Training Provided #HAO | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-03-25 | [Apply](https://www.mycareersfuture.gov.sg/job/b7edacbe9915de73cb0bc71e89b0ed9f) |
+| Human Resource Executive | LITEN LOGISTICS SERVICES PTE LTD | MyCareersFuture | 1 | 2026-03-25 | [Apply](https://www.mycareersfuture.gov.sg/job/2d27329a8324455f8a67d9ea656d9903) |
 | HR Officer | CHINA STATE CONSTRUCTION ENGINEERING CORPORATION LIMITED Singapore Branch | MyCareersFuture | 1 | 2026-03-25 | [Apply](https://www.mycareersfuture.gov.sg/job/743dfe3a57481979dd18cbf51c6003c9) |
 | Human Resource Business Partner | COMFORT TRANSPORTATION PTE LTD | MyCareersFuture | 2 | 2026-03-25 | [Apply](https://www.mycareersfuture.gov.sg/job/8423d7a6801580b4b9b5ee1dbd01ca54) |
-| HR Executive / HR Business Partner | FUTURE SUSTAINABILITY FORUM - SAUDI ARABIA | LinkedIn | — | 2026-03-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Executive%20%2F%20HR%20Business%20Partner%20FUTURE%20SUSTAINABILITY%20FORUM%20-%20SAUDI%20ARABIA&location=Singapore) |
+| Human Resources Associate, People Team (2026 Graduate) | Shopee | LinkedIn | — | 2026-03-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Associate%2C%20People%20Team%20(2026%20Graduate)%20Shopee&location=Singapore) |
 | Human Resource Executive | QSON KITCHEN EQUIPMENT | LinkedIn | — | 2026-03-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resource%20Executive%20QSON%20KITCHEN%20EQUIPMENT&location=Singapore) |
+| Intern, People | foodpanda | LinkedIn | — | 2026-03-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Intern%2C%20People%20foodpanda&location=Singapore) |
 | Recruitment Consultant(CEI, Work at home, Commission-Based) | Oaktree Consulting LLC | LinkedIn | — | 2026-03-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Recruitment%20Consultant(CEI%2C%20Work%20at%20home%2C%20Commission-Based)%20Oaktree%20Consulting%20LLC&location=Singapore) |
 | HR Executive (Recruitment) | SILTRONIC SILICON WAFER PTE. LTD. | MyCareersFuture | 2 | 2026-03-24 | [Apply](https://www.mycareersfuture.gov.sg/job/1a850843fe78aeea61ff3cae6778df26) |
 | Campus Recruitment Coordinator | ALEXANDER MANN BPO SOLUTIONS (SINGAPORE) PTE. LTD. | MyCareersFuture | 2 | 2026-03-24 | [Apply](https://www.mycareersfuture.gov.sg/job/e548006d60f6cb9d4731571cce4aabbd) |
@@ -32,18 +39,3 @@
 | HR Officer | International French School (Singapore) | LinkedIn | — | 2026-03-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Officer%20International%20French%20School%20(Singapore)&location=Singapore) |
 | Learning and Development Associate - People Team, Product & Engineering (2026 Graduate) | Shopee | LinkedIn | — | 2026-03-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Learning%20and%20Development%20Associate%20-%20People%20Team%2C%20Product%20%26amp%3B%20Engineering%20(2026%20Graduate)%20Shopee&location=Singapore) |
 | Senior Executive (Regimentation & Function) | Ministry of Defence of Singapore | LinkedIn | — | 2026-03-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Executive%20(Regimentation%20%26amp%3B%20Function)%20Ministry%20of%20Defence%20of%20Singapore&location=Singapore) |
-| People Services Specialist | Aspen Technology | LinkedIn | — | 2026-03-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20Services%20Specialist%20Aspen%20Technology&location=Singapore) |
-| ACCOUNTING OFFICER | SAWDUST CARPENTRY PTE. LTD. | MyCareersFuture | 2 | 2026-03-23 | [Apply](https://www.mycareersfuture.gov.sg/job/3154b5b28f0b8f43c78e3c3c5f9a67e0) |
-| Urgent! HR Assistant (Construction / Recruitment) | TRUST RECRUIT PTE. LTD. | MyCareersFuture | 1 | 2026-03-23 | [Apply](https://www.mycareersfuture.gov.sg/job/81a50b4964923aae898f674f93fa12b1) |
-| HR & Admin Executive | GSAFETY TECHNOLOGY PTE. LTD. | MyCareersFuture | 1 | 2026-03-23 | [Apply](https://www.mycareersfuture.gov.sg/job/fe495f95f3a447203d0bb376690bbb3c) |
-| Employer Branding & Talent Management Intern | RAKUTEN ASIA PTE. LTD. | MyCareersFuture | 1 | 2026-03-23 | [Apply](https://www.mycareersfuture.gov.sg/job/4b45433a27c2ff3cd48cc29d2a4ed9db) |
-| Human Resource Associate (West, 5 days, Up to 4.5K) #HVN | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 2 | 2026-03-23 | [Apply](https://www.mycareersfuture.gov.sg/job/a5fc7f7262d03a0becb15906aa930066) |
-| MANAGEMENT ASSOCIATE | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-03-23 | [Apply](https://www.mycareersfuture.gov.sg/job/765b55af83dd46e1ab6e81e0bada6792) |
-| CARPENTER | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-03-23 | [Apply](https://www.mycareersfuture.gov.sg/job/d0b6ece500d21faf119603de64f4f9d2) |
-| Human Resources Generalist [Ubi - 5 days - up to $3000] - LCYL | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-03-23 | [Apply](https://www.mycareersfuture.gov.sg/job/62fc09a0f257f0fcbfa04ad85cfee67a) |
-| Associate / Assistant Manager, Pre-opening & Projects, SEAA (9 months contract) | FRASERS HOSPITALITY PTE. LTD. | MyCareersFuture | 2 | 2026-03-23 | [Apply](https://www.mycareersfuture.gov.sg/job/debd0587ca3a3bbced0d17f87947f464) |
-| Learning & Development Assistant - MEDICAL (1 year/GOVT) - up to $3k/West/Training Provided #HAO | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-03-23 | [Apply](https://www.mycareersfuture.gov.sg/job/024899425f57540834a1c0868a14afc1) |
-| SUPERVISOR | CITILINENS PTE. LTD. | MyCareersFuture | 2 | 2026-03-23 | [Apply](https://www.mycareersfuture.gov.sg/job/fab0a8673d942a3e97bf75e59367d022) |
-| Talent Acquisition Executive (Manufacturing) | ALWAYSHIRED PTE. LTD. | MyCareersFuture | 2 | 2026-03-23 | [Apply](https://www.mycareersfuture.gov.sg/job/8aa665a36ef24d0aca0e6a2550c81476) |
-| HR EXCUTIVE | BAFANG CONSTRUCTION PTE. LTD. | MyCareersFuture | 2 | 2026-03-23 | [Apply](https://www.mycareersfuture.gov.sg/job/4ffbdc87d4120be3959c2a70d0581859) |
-| Employee Experience Associate | CHARLES & KEITH GROUP | LinkedIn | — | 2026-03-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Employee%20Experience%20Associate%20CHARLES%20%26amp%3B%20KEITH%20GROUP&location=Singapore) |
