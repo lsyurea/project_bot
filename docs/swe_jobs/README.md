@@ -2,18 +2,27 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-03-26T03:38:49.791Z*
+> *Last updated: 2026-03-26T14:08:04.047Z*
 
-**Total listings: 39** *(MyCareersFuture: 37 | LinkedIn: 10)*
+**Total listings: 35** *(MyCareersFuture: 43 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Software Engineer | QUESSCORP SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-03-26 | [Apply](https://www.mycareersfuture.gov.sg/job/9206a133ab41dc4fbb63e34d80e8247d) |
+| Software QA Engineer | SPARK SYSTEMS PTE. LTD. | MyCareersFuture | 0 | 2026-03-26 | [Apply](https://www.mycareersfuture.gov.sg/job/93e54683582485dd3be12959ab9424e8) |
+| UAV Software Engineer (West) | COMBUILDER PTE LTD | MyCareersFuture | 1 | 2026-03-26 | [Apply](https://www.mycareersfuture.gov.sg/job/ccb4cd57ef91d5c2d7850b79bc353abc) |
+| Software Engineer II, Regulatory Reporting | AIRWALLEX (SINGAPORE) PTE. LTD. | MyCareersFuture | 2 | 2026-03-26 | [Apply](https://www.mycareersfuture.gov.sg/job/bb6b4576b2b99a0dc0f3e632a19e17f4) |
+| Software Engineer, Google Ads - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 1 | 2026-03-26 | [Apply](https://www.mycareersfuture.gov.sg/job/6aa832a798dee2429e098b351aa5154c) |
+| Software Engineer, Payments Data Platform - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 2 | 2026-03-26 | [Apply](https://www.mycareersfuture.gov.sg/job/f368b33ad6430c4050f0c0d92edc5fa1) |
 | Software Engineer, Data Platform - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 1 | 2026-03-26 | [Apply](https://www.mycareersfuture.gov.sg/job/2f8580075f3b250cf41fbe446bacbecf) |
 | ATE Software Engineer | AEM SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-03-26 | [Apply](https://www.mycareersfuture.gov.sg/job/ea47ba84a580f2866c089049067b0a2a) |
-| Junior Developer | FCIT Developers Club - (FDC) | LinkedIn | — | 2026-03-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Junior%20Developer%20FCIT%20Developers%20Club%20-%20(FDC)&location=Singapore) |
-| Junior Software Enginer | FEB-RN | LinkedIn | — | 2026-03-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Junior%20Software%20Enginer%20FEB-RN&location=Singapore) |
-| Software Engineer (No Experience Needed) | Red Alpha Cybersecurity | LinkedIn | — | 2026-03-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(No%20Experience%20Needed)%20Red%20Alpha%20Cybersecurity&location=Singapore) |
+| Graduate software engineer | Bending Spoons | LinkedIn | — | 2026-03-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20software%20engineer%20Bending%20Spoons&location=Singapore) |
+| Software Engineer (Web Developer) | Rockwell Automation | LinkedIn | — | 2026-03-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Web%20Developer)%20Rockwell%20Automation&location=Singapore) |
+| Software Engineer | StarHub | LinkedIn | — | 2026-03-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20StarHub&location=Singapore) |
+| Graduate AI software engineer | Bending Spoons | LinkedIn | — | 2026-03-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20AI%20software%20engineer%20Bending%20Spoons&location=Singapore) |
 | Software Developer | Adecco | LinkedIn | — | 2026-03-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Developer%20Adecco&location=Singapore) |
+| Software Engineer (No Experience Needed) | Red Alpha Cybersecurity | LinkedIn | — | 2026-03-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(No%20Experience%20Needed)%20Red%20Alpha%20Cybersecurity&location=Singapore) |
+| Software Engineer C++ | Rockwell Automation | LinkedIn | — | 2026-03-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20C%2B%2B%20Rockwell%20Automation&location=Singapore) |
 | Lead Software Engineer | ROVISYS ASIA COMPANY PTE. LTD. | MyCareersFuture | 2 | 2026-03-25 | [Apply](https://www.mycareersfuture.gov.sg/job/7f4958718cd6d61cbef5920ffddd7e54) |
 | Control (Software) Design Engineer / PLC Programmer #70912 | ANRADUS PTE. LTD. | MyCareersFuture | 0 | 2026-03-25 | [Apply](https://www.mycareersfuture.gov.sg/job/e9ffd743482fa5c0fffaed624514946d) |
 | Software Engineer | AIRWALLEX (SINGAPORE) PTE. LTD. | MyCareersFuture | 2 | 2026-03-25 | [Apply](https://www.mycareersfuture.gov.sg/job/c819877c7c95fbeebbbb1b795bf22e1a) |
@@ -32,18 +41,5 @@
 | Backend Software Engineer Graduate (Global LIVE Wallet) | TIKTOK PTE. LTD. | MyCareersFuture | 0 | 2026-03-25 | [Apply](https://www.mycareersfuture.gov.sg/job/c3401e4cfa62dd863983584a559d3e54) |
 | Software Engineer *No exp required (C++ / Java) Boon Lay area | MAESTRO HUMAN RESOURCE PTE. LTD. | MyCareersFuture | 0 | 2026-03-25 | [Apply](https://www.mycareersfuture.gov.sg/job/9906a84f385f4d58423f11d28b6b84f8) |
 | Junior Software Engineer - PL/SQL (Fresh Graduates) | Synpulse | LinkedIn | — | 2026-03-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Junior%20Software%20Engineer%20%7C%20PL%2FSQL%20(Fresh%20Graduates)%20Synpulse&location=Singapore) |
-| Lead Software Engineer / Software Engineer / Junior Software Engineer | National DNP Week | LinkedIn | — | 2026-03-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Lead%20Software%20Engineer%20%2F%20Software%20Engineer%20%2F%20Junior%20Software%20Engineer%20National%20DNP%20Week&location=Singapore) |
 | Software Developer | Titansoft Pte Ltd | LinkedIn | — | 2026-03-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Developer%20Titansoft%20Pte%20Ltd&location=Singapore) |
 | Software Engineer (Indonesia) | Willowmore | LinkedIn | — | 2026-03-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Indonesia)%20Willowmore&location=Singapore) |
-| Senior Frontend Software Engineer - Map Creator | MOTIONAL SINGAPORE PTE. LIMITED | MyCareersFuture | 2 | 2026-03-24 | [Apply](https://www.mycareersfuture.gov.sg/job/63c876dfb1f5925e170c76b052a13a71) |
-| Senior Software Engineer - Perception Platform | MOTIONAL SINGAPORE PTE. LIMITED | MyCareersFuture | 2 | 2026-03-24 | [Apply](https://www.mycareersfuture.gov.sg/job/1d8546d237db75c8c48133232c464c87) |
-| Software Engineer (Node.js / React) | NEWTONE CONSULTING PTE. LTD. | MyCareersFuture | 2 | 2026-03-24 | [Apply](https://www.mycareersfuture.gov.sg/job/f5972961c7868fae0e439f51212d11d0) |
-| Backend Software Engineer Graduate (Global LIVE Revenue) | TIKTOK PTE. LTD. | MyCareersFuture | 0 | 2026-03-24 | [Apply](https://www.mycareersfuture.gov.sg/job/574170f014cd542282ff84c1d38bba47) |
-| Backend Software Engineer Graduate (Global LIVE Service Arch) | TIKTOK PTE. LTD. | MyCareersFuture | 0 | 2026-03-24 | [Apply](https://www.mycareersfuture.gov.sg/job/5c3019cc7d758827626d5ef8988d7cf6) |
-| Embedded Software Engineer | VIVO SURGICAL PRIVATE LIMITED | MyCareersFuture | 0 | 2026-03-24 | [Apply](https://www.mycareersfuture.gov.sg/job/d5683488c2a8d66d636137feca8f49b2) |
-| Full Stack Software Engineer | INFOLOGIC PTE LTD | MyCareersFuture | 1 | 2026-03-24 | [Apply](https://www.mycareersfuture.gov.sg/job/a29079504a8abc34c5004f3f04909cbc) |
-| Full-Stack Software Engineer | SYNAPTIC DELVER PTE. LTD. | MyCareersFuture | 2 | 2026-03-24 | [Apply](https://www.mycareersfuture.gov.sg/job/01ae13c65408ff82201e26999b4b228b) |
-| Software Engineer | AEM SINGAPORE PTE. LTD. | MyCareersFuture | 0 | 2026-03-24 | [Apply](https://www.mycareersfuture.gov.sg/job/6492a1a042dad6f5bc8a52123b0eb974) |
-| Software Engineer, 1P Integrations, Google Wallet - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 1 | 2026-03-24 | [Apply](https://www.mycareersfuture.gov.sg/job/6199f6795710a329e7a90efef0ed9d1f) |
-| Software Engineer, University Graduate | Google | LinkedIn | — | 2026-03-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20University%20Graduate%20Google&location=Singapore) |
-| Information Technology - Data Scientist (Data Science Track) | Singapore Airlines | LinkedIn | — | 2026-03-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Information%20Technology%20-%20Data%20Scientist%20(Data%20Science%20Track)%20Singapore%20Airlines&location=Singapore) |
