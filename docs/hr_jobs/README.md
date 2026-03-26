@@ -2,12 +2,20 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-03-25T13:58:07.427Z*
+> *Last updated: 2026-03-26T03:38:50.229Z*
 
-**Total listings: 31** *(MyCareersFuture: 23 | LinkedIn: 8)*
+**Total listings: 33** *(MyCareersFuture: 23 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| HR Officer - Medical (GOVT/3 months/West) - Training Provided/up to $3k #HAO | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-03-26 | [Apply](https://www.mycareersfuture.gov.sg/job/e6a3e18e14169df1fe4d5af922522afe) |
+| Operations & HR Admin Executive | KOUFU PTE LTD | MyCareersFuture | 0 | 2026-03-26 | [Apply](https://www.mycareersfuture.gov.sg/job/c6b2912bafcca41b7b9beb64b2a2c817) |
+| HR Assistant | TRUST RECRUIT PTE. LTD. | MyCareersFuture | 1 | 2026-03-26 | [Apply](https://www.mycareersfuture.gov.sg/job/71e16605c0e5482aa0696b299226267c) |
+| Benefits Administration Analyst | WELLS FARGO BANK, NATIONAL ASSOCIATION | MyCareersFuture | 1 | 2026-03-26 | [Apply](https://www.mycareersfuture.gov.sg/job/ec65d5471234413b9907a2554222724a) |
+| Business Support Executive [HR & Payroll support] | APBA TG HUMAN RESOURCE PTE. LTD. | MyCareersFuture | 1 | 2026-03-26 | [Apply](https://www.mycareersfuture.gov.sg/job/53102d5ca5a8cc4fbf5e458a3d378f14) |
+| Senior Officer, Human Resource | UMW EQUIPMENT & ENGINEERING PTE LTD | MyCareersFuture | 2 | 2026-03-26 | [Apply](https://www.mycareersfuture.gov.sg/job/79730df70cdc9b8365473760a13c1808) |
+| HUMAN RESOURCE OFFICER | GWS LIVING ART PTE. LTD. | MyCareersFuture | 2 | 2026-03-26 | [Apply](https://www.mycareersfuture.gov.sg/job/6a5338eac6c9c07ca19da8d42fdb6fec) |
+| HR Executive / HR Business Partner | Build Your Legacy Now | LinkedIn | — | 2026-03-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Executive%20%2F%20HR%20Business%20Partner%20Build%20Your%20Legacy%20Now&location=Singapore) |
 | HR & Admin Officer | CHINA COMMUNICATIONS CONSTRUCTION COMPANY LIMITED (Singapore Branch) | MyCareersFuture | 2 | 2026-03-25 | [Apply](https://www.mycareersfuture.gov.sg/job/80417f309ed62a586a678c8f9483c124) |
 | HR & Ops Executive - Contract Role | APBA TG HUMAN RESOURCE PTE. LTD. | MyCareersFuture | 1 | 2026-03-25 | [Apply](https://www.mycareersfuture.gov.sg/job/1a63cd40c1789e8f2266078e12adfa96) |
 | Recruitment Consultant | TALENTA CONSULTANTS PTE. LTD. | MyCareersFuture | 2 | 2026-03-25 | [Apply](https://www.mycareersfuture.gov.sg/job/bc326f1355223295ded8c248e941958e) |
@@ -28,14 +36,8 @@
 | Junior HR Executive (Learning & Development) (1 year contract) | ACHIEVE CAREER CONSULTANT PTE LTD | MyCareersFuture | 1 | 2026-03-24 | [Apply](https://www.mycareersfuture.gov.sg/job/a0fb2102b3becc0ca1f41648c2f219bf) |
 | HR Executive | SHAMROCK PTE. LTD. | MyCareersFuture | 2 | 2026-03-24 | [Apply](https://www.mycareersfuture.gov.sg/job/6335e89fab5c43b056e07eb960a6bbb8) |
 | HR Officer | INTERNATIONAL FRENCH SCHOOL (SINGAPORE) LTD. | MyCareersFuture | 1 | 2026-03-24 | [Apply](https://www.mycareersfuture.gov.sg/job/8e2a70140cbd3c54fdc4bcec95fbd901) |
-| Admin Assistant | TALENT-MERGE PTE. LTD. | MyCareersFuture | 2 | 2026-03-24 | [Apply](https://www.mycareersfuture.gov.sg/job/02dfd462f0e658a511486ecc1c5296e8) |
-| Recruitment Executive | HONG YE GROUP PTE. LTD. | MyCareersFuture | 2 | 2026-03-24 | [Apply](https://www.mycareersfuture.gov.sg/job/17158231ad503d881f4caf9edb7ba14a) |
-| Store Sales Executive | POKEMON SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-03-24 | [Apply](https://www.mycareersfuture.gov.sg/job/cda54d6f8389bc6abcb1e4bbd383f1af) |
-| Human Resource Executive (International School Singapore) | KEY TRUST RECRUITMENT PTE. LTD. | MyCareersFuture | 2 | 2026-03-24 | [Apply](https://www.mycareersfuture.gov.sg/job/f439831f4b107ce5edf55738b6a96daf) |
-| Client Implementation Specialist | ENABLE BUSINESS PTE. LTD. | MyCareersFuture | 2 | 2026-03-24 | [Apply](https://www.mycareersfuture.gov.sg/job/f8418df2dd694e7f978a4ea23dd2741f) |
-| Postdoctoral/Research Fellowship at the Asia Research Institute (NurseTracs) | NATIONAL UNIVERSITY OF SINGAPORE | MyCareersFuture | 2 | 2026-03-24 | [Apply](https://www.mycareersfuture.gov.sg/job/114eacfa722d05f5d6edbe1e18ee07bf) |
-| HR Executive | HUATIONG CONTRACTOR PTE LTD | MyCareersFuture | 2 | 2026-03-24 | [Apply](https://www.mycareersfuture.gov.sg/job/bb7db914d4ae51cc167a7acd8ff48152) |
 | Senior Executive/Assistant Manager (HR Business Partner) | Ministry of Defence of Singapore | LinkedIn | — | 2026-03-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Executive%2FAssistant%20Manager%20(HR%20Business%20Partner)%20Ministry%20of%20Defence%20of%20Singapore&location=Singapore) |
 | HR Officer | International French School (Singapore) | LinkedIn | — | 2026-03-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Officer%20International%20French%20School%20(Singapore)&location=Singapore) |
 | Learning and Development Associate - People Team, Product & Engineering (2026 Graduate) | Shopee | LinkedIn | — | 2026-03-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Learning%20and%20Development%20Associate%20-%20People%20Team%2C%20Product%20%26amp%3B%20Engineering%20(2026%20Graduate)%20Shopee&location=Singapore) |
 | Senior Executive (Regimentation & Function) | Ministry of Defence of Singapore | LinkedIn | — | 2026-03-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Executive%20(Regimentation%20%26amp%3B%20Function)%20Ministry%20of%20Defence%20of%20Singapore&location=Singapore) |
+| People Services Specialist | Aspen Technology | LinkedIn | — | 2026-03-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20Services%20Specialist%20Aspen%20Technology&location=Singapore) |
