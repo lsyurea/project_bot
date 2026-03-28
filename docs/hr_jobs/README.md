@@ -2,9 +2,9 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-03-27T13:53:27.546Z*
+> *Last updated: 2026-03-28T03:23:45.162Z*
 
-**Total listings: 45** *(MyCareersFuture: 38 | LinkedIn: 10)*
+**Total listings: 39** *(MyCareersFuture: 31 | LinkedIn: 9)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
@@ -21,12 +21,11 @@
 | HR Associate - Ang Mo Kio - Up to $3500 - 5 Days/week | BUSINESS EDGE PERSONNEL SERVICES PTE LTD | MyCareersFuture | 1 | 2026-03-27 | [Apply](https://www.mycareersfuture.gov.sg/job/7e1bd2f492386ae8fdd9e3fff8af96fd) |
 | HR Administrator | LONDON SCHOOL OF BUSINESS & FINANCE PTE. LTD. | MyCareersFuture | 1 | 2026-03-27 | [Apply](https://www.mycareersfuture.gov.sg/job/be9a4a0a453ca976d60085520b84df1b) |
 | HR Intern | STAMFORD AMERICAN INTERNATIONAL SCHOOL PTE. LTD. | MyCareersFuture | 1 | 2026-03-27 | [Apply](https://www.mycareersfuture.gov.sg/job/783619d7b49fcc50b8ddf237ef31e56f) |
-| HR & Admin Executive | g.Spa Singapore | LinkedIn | — | 2026-03-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20%26amp%3B%20Admin%20Executive%20g.Spa%20Singapore&location=Singapore) |
-| HR Executive | Winner Engineering Pte Ltd | LinkedIn | — | 2026-03-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Executive%20Winner%20Engineering%20Pte%20Ltd&location=Singapore) |
+| Human Resources Executive | Space Executive | LinkedIn | — | 2026-03-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20Space%20Executive&location=Singapore) |
 | Human Resources Executive | Lumina Advisory & Global Search | LinkedIn | — | 2026-03-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20Lumina%20Advisory%20%26amp%3B%20Global%20Search&location=Singapore) |
 | Geo HR Specialist | UPS | LinkedIn | — | 2026-03-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Geo%20HR%20Specialist%20UPS&location=Singapore) |
-| Human Resources Executive | Space Executive | LinkedIn | — | 2026-03-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20Space%20Executive&location=Singapore) |
 | Executive, Recruitment (FA Division) Onboarding | Manulife | LinkedIn | — | 2026-03-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Executive%2C%20Recruitment%20(FA%20Division)%20Onboarding%20Manulife&location=Singapore) |
+| Recruiter | PSC Biotech® Corporation | LinkedIn | — | 2026-03-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Recruiter%20PSC%20Biotech%C2%AE%20Corporation&location=Singapore) |
 | ADMIN ASSISTANT IN HUMAN RESOURCES | UMS PTE. LTD. | MyCareersFuture | 1 | 2026-03-26 | [Apply](https://www.mycareersfuture.gov.sg/job/f695bd4cf9d7f548fe78d1367c896413) |
 | BEAUTICIAN | JU FOI LAI | MyCareersFuture | 1 | 2026-03-26 | [Apply](https://www.mycareersfuture.gov.sg/job/66b50e3f119d1fb3b20daebc43fd6f45) |
 | HR Associate Executives Needed!! (Healthcare, Up to $3500) #HCGT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-03-26 | [Apply](https://www.mycareersfuture.gov.sg/job/0cefdb326ed578fa5bcf6590f4e14ec5) |
@@ -45,11 +44,6 @@
 | Operations & HR Admin Executive | KOUFU PTE LTD | MyCareersFuture | 0 | 2026-03-26 | [Apply](https://www.mycareersfuture.gov.sg/job/d5d23332fdda14f048f684f2dd56245a) |
 | HR EXECUTIVE | HJH MAIMUNAH RESTAURANT PTE. LTD. | MyCareersFuture | 2 | 2026-03-26 | [Apply](https://www.mycareersfuture.gov.sg/job/cf7ddf33611aa38a77f42afefea4bcba) |
 | HR Intern | HERBERT SMITH FREEHILLS KRAMER LLP | MyCareersFuture | 0 | 2026-03-26 | [Apply](https://www.mycareersfuture.gov.sg/job/8ace291e416cb182fbe31d3f6b2373e5) |
-| HR Officer - Medical (GOVT/3 months/West) - Training Provided/up to $3k #HAO | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-03-26 | [Apply](https://www.mycareersfuture.gov.sg/job/e6a3e18e14169df1fe4d5af922522afe) |
-| HR Assistant | TRUST RECRUIT PTE. LTD. | MyCareersFuture | 1 | 2026-03-26 | [Apply](https://www.mycareersfuture.gov.sg/job/71e16605c0e5482aa0696b299226267c) |
-| Benefits Administration Analyst | WELLS FARGO BANK, NATIONAL ASSOCIATION | MyCareersFuture | 1 | 2026-03-26 | [Apply](https://www.mycareersfuture.gov.sg/job/ec65d5471234413b9907a2554222724a) |
-| Business Support Executive [HR & Payroll support] | APBA TG HUMAN RESOURCE PTE. LTD. | MyCareersFuture | 1 | 2026-03-26 | [Apply](https://www.mycareersfuture.gov.sg/job/53102d5ca5a8cc4fbf5e458a3d378f14) |
-| Senior Officer, Human Resource | UMW EQUIPMENT & ENGINEERING PTE LTD | MyCareersFuture | 2 | 2026-03-26 | [Apply](https://www.mycareersfuture.gov.sg/job/79730df70cdc9b8365473760a13c1808) |
-| HUMAN RESOURCE OFFICER | GWS LIVING ART PTE. LTD. | MyCareersFuture | 2 | 2026-03-26 | [Apply](https://www.mycareersfuture.gov.sg/job/6a5338eac6c9c07ca19da8d42fdb6fec) |
 | People & Culture Executive | Raffles Hotels & Resorts | LinkedIn | — | 2026-03-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20%26amp%3B%20Culture%20Executive%20Raffles%20Hotels%20%26amp%3B%20Resorts&location=Singapore) |
 | Human Resources Administrator | Element Materials Technology | LinkedIn | — | 2026-03-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Administrator%20Element%20Materials%20Technology&location=Singapore) |
+| People Experience Operations Coordinator | Pacific Life Re | LinkedIn | — | 2026-03-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20Experience%20Operations%20Coordinator%20Pacific%20Life%20Re&location=Singapore) |
