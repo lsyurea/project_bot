@@ -3,18 +3,19 @@
 This repository automatically updates repository activity stats for my GitHub account.
 
 <!-- REPO_ACTIVITY:START -->
-Generated: 2026-03-30T14:00:11.893Z
+Generated: 2026-03-30T19:17:08.051Z
 
 Active window: last 90 days (cutoff: 2025-12-30)
 Total repositories analyzed: 50
-Active: 14
-Inactive: 36
+Active: 15
+Inactive: 35
 
 ### Active Repositories
+- 🔒 [lsyurea/PromptHire](https://github.com/lsyurea/PromptHire) — last push: 2026-03-30
+- 🔒 [lsyurea/frontend_mono](https://github.com/lsyurea/frontend_mono) — last push: 2026-03-30
 - 🌐 [lsyurea/project_bot](https://github.com/lsyurea/project_bot) — last push: 2026-03-30
 - 🔒 [lsyurea/learnGPT](https://github.com/lsyurea/learnGPT) — last push: 2026-03-29
 - 🔒 [lsyurea/CodeChallenge](https://github.com/lsyurea/CodeChallenge) — last push: 2026-03-28
-- 🔒 [lsyurea/frontend_mono](https://github.com/lsyurea/frontend_mono) — last push: 2026-03-27
 - 🌐 [lsyurea/kimi-cli](https://github.com/lsyurea/kimi-cli) — last push: 2026-03-23
 - 🌐 [lsyurea/miles](https://github.com/lsyurea/miles) — last push: 2026-03-23
 - 🌐 [lsyurea/courserekt](https://github.com/lsyurea/courserekt) — last push: 2026-03-22
@@ -27,7 +28,6 @@ Inactive: 36
 - 🌐 [lsyurea/lsyurea](https://github.com/lsyurea/lsyurea) — last push: 2026-03-01
 
 ### Inactive Repositories
-- 🔒 [lsyurea/PromptHire](https://github.com/lsyurea/PromptHire) — last push: 2025-12-27
 - 🔒 [lsyurea/Meetify](https://github.com/lsyurea/Meetify) — last push: 2025-12-27
 - 🔒 [lsyurea/Build-your-own-X](https://github.com/lsyurea/Build-your-own-X) — last push: 2025-09-06
 - 🔒 [lsyurea/javacard_finetune](https://github.com/lsyurea/javacard_finetune) — last push: 2025-01-27
