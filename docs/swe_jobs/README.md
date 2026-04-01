@@ -2,19 +2,26 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-03-31T14:11:14.713Z*
+> *Last updated: 2026-04-01T03:52:40.906Z*
 
-**Total listings: 23** *(MyCareersFuture: 15 | LinkedIn: 8)*
+**Total listings: 27** *(MyCareersFuture: 19 | LinkedIn: 8)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Software Engineer (C++, Python, Windows SDK, AI/ML frameworks) | ES RECRUITMENT PTE. LTD. | MyCareersFuture | 2 | 2026-04-01 | [Apply](https://www.mycareersfuture.gov.sg/job/292da551fc62acd871ba687b9ccb2217) |
+| Software Engineer, Emulation Platform (Fresh Graduate) | CrimsonLogic | LinkedIn | — | 2026-04-01 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Emulation%20Platform%20(Fresh%20Graduate)%20CrimsonLogic&location=Singapore) |
+| Software Engineer (Computer Vision/Vision Inspection, C++) | RECRUIT EXPERT PTE. LTD. | MyCareersFuture | 2 | 2026-03-31 | [Apply](https://www.mycareersfuture.gov.sg/job/a60e73ab04c6213fbbc269d89ca5fe7d) |
+| Software Test Engineer (Automation) | AKKODIS SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-03-31 | [Apply](https://www.mycareersfuture.gov.sg/job/3a1c9750fe90510a6a12fe80a5177449) |
+| Robotic Software Development Engineer (Process Robotisation), ARTC | A*STAR RESEARCH ENTITIES | MyCareersFuture | 2 | 2026-03-31 | [Apply](https://www.mycareersfuture.gov.sg/job/30702f49f0cc57ad517dd4ccb61f82e2) |
+| Software Engineer and/or Senior Software Engineer (Automation & SCADA System - C - C++) | EA RECRUITMENT PTE. LTD. | MyCareersFuture | 2 | 2026-03-31 | [Apply](https://www.mycareersfuture.gov.sg/job/63a7d8d6744b78100f5c9bd282a39090) |
 | Applied AI & Automation Engineer | ISPHYNX CONSULTING PTE. LTD. | MyCareersFuture | 1 | 2026-03-31 | [Apply](https://www.mycareersfuture.gov.sg/job/fac86ec6071bef2c226bc3d921dd85e2) |
 | Software Engineer (C, C++) | QUESS SELECTION & SERVICES PTE. LTD. | MyCareersFuture | 1 | 2026-03-31 | [Apply](https://www.mycareersfuture.gov.sg/job/6d43ac76544343276c5e85175564d368) |
 | Control (Software) Design Engineer / PLC Programmer #70912 | ANRADUS PTE. LTD. | MyCareersFuture | 0 | 2026-03-31 | [Apply](https://www.mycareersfuture.gov.sg/job/f9144b779d4833a9949468f8aec127eb) |
+| TASOR Developer (C# / React / SQL) | TD | LinkedIn | — | 2026-03-31 | [Apply](https://www.linkedin.com/jobs/search/?keywords=TASOR%20Developer%20(C%23%20%2F%20React%20%2F%20SQL)%20TD&location=Singapore) |
 | Graduate software engineer | Bending Spoons | LinkedIn | — | 2026-03-31 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20software%20engineer%20Bending%20Spoons&location=Singapore) |
-| Software Engineer (No Experience Needed) | Red Alpha Cybersecurity | LinkedIn | — | 2026-03-31 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(No%20Experience%20Needed)%20Red%20Alpha%20Cybersecurity&location=Singapore) |
-| Engineer, Software | ST Engineering | LinkedIn | — | 2026-03-31 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Engineer%2C%20Software%20ST%20Engineering&location=Singapore) |
 | Graduate AI software engineer | Bending Spoons | LinkedIn | — | 2026-03-31 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20AI%20software%20engineer%20Bending%20Spoons&location=Singapore) |
+| Engineer, Software | ST Engineering | LinkedIn | — | 2026-03-31 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Engineer%2C%20Software%20ST%20Engineering&location=Singapore) |
+| Software Engineer (Solana) | Hyphen Connect | LinkedIn | — | 2026-03-31 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Solana)%20Hyphen%20Connect&location=Singapore) |
 | Full Stack Software Engineer | Amperesand | LinkedIn | — | 2026-03-31 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Full%20Stack%20Software%20Engineer%20Amperesand&location=Singapore) |
 | Software Engineer Intern | RAKUTEN ASIA PTE. LTD. | MyCareersFuture | 0 | 2026-03-30 | [Apply](https://www.mycareersfuture.gov.sg/job/9002b8c411085febe5d74aa6f81853ba) |
 | Quant Fund Software Engineer | ARS GLOBAL PTE. LTD. | MyCareersFuture | 1 | 2026-03-30 | [Apply](https://www.mycareersfuture.gov.sg/job/50417ec973dc9d0b9a8661690970baf7) |
@@ -27,7 +34,4 @@
 | Software Engineer II, Backend | AIRWALLEX (SINGAPORE) PTE. LTD. | MyCareersFuture | 2 | 2026-03-30 | [Apply](https://www.mycareersfuture.gov.sg/job/cb4d3b105ecb802d8a3b403cb5f6246b) |
 | Software Engineer (Image Processing / Solutions Development) West! HSW | TRUST RECRUIT PTE. LTD. | MyCareersFuture | 2 | 2026-03-30 | [Apply](https://www.mycareersfuture.gov.sg/job/4bcf42b088103458973ee410f3de3941) |
 | Data & ML Platform Engineer | L3 BUSINESS GROUP PTE. LTD. | MyCareersFuture | 2 | 2026-03-30 | [Apply](https://www.mycareersfuture.gov.sg/job/d9df2fa0f90db6f4fd962e12a1720ccc) |
-| Software Engineer (Many Positions) | TALENTSIS PTE. LTD. | MyCareersFuture | 0 | 2026-03-30 | [Apply](https://www.mycareersfuture.gov.sg/job/5fe26b5983c7bda66827adb9687daf60) |
 | Web Developer (Remote) | Twine | LinkedIn | — | 2026-03-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Web%20Developer%20(Remote)%20Twine&location=Singapore) |
-| Graduate Hiring - QA Engineer | BIT Official | LinkedIn | — | 2026-03-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20Hiring%20-%20QA%20Engineer%20BIT%20Official&location=Singapore) |
-| Intern, Software Development Engineer [COO-ESE] | Autodesk | LinkedIn | — | 2026-03-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Intern%2C%20Software%20Development%20Engineer%20%5BCOO-ESE%5D%20Autodesk&location=Singapore) |
