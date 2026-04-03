@@ -3,16 +3,17 @@
 This repository automatically updates repository activity stats for my GitHub account.
 
 <!-- REPO_ACTIVITY:START -->
-Generated: 2026-04-03T13:37:05.684Z
+Generated: 2026-04-03T19:02:48.409Z
 
 Active window: last 90 days (cutoff: 2026-01-03)
 Total repositories analyzed: 52
-Active: 17
-Inactive: 35
+Active: 18
+Inactive: 34
 
 ### Active Repositories
+- 🔒 [lsyurea/PromptHire](https://github.com/lsyurea/PromptHire) — last push: 2026-04-03
+- 🌐 [lsyurea/monorepo_template](https://github.com/lsyurea/monorepo_template) — last push: 2026-04-03
 - 🌐 [lsyurea/project_bot](https://github.com/lsyurea/project_bot) — last push: 2026-04-03
-- 🔒 [lsyurea/PromptHire](https://github.com/lsyurea/PromptHire) — last push: 2026-04-02
 - 🌐 [lsyurea/openclaude](https://github.com/lsyurea/openclaude) — last push: 2026-04-02
 - 🔒 [lsyurea/learnGPT](https://github.com/lsyurea/learnGPT) — last push: 2026-04-02
 - 🌐 [lsyurea/claude-code](https://github.com/lsyurea/claude-code) — last push: 2026-04-01
@@ -42,7 +43,6 @@ Inactive: 35
 - 🌐 [lsyurea/code-to-give-frontend](https://github.com/lsyurea/code-to-give-frontend) — last push: 2024-08-26
 - 🔒 [lsyurea/Ecommerce_Mobile](https://github.com/lsyurea/Ecommerce_Mobile) — last push: 2024-08-15
 - 🔒 [lsyurea/stuBuddy](https://github.com/lsyurea/stuBuddy) — last push: 2024-08-05
-- 🌐 [lsyurea/monorepo_template](https://github.com/lsyurea/monorepo_template) — last push: 2024-07-03
 - 🔒 [lsyurea/gen_shorts](https://github.com/lsyurea/gen_shorts) — last push: 2024-06-19
 - 🔒 [lsyurea/gen_image](https://github.com/lsyurea/gen_image) — last push: 2024-06-18
 - 🔒 [lsyurea/3d_aigen_shirt](https://github.com/lsyurea/3d_aigen_shirt) — last push: 2024-06-09
