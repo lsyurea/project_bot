@@ -2,16 +2,19 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-04-03T13:45:37.705Z*
+> *Last updated: 2026-04-04T03:23:32.040Z*
 
-**Total listings: 30** *(MyCareersFuture: 23 | LinkedIn: 9)*
+**Total listings: 25** *(MyCareersFuture: 17 | LinkedIn: 9)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| HR Coordinator / HR Executive / HR Manager | gen.E | LinkedIn | — | 2026-04-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Coordinator%20%2F%20HR%20Executive%20%2F%20HR%20Manager%20gen.E&location=Singapore) |
 | Admin Assistant (5.25 days) [EL] | WECRUIT PTE. LTD. | MyCareersFuture | 1 | 2026-04-03 | [Apply](https://www.mycareersfuture.gov.sg/job/32b24c01c9555c22d04d278efcd2102c) |
-| HR Support Specialist | K2 STRATEGIC | LinkedIn | — | 2026-04-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Support%20Specialist%20K2%20STRATEGIC&location=Singapore) |
+| Human Resources Associate - Product & Engineering (2026 Campus Recruitment) | Shopee | LinkedIn | — | 2026-04-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Associate%20-%20Product%20%26amp%3B%20Engineering%20(2026%20Campus%20Recruitment)%20Shopee&location=Singapore) |
+| HR Operation Executive, SEA | The Hoffman Agency | LinkedIn | — | 2026-04-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Operation%20Executive%2C%20SEA%20The%20Hoffman%20Agency&location=Singapore) |
 | Recruitment Officer | INZY | LinkedIn | — | 2026-04-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Recruitment%20Officer%20INZY&location=Singapore) |
-| HR Coordinator - Renowned Investment Bank | Michael Page | LinkedIn | — | 2026-04-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Coordinator%20-%20Renowned%20Investment%20Bank%20Michael%20Page&location=Singapore) |
+| HR Support Specialist | K2 STRATEGIC | LinkedIn | — | 2026-04-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Support%20Specialist%20K2%20STRATEGIC&location=Singapore) |
+| HR Specialist/Assistant | Geomotion (Singapore) Private Limited | LinkedIn | — | 2026-04-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Specialist%2FAssistant%20Geomotion%20(Singapore)%20Private%20Limited&location=Singapore) |
 | HR & Talent Acquisition Officer (MNC - West Region) | TALENT TRADER GROUP PTE. LTD. | MyCareersFuture | 1 | 2026-04-02 | [Apply](https://www.mycareersfuture.gov.sg/job/12aeb886cebe6016d42eabdfab6a4510) |
 | supervisor | MOTON INTERNATIONAL HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-04-02 | [Apply](https://www.mycareersfuture.gov.sg/job/f38fce965b7148d7980f86c5c2af4eca) |
 | Contract HR Operations Executive (Banking) at Raffles Place, up to $4500 | SUCCESS HUMAN RESOURCE CENTRE PTE. LTD. | MyCareersFuture | 2 | 2026-04-02 | [Apply](https://www.mycareersfuture.gov.sg/job/f8df15e83df03b5d8e08e1e3c872fa17) |
@@ -27,14 +30,6 @@
 | Human Resource Officer (Food Industry) | TALENT TRADER GROUP PTE. LTD. | MyCareersFuture | 2 | 2026-04-02 | [Apply](https://www.mycareersfuture.gov.sg/job/a5781f7f58916fa12afee78633eba286) |
 | Maid Agency Operations Executive | SERENITY MAIDS PTE. LTD. | MyCareersFuture | 2 | 2026-04-02 | [Apply](https://www.mycareersfuture.gov.sg/job/9d1f6b88d4eafbfaa0cf85a27a797f0e) |
 | Maid Agency Operations Executive | MAIDS CENTRAL PTE. LTD. | MyCareersFuture | 1 | 2026-04-02 | [Apply](https://www.mycareersfuture.gov.sg/job/650e875454edc5626b9738a1e3d174f4) |
-| Management Trainee (Fresh Graduate) | TREE ART INTERNATIONAL PTE. LTD. | MyCareersFuture | 0 | 2026-04-02 | [Apply](https://www.mycareersfuture.gov.sg/job/4d9fbebad9032b2967e6fd60f3f8c3a9) |
-| Project Engineer (Electrical) | ACCESSTECH ENGINEERING PTE LTD | MyCareersFuture | 2 | 2026-04-02 | [Apply](https://www.mycareersfuture.gov.sg/job/dbd429bfe251047efb357ad195c8a660) |
-| Human Resources Assistant | EBB & FLOW PTE. LTD. | MyCareersFuture | 0 | 2026-04-02 | [Apply](https://www.mycareersfuture.gov.sg/job/e39562d5bd55dd19a59694713810322d) |
-| Assistant Learning & Development Manager | PEOPLE PROFILERS PTE. LTD. | MyCareersFuture | 2 | 2026-04-02 | [Apply](https://www.mycareersfuture.gov.sg/job/910be521f3619ad5cf170df6e8f5f9c7) |
-| People Experience Executive | SINGAPORE BIBLE COLLEGE LIMITED | MyCareersFuture | 2 | 2026-04-02 | [Apply](https://www.mycareersfuture.gov.sg/job/b5a86c2b9e0c6cb43e1046807e140224) |
 | Human Resources Executive | Shangri-La Group | LinkedIn | — | 2026-04-02 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20Shangri-La%20Group&location=Singapore) |
 | HR Executive | AccountStaff | LinkedIn | — | 2026-04-02 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Executive%20AccountStaff&location=Singapore) |
 | HR Generalist (1 year contract) - MNC | Michael Page | LinkedIn | — | 2026-04-02 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Generalist%20(1%20year%20contract)%20-%20MNC%20Michael%20Page&location=Singapore) |
-| HR and admin assistant ( perm with WFH option ) | UNIQUE EXPRESS CLEANING PTE. LTD. | MyCareersFuture | 2 | 2026-04-01 | [Apply](https://www.mycareersfuture.gov.sg/job/76e1200417c259b85202ffa48fe67057) |
-| People & Culture Executive | Mandarin Oriental | LinkedIn | — | 2026-04-01 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20%26amp%3B%20Culture%20Executive%20Mandarin%20Oriental&location=Singapore) |
-| Specialist, Talent Development (6 Months Maternity Cover) | Marina Bay Sands | LinkedIn | — | 2026-04-01 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Specialist%2C%20Talent%20Development%20(6%20Months%20Maternity%20Cover)%20Marina%20Bay%20Sands&location=Singapore) |
