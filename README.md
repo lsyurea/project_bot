@@ -3,18 +3,19 @@
 This repository automatically updates repository activity stats for my GitHub account.
 
 <!-- REPO_ACTIVITY:START -->
-Generated: 2026-04-05T07:21:02.851Z
+Generated: 2026-04-05T13:19:42.028Z
 
 Active window: last 90 days (cutoff: 2026-01-05)
-Total repositories analyzed: 52
+Total repositories analyzed: 51
 Active: 18
-Inactive: 34
+Inactive: 33
 
 ### Active Repositories
+- 🔒 [lsyurea/Meetify](https://github.com/lsyurea/Meetify) — last push: 2026-04-05
+- 🌐 [lsyurea/ml_streamlit_template](https://github.com/lsyurea/ml_streamlit_template) — last push: 2026-04-05
 - 🌐 [lsyurea/project_bot](https://github.com/lsyurea/project_bot) — last push: 2026-04-05
 - 🔒 [lsyurea/learnGPT](https://github.com/lsyurea/learnGPT) — last push: 2026-04-04
 - 🔒 [lsyurea/PromptHire](https://github.com/lsyurea/PromptHire) — last push: 2026-04-04
-- 🌐 [lsyurea/monorepo_template](https://github.com/lsyurea/monorepo_template) — last push: 2026-04-03
 - 🌐 [lsyurea/openclaude](https://github.com/lsyurea/openclaude) — last push: 2026-04-02
 - 🌐 [lsyurea/claude-code](https://github.com/lsyurea/claude-code) — last push: 2026-04-01
 - 🔒 [lsyurea/frontend_mono](https://github.com/lsyurea/frontend_mono) — last push: 2026-03-30
@@ -25,13 +26,11 @@ Inactive: 34
 - 🌐 [lsyurea/ollama](https://github.com/lsyurea/ollama) — last push: 2026-03-21
 - 🔒 [lsyurea/Ecommerce](https://github.com/lsyurea/Ecommerce) — last push: 2026-03-18
 - 🔒 [lsyurea/portfolio_next](https://github.com/lsyurea/portfolio_next) — last push: 2026-03-14
-- 🌐 [lsyurea/ml_streamlit_template](https://github.com/lsyurea/ml_streamlit_template) — last push: 2026-03-14
 - 🔒 [lsyurea/shortcuts](https://github.com/lsyurea/shortcuts) — last push: 2026-03-13
 - 🔒 [lsyurea/yq_portfolio](https://github.com/lsyurea/yq_portfolio) — last push: 2026-03-07
 - 🌐 [lsyurea/lsyurea](https://github.com/lsyurea/lsyurea) — last push: 2026-03-01
 
 ### Inactive Repositories
-- 🔒 [lsyurea/Meetify](https://github.com/lsyurea/Meetify) — last push: 2025-12-27
 - 🔒 [lsyurea/Build-your-own-X](https://github.com/lsyurea/Build-your-own-X) — last push: 2025-09-06
 - 🔒 [lsyurea/javacard_finetune](https://github.com/lsyurea/javacard_finetune) — last push: 2025-01-27
 - 🔒 [lsyurea/llm_free](https://github.com/lsyurea/llm_free) — last push: 2025-01-08
