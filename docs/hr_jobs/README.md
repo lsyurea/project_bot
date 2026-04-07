@@ -2,12 +2,34 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-04-06T03:48:24.988Z*
+> *Last updated: 2026-04-07T03:40:25.499Z*
 
-**Total listings: 13** *(MyCareersFuture: 9 | LinkedIn: 4)*
+**Total listings: 34** *(MyCareersFuture: 29 | LinkedIn: 9)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Trade Operations Executive | JENGA HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-04-07 | [Apply](https://www.mycareersfuture.gov.sg/job/dae2ab178384a017a0afab1265bb190f) |
+| FOOD SERVICES CREW LEADER | PARIS BAGUETTE SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-04-07 | [Apply](https://www.mycareersfuture.gov.sg/job/ed05664d3086a76965aa446ca067971f) |
+| Human Resources Executive | ONE15 Marina | LinkedIn | — | 2026-04-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20ONE15%20Marina&location=Singapore) |
+| HR cum Admin Executive | APAC LAW CORPORATION | LinkedIn | — | 2026-04-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20cum%20Admin%20Executive%20APAC%20LAW%20CORPORATION&location=Singapore) |
+| Executive Search Consultant / Talent Acquisition Director | Buffalo Professionals Under 40 | LinkedIn | — | 2026-04-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Executive%20Search%20Consultant%20%2F%20Talent%20Acquisition%20Director%20Buffalo%20Professionals%20Under%2040&location=Singapore) |
+| Admin Cum Accounts Assistant | Ariff | LinkedIn | — | 2026-04-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Admin%20Cum%20Accounts%20Assistant%20Ariff&location=Singapore) |
+| PT Admin Assistant | Vantager Solutions Pte. Ltd | LinkedIn | — | 2026-04-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=PT%20Admin%20Assistant%20Vantager%20Solutions%20Pte.%20Ltd&location=Singapore) |
+| Chef de Partie | ROAST & TOAST PTE. LTD. | MyCareersFuture | 2 | 2026-04-06 | [Apply](https://www.mycareersfuture.gov.sg/job/1ae0f28c6297c7e5550c7a2519c8f469) |
+| Admin Cum Accounts Assistant | DKJS CONSULTANCY PTE. LTD. | MyCareersFuture | 2 | 2026-04-06 | [Apply](https://www.mycareersfuture.gov.sg/job/d425607a06de7af7fe67740a660e62f6) |
+| HR & Admin Officer | CHINA COMMUNICATIONS CONSTRUCTION COMPANY LIMITED (Singapore Branch) | MyCareersFuture | 2 | 2026-04-06 | [Apply](https://www.mycareersfuture.gov.sg/job/62751b353d1c4bd886da2dda672e636f) |
+| HR Executive | SWIFT SEARCH GLOBAL PTE. LTD. | MyCareersFuture | 1 | 2026-04-06 | [Apply](https://www.mycareersfuture.gov.sg/job/b21980ac27cc8171a1393ad7f5ec4779) |
+| Management Executive | E-STAR EMPLOYMENT AGENCY | MyCareersFuture | 1 | 2026-04-06 | [Apply](https://www.mycareersfuture.gov.sg/job/2e8e164c744d65257952d7d990f15334) |
+| MANAGEMENT ASSOCIATE | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-04-06 | [Apply](https://www.mycareersfuture.gov.sg/job/e255967c6aa843d712b9683b9b3c06d3) |
+| Executive (HR & Corporate Services) | TEMASEK LIFE SCIENCES LABORATORY LIMITED | MyCareersFuture | 1 | 2026-04-06 | [Apply](https://www.mycareersfuture.gov.sg/job/f59bc27d480f1f2ac077e6b9a6485f53) |
+| Senior HR & Admin Executive (City Hall) - SS10 | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-04-06 | [Apply](https://www.mycareersfuture.gov.sg/job/91b2fd2ffb7c51fa8d131f3faedab68e) |
+| Assistant HR & Admin Executive (City Hall) - SS10 | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-04-06 | [Apply](https://www.mycareersfuture.gov.sg/job/585f886c51a70cfec25262d9e74fbf9b) |
+| Talent Acquisition Executive (Manufacturing) | ALWAYSHIRED PTE. LTD. | MyCareersFuture | 2 | 2026-04-06 | [Apply](https://www.mycareersfuture.gov.sg/job/b8d4baed04f6e7f9cd8641988b851fc5) |
+| Enrolment Sales Consultant (Education) | Singapore Human Resources Institute (SHRI) | MyCareersFuture | 2 | 2026-04-06 | [Apply](https://www.mycareersfuture.gov.sg/job/0c5435fa7523651267ba5d1f975b4bb4) |
+| Recruiter Officer | VORTEX STAFFING | MyCareersFuture | 1 | 2026-04-06 | [Apply](https://www.mycareersfuture.gov.sg/job/aeb953298f745224fa24debac5cdb10d) |
+| Admin Executive | ZHEJIANG ETONE SPECIALIZED FOUNDATION ENGINEERING CO., LTD. Singapore Branch | MyCareersFuture | 1 | 2026-04-06 | [Apply](https://www.mycareersfuture.gov.sg/job/f7a55d6c4437ec7fcf0b0ecfc0550062) |
+| Administrative Executive (HR/Admin/Marketing) | Good News Community Services | MyCareersFuture | 2 | 2026-04-06 | [Apply](https://www.mycareersfuture.gov.sg/job/f9004b07885deb50e666e24221dc9947) |
+| HR Assistant | NAILZ HAUS PTE. LTD. | MyCareersFuture | 2 | 2026-04-06 | [Apply](https://www.mycareersfuture.gov.sg/job/1e4eb9ab55ec5f3fc37adc9b770af02a) |
 | HR Executive | ADVANCE TECHNIC PTE. LTD. | MyCareersFuture | 2 | 2026-04-06 | [Apply](https://www.mycareersfuture.gov.sg/job/1103b5ff856940292afbefc0c09c4a8b) |
 | Human Resource | M2 TALENTS PTE. LTD. | MyCareersFuture | 2 | 2026-04-06 | [Apply](https://www.mycareersfuture.gov.sg/job/de8e4aa27cbecbe506237c4c35844961) |
 | HR EXCUTIVE | BAFANG CONSTRUCTION PTE. LTD. | MyCareersFuture | 2 | 2026-04-06 | [Apply](https://www.mycareersfuture.gov.sg/job/da8dca353e79728b5c89dede75788b32) |
@@ -16,8 +38,7 @@
 | HR Executive (Centre Area) [SL] | WECRUIT PTE. LTD. | MyCareersFuture | 1 | 2026-04-06 | [Apply](https://www.mycareersfuture.gov.sg/job/e766e96c55cd19cb030378b4f2cd6f96) |
 | Admin Assistant | COSMOS INNOVATION PTE. LTD. | MyCareersFuture | 1 | 2026-04-06 | [Apply](https://www.mycareersfuture.gov.sg/job/d591b8490e498b3d4cd479f2e4f6312e) |
 | Payroll & HR Assistant | Future Electronics | LinkedIn | — | 2026-04-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Payroll%20%26amp%3B%20HR%20Assistant%20Future%20Electronics&location=Singapore) |
-| Executive Administrative Assistant | Insight Genesis - IGAi | LinkedIn | — | 2026-04-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Executive%20Administrative%20Assistant%20Insight%20Genesis%20-%20IGAi&location=Singapore) |
+| [SG] 2H2026 Corporate Affairs & Engagement Graduate Trainee | L'Oréal | LinkedIn | — | 2026-04-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=%5BSG%5D%202H2026%20Corporate%20Affairs%20%26amp%3B%20Engagement%20Graduate%20Trainee%20L'Or%C3%A9al&location=Singapore) |
+| Executive / Senior Executive, HR Operations – Recruitment & Administrative Support (NTU Shared Services) | Nanyang Technological University Singapore | LinkedIn | — | 2026-04-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Executive%20%2F%20Senior%20Executive%2C%20HR%20Operations%20%E2%80%93%20Recruitment%20%26amp%3B%20Administrative%20Support%20(NTU%20Shared%20Services)%20Nanyang%20Technological%20University%20Singapore&location=Singapore) |
+| Manufacturing Technician (12month Contract) | Coherent Corp. | LinkedIn | — | 2026-04-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Manufacturing%20Technician%20(12month%20Contract)%20Coherent%20Corp.&location=Singapore) |
 | HR and Admin Officer | CKSE PTE. LTD. | MyCareersFuture | 1 | 2026-04-05 | [Apply](https://www.mycareersfuture.gov.sg/job/cb6785158cdfca26a7eaddf24c84b71a) |
-| Operations cum HR | STAG MATCH PRIVATE LIMITED | MyCareersFuture | 2 | 2026-04-04 | [Apply](https://www.mycareersfuture.gov.sg/job/ba496728372e4ceb1dda194d17938269) |
-| Specialist, Payroll | Scoot | LinkedIn | — | 2026-04-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Specialist%2C%20Payroll%20Scoot&location=Singapore) |
-| Event Management - Manager | The Ritz-Carlton Hotel Company, L.L.C. | LinkedIn | — | 2026-04-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Event%20Management%20-%20Manager%20The%20Ritz-Carlton%20Hotel%20Company%2C%20L.L.C.&location=Singapore) |
