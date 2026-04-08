@@ -2,16 +2,23 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-04-08T03:43:13.411Z*
+> *Last updated: 2026-04-08T14:11:25.388Z*
 
-**Total listings: 33** *(MyCareersFuture: 35 | LinkedIn: 9)*
+**Total listings: 33** *(MyCareersFuture: 32 | LinkedIn: 9)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Full Stack Engineer (Consultant) | HELIUS TECHNOLOGIES PTE. LTD. | MyCareersFuture | 1 | 2026-04-08 | [Apply](https://www.mycareersfuture.gov.sg/job/659c5de89142e9c55292c6364d4f4f11) |
+| Senior Software Engineer (Java Proficiency Preferred) | TALENTSIS PTE. LTD. | MyCareersFuture | 1 | 2026-04-08 | [Apply](https://www.mycareersfuture.gov.sg/job/d2095759327783ed06ef8ba7e09e246b) |
+| Software Engineer | AVATAR MODERN TECHNO SERVICES PTE. LTD. | MyCareersFuture | 1 | 2026-04-08 | [Apply](https://www.mycareersfuture.gov.sg/job/5f482212a7b86c59c628ba586a0fab81) |
+| Software Test Engineer | ARYAN SOLUTIONS PTE. LTD. | MyCareersFuture | 2 | 2026-04-08 | [Apply](https://www.mycareersfuture.gov.sg/job/317b6bd1f71b4af52623770644c34959) |
 | Senior/Software Engineer [Java Proficiency Preferred] | TALENTSIS PTE. LTD. | MyCareersFuture | 1 | 2026-04-08 | [Apply](https://www.mycareersfuture.gov.sg/job/e41a87ad9e246f0daeeb97d583135333) |
 | GRIT Trainee - Software Engineer (Quality Assurance) | GARENA ONLINE PRIVATE LIMITED | MyCareersFuture | 0 | 2026-04-08 | [Apply](https://www.mycareersfuture.gov.sg/job/4fd984ec1df7840bca531eb67f2dd57c) |
 | Software Engineer (C++/C#, Machine Automation) #76684 | ANRADUS PTE. LTD. | MyCareersFuture | 1 | 2026-04-08 | [Apply](https://www.mycareersfuture.gov.sg/job/e50092d3f17fbe3d83d0d6eedf4bc664) |
-| Software Engineer / Developer | Additional Solicitor General of India - Aishwarya Bhati SC | LinkedIn | — | 2026-04-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20%2F%20Developer%20Additional%20Solicitor%20General%20of%20India%20-%20Aishwarya%20Bhati%20SC&location=Singapore) |
+| Junior Software Engineer (DDx), DxD Hub | A*STAR - Agency for Science, Technology and Research | LinkedIn | — | 2026-04-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Junior%20Software%20Engineer%20(DDx)%2C%20DxD%20Hub%20A*STAR%20-%20Agency%20for%20Science%2C%20Technology%20and%20Research&location=Singapore) |
+| Software Developer | Tower Research Capital | LinkedIn | — | 2026-04-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Developer%20Tower%20Research%20Capital&location=Singapore) |
+| Software Engineer | Autodesk | LinkedIn | — | 2026-04-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Autodesk&location=Singapore) |
+| Software Engineer | BrothersTech | LinkedIn | — | 2026-04-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20BrothersTech&location=Singapore) |
 | IT Fresh Grad Software Engineer | OPTIMUM SOLUTIONS (SINGAPORE) PTE LTD | MyCareersFuture | 0 | 2026-04-07 | [Apply](https://www.mycareersfuture.gov.sg/job/7a7eee41334c0fb4da489aaa5fb799d7) |
 | IT Analyst Programmer / Software Engineer - RPG/RPGLE/ IBM AS400/System | RECRUITFLASH PTE. LTD. | MyCareersFuture | 1 | 2026-04-07 | [Apply](https://www.mycareersfuture.gov.sg/job/5639b316c9164f6ac3e3482686a5b272) |
 | Software Engineer - Test Automation | REALTEK SINGAPORE PRIVATE LIMITED | MyCareersFuture | 0 | 2026-04-07 | [Apply](https://www.mycareersfuture.gov.sg/job/cc1e4aeb01bea2f56b02e2a9f1da87ac) |
@@ -33,11 +40,4 @@
 | Software Engineer | SGInnovate | LinkedIn | — | 2026-04-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20SGInnovate&location=Singapore) |
 | Software Engineer (Developer Platform) | Centre for Strategic Infocomm Technologies (CSIT) | LinkedIn | — | 2026-04-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Developer%20Platform)%20Centre%20for%20Strategic%20Infocomm%20Technologies%20(CSIT)&location=Singapore) |
 | Embedded / Software Engineer (Semicon & Electronics) - MNC, AWS & Bonus, 5 days | STAFFKING PTE. LTD. | MyCareersFuture | 2 | 2026-04-06 | [Apply](https://www.mycareersfuture.gov.sg/job/ed3cd07dff615ced6cd9cdeaf52f3697) |
-| Software Engineer II, Glass Liquidity & Cash Management | JPMORGAN CHASE BANK, N.A. | MyCareersFuture | 2 | 2026-04-06 | [Apply](https://www.mycareersfuture.gov.sg/job/685d66464b6dda13e7600203547ad8a4) |
-| Software Engineer II, Growth | AIRWALLEX (SINGAPORE) PTE. LTD. | MyCareersFuture | 2 | 2026-04-06 | [Apply](https://www.mycareersfuture.gov.sg/job/8f6bdd86bd5c9bc20972b9e64ae538b2) |
-| Software Engineer | BASIL TECHNOLOGIES PTE. LTD. | MyCareersFuture | 2 | 2026-04-06 | [Apply](https://www.mycareersfuture.gov.sg/job/74d8842febe9d6deb4bdf72f114d87f4) |
-| Software Engineer III, Business Mobile App, Google Pay - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 2 | 2026-04-06 | [Apply](https://www.mycareersfuture.gov.sg/job/abfb1eeb2e7cbb281b31e88930b3435d) |
-| Senior/Software Engineer (Java focused) | TALENTSIS PTE. LTD. | MyCareersFuture | 1 | 2026-04-06 | [Apply](https://www.mycareersfuture.gov.sg/job/992d0739a7935bf4369cbc2fac75d43d) |
 | Software Engineer (Data), Ai & Data Platforms | Apple | LinkedIn | — | 2026-04-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Data)%2C%20Ai%20%26amp%3B%20Data%20Platforms%20Apple&location=Singapore) |
-| Software Engineer | Rakuten Asia Pte Ltd | LinkedIn | — | 2026-04-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Rakuten%20Asia%20Pte%20Ltd&location=Singapore) |
-| Intern, Software Development Engineer [COO-ESE] | Autodesk | LinkedIn | — | 2026-04-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Intern%2C%20Software%20Development%20Engineer%20%5BCOO-ESE%5D%20Autodesk&location=Singapore) |
