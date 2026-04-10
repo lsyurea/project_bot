@@ -2,17 +2,24 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-04-10T03:50:37.366Z*
+> *Last updated: 2026-04-10T13:57:41.998Z*
 
-**Total listings: 26** *(MyCareersFuture: 18 | LinkedIn: 10)*
+**Total listings: 27** *(MyCareersFuture: 19 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Software Engineer | OVIVO SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-04-10 | [Apply](https://www.mycareersfuture.gov.sg/job/8a7ba55744810347fd3605ba8577c267) |
+| Senior / Software Engineer | HYPERSCAL SOLUTIONS PTE. LTD. | MyCareersFuture | 2 | 2026-04-10 | [Apply](https://www.mycareersfuture.gov.sg/job/a9d3104598e2f7158832281a275284fa) |
+| Software Engineer | ALC TECHNOLOGIES SG PTE. LTD. | MyCareersFuture | 0 | 2026-04-10 | [Apply](https://www.mycareersfuture.gov.sg/job/ebb72822d3798756a792f84574b6e3a6) |
+| L1 System Engineer / IT Operation Specialist (Ref 23908) | JOBLINE RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-04-10 | [Apply](https://www.mycareersfuture.gov.sg/job/865f6467bbb79e95dc5190aae390aac0) |
+| QA Engineer (Software) | MRI SOFTWARE SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-04-10 | [Apply](https://www.mycareersfuture.gov.sg/job/20ae551d97ff9d4155200b56840f347c) |
 | Senior/Software Engineer [Java Proficiency Preferred] | TALENTSIS PTE. LTD. | MyCareersFuture | 1 | 2026-04-10 | [Apply](https://www.mycareersfuture.gov.sg/job/fef88ebf353f2f55950ff4e0ffc892bc) |
 | Senior Software Engineer (Java focused) | TALENTSIS PTE. LTD. | MyCareersFuture | 1 | 2026-04-10 | [Apply](https://www.mycareersfuture.gov.sg/job/e21e0ce7d6046aefc07a6810aeae2642) |
+| Graduate software engineer | Bending Spoons | LinkedIn | — | 2026-04-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20software%20engineer%20Bending%20Spoons&location=Singapore) |
+| Software Developer | ST Engineering | LinkedIn | — | 2026-04-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Developer%20ST%20Engineering&location=Singapore) |
 | Junior Software Developer | Mavericks Consulting | LinkedIn | — | 2026-04-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Junior%20Software%20Developer%20Mavericks%20Consulting&location=Singapore) |
-| Software Engineer / Developer | Centre Mohammed VI de la Recherche et de l'Innovation - CM6RI | LinkedIn | — | 2026-04-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20%2F%20Developer%20Centre%20Mohammed%20VI%20de%20la%20Recherche%20et%20de%20l'Innovation%20-%20CM6RI&location=Singapore) |
 | Software Developer (LS/JT) | ST Engineering | LinkedIn | — | 2026-04-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Developer%20(LS%2FJT)%20ST%20Engineering&location=Singapore) |
+| Software Engineer (No Experience Needed) | Red Alpha Cybersecurity | LinkedIn | — | 2026-04-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(No%20Experience%20Needed)%20Red%20Alpha%20Cybersecurity&location=Singapore) |
 | Software Engineer (Computer Vision/Vision Inspection, C++) | RECRUIT EXPERT PTE. LTD. | MyCareersFuture | 2 | 2026-04-09 | [Apply](https://www.mycareersfuture.gov.sg/job/9830a7b96781f8db1cf59f1e5c124dd0) |
 | Control (Software) Design Engineer / PLC Programmer #70912 | ANRADUS PTE. LTD. | MyCareersFuture | 0 | 2026-04-09 | [Apply](https://www.mycareersfuture.gov.sg/job/967261c79e065f6ba267a287cd4d1cb6) |
 | Software Engineer (C - C++ - Perm) | GMP TECHNOLOGIES (S) PTE LTD | MyCareersFuture | 2 | 2026-04-09 | [Apply](https://www.mycareersfuture.gov.sg/job/b6978106884fcc03809a3e8dc1da1db9) |
@@ -23,14 +30,8 @@
 | Software Engineer | NXGEN COMMUNICATIONS PTE LTD | MyCareersFuture | 1 | 2026-04-09 | [Apply](https://www.mycareersfuture.gov.sg/job/96eabac422f4646529d47e0c89cad908) |
 | Software Engineer (Permanent) | TALENTSIS PTE. LTD. | MyCareersFuture | 0 | 2026-04-09 | [Apply](https://www.mycareersfuture.gov.sg/job/ea34086aa139c14e4431dc4d94f795de) |
 | Senior/Software Engineer (Java focused) | TALENTSIS PTE. LTD. | MyCareersFuture | 1 | 2026-04-09 | [Apply](https://www.mycareersfuture.gov.sg/job/d7c19d73a23b2eb0b98299d43872b68c) |
-| Software Engineer II | Rockwell Automation | LinkedIn | — | 2026-04-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20II%20Rockwell%20Automation&location=Singapore) |
 | Associate Engineer/Engineer, Web | Rakuten Viki | LinkedIn | — | 2026-04-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Associate%20Engineer%2FEngineer%2C%20Web%20Rakuten%20Viki&location=Singapore) |
-| Full Stack Engineer (Consultant) | HELIUS TECHNOLOGIES PTE. LTD. | MyCareersFuture | 1 | 2026-04-08 | [Apply](https://www.mycareersfuture.gov.sg/job/659c5de89142e9c55292c6364d4f4f11) |
-| Senior Software Engineer (Java Proficiency Preferred) | TALENTSIS PTE. LTD. | MyCareersFuture | 1 | 2026-04-08 | [Apply](https://www.mycareersfuture.gov.sg/job/d2095759327783ed06ef8ba7e09e246b) |
-| Software Engineer | AVATAR MODERN TECHNO SERVICES PTE. LTD. | MyCareersFuture | 1 | 2026-04-08 | [Apply](https://www.mycareersfuture.gov.sg/job/5f482212a7b86c59c628ba586a0fab81) |
-| Software Test Engineer | ARYAN SOLUTIONS PTE. LTD. | MyCareersFuture | 2 | 2026-04-08 | [Apply](https://www.mycareersfuture.gov.sg/job/317b6bd1f71b4af52623770644c34959) |
+| Software Engineer II | Rockwell Automation | LinkedIn | — | 2026-04-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20II%20Rockwell%20Automation&location=Singapore) |
+| Engineer, IT (Technical Solutions) | Scoot | LinkedIn | — | 2026-04-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Engineer%2C%20IT%20(Technical%20Solutions)%20Scoot&location=Singapore) |
 | Software Developer | Tower Research Capital | LinkedIn | — | 2026-04-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Developer%20Tower%20Research%20Capital&location=Singapore) |
-| Software Engineer | Autodesk | LinkedIn | — | 2026-04-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Autodesk&location=Singapore) |
 | Software Engineer | Tower Research Capital | LinkedIn | — | 2026-04-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Tower%20Research%20Capital&location=Singapore) |
-| Junior Software Engineer (DDx), DxD Hub | A*STAR - Agency for Science, Technology and Research | LinkedIn | — | 2026-04-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Junior%20Software%20Engineer%20(DDx)%2C%20DxD%20Hub%20A*STAR%20-%20Agency%20for%20Science%2C%20Technology%20and%20Research&location=Singapore) |
-| Software Engineer | BrothersTech | LinkedIn | — | 2026-04-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20BrothersTech&location=Singapore) |
