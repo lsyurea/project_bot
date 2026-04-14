@@ -2,12 +2,19 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-04-13T14:16:38.844Z*
+> *Last updated: 2026-04-14T03:53:37.433Z*
 
-**Total listings: 56** *(MyCareersFuture: 51 | LinkedIn: 5)*
+**Total listings: 62** *(MyCareersFuture: 57 | LinkedIn: 5)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Chief HR & Admin Officer (Japanese Language Required; Liaison with Japan HQ) - Yearly Renewable Contract [GC] | WECRUIT PTE. LTD. | MyCareersFuture | 2 | 2026-04-14 | [Apply](https://www.mycareersfuture.gov.sg/job/074f3b1097ac28acf61021218b5c58cc) |
+| Multi-Functional Executive (Admin / HR / Purchasing / Accounts) | KARMSUND MARITIME SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-04-14 | [Apply](https://www.mycareersfuture.gov.sg/job/d9a95728f965a8ae59012b08a48d6a67) |
+| Operations Management Trainee - Finance（Fresh Graduate） | ALLCAN INTERNATIONAL PTE. LTD. | MyCareersFuture | 0 | 2026-04-14 | [Apply](https://www.mycareersfuture.gov.sg/job/ff41ccc2831719bbc6b7fa2d16b20ef0) |
+| Administrative Coordinator | NOVEXX PTE. LTD. | MyCareersFuture | 2 | 2026-04-14 | [Apply](https://www.mycareersfuture.gov.sg/job/b02aa17762b26d9a3a2927cef57d2357) |
+| Commis | SHERATON TOWERS SINGAPORE HOTEL | MyCareersFuture | 1 | 2026-04-14 | [Apply](https://www.mycareersfuture.gov.sg/job/81757b87d4b84cafe8d6f932fc489f6e) |
+| HR Assistant / Executive | Lian Hin Pte Ltd | LinkedIn | — | 2026-04-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Assistant%20%2F%20Executive%20Lian%20Hin%20Pte%20Ltd&location=Singapore) |
+| Management Associate | VANTAGER SOLUTIONS PTE. LTD. | MyCareersFuture | 0 | 2026-04-13 | [Apply](https://www.mycareersfuture.gov.sg/job/ca3040cfa8057e0d5f606144d4db80d2) |
 | Receptionist cum Admin | ROYAL OCEAN MARINE ENTERPRISE PTE. LTD. | MyCareersFuture | 1 | 2026-04-13 | [Apply](https://www.mycareersfuture.gov.sg/job/8066969a55cc36cae92a8f2c03b0bbfe) |
 | Management Trainee - Finance | DADACONSULTANTS PTE. LTD. | MyCareersFuture | 1 | 2026-04-13 | [Apply](https://www.mycareersfuture.gov.sg/job/eacc804242bdf5a929c9caab697c602a) |
 | Management Trainee - Legal | DADACONSULTANTS PTE. LTD. | MyCareersFuture | 1 | 2026-04-13 | [Apply](https://www.mycareersfuture.gov.sg/job/9025b69b7c56ed38dc4bebe51b15ca88) |
@@ -58,9 +65,8 @@
 | human resources executive | SPAX ENGINEERING PTE. LTD. | MyCareersFuture | 2 | 2026-04-13 | [Apply](https://www.mycareersfuture.gov.sg/job/9468cd783aa93305b4f286a5fd2737c2) |
 | HR EXECUTIVE | LHW CONSTRUCTION PTE. LTD. | MyCareersFuture | 2 | 2026-04-13 | [Apply](https://www.mycareersfuture.gov.sg/job/5b9d692e0be0fab6b9800df8481b5629) |
 | Assistant HR Manager, Learning & Development (Listed Company) | PEOPLE PROFILERS PTE. LTD. | MyCareersFuture | 2 | 2026-04-13 | [Apply](https://www.mycareersfuture.gov.sg/job/7e6e3f8c0206f209b8cda14f952bbca1) |
-| HR Assistant | Linklaters Asia | LinkedIn | — | 2026-04-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Assistant%20Linklaters%20Asia&location=Singapore) |
+| Assistant Human Resources Manager | Westin Hotels & Resorts | LinkedIn | — | 2026-04-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Assistant%20Human%20Resources%20Manager%20Westin%20Hotels%20%26amp%3B%20Resorts&location=Singapore) |
 | Human Resources Executive | Worldwide Hotels (WWH) | LinkedIn | — | 2026-04-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20Worldwide%20Hotels%20(WWH)&location=Singapore) |
-| [IMMEDIATE HIRE‼️] Sales & Marketing | Altius Org | LinkedIn | — | 2026-04-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=%5BIMMEDIATE%20HIRE%E2%80%BC%EF%B8%8F%5D%20Sales%20%26amp%3B%20Marketing%20Altius%20Org&location=Singapore) |
-| FACE-TO-FACE SALES [Fun & Encouraging Environment🌟] | Altius Org | LinkedIn | — | 2026-04-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=FACE-TO-FACE%20SALES%20%5BFun%20%26amp%3B%20Encouraging%20Environment%F0%9F%8C%9F%5D%20Altius%20Org&location=Singapore) |
+| Senior Executive Assistant, HR Group Shared Services | National University Health System | LinkedIn | — | 2026-04-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Executive%20Assistant%2C%20HR%20Group%20Shared%20Services%20National%20University%20Health%20System&location=Singapore) |
 | Manufacturing Technician II (12month Contract) | Coherent Corp. | LinkedIn | — | 2026-04-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Manufacturing%20Technician%20II%20(12month%20Contract)%20Coherent%20Corp.&location=Singapore) |
 | 7506 - HR Assistant cum Admin (Junior) | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 0 | 2026-04-12 | [Apply](https://www.mycareersfuture.gov.sg/job/5353b4c53015ad876bf64bd5b4520585) |
