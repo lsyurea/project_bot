@@ -2,12 +2,17 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-04-14T14:20:35.586Z*
+> *Last updated: 2026-04-15T03:53:43.004Z*
 
-**Total listings: 78** *(MyCareersFuture: 68 | LinkedIn: 10)*
+**Total listings: 79** *(MyCareersFuture: 69 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| HR Executive | VISKOU SYSTEM PTE. LTD. | MyCareersFuture | 1 | 2026-04-15 | [Apply](https://www.mycareersfuture.gov.sg/job/8bb08fe34e848c79198802d05fb74be6) |
+| CEO Office Associate | ONEROCK INVESTMENTS PTE. LTD. | MyCareersFuture | 1 | 2026-04-15 | [Apply](https://www.mycareersfuture.gov.sg/job/1f0c217a9a212b33b84d239fa784e5a6) |
+| Finance HR Administrator | FOUNDATION ASSOCIATES ENGINEERING PRIVATE LIMITED | MyCareersFuture | 1 | 2026-04-15 | [Apply](https://www.mycareersfuture.gov.sg/job/3071cf2e09e9db02a2342cd792c2c067) |
+| HR Executive [Payroll / Generalist] | KINGFISHER RECRUITMENT (SINGAPORE) PTE. LTD. | MyCareersFuture | 2 | 2026-04-15 | [Apply](https://www.mycareersfuture.gov.sg/job/f2a91b2da71289d687e41d71b518918c) |
+| PT Admin Assistant | Vantager Solutions Pte. Ltd | LinkedIn | — | 2026-04-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=PT%20Admin%20Assistant%20Vantager%20Solutions%20Pte.%20Ltd&location=Singapore) |
 | Temp HR Assistant (Public Healthcare) #HMZT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-04-14 | [Apply](https://www.mycareersfuture.gov.sg/job/b5573423b3b7ccfc6c91fcd4e1e28200) |
 | Admin Assistant (Engineering) | CAPELLA HOTEL, SINGAPORE | MyCareersFuture | 2 | 2026-04-14 | [Apply](https://www.mycareersfuture.gov.sg/job/37dc9c5745bdf9fed4ecaa98a9fdb8e2) |
 | HR & Administration Executive | ALLIED SEARCH PTE. LTD. | MyCareersFuture | 2 | 2026-04-14 | [Apply](https://www.mycareersfuture.gov.sg/job/84813970c1f41d560a1583436d6fe2e3) |
@@ -24,13 +29,13 @@
 | Operations Management Trainee - Finance（Fresh Graduate） | ALLCAN INTERNATIONAL PTE. LTD. | MyCareersFuture | 0 | 2026-04-14 | [Apply](https://www.mycareersfuture.gov.sg/job/ff41ccc2831719bbc6b7fa2d16b20ef0) |
 | Administrative Coordinator | NOVEXX PTE. LTD. | MyCareersFuture | 2 | 2026-04-14 | [Apply](https://www.mycareersfuture.gov.sg/job/b02aa17762b26d9a3a2927cef57d2357) |
 | Commis | SHERATON TOWERS SINGAPORE HOTEL | MyCareersFuture | 1 | 2026-04-14 | [Apply](https://www.mycareersfuture.gov.sg/job/81757b87d4b84cafe8d6f932fc489f6e) |
-| HR Assistant / Executive | Lian Hin Pte Ltd | LinkedIn | — | 2026-04-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Assistant%20%2F%20Executive%20Lian%20Hin%20Pte%20Ltd&location=Singapore) |
 | People & Culture Operations Coordinator | Astellas Pharma | LinkedIn | — | 2026-04-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20%26amp%3B%20Culture%20Operations%20Coordinator%20Astellas%20Pharma&location=Singapore) |
 | Human Resources Executive | AEM | LinkedIn | — | 2026-04-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20AEM&location=Singapore) |
+| HR Associate / Executive (DSC/ET) | ST Engineering | LinkedIn | — | 2026-04-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Associate%20%2F%20Executive%20(DSC%2FET)%20ST%20Engineering&location=Singapore) |
 | Regional Human Resources Generalist | HRLinked Asia Search & Consultancy Pte Ltd | LinkedIn | — | 2026-04-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Regional%20Human%20Resources%20Generalist%20HRLinked%20Asia%20Search%20%26amp%3B%20Consultancy%20Pte%20Ltd&location=Singapore) |
 | Senior Executive (Regimentation & Function) | Ministry of Defence of Singapore | LinkedIn | — | 2026-04-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Executive%20(Regimentation%20%26amp%3B%20Function)%20Ministry%20of%20Defence%20of%20Singapore&location=Singapore) |
-| Human Resources Specialist | Insight Genesis - IGAi | LinkedIn | — | 2026-04-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Specialist%20Insight%20Genesis%20-%20IGAi&location=Singapore) |
-| Finance & Human Resource Assistant | ECQ | LinkedIn | — | 2026-04-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Finance%20%26amp%3B%20Human%20Resource%20Assistant%20ECQ&location=Singapore) |
+| Talent Acquisition Specialist | Antaes Asia | LinkedIn | — | 2026-04-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Specialist%20Antaes%20Asia&location=Singapore) |
+| Senior Executive (Performance Management) - Navy | Ministry of Defence of Singapore | LinkedIn | — | 2026-04-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Executive%20(Performance%20Management)%20-%20Navy%20Ministry%20of%20Defence%20of%20Singapore&location=Singapore) |
 | Management Associate | VANTAGER SOLUTIONS PTE. LTD. | MyCareersFuture | 0 | 2026-04-13 | [Apply](https://www.mycareersfuture.gov.sg/job/ca3040cfa8057e0d5f606144d4db80d2) |
 | Receptionist cum Admin | ROYAL OCEAN MARINE ENTERPRISE PTE. LTD. | MyCareersFuture | 1 | 2026-04-13 | [Apply](https://www.mycareersfuture.gov.sg/job/8066969a55cc36cae92a8f2c03b0bbfe) |
 | Management Trainee - Finance | DADACONSULTANTS PTE. LTD. | MyCareersFuture | 1 | 2026-04-13 | [Apply](https://www.mycareersfuture.gov.sg/job/eacc804242bdf5a929c9caab697c602a) |
@@ -80,9 +85,5 @@
 | HR & Admin Officer | XRH CONSTRUCTION PTE. LTD. | MyCareersFuture | 2 | 2026-04-13 | [Apply](https://www.mycareersfuture.gov.sg/job/134adec15e1dddb11e8823fe7dde51ff) |
 | Human Resource Operations Executive | TASTEBUD FOODCOURT PTE. LTD. | MyCareersFuture | 1 | 2026-04-13 | [Apply](https://www.mycareersfuture.gov.sg/job/6baee30ef721bc82f40d80c7717044b8) |
 | human resources executive | SPAX ENGINEERING PTE. LTD. | MyCareersFuture | 2 | 2026-04-13 | [Apply](https://www.mycareersfuture.gov.sg/job/9468cd783aa93305b4f286a5fd2737c2) |
-| HR EXECUTIVE | LHW CONSTRUCTION PTE. LTD. | MyCareersFuture | 2 | 2026-04-13 | [Apply](https://www.mycareersfuture.gov.sg/job/5b9d692e0be0fab6b9800df8481b5629) |
-| Assistant HR Manager, Learning & Development (Listed Company) | PEOPLE PROFILERS PTE. LTD. | MyCareersFuture | 2 | 2026-04-13 | [Apply](https://www.mycareersfuture.gov.sg/job/7e6e3f8c0206f209b8cda14f952bbca1) |
 | Assistant Human Resources Manager | Westin Hotels & Resorts | LinkedIn | — | 2026-04-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Assistant%20Human%20Resources%20Manager%20Westin%20Hotels%20%26amp%3B%20Resorts&location=Singapore) |
-| Human Resources Executive | Worldwide Hotels (WWH) | LinkedIn | — | 2026-04-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20Worldwide%20Hotels%20(WWH)&location=Singapore) |
 | Senior Executive Assistant, HR Group Shared Services | National University Health System | LinkedIn | — | 2026-04-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Executive%20Assistant%2C%20HR%20Group%20Shared%20Services%20National%20University%20Health%20System&location=Singapore) |
-| 7506 - HR Assistant cum Admin (Junior) | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 0 | 2026-04-12 | [Apply](https://www.mycareersfuture.gov.sg/job/5353b4c53015ad876bf64bd5b4520585) |
