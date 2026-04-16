@@ -2,12 +2,22 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-04-15T14:13:14.642Z*
+> *Last updated: 2026-04-16T03:57:43.939Z*
 
-**Total listings: 43** *(MyCareersFuture: 33 | LinkedIn: 10)*
+**Total listings: 47** *(MyCareersFuture: 38 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Part time Human Resource Officer | VANTAGER SOLUTIONS PTE. LTD. | MyCareersFuture | 1 | 2026-04-16 | [Apply](https://www.mycareersfuture.gov.sg/job/d36c54ac450d2228a62cc026c7d3cf38) |
+| Executive (Employee Engagement), Human Resources - Lengkok Bahru | PERSOL SINGAPORE PTE. LTD. | MyCareersFuture | 0 | 2026-04-16 | [Apply](https://www.mycareersfuture.gov.sg/job/67208eac4c7495ad1db994ce4d9b4fe2) |
+| HR Assistant | TRUST RECRUIT PTE. LTD. | MyCareersFuture | 1 | 2026-04-16 | [Apply](https://www.mycareersfuture.gov.sg/job/bfc989b708ac3a4504ae16d0bdca3d65) |
+| HR & Admin Officer | CHINA COMMUNICATIONS CONSTRUCTION COMPANY LIMITED (Singapore Branch) | MyCareersFuture | 2 | 2026-04-16 | [Apply](https://www.mycareersfuture.gov.sg/job/3afec475d51d30f3333826f8a4f974b9) |
+| Accounts Executive | MORNINGSTAR MANAGEMENT CONSULTING PTE. LTD. | MyCareersFuture | 1 | 2026-04-16 | [Apply](https://www.mycareersfuture.gov.sg/job/da883a5f622af8da012d66979dbc7da8) |
+| Human Resources Executive (Recruitment) | SCIENTEC CONSULTING PTE. LTD. | MyCareersFuture | 0 | 2026-04-16 | [Apply](https://www.mycareersfuture.gov.sg/job/3576db17f96f1ca43d1ce13e6cb796b2) |
+| People & Operations Executive | Singapore Veterinary Health PTE. LTD. | MyCareersFuture | 2 | 2026-04-16 | [Apply](https://www.mycareersfuture.gov.sg/job/fe8e7887834af9aa6c42fc353499b684) |
+| HR Executive & Admin | YY CIRCLE (SG) PRIVATE LIMITED | MyCareersFuture | 2 | 2026-04-16 | [Apply](https://www.mycareersfuture.gov.sg/job/1f7c025f4b6a4ab046d311ed705e8cd7) |
+| HR cum Admin Executive | TROPIC PLANNERS & LANDSCAPE PTE. LTD. | MyCareersFuture | 1 | 2026-04-16 | [Apply](https://www.mycareersfuture.gov.sg/job/283f8c14f3993bf6fb84dd48196d447d) |
+| Programme Executive (Part-Time, Contract) | HYPERSCAL SOLUTIONS PTE. LTD. | MyCareersFuture | 2 | 2026-04-15 | [Apply](https://www.mycareersfuture.gov.sg/job/4dd9f136a1055ef2cd15377b7e820f05) |
 | Full Time Career and Job Placement Officer cum Operation | STAG MATCH INSTITUTE PRIVATE LIMITED | MyCareersFuture | 2 | 2026-04-15 | [Apply](https://www.mycareersfuture.gov.sg/job/8869b68f308882600b4227c759a9788b) |
 | HR Talent Acquistion Coordinator cum Ops Lead | STAG MATCH INSTITUTE PRIVATE LIMITED | MyCareersFuture | 1 | 2026-04-15 | [Apply](https://www.mycareersfuture.gov.sg/job/d5ad21d1c5c3502f420aedc74d597eb0) |
 | Human Resource Executive | GIORDANO ORIGINALS (SINGAPORE) PRIVATE LIMITED | MyCareersFuture | 2 | 2026-04-15 | [Apply](https://www.mycareersfuture.gov.sg/job/1224258439308f14c8c3c0ab77aa3c63) |
@@ -24,8 +34,9 @@
 | CEO Office Associate | ONEROCK INVESTMENTS PTE. LTD. | MyCareersFuture | 1 | 2026-04-15 | [Apply](https://www.mycareersfuture.gov.sg/job/1f0c217a9a212b33b84d239fa784e5a6) |
 | Finance HR Administrator | FOUNDATION ASSOCIATES ENGINEERING PRIVATE LIMITED | MyCareersFuture | 1 | 2026-04-15 | [Apply](https://www.mycareersfuture.gov.sg/job/3071cf2e09e9db02a2342cd792c2c067) |
 | HR Executive [Payroll / Generalist] | KINGFISHER RECRUITMENT (SINGAPORE) PTE. LTD. | MyCareersFuture | 2 | 2026-04-15 | [Apply](https://www.mycareersfuture.gov.sg/job/f2a91b2da71289d687e41d71b518918c) |
-| Learning and Development Associate - People Team, Product & Engineering (2026 Graduate) | Shopee | LinkedIn | — | 2026-04-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Learning%20and%20Development%20Associate%20-%20People%20Team%2C%20Product%20%26amp%3B%20Engineering%20(2026%20Graduate)%20Shopee&location=Singapore) |
-| Assistant HR & Admin Officer (Contract) | The Polyolefin Company (Singapore) Pte Ltd | LinkedIn | — | 2026-04-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Assistant%20HR%20%26amp%3B%20Admin%20Officer%20(Contract)%20The%20Polyolefin%20Company%20(Singapore)%20Pte%20Ltd&location=Singapore) |
+| HR Generalist | ACT Group | LinkedIn | — | 2026-04-15 | [Apply](https://www.linkedin.com/jobs/view/hr-generalist-at-act-group-4400122314) |
+| HR Generalist | SpaceX | LinkedIn | — | 2026-04-15 | [Apply](https://www.linkedin.com/jobs/view/hr-generalist-at-spacex-4402593130) |
+| Human Resource Business Partner (HRBP - WH) | MR DIY Philippines | LinkedIn | — | 2026-04-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resource%20Business%20Partner%20(HRBP%20-%20WH)%20MR%20DIY%20Philippines&location=Singapore) |
 | Temp HR Assistant (Public Healthcare) #HMZT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-04-14 | [Apply](https://www.mycareersfuture.gov.sg/job/b5573423b3b7ccfc6c91fcd4e1e28200) |
 | Admin Assistant (Engineering) | CAPELLA HOTEL, SINGAPORE | MyCareersFuture | 2 | 2026-04-14 | [Apply](https://www.mycareersfuture.gov.sg/job/37dc9c5745bdf9fed4ecaa98a9fdb8e2) |
 | HR & Administration Executive | ALLIED SEARCH PTE. LTD. | MyCareersFuture | 2 | 2026-04-14 | [Apply](https://www.mycareersfuture.gov.sg/job/84813970c1f41d560a1583436d6fe2e3) |
@@ -37,17 +48,10 @@
 | HR Admin Assistant | NOVA-TECH MFG PTE. LTD. | MyCareersFuture | 1 | 2026-04-14 | [Apply](https://www.mycareersfuture.gov.sg/job/38823726513673f0703e58ec44d74e5f) |
 | Assistant Executive Housekeeper | SOUTH BEACH INTERNATIONAL HOTEL MANAGEMENT PTE. LTD. | MyCareersFuture | 2 | 2026-04-14 | [Apply](https://www.mycareersfuture.gov.sg/job/418e3833287458dcebdb1f9dc9879a0d) |
 | HR ,ACCOUNT , ADMIN | SINGJOB INTERNATIONAL PTE. LTD. | MyCareersFuture | 2 | 2026-04-14 | [Apply](https://www.mycareersfuture.gov.sg/job/5bc74a808e5a108f3e219d75c6c157f2) |
-| Chief HR & Admin Officer (Japanese Language Required; Liaison with Japan HQ) - Yearly Renewable Contract [GC] | WECRUIT PTE. LTD. | MyCareersFuture | 2 | 2026-04-14 | [Apply](https://www.mycareersfuture.gov.sg/job/074f3b1097ac28acf61021218b5c58cc) |
-| Multi-Functional Executive (Admin / HR / Purchasing / Accounts) | KARMSUND MARITIME SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-04-14 | [Apply](https://www.mycareersfuture.gov.sg/job/d9a95728f965a8ae59012b08a48d6a67) |
-| Operations Management Trainee - Finance（Fresh Graduate） | ALLCAN INTERNATIONAL PTE. LTD. | MyCareersFuture | 0 | 2026-04-14 | [Apply](https://www.mycareersfuture.gov.sg/job/ff41ccc2831719bbc6b7fa2d16b20ef0) |
-| Administrative Coordinator | NOVEXX PTE. LTD. | MyCareersFuture | 2 | 2026-04-14 | [Apply](https://www.mycareersfuture.gov.sg/job/b02aa17762b26d9a3a2927cef57d2357) |
-| Commis | SHERATON TOWERS SINGAPORE HOTEL | MyCareersFuture | 1 | 2026-04-14 | [Apply](https://www.mycareersfuture.gov.sg/job/81757b87d4b84cafe8d6f932fc489f6e) |
-| Human Resources Executive | AEM | LinkedIn | — | 2026-04-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20AEM&location=Singapore) |
-| People & Culture Operations Coordinator (12mths Contract) | Astellas Pharma | LinkedIn | — | 2026-04-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20%26amp%3B%20Culture%20Operations%20Coordinator%20(12mths%20Contract)%20Astellas%20Pharma&location=Singapore) |
-| Regional Human Resources Generalist | HRLinked Asia Search & Consultancy Pte Ltd | LinkedIn | — | 2026-04-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Regional%20Human%20Resources%20Generalist%20HRLinked%20Asia%20Search%20%26amp%3B%20Consultancy%20Pte%20Ltd&location=Singapore) |
-| HR Associate / Executive (DSC/ET) | ST Engineering | LinkedIn | — | 2026-04-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Associate%20%2F%20Executive%20(DSC%2FET)%20ST%20Engineering&location=Singapore) |
-| Senior Executive (Regimentation & Function) | Ministry of Defence of Singapore | LinkedIn | — | 2026-04-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Executive%20(Regimentation%20%26amp%3B%20Function)%20Ministry%20of%20Defence%20of%20Singapore&location=Singapore) |
-| Talent Acquisition Specialist | Antaes Asia | LinkedIn | — | 2026-04-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Specialist%20Antaes%20Asia&location=Singapore) |
-| Management Associate | VANTAGER SOLUTIONS PTE. LTD. | MyCareersFuture | 0 | 2026-04-13 | [Apply](https://www.mycareersfuture.gov.sg/job/ca3040cfa8057e0d5f606144d4db80d2) |
-| Assistant Human Resources Manager | Westin Hotels & Resorts | LinkedIn | — | 2026-04-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Assistant%20Human%20Resources%20Manager%20Westin%20Hotels%20%26amp%3B%20Resorts&location=Singapore) |
-| Senior Executive Assistant, HR Group Shared Services | National University Health System | LinkedIn | — | 2026-04-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Executive%20Assistant%2C%20HR%20Group%20Shared%20Services%20National%20University%20Health%20System&location=Singapore) |
+| ONBOARDING OFFICER | Bank of the Philippine Islands (BPI) | LinkedIn | — | 2026-04-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=ONBOARDING%20OFFICER%20Bank%20of%20the%20Philippine%20Islands%20(BPI)&location=Singapore) |
+| HR Specialist | Cleopatra Hospitals Group | LinkedIn | — | 2026-04-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Specialist%20Cleopatra%20Hospitals%20Group&location=Singapore) |
+| HR Assistant | Rightangled | LinkedIn | — | 2026-04-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Assistant%20Rightangled&location=Singapore) |
+| HR Analyst- Remote | System One | LinkedIn | — | 2026-04-14 | [Apply](https://www.linkedin.com/jobs/view/hr-analyst-remote-at-system-one-4402037801) |
+| HR Business Partner | FXI | LinkedIn | — | 2026-04-14 | [Apply](https://www.linkedin.com/jobs/view/hr-business-partner-at-fxi-4401793710) |
+| HR Generalist | Robert Half | LinkedIn | — | 2026-04-14 | [Apply](https://www.linkedin.com/jobs/view/hr-generalist-at-robert-half-4401766068) |
+| HR Assistant | Ultimate Staffing | LinkedIn | — | 2026-04-14 | [Apply](https://www.linkedin.com/jobs/view/hr-assistant-at-ultimate-staffing-4400791334) |
