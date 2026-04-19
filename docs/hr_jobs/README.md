@@ -2,12 +2,14 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-04-19T03:57:46.452Z*
+> *Last updated: 2026-04-19T13:42:12.997Z*
 
-**Total listings: 34** *(MyCareersFuture: 24 | LinkedIn: 10)*
+**Total listings: 17** *(MyCareersFuture: 8 | LinkedIn: 9)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Payroll Associate | IN.CORP GLOBAL PTE. LTD. | MyCareersFuture | 1 | 2026-04-19 | [Apply](https://www.mycareersfuture.gov.sg/job/74501b89d3e25a49678db08b5cd7b6d6) |
+| Human Resources Executive / Associate HR Consultant / Intern | Cadence HR Consulting | LinkedIn | — | 2026-04-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20%2F%20Associate%20HR%20Consultant%20%2F%20Intern%20Cadence%20HR%20Consulting&location=Singapore) |
 | Human Resources | CHENLONG WOOD PRODUCTS MANUFACTURING PTE. LTD. | MyCareersFuture | 1 | 2026-04-18 | [Apply](https://www.mycareersfuture.gov.sg/job/af8b5f7fb237b99dca875bae24a703d7) |
 | Human Resources | YINHU WOOD PRODUCTS MANUFACTURING PTE. LTD. | MyCareersFuture | 1 | 2026-04-18 | [Apply](https://www.mycareersfuture.gov.sg/job/36cc333cda5c92ab6868b7a1e4e9dd7e) |
 | Human Resources | CHOUNIU WOOD PRODUCTS MANUFACTURING PTE. LTD. | MyCareersFuture | 1 | 2026-04-18 | [Apply](https://www.mycareersfuture.gov.sg/job/a5f84450f86a51afc8541b951e7a1bbc) |
@@ -17,28 +19,9 @@
 | Recruiter | PSC Biotech® Corporation | LinkedIn | — | 2026-04-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Recruiter%20PSC%20Biotech%C2%AE%20Corporation&location=Singapore) |
 | Diversity, Equity and Inclusion (DEI) HR Specialist | CPF Board | LinkedIn | — | 2026-04-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Diversity%2C%20Equity%20and%20Inclusion%20(DEI)%20HR%20Specialist%20CPF%20Board&location=Singapore) |
 | Executive Search Consultant / Talent Acquisition Director | Vulpo Class | LinkedIn | — | 2026-04-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Executive%20Search%20Consultant%20%2F%20Talent%20Acquisition%20Director%20Vulpo%20Class&location=Singapore) |
+| Training Development Executive | Singapore Aero Engine Services Private Limited (SAESL) | LinkedIn | — | 2026-04-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Training%20Development%20Executive%20Singapore%20Aero%20Engine%20Services%20Private%20Limited%20(SAESL)&location=Singapore) |
+| #PPPintern (Career Development & Competency Management), Jul to Dec 2026 | Public Service Division (Singapore) | LinkedIn | — | 2026-04-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=%23PPPintern%20(Career%20Development%20%26amp%3B%20Competency%20Management)%2C%20Jul%20to%20Dec%202026%20Public%20Service%20Division%20(Singapore)&location=Singapore) |
 | HR Administration Officer | BUTLERINSUITS PTE. LTD. | MyCareersFuture | 1 | 2026-04-17 | [Apply](https://www.mycareersfuture.gov.sg/job/2f63eb5b9a422b42c7a78ddc234242f7) |
-| * Entry Level * Contract HR Admin/ Assistant (Healthcare, Up to $3200)  #HCGT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-04-17 | [Apply](https://www.mycareersfuture.gov.sg/job/645355211cb9c430c0ca9994ccf4767e) |
-| HR & Admin Intern (Career Starter Programme) | ACESTES PTE. LTD. | MyCareersFuture | 0 | 2026-04-17 | [Apply](https://www.mycareersfuture.gov.sg/job/8ed7dcd4c4ef1b0ee2f406743506b034) |
-| Talent Acquisition Executive | SKILLS DEVELOPMENT ACADEMY PTE. LTD. | MyCareersFuture | 2 | 2026-04-17 | [Apply](https://www.mycareersfuture.gov.sg/job/253ba3fa8aa9a23260976797a12813f5) |
-| Brand Experience Trainer | BACHA COFFEE PTE. LTD. | MyCareersFuture | 2 | 2026-04-17 | [Apply](https://www.mycareersfuture.gov.sg/job/1792a92f89a171298917865d4593ec8d) |
-| Accounts & HR Officer | E-PLOYMENT CONSULTANCY | MyCareersFuture | 1 | 2026-04-17 | [Apply](https://www.mycareersfuture.gov.sg/job/ba7ffcfbf137ccd766e1f1b50a8efd96) |
-| Recruitment Consultant | QUESSCORP SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-04-17 | [Apply](https://www.mycareersfuture.gov.sg/job/3a25b7f39de86dd490938934cc54f4f9) |
-| Associate, People and Leadership | Singapore Human Resources Institute (SHRI) | MyCareersFuture | 1 | 2026-04-17 | [Apply](https://www.mycareersfuture.gov.sg/job/5ccfa5f28d6cfd2889ae80766ebe97d5) |
-| HR Assistant cum Admin (Junior) - YZ11 | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 0 | 2026-04-17 | [Apply](https://www.mycareersfuture.gov.sg/job/97e040852eee681bc4d3cc4fd9437d02) |
-| HR Executive (Recruitment, Food Industry) | TALENT TRADER GROUP PTE. LTD. | MyCareersFuture | 2 | 2026-04-17 | [Apply](https://www.mycareersfuture.gov.sg/job/5e3b8b90c10004c5d3200734f246e4b3) |
-| Training & Development Executive | LOTTE TRAVEL RETAIL SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-04-17 | [Apply](https://www.mycareersfuture.gov.sg/job/84040c271c93a98d19bc09f0098a2fb6) |
-| HR cum Admin (with IT support) Executive | LINEAR POWER SYSTEMS PTE LTD | MyCareersFuture | 2 | 2026-04-17 | [Apply](https://www.mycareersfuture.gov.sg/job/58c0ef5aefd1a1f3c97519e962648c95) |
-| HR Admin Assistant | FOUNDATION HEALTHCARE (SPECIALISTS) PTE. LTD. | MyCareersFuture | 0 | 2026-04-17 | [Apply](https://www.mycareersfuture.gov.sg/job/73e4ef34bbe5d8e0881946411dc25bfa) |
-| HR Coordinator (Interview & Onboarding Support) | WANCO MANPOWER PTE LTD | MyCareersFuture | 2 | 2026-04-17 | [Apply](https://www.mycareersfuture.gov.sg/job/f3f78567b926aa23f06c3ce658dc319d) |
-| HR Learning & Training Operations - West | PERSOL OUTSOURCING SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-04-17 | [Apply](https://www.mycareersfuture.gov.sg/job/c2ff006324acb0694a52213363c44e8a) |
-| 6 Months HR Performance Management Analyst - Banking (Up to $6900) #NKA | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 2 | 2026-04-17 | [Apply](https://www.mycareersfuture.gov.sg/job/624afab2df13aaa1e9fdeb32efe16484) |
-| OPERATION MANAGER | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-04-17 | [Apply](https://www.mycareersfuture.gov.sg/job/695380302fe8d234f774c4470bf0c07e) |
-| OPERATIONS CUM ADMIN MANAGER | EXA SERVICES PTE. LTD. | MyCareersFuture | 0 | 2026-04-17 | [Apply](https://www.mycareersfuture.gov.sg/job/1583bcdb6ef48ec6f0f71162bf519c64) |
 | People & Culture Executive | Raffles Hotels & Resorts | LinkedIn | — | 2026-04-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20%26amp%3B%20Culture%20Executive%20Raffles%20Hotels%20%26amp%3B%20Resorts&location=Singapore) |
-| People Experience Operations Coordinator | Pacific Life Re | LinkedIn | — | 2026-04-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20Experience%20Operations%20Coordinator%20Pacific%20Life%20Re&location=Singapore) |
-| Executive, Recruitment (FA Division) Onboarding | Manulife | LinkedIn | — | 2026-04-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Executive%2C%20Recruitment%20(FA%20Division)%20Onboarding%20Manulife&location=Singapore) |
-| Geo HR Specialist | UPS | LinkedIn | — | 2026-04-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Geo%20HR%20Specialist%20UPS&location=Singapore) |
-| Human Resources - Talent Acquisition and HR Business Partner Temp Assistant (6 months) | PwC | LinkedIn | — | 2026-04-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20-%20Talent%20Acquisition%20and%20HR%20Business%20Partner%20Temp%20Assistant%20(6%20months)%20PwC&location=Singapore) |
-| Human Resources - Talent Acquisition and HR Business Partner Off-Cycle Internship (Jul - Dec 26) | PwC | LinkedIn | — | 2026-04-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20-%20Talent%20Acquisition%20and%20HR%20Business%20Partner%20Off-Cycle%20Internship%20(Jul%20-%20Dec%2026)%20PwC&location=Singapore) |
 | Satair - People Solutions Specialist | Airbus | LinkedIn | — | 2026-04-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Satair%20-%20People%20Solutions%20Specialist%20Airbus&location=Singapore) |
+| Talent Acquisition Sourcer - Data - Singapore (Third-party Associate) | ByteDance | LinkedIn | — | 2026-04-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Sourcer%20-%20Data%20-%20Singapore%20(Third-party%20Associate)%20ByteDance&location=Singapore) |
