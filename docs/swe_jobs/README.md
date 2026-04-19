@@ -2,12 +2,16 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-04-18T13:44:07.131Z*
+> *Last updated: 2026-04-19T03:57:58.900Z*
 
-**Total listings: 21** *(MyCareersFuture: 12 | LinkedIn: 9)*
+**Total listings: 21** *(MyCareersFuture: 11 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Software Engineer | ELEC-PRO TECHNOLOGY PTE. LTD. | MyCareersFuture | 0 | 2026-04-19 | [Apply](https://www.mycareersfuture.gov.sg/job/a10d76c579be1bb6ee8d5829bab77cc4) |
+| Graduate software engineer | Evernote | LinkedIn | — | 2026-04-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20software%20engineer%20Evernote&location=Singapore) |
+| Graduate software engineer | Meetup | LinkedIn | — | 2026-04-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20software%20engineer%20Meetup&location=Singapore) |
+| Graduate software engineer | WeTransfer | LinkedIn | — | 2026-04-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20software%20engineer%20WeTransfer&location=Singapore) |
 | Senior Software Safety Engineer (Advanced Networks & Sensors) | STAR CAREER CONSULTING PTE. LTD. | MyCareersFuture | 2 | 2026-04-17 | [Apply](https://www.mycareersfuture.gov.sg/job/400f496d95fdb66627e349d178eb6db6) |
 | IT Operations Specialist  (Data Centre) *12 hr shift  AMK | MAESTRO HUMAN RESOURCE PTE. LTD. | MyCareersFuture | 1 | 2026-04-17 | [Apply](https://www.mycareersfuture.gov.sg/job/16568dec5ba48f189be323270f60e8d6) |
 | Software Engineer (Many Positions) | TALENTSIS PTE. LTD. | MyCareersFuture | 0 | 2026-04-17 | [Apply](https://www.mycareersfuture.gov.sg/job/53aeb0135b4e6dd7cddb7bb128dee822) |
@@ -18,14 +22,10 @@
 | Software Test Engineer - Java - Embedded software development Team | AKKODIS SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-04-17 | [Apply](https://www.mycareersfuture.gov.sg/job/91da12d96067bc818ea557c51479d491) |
 | R&D AI Software Engineer | KEYSIGHT TECHNOLOGIES SINGAPORE (SALES) PTE. LTD. | MyCareersFuture | 2 | 2026-04-17 | [Apply](https://www.mycareersfuture.gov.sg/job/1c8f8445fd91750cb67aa9fc3ff01fae) |
 | Software Engineer - Java - Embedded software development Team | AKKODIS SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-04-17 | [Apply](https://www.mycareersfuture.gov.sg/job/2b8a459941e3f514d0e0e98863609625) |
-| Fullstack Software Engineer Intern | LAI GAMES PTE. LTD. | MyCareersFuture | 0 | 2026-04-17 | [Apply](https://www.mycareersfuture.gov.sg/job/25c762cbd685451d97014c0a61bf9c05) |
-| Software Engineer | DAIKIN HOLDINGS SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-04-17 | [Apply](https://www.mycareersfuture.gov.sg/job/17a6bf88d9a5a30f54463f331c09758e) |
 | Software Engineer, University Graduate | Google | LinkedIn | — | 2026-04-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20University%20Graduate%20Google&location=Singapore) |
 | Fresh Graduate Software Engineer | Capgemini | LinkedIn | — | 2026-04-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Fresh%20Graduate%20Software%20Engineer%20Capgemini&location=Singapore) |
 | Software Engineer (Fusion Poly Graduate Programme) | NCS Group | LinkedIn | — | 2026-04-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Fusion%20Poly%20Graduate%20Programme)%20NCS%20Group&location=Singapore) |
-| Software Engineer (No Experience Needed) | Red Alpha Cybersecurity | LinkedIn | — | 2026-04-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(No%20Experience%20Needed)%20Red%20Alpha%20Cybersecurity&location=Singapore) |
 | Software Engineer | StarHub | LinkedIn | — | 2026-04-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20StarHub&location=Singapore) |
 | Cloud Software Engineer | Dyson | LinkedIn | — | 2026-04-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Cloud%20Software%20Engineer%20Dyson&location=Singapore) |
 | Junior Project Manager | Returning.AI | LinkedIn | — | 2026-04-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Junior%20Project%20Manager%20Returning.AI&location=Singapore) |
-| Full Stack Software Engineer | Amperesand | LinkedIn | — | 2026-04-16 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Full%20Stack%20Software%20Engineer%20Amperesand&location=Singapore) |
-| Software Engineer C++ | Rockwell Automation | LinkedIn | — | 2026-04-16 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20C%2B%2B%20Rockwell%20Automation&location=Singapore) |
+| Quality & AI Development Engineer | Rockwell Automation | LinkedIn | — | 2026-04-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Quality%20%26amp%3B%20AI%20Development%20Engineer%20Rockwell%20Automation&location=Singapore) |
