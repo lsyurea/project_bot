@@ -3,7 +3,7 @@
 This repository automatically updates repository activity stats for my GitHub account.
 
 <!-- REPO_ACTIVITY:START -->
-Generated: 2026-04-20T14:08:15.444Z
+Generated: 2026-04-20T19:21:55.080Z
 
 Active window: last 90 days (cutoff: 2026-01-20)
 Total repositories analyzed: 51
@@ -11,9 +11,9 @@ Active: 18
 Inactive: 33
 
 ### Active Repositories
+- 🔒 [lsyurea/frontend_mono](https://github.com/lsyurea/frontend_mono) — last push: 2026-04-20
 - 🌐 [lsyurea/project_bot](https://github.com/lsyurea/project_bot) — last push: 2026-04-20
 - 🔒 [lsyurea/Ecommerce](https://github.com/lsyurea/Ecommerce) — last push: 2026-04-11
-- 🔒 [lsyurea/frontend_mono](https://github.com/lsyurea/frontend_mono) — last push: 2026-04-10
 - 🔒 [lsyurea/portfolio_next](https://github.com/lsyurea/portfolio_next) — last push: 2026-04-08
 - 🔒 [lsyurea/PromptHire](https://github.com/lsyurea/PromptHire) — last push: 2026-04-08
 - 🔒 [lsyurea/learnGPT](https://github.com/lsyurea/learnGPT) — last push: 2026-04-08
