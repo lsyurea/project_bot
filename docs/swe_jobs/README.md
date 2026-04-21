@@ -2,12 +2,18 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-04-20T14:22:14.961Z*
+> *Last updated: 2026-04-21T03:54:46.689Z*
 
-**Total listings: 26** *(MyCareersFuture: 18 | LinkedIn: 8)*
+**Total listings: 29** *(MyCareersFuture: 23 | LinkedIn: 7)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Audio Software Engineer | PERSOL SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-04-21 | [Apply](https://www.mycareersfuture.gov.sg/job/ac7a25d22d85048e89b9b5b0740b2dd6) |
+| Senior/Software Engineer [Java Proficiency Preferred] | TALENTSIS PTE. LTD. | MyCareersFuture | 1 | 2026-04-21 | [Apply](https://www.mycareersfuture.gov.sg/job/5e0d2025259efcb1966d02631c6aa189) |
+| Senior/Software Engineer [JS Proficiency Preferred] | TALENTSIS PTE. LTD. | MyCareersFuture | 1 | 2026-04-21 | [Apply](https://www.mycareersfuture.gov.sg/job/e5a9e22b40172c3439c884af91e045d2) |
+| Software Engineer (Computer Vision/Vision Inspection, C++) | RECRUIT EXPERT PTE. LTD. | MyCareersFuture | 2 | 2026-04-21 | [Apply](https://www.mycareersfuture.gov.sg/job/d06d50855db038c735dd120af0aa39e3) |
+| Software Engineer (No Experience Needed) | Red Alpha Cybersecurity | LinkedIn | — | 2026-04-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(No%20Experience%20Needed)%20Red%20Alpha%20Cybersecurity&location=Singapore) |
+| Control (Software) Design Engineer / PLC Programmer #70912 | ANRADUS PTE. LTD. | MyCareersFuture | 0 | 2026-04-20 | [Apply](https://www.mycareersfuture.gov.sg/job/e1a9a12379205af5f3ae71cf58a8b01e) |
 | Software Engineer (Application Support) | QUESS SELECTION & SERVICES PTE. LTD. | MyCareersFuture | 2 | 2026-04-20 | [Apply](https://www.mycareersfuture.gov.sg/job/dcd813c03335291aa6e519dc8127ffe1) |
 | Software Engineer | PREMIUM HOTEL MANAGEMENT PTE. LTD. | MyCareersFuture | 1 | 2026-04-20 | [Apply](https://www.mycareersfuture.gov.sg/job/d407ff9c8d3fdfd5c3a1e7a5fc995a85) |
 | Software Engineer (Automation & Vision) | GMP TECHNOLOGIES (S) PTE LTD | MyCareersFuture | 1 | 2026-04-20 | [Apply](https://www.mycareersfuture.gov.sg/job/bde333451abe178977faab4f19ac3932) |
@@ -23,14 +29,11 @@
 | Software Engineer, Java | ZENITH INFOTECH (S) PTE LTD. | MyCareersFuture | 2 | 2026-04-20 | [Apply](https://www.mycareersfuture.gov.sg/job/ca388b06cef72334a14b14cd27c555ca) |
 | Software Engineer (C++/C#, Machine Automation) #76684 | ANRADUS PTE. LTD. | MyCareersFuture | 1 | 2026-04-20 | [Apply](https://www.mycareersfuture.gov.sg/job/b866f75880006a1127521eb7e84db90f) |
 | Backend Software Engineer - Java & Node.Js | REOLINK TECHNOLOGY PTE. LTD. | MyCareersFuture | 1 | 2026-04-20 | [Apply](https://www.mycareersfuture.gov.sg/job/51df1dd092a75693df309606f9e515d2) |
-| Software Engineer (No Experience Needed) | Red Alpha Cybersecurity | LinkedIn | — | 2026-04-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(No%20Experience%20Needed)%20Red%20Alpha%20Cybersecurity&location=Singapore) |
+| Software engineer, intern | Bending Spoons | LinkedIn | — | 2026-04-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20engineer%2C%20intern%20Bending%20Spoons&location=Singapore) |
+| Graduate software engineer | Bending Spoons | LinkedIn | — | 2026-04-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20software%20engineer%20Bending%20Spoons&location=Singapore) |
+| Graduate AI software engineer | Bending Spoons | LinkedIn | — | 2026-04-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20AI%20software%20engineer%20Bending%20Spoons&location=Singapore) |
 | Intern, Software Development Engineer [COO-ESE] | Autodesk | LinkedIn | — | 2026-04-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Intern%2C%20Software%20Development%20Engineer%20%5BCOO-ESE%5D%20Autodesk&location=Singapore) |
 | Software Quality Assurance Engineer | SPEEDCARGO TECHNOLOGIES PTE. LTD. | MyCareersFuture | 2 | 2026-04-19 | [Apply](https://www.mycareersfuture.gov.sg/job/fe80201afa1c9079c964d2090943a0a7) |
 | Mechanical Engineer / Software Engineer / Vision Engineer – OEM Semiconductor) | STAFFKING PTE. LTD. | MyCareersFuture | 2 | 2026-04-19 | [Apply](https://www.mycareersfuture.gov.sg/job/890efce0d5170246522790d42bd9db97) |
-| Software Engineer | ELEC-PRO TECHNOLOGY PTE. LTD. | MyCareersFuture | 0 | 2026-04-19 | [Apply](https://www.mycareersfuture.gov.sg/job/a10d76c579be1bb6ee8d5829bab77cc4) |
-| Software Engineer, Desktop | A1 | LinkedIn | — | 2026-04-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Desktop%20A1&location=Singapore) |
 | Frontend Software Engineer, TikTok Shop (SEA) | TikTok | LinkedIn | — | 2026-04-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Frontend%20Software%20Engineer%2C%20TikTok%20Shop%20(SEA)%20TikTok&location=Singapore) |
 | Software Engineer (Data Discovery and Operations) | Centre for Strategic Infocomm Technologies (CSIT) | LinkedIn | — | 2026-04-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Data%20Discovery%20and%20Operations)%20Centre%20for%20Strategic%20Infocomm%20Technologies%20(CSIT)&location=Singapore) |
-| Graduate software engineer | Evernote | LinkedIn | — | 2026-04-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20software%20engineer%20Evernote&location=Singapore) |
-| Graduate software engineer | Meetup | LinkedIn | — | 2026-04-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20software%20engineer%20Meetup&location=Singapore) |
-| Graduate software engineer | WeTransfer | LinkedIn | — | 2026-04-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20software%20engineer%20WeTransfer&location=Singapore) |
