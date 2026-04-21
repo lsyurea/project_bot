@@ -2,12 +2,18 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-04-20T14:22:01.761Z*
+> *Last updated: 2026-04-21T03:54:34.024Z*
 
-**Total listings: 30** *(MyCareersFuture: 23 | LinkedIn: 10)*
+**Total listings: 32** *(MyCareersFuture: 25 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Human Resources Executive | MIDEA (SINGAPORE) PRODUCT PTE. LTD. | MyCareersFuture | 2 | 2026-04-21 | [Apply](https://www.mycareersfuture.gov.sg/job/09c0e8f8a5779771e5eed3ebf2a0737f) |
+| Specialist Human Resources | Porsche Asia Pacific Pte Ltd | LinkedIn | — | 2026-04-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Specialist%20Human%20Resources%20Porsche%20Asia%20Pacific%20Pte%20Ltd&location=Singapore) |
+| Learning & Development Manager / Executive / HR Assistant | Petroleum Graduate Student Association (PGSA) UT Austin | LinkedIn | — | 2026-04-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Learning%20%26amp%3B%20Development%20Manager%20%2F%20Executive%20%2F%20HR%20Assistant%20Petroleum%20Graduate%20Student%20Association%20(PGSA)%20UT%20Austin&location=Singapore) |
+| HR Business Partner/Talent Acquisition Specialist/Compensation Analyst | DAC 13 Sud | LinkedIn | — | 2026-04-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Business%20Partner%2FTalent%20Acquisition%20Specialist%2FCompensation%20Analyst%20DAC%2013%20Sud&location=Singapore) |
+| People and Leadership, Associate | Singapore Human Resources Institute (SHRI) | LinkedIn | — | 2026-04-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20and%20Leadership%2C%20Associate%20Singapore%20Human%20Resources%20Institute%20(SHRI)&location=Singapore) |
+| Finance, HR and Admin | AVENTINE AGENCY PTE. LTD. | MyCareersFuture | 2 | 2026-04-20 | [Apply](https://www.mycareersfuture.gov.sg/job/f5b3ce543e0b353db3cf4335ad985f55) |
 | HR Coordinator #84013 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-04-20 | [Apply](https://www.mycareersfuture.gov.sg/job/e918184fa243f7f53f021611cf82f557) |
 | HR & Admin Assistant | RECRUIT NOW SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-04-20 | [Apply](https://www.mycareersfuture.gov.sg/job/de74307bcdc92c186c8f48d4f7cd65ef) |
 | Human Resource Assistant - MEDICAL (1 year/GOVT) - up to $3k/West/Training Provided #HAO | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-04-20 | [Apply](https://www.mycareersfuture.gov.sg/job/87b310c14fa9446149a11a9e554e68e2) |
@@ -28,13 +34,9 @@
 | Admin Assistant [EL] | WECRUIT PTE. LTD. | MyCareersFuture | 1 | 2026-04-20 | [Apply](https://www.mycareersfuture.gov.sg/job/babd8423f61a931da0b4cb25616ed5c4) |
 | Admin Assistant (5 days) [EL] | WECRUIT PTE. LTD. | MyCareersFuture | 1 | 2026-04-20 | [Apply](https://www.mycareersfuture.gov.sg/job/634f79427b72dd74e0213480c4ac19bf) |
 | Executive, Associate Human Resources | ERA Singapore | LinkedIn | — | 2026-04-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Executive%2C%20Associate%20Human%20Resources%20ERA%20Singapore&location=Singapore) |
-| Human Resources Assistant | Tien Seng Engineering Pte Ltd | LinkedIn | — | 2026-04-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Assistant%20Tien%20Seng%20Engineering%20Pte%20Ltd&location=Singapore) |
 | HR Administration Officer | BUTLER™ | LinkedIn | — | 2026-04-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Administration%20Officer%20BUTLER%E2%84%A2&location=Singapore) |
+| Specialist II, HR (Employee Experience) - 6 Months Contract | Scoot | LinkedIn | — | 2026-04-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Specialist%20II%2C%20HR%20(Employee%20Experience)%20-%206%20Months%20Contract%20Scoot&location=Singapore) |
 | Recruitment Consultant | ScienTec Consulting Pte. Ltd. | LinkedIn | — | 2026-04-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Recruitment%20Consultant%20ScienTec%20Consulting%20Pte.%20Ltd.&location=Singapore) |
 | Payroll Associate | IN.CORP GLOBAL PTE. LTD. | MyCareersFuture | 1 | 2026-04-19 | [Apply](https://www.mycareersfuture.gov.sg/job/74501b89d3e25a49678db08b5cd7b6d6) |
+| HR Specialist - Tuas based (Contract) | AbbVie | LinkedIn | — | 2026-04-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Specialist%20-%20Tuas%20based%20(Contract)%20AbbVie&location=Singapore) |
 | HR Specialist/Assistant | Geomotion (Singapore) Private Limited | LinkedIn | — | 2026-04-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Specialist%2FAssistant%20Geomotion%20(Singapore)%20Private%20Limited&location=Singapore) |
-| HR Specialist (Tuas based, 9-months contract) | AbbVie | LinkedIn | — | 2026-04-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Specialist%20(Tuas%20based%2C%209-months%20contract)%20AbbVie&location=Singapore) |
-| Human Resources Executive / Associate HR Consultant / Intern | Cadence HR Consulting | LinkedIn | — | 2026-04-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20%2F%20Associate%20HR%20Consultant%20%2F%20Intern%20Cadence%20HR%20Consulting&location=Singapore) |
-| Recruiter | PSC Biotech® Corporation | LinkedIn | — | 2026-04-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Recruiter%20PSC%20Biotech%C2%AE%20Corporation&location=Singapore) |
-| Diversity, Equity and Inclusion (DEI) HR Specialist | CPF Board | LinkedIn | — | 2026-04-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Diversity%2C%20Equity%20and%20Inclusion%20(DEI)%20HR%20Specialist%20CPF%20Board&location=Singapore) |
-| Training Development Executive | Singapore Aero Engine Services Private Limited (SAESL) | LinkedIn | — | 2026-04-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Training%20Development%20Executive%20Singapore%20Aero%20Engine%20Services%20Private%20Limited%20(SAESL)&location=Singapore) |
