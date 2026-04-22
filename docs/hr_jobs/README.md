@@ -2,12 +2,25 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-04-21T14:17:32.083Z*
+> *Last updated: 2026-04-22T03:50:31.782Z*
 
-**Total listings: 39** *(MyCareersFuture: 34 | LinkedIn: 8)*
+**Total listings: 45** *(MyCareersFuture: 39 | LinkedIn: 9)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| SELAS MANAGER | STEEL ALLY RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-04-22 | [Apply](https://www.mycareersfuture.gov.sg/job/d9fbe39d01b2752c0b5f28b739e18864) |
+| Human Resource Assistant (Entry-Level - Fresh Graduates Welcome) | APEX RETAIL PTE. LTD. | MyCareersFuture | 1 | 2026-04-22 | [Apply](https://www.mycareersfuture.gov.sg/job/695268c3c2e44e908ab6e6e8e3db62f5) |
+| RECRUITMENT CONSULTANT | INFINITE COMPUTER SOLUTIONS PTE LTD | MyCareersFuture | 2 | 2026-04-22 | [Apply](https://www.mycareersfuture.gov.sg/job/ab3d4583fb57e5d4f01e15dce1cff890) |
+| CLEANING SERVICES MANAGER | AVR CLEANING SERVICES PTE. LTD. | MyCareersFuture | 2 | 2026-04-22 | [Apply](https://www.mycareersfuture.gov.sg/job/dc7bc9cc8e1de4ef0463a718fd568b31) |
+| HR Coordinator (Recruitment) | WSH EXPERTS PTE. LTD. | MyCareersFuture | 1 | 2026-04-22 | [Apply](https://www.mycareersfuture.gov.sg/job/cce14280b149f125b6132febe1907516) |
+| Admin Executive - 5 days -Up to $3200 - Taiseng | BUSINESS EDGE PERSONNEL SERVICES PTE LTD | MyCareersFuture | 2 | 2026-04-22 | [Apply](https://www.mycareersfuture.gov.sg/job/1dc5237e5d919ae4fa4e8cad08399b2b) |
+| Asst. HR Executive / HR Executive | WEIMA BUILDERS PTE. LTD. | MyCareersFuture | 2 | 2026-04-22 | [Apply](https://www.mycareersfuture.gov.sg/job/09f4c2ea0f151e6bc3ac3e36051c9635) |
+| HR Specialist (contract) | ABBVIE OPERATIONS SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-04-22 | [Apply](https://www.mycareersfuture.gov.sg/job/0613d8006e75e8a7ed22d579d4085e98) |
+| Human Resources Executive | American Club, The | MyCareersFuture | 2 | 2026-04-22 | [Apply](https://www.mycareersfuture.gov.sg/job/8dcdbfe03b5c6ed2cfb7604b7db5a60d) |
+| Employee Experience Associate | CHARLES & KEITH GROUP | LinkedIn | — | 2026-04-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Employee%20Experience%20Associate%20CHARLES%20%26amp%3B%20KEITH%20GROUP&location=Singapore) |
+| HR Executive (Talent Management) | ACC EduHub | LinkedIn | — | 2026-04-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Executive%20(Talent%20Management)%20ACC%20EduHub&location=Singapore) |
+| Learning & Development Manager / HR Executive / HR Assistance | ESPM Carreira e Mercado | LinkedIn | — | 2026-04-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Learning%20%26amp%3B%20Development%20Manager%20%2F%20HR%20Executive%20%2F%20HR%20Assistance%20ESPM%20Carreira%20e%20Mercado&location=Singapore) |
+| Talent Acquisition Specialist / HR Executive / HR Coordinator | JCV tour S.R.L | LinkedIn | — | 2026-04-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Specialist%20%2F%20HR%20Executive%20%2F%20HR%20Coordinator%20JCV%20tour%20S.R.L&location=Singapore) |
 | Admin cum HR Executive | NOVA VITA PTE. LTD. | MyCareersFuture | 2 | 2026-04-21 | [Apply](https://www.mycareersfuture.gov.sg/job/39e16fb512c4831d51bfaaad08ab9ce3) |
 | COMPUTER-AIDED DESIGN (CAD) DRAFTER | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 1 | 2026-04-21 | [Apply](https://www.mycareersfuture.gov.sg/job/4738f9fba5c60ff9239889fdda0ab472) |
 | HR Executive (Talent Management) | GLOBAL EDUHUB PTE. LTD. | MyCareersFuture | 1 | 2026-04-21 | [Apply](https://www.mycareersfuture.gov.sg/job/3896e80a952e6a449478200a23edfc28) |
@@ -20,7 +33,7 @@
 | Front Office Manager | JEWEL CHANGI AIRPORT HOTEL PTE. LTD. | MyCareersFuture | 2 | 2026-04-21 | [Apply](https://www.mycareersfuture.gov.sg/job/9f90be0bd217592b72df4ca559ae64d8) |
 | Human Resources Executive | MIDEA (SINGAPORE) PRODUCT PTE. LTD. | MyCareersFuture | 2 | 2026-04-21 | [Apply](https://www.mycareersfuture.gov.sg/job/09c0e8f8a5779771e5eed3ebf2a0737f) |
 | Human Resources Rotational Program (Early Career) | WD | LinkedIn | — | 2026-04-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Rotational%20Program%20(Early%20Career)%20WD&location=Singapore) |
-| People and Leadership, Associate | Singapore Human Resources Institute (SHRI) | LinkedIn | — | 2026-04-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20and%20Leadership%2C%20Associate%20Singapore%20Human%20Resources%20Institute%20(SHRI)&location=Singapore) |
+| Human Resources Specialist | eTeam | LinkedIn | — | 2026-04-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Specialist%20eTeam&location=Singapore) |
 | Finance, HR and Admin | AVENTINE AGENCY PTE. LTD. | MyCareersFuture | 2 | 2026-04-20 | [Apply](https://www.mycareersfuture.gov.sg/job/f5b3ce543e0b353db3cf4335ad985f55) |
 | HR Coordinator #84013 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-04-20 | [Apply](https://www.mycareersfuture.gov.sg/job/e918184fa243f7f53f021611cf82f557) |
 | HR & Admin Assistant | RECRUIT NOW SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-04-20 | [Apply](https://www.mycareersfuture.gov.sg/job/de74307bcdc92c186c8f48d4f7cd65ef) |
@@ -37,13 +50,6 @@
 | Human Resource Executive (Public Sector - Generalist Role) #HDC | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-04-20 | [Apply](https://www.mycareersfuture.gov.sg/job/4a597f1f543fc7b93f6751affbad1c18) |
 | Human Resources Executive - Central | PERSOL SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-04-20 | [Apply](https://www.mycareersfuture.gov.sg/job/31b82eaa71da33916ae77e0d0bca989f) |
 | Human Resources Officer (Entry Level, Central) | SCIENTEC CONSULTING PTE. LTD. | MyCareersFuture | 0 | 2026-04-20 | [Apply](https://www.mycareersfuture.gov.sg/job/1f671e66583145d2206db79e9ebcc04b) |
-| HR Officer | DRC ENGINEERING PTE. LTD. | MyCareersFuture | 2 | 2026-04-20 | [Apply](https://www.mycareersfuture.gov.sg/job/2cebaf2c1d4a0de040ae997150ed5691) |
-| HR Assistant / Intern (Healthcare) - Supporting Recruitment & Human Resources Initiatives | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-04-20 | [Apply](https://www.mycareersfuture.gov.sg/job/b17ef6e1f9096c458f4253a4a4feb587) |
-| Admin Assistant [EL] | WECRUIT PTE. LTD. | MyCareersFuture | 1 | 2026-04-20 | [Apply](https://www.mycareersfuture.gov.sg/job/babd8423f61a931da0b4cb25616ed5c4) |
-| Admin Assistant (5 days) [EL] | WECRUIT PTE. LTD. | MyCareersFuture | 1 | 2026-04-20 | [Apply](https://www.mycareersfuture.gov.sg/job/634f79427b72dd74e0213480c4ac19bf) |
 | Executive, Associate Human Resources | ERA Singapore | LinkedIn | — | 2026-04-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Executive%2C%20Associate%20Human%20Resources%20ERA%20Singapore&location=Singapore) |
 | HR Administration Officer | BUTLER™ | LinkedIn | — | 2026-04-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Administration%20Officer%20BUTLER%E2%84%A2&location=Singapore) |
 | Specialist II, HR (Employee Experience) - 6 Months Contract | Scoot | LinkedIn | — | 2026-04-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Specialist%20II%2C%20HR%20(Employee%20Experience)%20-%206%20Months%20Contract%20Scoot&location=Singapore) |
-| Recruitment Consultant | ScienTec Consulting Pte. Ltd. | LinkedIn | — | 2026-04-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Recruitment%20Consultant%20ScienTec%20Consulting%20Pte.%20Ltd.&location=Singapore) |
-| HR Specialist - Tuas based (Contract) | AbbVie | LinkedIn | — | 2026-04-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Specialist%20-%20Tuas%20based%20(Contract)%20AbbVie&location=Singapore) |
-| HR Specialist/Assistant | Geomotion (Singapore) Private Limited | LinkedIn | — | 2026-04-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Specialist%2FAssistant%20Geomotion%20(Singapore)%20Private%20Limited&location=Singapore) |
