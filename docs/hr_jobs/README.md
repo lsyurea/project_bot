@@ -2,12 +2,16 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-04-22T14:17:26.737Z*
+> *Last updated: 2026-04-23T03:56:41.417Z*
 
-**Total listings: 41** *(MyCareersFuture: 32 | LinkedIn: 9)*
+**Total listings: 42** *(MyCareersFuture: 33 | LinkedIn: 9)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| HR Recruiter | CALL LADE LOGISTICS PRIVATE LIMITED | MyCareersFuture | 1 | 2026-04-23 | [Apply](https://www.mycareersfuture.gov.sg/job/6af35ef4a98eeee55c3cbfa1027afd21) |
+| HR & Admin Officer | CHINA COMMUNICATIONS CONSTRUCTION COMPANY LIMITED (Singapore Branch) | MyCareersFuture | 2 | 2026-04-23 | [Apply](https://www.mycareersfuture.gov.sg/job/88d5643f3fba984288dbd8cf52047afe) |
+| Learning & Development Manager / Executive / HR Assistant | Sine Bahia - Sistema Nacional de Emprego | LinkedIn | — | 2026-04-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Learning%20%26amp%3B%20Development%20Manager%20%2F%20Executive%20%2F%20HR%20Assistant%20Sine%20Bahia%20-%20Sistema%20Nacional%20de%20Emprego&location=Singapore) |
+| HR Executive | SHAMROCK PTE. LTD. | MyCareersFuture | 2 | 2026-04-22 | [Apply](https://www.mycareersfuture.gov.sg/job/c3f4076149e9d577433213ba877a9774) |
 | Front Desk Executive | KRESTON HELMI TALIB CORPORATE PTE. LTD. | MyCareersFuture | 1 | 2026-04-22 | [Apply](https://www.mycareersfuture.gov.sg/job/65b3817d74ebf80268e8ec86676b8ebe) |
 | HR Executive (Business Partnering) | MANDAI RESORTS PTE. LTD. | MyCareersFuture | 2 | 2026-04-22 | [Apply](https://www.mycareersfuture.gov.sg/job/94a3e248fcd7089aec023b2edfb46611) |
 | Urgent!! Senior HR Executive (F&B) | TRUST RECRUIT PTE. LTD. | MyCareersFuture | 1 | 2026-04-22 | [Apply](https://www.mycareersfuture.gov.sg/job/c1dd3d4d422802af920700d1242825ca) |
@@ -28,11 +32,10 @@
 | Asst. HR Executive / HR Executive | WEIMA BUILDERS PTE. LTD. | MyCareersFuture | 2 | 2026-04-22 | [Apply](https://www.mycareersfuture.gov.sg/job/09f4c2ea0f151e6bc3ac3e36051c9635) |
 | HR Specialist (contract) | ABBVIE OPERATIONS SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-04-22 | [Apply](https://www.mycareersfuture.gov.sg/job/0613d8006e75e8a7ed22d579d4085e98) |
 | Human Resources Executive | American Club, The | MyCareersFuture | 2 | 2026-04-22 | [Apply](https://www.mycareersfuture.gov.sg/job/8dcdbfe03b5c6ed2cfb7604b7db5a60d) |
-| Human Resources Business Partner (HRBP) – Credit & Insurance | Monee | LinkedIn | — | 2026-04-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Business%20Partner%20(HRBP)%20%E2%80%93%20Credit%20%26amp%3B%20Insurance%20Monee&location=Singapore) |
 | Employee Experience Associate | CHARLES & KEITH GROUP | LinkedIn | — | 2026-04-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Employee%20Experience%20Associate%20CHARLES%20%26amp%3B%20KEITH%20GROUP&location=Singapore) |
-| L&D & People Services Executive - MariBank, People Team | Monee | LinkedIn | — | 2026-04-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=L%26amp%3BD%20%26amp%3B%20People%20Services%20Executive%20-%20MariBank%2C%20People%20Team%20Monee&location=Singapore) |
+| Human Resources Business Partner (HRBP) – Credit & Insurance | Monee | LinkedIn | — | 2026-04-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Business%20Partner%20(HRBP)%20%E2%80%93%20Credit%20%26amp%3B%20Insurance%20Monee&location=Singapore) |
 | People & Culture Executive | Mandarin Oriental | LinkedIn | — | 2026-04-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20%26amp%3B%20Culture%20Executive%20Mandarin%20Oriental&location=Singapore) |
-| HR Executive (Talent Management) | ACC EduHub | LinkedIn | — | 2026-04-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Executive%20(Talent%20Management)%20ACC%20EduHub&location=Singapore) |
+| L&D & People Services Executive - MariBank, People Team | Monee | LinkedIn | — | 2026-04-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=L%26amp%3BD%20%26amp%3B%20People%20Services%20Executive%20-%20MariBank%2C%20People%20Team%20Monee&location=Singapore) |
 | Intern, People | foodpanda | LinkedIn | — | 2026-04-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Intern%2C%20People%20foodpanda&location=Singapore) |
 | Admin cum HR Executive | NOVA VITA PTE. LTD. | MyCareersFuture | 2 | 2026-04-21 | [Apply](https://www.mycareersfuture.gov.sg/job/39e16fb512c4831d51bfaaad08ab9ce3) |
 | COMPUTER-AIDED DESIGN (CAD) DRAFTER | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 1 | 2026-04-21 | [Apply](https://www.mycareersfuture.gov.sg/job/4738f9fba5c60ff9239889fdda0ab472) |
@@ -44,8 +47,6 @@
 | HR Administrative Assistant | HL BUILDING MATERIALS PTE. LTD. | MyCareersFuture | 1 | 2026-04-21 | [Apply](https://www.mycareersfuture.gov.sg/job/2ed41b352c9ae11bad23e8588394c4c6) |
 | HR Officer | SH INTEGRATED SERVICES PTE. LTD. | MyCareersFuture | 1 | 2026-04-21 | [Apply](https://www.mycareersfuture.gov.sg/job/282158d369bb1702ca97eeda3e07d2c0) |
 | Front Office Manager | JEWEL CHANGI AIRPORT HOTEL PTE. LTD. | MyCareersFuture | 2 | 2026-04-21 | [Apply](https://www.mycareersfuture.gov.sg/job/9f90be0bd217592b72df4ca559ae64d8) |
-| Human Resources Executive | MIDEA (SINGAPORE) PRODUCT PTE. LTD. | MyCareersFuture | 2 | 2026-04-21 | [Apply](https://www.mycareersfuture.gov.sg/job/09c0e8f8a5779771e5eed3ebf2a0737f) |
-| Human Resources Rotational Program (Early Career) | WD | LinkedIn | — | 2026-04-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Rotational%20Program%20(Early%20Career)%20WD&location=Singapore) |
 | Human Resources Specialist | eTeam | LinkedIn | — | 2026-04-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Specialist%20eTeam&location=Singapore) |
-| Finance, HR and Admin | AVENTINE AGENCY PTE. LTD. | MyCareersFuture | 2 | 2026-04-20 | [Apply](https://www.mycareersfuture.gov.sg/job/f5b3ce543e0b353db3cf4335ad985f55) |
-| Specialist II, HR (Employee Experience) - 6 Months Contract | Scoot | LinkedIn | — | 2026-04-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Specialist%20II%2C%20HR%20(Employee%20Experience)%20-%206%20Months%20Contract%20Scoot&location=Singapore) |
+| Human Resources Rotational Program (Early Career) | WD | LinkedIn | — | 2026-04-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Rotational%20Program%20(Early%20Career)%20WD&location=Singapore) |
+| Onboarding Operations Specialist - APAC | Remote | LinkedIn | — | 2026-04-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Onboarding%20Operations%20Specialist%20-%20APAC%20Remote&location=Singapore) |
