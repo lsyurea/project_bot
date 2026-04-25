@@ -2,14 +2,21 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-04-25T03:42:34.259Z*
+> *Last updated: 2026-04-25T13:47:16.063Z*
 
-**Total listings: 41** *(MyCareersFuture: 33 | LinkedIn: 9)*
+**Total listings: 33** *(MyCareersFuture: 24 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| HR Manager #84013 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-04-25 | [Apply](https://www.mycareersfuture.gov.sg/job/c5b4ba307c4d62c09b0f29ab8ce31659) |
+| Part-Time HR & Finance Assistant (Weekends: $13 - $18/hr) | ZERO CONCEPTS PTE. LTD. | MyCareersFuture | 0 | 2026-04-25 | [Apply](https://www.mycareersfuture.gov.sg/job/ae638aa9da5416f99961da3976996d0d) |
+| Recruitment Assistant | MATHVISION ENRICHMENT CENTRE PTE. LTD. | MyCareersFuture | 2 | 2026-04-25 | [Apply](https://www.mycareersfuture.gov.sg/job/e22eaf38dec3e459b2f7b308cbb5c61b) |
+| (Gov) 1 Yr Contract Data Analysis Officer (Good with Power BI/VlookUp) Diploma in Big Data & Analytics) @ Up 3.4K #HJC | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-04-25 | [Apply](https://www.mycareersfuture.gov.sg/job/66df288999d9bb0d684c0ec211ca2097) |
 | HR Executive | Winner Engineering Pte Ltd | LinkedIn | — | 2026-04-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Executive%20Winner%20Engineering%20Pte%20Ltd&location=Singapore) |
+| Human Resources Associate - Product & Engineering (2026 Campus Recruitment) | Shopee | LinkedIn | — | 2026-04-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Associate%20-%20Product%20%26amp%3B%20Engineering%20(2026%20Campus%20Recruitment)%20Shopee&location=Singapore) |
+| HR Operation Executive, SEA | The Hoffman Agency | LinkedIn | — | 2026-04-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Operation%20Executive%2C%20SEA%20The%20Hoffman%20Agency&location=Singapore) |
 | Learning & Development Manager / Executive / HR Assistant | Mariana Polix - Consultoria de Carreira e Recolocação | LinkedIn | — | 2026-04-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Learning%20%26amp%3B%20Development%20Manager%20%2F%20Executive%20%2F%20HR%20Assistant%20Mariana%20Polix%20%7C%20Consultoria%20de%20Carreira%20e%20Recoloca%C3%A7%C3%A3o&location=Singapore) |
+| Learning & Development Manager / Executive / HR Assistant | RV ENERGY SOLUTIONS | LinkedIn | — | 2026-04-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Learning%20%26amp%3B%20Development%20Manager%20%2F%20Executive%20%2F%20HR%20Assistant%20RV%20ENERGY%20SOLUTIONS&location=Singapore) |
 | Assistant Production Supervisor | JABIL CIRCUIT (SINGAPORE) PTE. LTD. | MyCareersFuture | 2 | 2026-04-24 | [Apply](https://www.mycareersfuture.gov.sg/job/0d43ee19e7712a2fc58354e25a7bd4e7) |
 | Senior/HR Executive | INNERGY CONSULTING PTE. LTD. | MyCareersFuture | 2 | 2026-04-24 | [Apply](https://www.mycareersfuture.gov.sg/job/fb2fc7bf3f8e973a432b4adcd3181a7c) |
 | HR Executive | IMPACT BPO SERVICES PTE. LTD. | MyCareersFuture | 1 | 2026-04-24 | [Apply](https://www.mycareersfuture.gov.sg/job/f69af10acaf3dc7bd6943cb46fd61e5e) |
@@ -31,21 +38,6 @@
 | Human Resources Executive | Shangri-La Group | LinkedIn | — | 2026-04-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20Shangri-La%20Group&location=Singapore) |
 | Human Resources Associate, People Team (2026 Graduate) | Shopee | LinkedIn | — | 2026-04-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Associate%2C%20People%20Team%20(2026%20Graduate)%20Shopee&location=Singapore) |
 | HR Intern | ORIENTAL REMEDIES INCORPORATED (PRIVATE LIMITED) | MyCareersFuture | 1 | 2026-04-23 | [Apply](https://www.mycareersfuture.gov.sg/job/379fc68168321b4f568d2c94ba15a791) |
-| HR Intern | MY QUEEN SERVICE PTE. LTD. | MyCareersFuture | 0 | 2026-04-23 | [Apply](https://www.mycareersfuture.gov.sg/job/774ec8dee089dfd1a6927ff441855d90) |
-| HR EXECUTIVE | MANDATE OF MANPOWER PTE. LTD. | MyCareersFuture | 1 | 2026-04-23 | [Apply](https://www.mycareersfuture.gov.sg/job/3921228880bd569060346b57292db406) |
-| SENIOR HR EXECUTIVE / ASSISTANT HR MANAGER | MANDATE OF MANPOWER PTE. LTD. | MyCareersFuture | 2 | 2026-04-23 | [Apply](https://www.mycareersfuture.gov.sg/job/7832cd761ed105ccf93edaaddbd64354) |
-| HR EXECUTIVE | TOTAL MANPOWER PTE. LTD. | MyCareersFuture | 1 | 2026-04-23 | [Apply](https://www.mycareersfuture.gov.sg/job/b1e6f772676e55f235d776539662a282) |
-| HR EXECUTIVE | OCD HANDS PTE. LTD. | MyCareersFuture | 1 | 2026-04-23 | [Apply](https://www.mycareersfuture.gov.sg/job/607b5573bb4c11d72bd1a7a6a0742282) |
-| HR ASSISTANT MANAGER | OCD HANDS PTE. LTD. | MyCareersFuture | 2 | 2026-04-23 | [Apply](https://www.mycareersfuture.gov.sg/job/ad3300f2f1db9448ff50c4f336962350) |
-| HR EXECUTIVE | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-04-23 | [Apply](https://www.mycareersfuture.gov.sg/job/3a5d62b9ef66502d8fccaf362e07f463) |
-| Human Resources (HR) Executive 7094 | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-04-23 | [Apply](https://www.mycareersfuture.gov.sg/job/2c7d49fd6d60c99572d1038c52244734) |
-| HR EXECUTIVE | DAY ONE PTE. LTD. | MyCareersFuture | 1 | 2026-04-23 | [Apply](https://www.mycareersfuture.gov.sg/job/c4e38184ca3fae08627cff5792d4b53e) |
-| Research Associate (International Dispute Resolution) | NATIONAL UNIVERSITY OF SINGAPORE | MyCareersFuture | 2 | 2026-04-23 | [Apply](https://www.mycareersfuture.gov.sg/job/adfc2a5318bda0f54236677e990f9d01) |
-| Human Resources Business Partner | COVE LIVING PTE. LTD. | MyCareersFuture | 1 | 2026-04-23 | [Apply](https://www.mycareersfuture.gov.sg/job/64e7125a527651f9fc3bb0878e7e5fe8) |
-| HR & Admin Assistant | ASSURANCE TECHNOLOGY PTE LTD | MyCareersFuture | 1 | 2026-04-23 | [Apply](https://www.mycareersfuture.gov.sg/job/bbc55d7d5dfda0ff25e285f2dd25d607) |
-| Human Resource Assistant | JOBSKIPEDIA PTE. LTD. | MyCareersFuture | 1 | 2026-04-23 | [Apply](https://www.mycareersfuture.gov.sg/job/644b41f55b51a53ffda4cf025cda3248) |
-| HR Associate | Sea | LinkedIn | — | 2026-04-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Associate%20Sea&location=Singapore) |
-| Human Resources Business Partner | Cove | LinkedIn | — | 2026-04-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Business%20Partner%20Cove&location=Singapore) |
-| Talent Acquisition Coordinator, Singapore (6 Month Contract) | Bloomberg | LinkedIn | — | 2026-04-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Coordinator%2C%20Singapore%20(6%20Month%20Contract)%20Bloomberg&location=Singapore) |
 | Contingent Workforce Management Business Partner | ByteDance | LinkedIn | — | 2026-04-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Contingent%20Workforce%20Management%20Business%20Partner%20ByteDance&location=Singapore) |
 | Specialist, Talent Development (6 Months Maternity Cover) | Marina Bay Sands | LinkedIn | — | 2026-04-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Specialist%2C%20Talent%20Development%20(6%20Months%20Maternity%20Cover)%20Marina%20Bay%20Sands&location=Singapore) |
+| Assistant Production Supervisor | Jabil | LinkedIn | — | 2026-04-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Assistant%20Production%20Supervisor%20Jabil&location=Singapore) |
