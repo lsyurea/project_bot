@@ -2,12 +2,14 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-04-25T03:42:44.446Z*
+> *Last updated: 2026-04-25T13:47:26.149Z*
 
-**Total listings: 23** *(MyCareersFuture: 14 | LinkedIn: 10)*
+**Total listings: 16** *(MyCareersFuture: 6 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Software Engineer (C++/C#, Machine Automation) #76684 | ANRADUS PTE. LTD. | MyCareersFuture | 1 | 2026-04-25 | [Apply](https://www.mycareersfuture.gov.sg/job/c380528eeba2d50eead0f6cb7348eab6) |
+| Software Engineer, Desktop | A1 | LinkedIn | — | 2026-04-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Desktop%20A1&location=Singapore) |
 | Software Engineer (C++ / Java) Boon Lay area | MAESTRO HUMAN RESOURCE PTE. LTD. | MyCareersFuture | 0 | 2026-04-24 | [Apply](https://www.mycareersfuture.gov.sg/job/43c6d088b88df54c0ee70da101bb546c) |
 | Backend Engineer (Java/J2EE) | MINDTECK SINGAPORE PTE LTD | MyCareersFuture | 0 | 2026-04-24 | [Apply](https://www.mycareersfuture.gov.sg/job/5565641bfed5fa709f1cf2b04c01b87c) |
 | Senior/Software Engineer [Java Proficiency Preferred] | TALENTSIS PTE. LTD. | MyCareersFuture | 1 | 2026-04-24 | [Apply](https://www.mycareersfuture.gov.sg/job/b8af0a67b0f3cc5d8f343e53eb782446) |
@@ -17,17 +19,8 @@
 | Software Development Engineer | Micron Technology | LinkedIn | — | 2026-04-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Development%20Engineer%20Micron%20Technology&location=Singapore) |
 | Software Engineer, Simulation | Intrinsic | LinkedIn | — | 2026-04-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Simulation%20Intrinsic&location=Singapore) |
 | Software Engineer (Nucleus Graduate Programme) | NCS Group | LinkedIn | — | 2026-04-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Nucleus%20Graduate%20Programme)%20NCS%20Group&location=Singapore) |
-| Senior Software Engineer (PLC) | FA SYSTEMS AUTOMATION (S) PTE LTD | MyCareersFuture | 1 | 2026-04-23 | [Apply](https://www.mycareersfuture.gov.sg/job/b667a8bdfa5e0382af04397932186bd6) |
-| Software engineer (Production/Applications support, Shift job)- Contract | QUESSCORP SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-04-23 | [Apply](https://www.mycareersfuture.gov.sg/job/eafb48954be3c8a510935da107bf9155) |
-| Research Scientist, Machine Learning | FACEBOOK SINGAPORE PTE. LTD. | MyCareersFuture | 0 | 2026-04-23 | [Apply](https://www.mycareersfuture.gov.sg/job/24dba3f680dd46e47a08a0d9f61b15ef) |
-| Software Engineer (React/Java) | SCIENTEC CONSULTING PTE. LTD. | MyCareersFuture | 2 | 2026-04-23 | [Apply](https://www.mycareersfuture.gov.sg/job/0877e73ca6bb2403c5de1504ebcd31e7) |
-| Software Engineer | TESCOM (SINGAPORE) SOFTWARE SYSTEMS TESTING PTE LTD. | MyCareersFuture | 1 | 2026-04-23 | [Apply](https://www.mycareersfuture.gov.sg/job/590e71651f9c22e5dcfc60ec2a1a49b3) |
-| Software Engineer (C++, Qt) | DCONSTRUCT ROBOTICS PTE. LTD. | MyCareersFuture | 1 | 2026-04-23 | [Apply](https://www.mycareersfuture.gov.sg/job/4968ad8a633cb8856f03c4066132bca4) |
-| Software Engineer, Backend | GRABTAXI HOLDINGS PTE. LTD. | MyCareersFuture | 2 | 2026-04-23 | [Apply](https://www.mycareersfuture.gov.sg/job/806aecdec55485878e84aeb34f7836a1) |
-| Software Engineer With Java & Microservices | EPS COMPUTER SYSTEMS PTE LTD | MyCareersFuture | 1 | 2026-04-23 | [Apply](https://www.mycareersfuture.gov.sg/job/44ad8c59f68b31916b55e772a6dd24f1) |
+| Software Engineer, Test | Rockwell Automation | LinkedIn | — | 2026-04-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Test%20Rockwell%20Automation&location=Singapore) |
 | Graduate software engineer | Evernote | LinkedIn | — | 2026-04-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20software%20engineer%20Evernote&location=Singapore) |
 | Graduate software engineer | Meetup | LinkedIn | — | 2026-04-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20software%20engineer%20Meetup&location=Singapore) |
 | Graduate software engineer | WeTransfer | LinkedIn | — | 2026-04-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20software%20engineer%20WeTransfer&location=Singapore) |
-| Software Engineer | ST Engineering | LinkedIn | — | 2026-04-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20ST%20Engineering&location=Singapore) |
-| Software Developer, Project Engineer - Various Positions | MSI Global Pte Ltd | LinkedIn | — | 2026-04-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Developer%2C%20Project%20Engineer%20-%20Various%20Positions%20MSI%20Global%20Pte%20Ltd&location=Singapore) |
 | Technology Associate Programme | GovTech Singapore | LinkedIn | — | 2026-04-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Technology%20Associate%20Programme%20GovTech%20Singapore&location=Singapore) |
