@@ -2,12 +2,17 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-04-27T14:36:35.762Z*
+> *Last updated: 2026-04-28T04:24:37.450Z*
 
-**Total listings: 26** *(MyCareersFuture: 16 | LinkedIn: 10)*
+**Total listings: 28** *(MyCareersFuture: 20 | LinkedIn: 9)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Embedded Software Engineer - Crypto Mining Infrastructure | DADACONSULTANTS PTE. LTD. | MyCareersFuture | 2 | 2026-04-28 | [Apply](https://www.mycareersfuture.gov.sg/job/d5422bb737cbf7b47d67940f3fb81c47) |
+| C/C++ Software Engineer | SECUREAGE TECHNOLOGY PTE. LTD. | MyCareersFuture | 2 | 2026-04-28 | [Apply](https://www.mycareersfuture.gov.sg/job/e7e603db94d59455cd9abb2022cdbdae) |
+| Software Engineer (Permanent) | TALENTSIS PTE. LTD. | MyCareersFuture | 0 | 2026-04-28 | [Apply](https://www.mycareersfuture.gov.sg/job/fd5cb11f422ef74df8dae269d6d08f8a) |
+| Research Fellow (Quantum Software Engineer) | NATIONAL UNIVERSITY OF SINGAPORE | MyCareersFuture | 1 | 2026-04-28 | [Apply](https://www.mycareersfuture.gov.sg/job/5c887c6d66ef2a6206148177a76b4624) |
+| Software Development and Support Engineer #SGUnitJobs | WINSYS TECHNOLOGY PTE LTD | MyCareersFuture | 2 | 2026-04-27 | [Apply](https://www.mycareersfuture.gov.sg/job/4d6c0bd8b62798571fcb7b3a4010b0c6) |
 | Software Engineer | ETH SINGAPORE SEC LTD. | MyCareersFuture | 1 | 2026-04-27 | [Apply](https://www.mycareersfuture.gov.sg/job/0b27fae7112c5bf9b73cb1075980819b) |
 | Software  Engineer | INFRANET TECH SOLUTIONS PTE. LTD. | MyCareersFuture | 1 | 2026-04-27 | [Apply](https://www.mycareersfuture.gov.sg/job/96e64e21e1fe5d2ff2039478580b4c53) |
 | Software Engineer | FA SYSTEMS AUTOMATION (S) PTE LTD | MyCareersFuture | 1 | 2026-04-27 | [Apply](https://www.mycareersfuture.gov.sg/job/5c75453619600ba23ee7e38db1afbecd) |
@@ -21,16 +26,13 @@
 | Software Engineer Intern | CODEX SOLUTIONS PTE. LTD. | MyCareersFuture | 1 | 2026-04-27 | [Apply](https://www.mycareersfuture.gov.sg/job/0a006709de08daf6574003371e219bb8) |
 | Software Engineer | CODEX SOLUTIONS PTE. LTD. | MyCareersFuture | 1 | 2026-04-27 | [Apply](https://www.mycareersfuture.gov.sg/job/c1f3d9d5108fe1ed4eda3c935fdf1570) |
 | Software & Data Analysis Engineer | APPLIED TOTAL CONTROL TREATMENT PTE. LTD. | MyCareersFuture | 2 | 2026-04-27 | [Apply](https://www.mycareersfuture.gov.sg/job/28dcceeae66ca71637ce4b56c965a49f) |
-| Software Engineer | Padlet | LinkedIn | — | 2026-04-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Padlet&location=Singapore) |
+| Software Engineer | Boxy | LinkedIn | — | 2026-04-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Boxy&location=Singapore) |
+| Software Engineer (Data), Ai & Data Platforms | Apple | LinkedIn | — | 2026-04-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Data)%2C%20Ai%20%26amp%3B%20Data%20Platforms%20Apple&location=Singapore) |
+| Software Engineer | ST Engineering | LinkedIn | — | 2026-04-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20ST%20Engineering&location=Singapore) |
 | Software Engineer | WSA – Wonderful Sound for All | LinkedIn | — | 2026-04-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20WSA%20%E2%80%93%20Wonderful%20Sound%20for%20All&location=Singapore) |
 | Software Engineer (No Experience Needed) | Red Alpha Cybersecurity | LinkedIn | — | 2026-04-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(No%20Experience%20Needed)%20Red%20Alpha%20Cybersecurity&location=Singapore) |
 | Software Engineer - Java - Japanese Speaking | Wise | LinkedIn | — | 2026-04-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20-%20Java%20-%20Japanese%20Speaking%20Wise&location=Singapore) |
 | Robotics Autonomy Software Engineer | BEEX PTE. LTD. | MyCareersFuture | 1 | 2026-04-26 | [Apply](https://www.mycareersfuture.gov.sg/job/9c762edfe069b8154e26932ff826d001) |
 | Control (Software) Design Engineer / PLC Programmer #70912 | ANRADUS PTE. LTD. | MyCareersFuture | 0 | 2026-04-26 | [Apply](https://www.mycareersfuture.gov.sg/job/84a94d20fd233f1b1e68e328308c57dd) |
-| Full Stack Developer or Software Engineer (.NET) | SEARCH PERSONNEL PRIVATE LIMITED | MyCareersFuture | 2 | 2026-04-26 | [Apply](https://www.mycareersfuture.gov.sg/job/08b3f30ba99545805d0dc66dd589060c) |
 | Cyber Security Software Engineer (Network Devices) | Centre for Strategic Infocomm Technologies (CSIT) | LinkedIn | — | 2026-04-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Cyber%20Security%20Software%20Engineer%20(Network%20Devices)%20Centre%20for%20Strategic%20Infocomm%20Technologies%20(CSIT)&location=Singapore) |
-| Graduate software engineer | Bending Spoons | LinkedIn | — | 2026-04-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20software%20engineer%20Bending%20Spoons&location=Singapore) |
-| Graduate AI software engineer | Bending Spoons | LinkedIn | — | 2026-04-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20AI%20software%20engineer%20Bending%20Spoons&location=Singapore) |
-| Software Engineer (GovTech) | AvePoint | LinkedIn | — | 2026-04-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(GovTech)%20AvePoint&location=Singapore) |
-| Software engineer, intern | Bending Spoons | LinkedIn | — | 2026-04-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20engineer%2C%20intern%20Bending%20Spoons&location=Singapore) |
-| Cyber Security Software Engineer | Centre for Strategic Infocomm Technologies (CSIT) | LinkedIn | — | 2026-04-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Cyber%20Security%20Software%20Engineer%20Centre%20for%20Strategic%20Infocomm%20Technologies%20(CSIT)&location=Singapore) |
+| Component Quality Engineer | Arrow Electronics | LinkedIn | — | 2026-04-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Component%20Quality%20Engineer%20Arrow%20Electronics&location=Singapore) |
