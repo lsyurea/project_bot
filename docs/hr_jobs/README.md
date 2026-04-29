@@ -2,12 +2,20 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-04-29T04:11:25.642Z*
+> *Last updated: 2026-04-29T14:40:40.987Z*
 
-**Total listings: 43** *(MyCareersFuture: 36 | LinkedIn: 10)*
+**Total listings: 43** *(MyCareersFuture: 34 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| HR Admin Officer | CKSE PTE. LTD. | MyCareersFuture | 1 | 2026-04-29 | [Apply](https://www.mycareersfuture.gov.sg/job/f29c97d1d2316b7a55e58c03667ea7f7) |
+| HR Admin Executive | CWCS PTE. LTD. | MyCareersFuture | 1 | 2026-04-29 | [Apply](https://www.mycareersfuture.gov.sg/job/a50aff83566ac5b5f5b50cc699a53cbe) |
+| Project Assistant (Human Resources and Organisation Development) | ADECCO PERSONNEL PTE LTD | MyCareersFuture | 1 | 2026-04-29 | [Apply](https://www.mycareersfuture.gov.sg/job/25e3cc550d57c0c051766fdb9c600d10) |
+| People and Culture intern | WWF-WORLD WIDE FUND FOR NATURE (SINGAPORE) LIMITED | MyCareersFuture | 0 | 2026-04-29 | [Apply](https://www.mycareersfuture.gov.sg/job/b3f4e95c5ed6bef2da0002de088df3f7) |
+| Management Trainee | GAIAX INTERNATIONAL PTE. LTD. | MyCareersFuture | 0 | 2026-04-29 | [Apply](https://www.mycareersfuture.gov.sg/job/451d15d5a6bbe1531e325003113c450a) |
+| Senior/ HR Executive | COMPACT METAL INDUSTRIES PTE. LTD. | MyCareersFuture | 2 | 2026-04-29 | [Apply](https://www.mycareersfuture.gov.sg/job/756c98326fad2a05724e7dcaaee979c7) |
+| Intern, HR Operations #hms | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 2 | 2026-04-29 | [Apply](https://www.mycareersfuture.gov.sg/job/df6664db1d95e7242d0ba7f344571c8c) |
+| Human Resources Executive (Payroll) | EBB & FLOW PTE. LTD. | MyCareersFuture | 2 | 2026-04-29 | [Apply](https://www.mycareersfuture.gov.sg/job/92bdac75df9f9d11020928d935c41238) |
 | Temp Project Executive (Human Capital Initiatives) at Clementi, $14/hr | SUCCESS HUMAN RESOURCE CENTRE PTE. LTD. | MyCareersFuture | 1 | 2026-04-29 | [Apply](https://www.mycareersfuture.gov.sg/job/a21d29272ef73e7dbceae6bf1a29e9ba) |
 | HR and Admin Assistant($2500 - $3300) | OAKTREE CONSULTING | MyCareersFuture | 2 | 2026-04-29 | [Apply](https://www.mycareersfuture.gov.sg/job/78a445c289acc798b1d6d7fe7a42b10e) |
 | HR Assistance | KINGDEE INTERNATIONAL SOFTWARE GROUP (SINGAPORE) PTE. LTD. | MyCareersFuture | 2 | 2026-04-29 | [Apply](https://www.mycareersfuture.gov.sg/job/6cdd8b449b758031567d17dd0e1ecbfb) |
@@ -17,7 +25,10 @@
 | HR Clerk/Admin | QUASAR MEDICAL (SINGAPORE) PTE. LTD. | MyCareersFuture | 1 | 2026-04-29 | [Apply](https://www.mycareersfuture.gov.sg/job/018099817e94e3dff6a192bcd2cd120d) |
 | Administrative Assistant / PA | STRIDES PREMIER TAXI PTE. LTD. | MyCareersFuture | 1 | 2026-04-29 | [Apply](https://www.mycareersfuture.gov.sg/job/2e61574f9f511bf92970cffb83d1a5f3) |
 | HR & Admin Assistant | RECRUIT NOW SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-04-29 | [Apply](https://www.mycareersfuture.gov.sg/job/4c9be0c734d414b72779cd68d9d8280e) |
-| HR Manager / Recruitment Consultant | Ministry of Family - UAE وزارة الأسرة في الإمارات العربية المتحدة | LinkedIn | — | 2026-04-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Manager%20%2F%20Recruitment%20Consultant%20Ministry%20of%20Family%20-%20UAE%20%D9%88%D8%B2%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A3%D8%B3%D8%B1%D8%A9%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%20%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9&location=Singapore) |
+| Recruitment Consultant(CEI, Work at home, Commission-Based) | Oaktree Consulting LLC | LinkedIn | — | 2026-04-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Recruitment%20Consultant(CEI%2C%20Work%20at%20home%2C%20Commission-Based)%20Oaktree%20Consulting%20LLC&location=Singapore) |
+| Recruitment Manager(CEI, Work at home, Commission-Based) | Oaktree Consulting LLC | LinkedIn | — | 2026-04-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Recruitment%20Manager(CEI%2C%20Work%20at%20home%2C%20Commission-Based)%20Oaktree%20Consulting%20LLC&location=Singapore) |
+| Learning & Development Manager / Executive / HR Assistant | AQ Properties & Marketing | LinkedIn | — | 2026-04-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Learning%20%26amp%3B%20Development%20Manager%20%2F%20Executive%20%2F%20HR%20Assistant%20AQ%20Properties%20%26amp%3B%20Marketing&location=Singapore) |
+| Associate, Organisational Development (HR) | National Trades Union Congress (NTUC) | LinkedIn | — | 2026-04-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Associate%2C%20Organisational%20Development%20(HR)%20National%20Trades%20Union%20Congress%20(NTUC)&location=Singapore) |
 | SALES MANAGER | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-04-28 | [Apply](https://www.mycareersfuture.gov.sg/job/1dac5c242089b4d72bef1a828fe4f66b) |
 | Human Resources Associate (1 year contract) | M-DAQ GLOBAL PTE. LTD. | MyCareersFuture | 2 | 2026-04-28 | [Apply](https://www.mycareersfuture.gov.sg/job/5a938f7c986c2de480518824a4412c7c) |
 | HR and Admin Executive | CMSE ENGINEERING PTE. LTD. | MyCareersFuture | 2 | 2026-04-28 | [Apply](https://www.mycareersfuture.gov.sg/job/583381d07c4254803dcb2f7574725a0d) |
@@ -37,17 +48,6 @@
 | Human Resources Executive | Acclime | LinkedIn | — | 2026-04-28 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20Acclime&location=Singapore) |
 | Human Resources Executive | Worldwide Hotels (WWH) | LinkedIn | — | 2026-04-28 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20Worldwide%20Hotels%20(WWH)&location=Singapore) |
 | People and Culture Executive | Ennismore | LinkedIn | — | 2026-04-28 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20and%20Culture%20Executive%20Ennismore&location=Singapore) |
-| FURNITURE CARPENTER | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-04-27 | [Apply](https://www.mycareersfuture.gov.sg/job/1ae7a042a6f9752aa97865e4ea548079) |
-| LORRY DRIVER | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-04-27 | [Apply](https://www.mycareersfuture.gov.sg/job/c9044e41035a58ea1ca223ac443c0468) |
-| HR & Admin Executive | KEAWORLD PTE. LTD. | MyCareersFuture | 2 | 2026-04-27 | [Apply](https://www.mycareersfuture.gov.sg/job/41f9aa58d873b501f1d9a8300df575c3) |
-| Urgent!! Senior HR Executive (F&B) | TRUST RECRUIT PTE. LTD. | MyCareersFuture | 1 | 2026-04-27 | [Apply](https://www.mycareersfuture.gov.sg/job/64c1ec5eee9af4faa11501bfcc434d42) |
-| 1 Year Contract HR Assistant - WEST - Up to $3000 | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-04-27 | [Apply](https://www.mycareersfuture.gov.sg/job/e450c999a79d64769e181ee330839a12) |
-| Human Resource Operations Executive - Contract Role (Renewable) - #HMZT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-04-27 | [Apply](https://www.mycareersfuture.gov.sg/job/d39c1baaa5564ec7f5b685ca2a12e251) |
-| Human Resources Intern | IN.CORP GLOBAL PTE. LTD. | MyCareersFuture | 0 | 2026-04-27 | [Apply](https://www.mycareersfuture.gov.sg/job/1e216f95b1178eeb132170227e7883c3) |
-| Accounts Executive / Snr Executive | MOTORIST PTE. LTD. | MyCareersFuture | 2 | 2026-04-27 | [Apply](https://www.mycareersfuture.gov.sg/job/759b7d9be39fb724b3318be15a37cfee) |
+| Temp HR Executive | Ministry of Digital Development and Information | LinkedIn | — | 2026-04-28 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Temp%20HR%20Executive%20Ministry%20of%20Digital%20Development%20and%20Information&location=Singapore) |
+| Benefits Consultant - Singapore | Tesla | LinkedIn | — | 2026-04-28 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Benefits%20Consultant%20-%20Singapore%20Tesla&location=Singapore) |
 | Human Resource Assistant | Ley Choon Group Holdings Ltd | LinkedIn | — | 2026-04-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resource%20Assistant%20Ley%20Choon%20Group%20Holdings%20Ltd&location=Singapore) |
-| Human Resources Executive | HRnetOne | LinkedIn | — | 2026-04-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20HRnetOne&location=Singapore) |
-| Human Resources Business Partner (HRBP) – Credit & Insurance | Monee | LinkedIn | — | 2026-04-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Business%20Partner%20(HRBP)%20%E2%80%93%20Credit%20%26amp%3B%20Insurance%20Monee&location=Singapore) |
-| Human Resources Officer | OBAYASHI SINGAPORE PRIVATE LIMITED | LinkedIn | — | 2026-04-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Officer%20OBAYASHI%20SINGAPORE%20PRIVATE%20LIMITED&location=Singapore) |
-| L&D & People Services Executive - MariBank, People Team | Monee | LinkedIn | — | 2026-04-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=L%26amp%3BD%20%26amp%3B%20People%20Services%20Executive%20-%20MariBank%2C%20People%20Team%20Monee&location=Singapore) |
-| Junior HRBP, L&D | Soitec | LinkedIn | — | 2026-04-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Junior%20HRBP%2C%20L%26amp%3BD%20Soitec&location=Singapore) |
