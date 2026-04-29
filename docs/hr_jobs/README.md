@@ -2,12 +2,22 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-04-28T15:08:42.532Z*
+> *Last updated: 2026-04-29T04:11:25.642Z*
 
-**Total listings: 37** *(MyCareersFuture: 30 | LinkedIn: 10)*
+**Total listings: 43** *(MyCareersFuture: 36 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Temp Project Executive (Human Capital Initiatives) at Clementi, $14/hr | SUCCESS HUMAN RESOURCE CENTRE PTE. LTD. | MyCareersFuture | 1 | 2026-04-29 | [Apply](https://www.mycareersfuture.gov.sg/job/a21d29272ef73e7dbceae6bf1a29e9ba) |
+| HR and Admin Assistant($2500 - $3300) | OAKTREE CONSULTING | MyCareersFuture | 2 | 2026-04-29 | [Apply](https://www.mycareersfuture.gov.sg/job/78a445c289acc798b1d6d7fe7a42b10e) |
+| HR Assistance | KINGDEE INTERNATIONAL SOFTWARE GROUP (SINGAPORE) PTE. LTD. | MyCareersFuture | 2 | 2026-04-29 | [Apply](https://www.mycareersfuture.gov.sg/job/6cdd8b449b758031567d17dd0e1ecbfb) |
+| Regional HR & Admin Coordinator | CRANE WORLDWIDE LOGISTICS (S) PTE. LTD. | MyCareersFuture | 1 | 2026-04-29 | [Apply](https://www.mycareersfuture.gov.sg/job/7d124f9d47a832392718480a1a37ace9) |
+| Human Resources Executive | ST ENGINEERING E-SERVICES PTE. LTD. | MyCareersFuture | 2 | 2026-04-29 | [Apply](https://www.mycareersfuture.gov.sg/job/80f7a6cf93b830a3caa744d0815d6afc) |
+| Executive, Volunteer Management | SINGAPORE RED CROSS SOCIETY | MyCareersFuture | 1 | 2026-04-29 | [Apply](https://www.mycareersfuture.gov.sg/job/f24d50e2946d3740feb8b660540ef2cf) |
+| HR Clerk/Admin | QUASAR MEDICAL (SINGAPORE) PTE. LTD. | MyCareersFuture | 1 | 2026-04-29 | [Apply](https://www.mycareersfuture.gov.sg/job/018099817e94e3dff6a192bcd2cd120d) |
+| Administrative Assistant / PA | STRIDES PREMIER TAXI PTE. LTD. | MyCareersFuture | 1 | 2026-04-29 | [Apply](https://www.mycareersfuture.gov.sg/job/2e61574f9f511bf92970cffb83d1a5f3) |
+| HR & Admin Assistant | RECRUIT NOW SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-04-29 | [Apply](https://www.mycareersfuture.gov.sg/job/4c9be0c734d414b72779cd68d9d8280e) |
+| HR Manager / Recruitment Consultant | Ministry of Family - UAE وزارة الأسرة في الإمارات العربية المتحدة | LinkedIn | — | 2026-04-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Manager%20%2F%20Recruitment%20Consultant%20Ministry%20of%20Family%20-%20UAE%20%D9%88%D8%B2%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A3%D8%B3%D8%B1%D8%A9%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%20%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9&location=Singapore) |
 | SALES MANAGER | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-04-28 | [Apply](https://www.mycareersfuture.gov.sg/job/1dac5c242089b4d72bef1a828fe4f66b) |
 | Human Resources Associate (1 year contract) | M-DAQ GLOBAL PTE. LTD. | MyCareersFuture | 2 | 2026-04-28 | [Apply](https://www.mycareersfuture.gov.sg/job/5a938f7c986c2de480518824a4412c7c) |
 | HR and Admin Executive | CMSE ENGINEERING PTE. LTD. | MyCareersFuture | 2 | 2026-04-28 | [Apply](https://www.mycareersfuture.gov.sg/job/583381d07c4254803dcb2f7574725a0d) |
@@ -24,10 +34,9 @@
 | HR (Business Development) Executive #HKN | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-04-28 | [Apply](https://www.mycareersfuture.gov.sg/job/3fb6bef97c7be00cc98f59c4b60c67f7) |
 | HR Assistant (Intern) | KST MARITIME PTE. LTD. | MyCareersFuture | 0 | 2026-04-28 | [Apply](https://www.mycareersfuture.gov.sg/job/1e89fabc74181b938aeb266301e134f2) |
 | Executive Search Consultant | CA SEARCH PTE. LTD. | MyCareersFuture | 2 | 2026-04-28 | [Apply](https://www.mycareersfuture.gov.sg/job/9d5ca8184708fe489d4ca0d6dfa151b5) |
-| HR & Admin Assistant | RECRUIT NOW SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-04-28 | [Apply](https://www.mycareersfuture.gov.sg/job/ca271d897e1ba64ec8aafd5af8f0e9c8) |
 | Human Resources Executive | Acclime | LinkedIn | — | 2026-04-28 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20Acclime&location=Singapore) |
-| HR Assistant / Executive | Lian Hin Pte Ltd | LinkedIn | — | 2026-04-28 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Assistant%20%2F%20Executive%20Lian%20Hin%20Pte%20Ltd&location=Singapore) |
 | Human Resources Executive | Worldwide Hotels (WWH) | LinkedIn | — | 2026-04-28 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20Worldwide%20Hotels%20(WWH)&location=Singapore) |
+| People and Culture Executive | Ennismore | LinkedIn | — | 2026-04-28 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20and%20Culture%20Executive%20Ennismore&location=Singapore) |
 | FURNITURE CARPENTER | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-04-27 | [Apply](https://www.mycareersfuture.gov.sg/job/1ae7a042a6f9752aa97865e4ea548079) |
 | LORRY DRIVER | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-04-27 | [Apply](https://www.mycareersfuture.gov.sg/job/c9044e41035a58ea1ca223ac443c0468) |
 | HR & Admin Executive | KEAWORLD PTE. LTD. | MyCareersFuture | 2 | 2026-04-27 | [Apply](https://www.mycareersfuture.gov.sg/job/41f9aa58d873b501f1d9a8300df575c3) |
@@ -36,12 +45,9 @@
 | Human Resource Operations Executive - Contract Role (Renewable) - #HMZT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-04-27 | [Apply](https://www.mycareersfuture.gov.sg/job/d39c1baaa5564ec7f5b685ca2a12e251) |
 | Human Resources Intern | IN.CORP GLOBAL PTE. LTD. | MyCareersFuture | 0 | 2026-04-27 | [Apply](https://www.mycareersfuture.gov.sg/job/1e216f95b1178eeb132170227e7883c3) |
 | Accounts Executive / Snr Executive | MOTORIST PTE. LTD. | MyCareersFuture | 2 | 2026-04-27 | [Apply](https://www.mycareersfuture.gov.sg/job/759b7d9be39fb724b3318be15a37cfee) |
-| HR Executive (Recruitment) | ACEPLP.COM PTE LTD | MyCareersFuture | 1 | 2026-04-27 | [Apply](https://www.mycareersfuture.gov.sg/job/197fd5b38a27e6db7c452d058e03ece1) |
-| HR Executive (Training) | ACEPLP.COM PTE LTD | MyCareersFuture | 1 | 2026-04-27 | [Apply](https://www.mycareersfuture.gov.sg/job/760d967700bb624b0980a17bd44c1d53) |
 | Human Resource Assistant | Ley Choon Group Holdings Ltd | LinkedIn | — | 2026-04-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resource%20Assistant%20Ley%20Choon%20Group%20Holdings%20Ltd&location=Singapore) |
-| Human Resources Business Partner (HRBP) – Credit & Insurance | Monee | LinkedIn | — | 2026-04-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Business%20Partner%20(HRBP)%20%E2%80%93%20Credit%20%26amp%3B%20Insurance%20Monee&location=Singapore) |
-| Human Resources Administrator | Sanli Environmental Limited | LinkedIn | — | 2026-04-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Administrator%20Sanli%20Environmental%20Limited&location=Singapore) |
 | Human Resources Executive | HRnetOne | LinkedIn | — | 2026-04-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20HRnetOne&location=Singapore) |
+| Human Resources Business Partner (HRBP) – Credit & Insurance | Monee | LinkedIn | — | 2026-04-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Business%20Partner%20(HRBP)%20%E2%80%93%20Credit%20%26amp%3B%20Insurance%20Monee&location=Singapore) |
 | Human Resources Officer | OBAYASHI SINGAPORE PRIVATE LIMITED | LinkedIn | — | 2026-04-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Officer%20OBAYASHI%20SINGAPORE%20PRIVATE%20LIMITED&location=Singapore) |
 | L&D & People Services Executive - MariBank, People Team | Monee | LinkedIn | — | 2026-04-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=L%26amp%3BD%20%26amp%3B%20People%20Services%20Executive%20-%20MariBank%2C%20People%20Team%20Monee&location=Singapore) |
-| HR Executive (Recruitment) | SILTRONIC SILICON WAFER PTE. LTD. | MyCareersFuture | 2 | 2026-04-26 | [Apply](https://www.mycareersfuture.gov.sg/job/939bd02ddca68e832293c25c6f7d965c) |
+| Junior HRBP, L&D | Soitec | LinkedIn | — | 2026-04-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Junior%20HRBP%2C%20L%26amp%3BD%20Soitec&location=Singapore) |
