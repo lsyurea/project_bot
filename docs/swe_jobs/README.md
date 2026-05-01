@@ -2,13 +2,17 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-05-01T04:38:28.346Z*
+> *Last updated: 2026-05-01T14:02:37.680Z*
 
-**Total listings: 28** *(MyCareersFuture: 20 | LinkedIn: 10)*
+**Total listings: 27** *(MyCareersFuture: 19 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Software Engineer (Industrial Automation / High Performance / Low Latency) | STAFFKING PTE. LTD. | MyCareersFuture | 1 | 2026-05-01 | [Apply](https://www.mycareersfuture.gov.sg/job/c2eccb285305d0d5f558a71c14ec490d) |
+| Control (Software) Design Engineer / PLC Programmer #70912 | ANRADUS PTE. LTD. | MyCareersFuture | 0 | 2026-05-01 | [Apply](https://www.mycareersfuture.gov.sg/job/b70641d4b3da194942028c492c34ca22) |
+| Software Engineer | Rakuten Asia Pte Ltd | LinkedIn | — | 2026-05-01 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Rakuten%20Asia%20Pte%20Ltd&location=Singapore) |
 | Software Engineer I - Backend - Message Security Products | Abnormal AI | LinkedIn | — | 2026-05-01 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20I%20-%20Backend%20-%20Message%20Security%20Products%20Abnormal%20AI&location=Singapore) |
+| Intern, Software Development Engineer [PSET-Access-ENG] | Autodesk | LinkedIn | — | 2026-05-01 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Intern%2C%20Software%20Development%20Engineer%20%5BPSET-Access-ENG%5D%20Autodesk&location=Singapore) |
 | Full Stack Engineer / Specialist (Golang, .NET/.NET Core, Python / Tampines) ) | TRUST RECRUIT PTE. LTD. | MyCareersFuture | 2 | 2026-04-30 | [Apply](https://www.mycareersfuture.gov.sg/job/bef5d2b91db9c8ffc143ec40af6d7689) |
 | Robotics Software Engineer Trainee | HIVEBOTICS PTE. LTD. | MyCareersFuture | 1 | 2026-04-30 | [Apply](https://www.mycareersfuture.gov.sg/job/4a4e486cd151bd35a035acefe6086c22) |
 | Software Engineer - PLC Programming - Diploma - AMK - 5 Days - Up To $6K - 4461 | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 2 | 2026-04-30 | [Apply](https://www.mycareersfuture.gov.sg/job/bf71da09f3c41badac30d3e4ac48a9d0) |
@@ -28,11 +32,6 @@
 | Graduate AI software engineer | Bending Spoons | LinkedIn | — | 2026-04-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20AI%20software%20engineer%20Bending%20Spoons&location=Singapore) |
 | Software engineer, intern | Bending Spoons | LinkedIn | — | 2026-04-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20engineer%2C%20intern%20Bending%20Spoons&location=Singapore) |
 | Software Engineer, Perception | Intrinsic | LinkedIn | — | 2026-04-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Perception%20Intrinsic&location=Singapore) |
-| Intern, Software Development Engineer [PSET-Access-ENG] | Autodesk | LinkedIn | — | 2026-04-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Intern%2C%20Software%20Development%20Engineer%20%5BPSET-Access-ENG%5D%20Autodesk&location=Singapore) |
-| Software Engineer and/or Senior Software Engineer (Automation & SCADA System - C - C++) | EA RECRUITMENT PTE. LTD. | MyCareersFuture | 2 | 2026-04-29 | [Apply](https://www.mycareersfuture.gov.sg/job/c15d231be3206166aa8dba17d0344328) |
-| Software Engineer (DSP) | MERRY ELECTRONICS (SINGAPORE) PTE. LTD. | MyCareersFuture | 1 | 2026-04-29 | [Apply](https://www.mycareersfuture.gov.sg/job/44647514b6b55b9cd4b33d11b7f5236d) |
-| Automation Software Engineer | PYXIS CF PTE. LTD. | MyCareersFuture | 0 | 2026-04-29 | [Apply](https://www.mycareersfuture.gov.sg/job/5a2484600a89486c10e641072d3159d2) |
+| Deep Learning Engineer, Perception | Intrinsic | LinkedIn | — | 2026-04-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Deep%20Learning%20Engineer%2C%20Perception%20Intrinsic&location=Singapore) |
 | Software Engineer | Tower Research Capital | LinkedIn | — | 2026-04-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Tower%20Research%20Capital&location=Singapore) |
-| Software Engineer, BDH | A*STAR - Agency for Science, Technology and Research | LinkedIn | — | 2026-04-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20BDH%20A*STAR%20-%20Agency%20for%20Science%2C%20Technology%20and%20Research&location=Singapore) |
-| Software Engineer (Developer Platform) | Centre for Strategic Infocomm Technologies (CSIT) | LinkedIn | — | 2026-04-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Developer%20Platform)%20Centre%20for%20Strategic%20Infocomm%20Technologies%20(CSIT)&location=Singapore) |
 | .Net Developer | Cognizant | LinkedIn | — | 2026-04-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=.Net%20Developer%20Cognizant&location=Singapore) |
