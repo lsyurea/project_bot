@@ -2,12 +2,22 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-05-04T14:40:39.148Z*
+> *Last updated: 2026-05-05T03:58:14.926Z*
 
-**Total listings: 26** *(MyCareersFuture: 20 | LinkedIn: 7)*
+**Total listings: 33** *(MyCareersFuture: 26 | LinkedIn: 9)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| HR EXECUTIVE | DAY ONE PTE. LTD. | MyCareersFuture | 1 | 2026-05-05 | [Apply](https://www.mycareersfuture.gov.sg/job/aff2b147fd6210dc4406c29a409e9065) |
+| JL13431651 Admin Assistant | ROBERT HALF INTERNATIONAL PTE. LTD. | MyCareersFuture | 1 | 2026-05-05 | [Apply](https://www.mycareersfuture.gov.sg/job/36419520cc20cce35d3ccfefb3174011) |
+| Human Resource Executive | KIMLY FOOD MANUFACTURING PTE. LTD. | MyCareersFuture | 2 | 2026-05-05 | [Apply](https://www.mycareersfuture.gov.sg/job/e8979cceccbb5b6e37480bae15c7eb67) |
+| HR & Admin Assistant | RECRUIT NOW SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-05-05 | [Apply](https://www.mycareersfuture.gov.sg/job/70b7dc431d0a41e96d9d235e02c44fd9) |
+| HR & Finance Executive | DSOURCING PTE. LTD. | MyCareersFuture | 2 | 2026-05-05 | [Apply](https://www.mycareersfuture.gov.sg/job/0aceabe8e77d658751be838ab8439ea3) |
+| HR Officers($2500 - $3300) | Oaktree Consulting LLC | LinkedIn | — | 2026-05-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Officers(%242500%20-%20%243300)%20Oaktree%20Consulting%20LLC&location=Singapore) |
+| Talent Acquisition Manager / Talent Acquisition Specialist / HR Executive | BEST COUNTRIES FOR JOB | LinkedIn | — | 2026-05-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Manager%20%2F%20Talent%20Acquisition%20Specialist%20%2F%20HR%20Executive%20BEST%20COUNTRIES%20FOR%20JOB&location=Singapore) |
+| Learning & Development Manager / Executive / HR Assistant | Best Friend Vet Clinic | LinkedIn | — | 2026-05-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Learning%20%26amp%3B%20Development%20Manager%20%2F%20Executive%20%2F%20HR%20Assistant%20Best%20Friend%20Vet%20Clinic&location=Singapore) |
+| HR Generalist II | myGwork - LGBTQ+ Business Community | LinkedIn | — | 2026-05-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Generalist%20II%20myGwork%20-%20LGBTQ%2B%20Business%20Community&location=Singapore) |
+| Talent Acquisition Trainee | ROYAL OCEAN MARINE ENTERPRISE PTE. LTD. | MyCareersFuture | 1 | 2026-05-04 | [Apply](https://www.mycareersfuture.gov.sg/job/09c6752135333eb6e2325c17370ca236) |
 | Talent Acquisition Executive | SKILLS DEVELOPMENT ACADEMY PTE. LTD. | MyCareersFuture | 2 | 2026-05-04 | [Apply](https://www.mycareersfuture.gov.sg/job/6a38b63eb6df8b04cc492e869f537670) |
 | Talent Acquisition Specialist | QUTOU TECHNOLOGY PTE. LTD. | MyCareersFuture | 1 | 2026-05-04 | [Apply](https://www.mycareersfuture.gov.sg/job/1ff185966c2f069c244e23bff4148742) |
 | Technical Recruiter (Tech / Banking Sector) | D L RESOURCES PTE LTD | MyCareersFuture | 1 | 2026-05-04 | [Apply](https://www.mycareersfuture.gov.sg/job/296d47b6b36bb1782550847979be3b1e) |
@@ -25,12 +35,9 @@
 | HR Intern | ACP COMPUTER TRAINING SCHOOL PTE. LTD. | MyCareersFuture | 0 | 2026-05-04 | [Apply](https://www.mycareersfuture.gov.sg/job/9f403f043f3cdbf9c2c03242527f3865) |
 | HR Intern  | AC P. COMPUTER TRAINING & CONSULTANCY PTE LTD | MyCareersFuture | 0 | 2026-05-04 | [Apply](https://www.mycareersfuture.gov.sg/job/7294318f9885553273e197e7c96f990d) |
 | Management Associate Programme | STRIVEMAKERS PTE. LTD. | MyCareersFuture | 0 | 2026-05-04 | [Apply](https://www.mycareersfuture.gov.sg/job/7c1c708abc249fe956187b5376373db1) |
-| HR & Admin Assistant | RECRUIT NOW SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-05-04 | [Apply](https://www.mycareersfuture.gov.sg/job/e286aa16a406a8e397db24f06d6abb81) |
 | SENIOR COOK | WAN FU (795A) PTE. LTD. | MyCareersFuture | 2 | 2026-05-04 | [Apply](https://www.mycareersfuture.gov.sg/job/364da76136e6a78e9e43cac9b4a7821f) |
 | COOK | MASTER CHIPPY PTE. LTD. | MyCareersFuture | 2 | 2026-05-04 | [Apply](https://www.mycareersfuture.gov.sg/job/11e4fcdbe56416fc3d711792c940c57e) |
 | HR Specialist | Linxens | LinkedIn | — | 2026-05-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Specialist%20Linxens&location=Singapore) |
 | Management Trainee Program | FUTURUM ACADEMY SINGAPORE | LinkedIn | — | 2026-05-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Management%20Trainee%20Program%20FUTURUM%20ACADEMY%20SINGAPORE&location=Singapore) |
 | 360 Recruitment Consultant (Business Development Focus) | OAKDENE RECRUITMENT & SERVICES PTE LTD | LinkedIn | — | 2026-05-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=360%20Recruitment%20Consultant%20(Business%20Development%20Focus)%20OAKDENE%20RECRUITMENT%20%26amp%3B%20SERVICES%20PTE%20LTD&location=Singapore) |
-| Upper River Valley Dietitian 1 (DT01) PCN 1152986 | Horizon Health Network | LinkedIn | — | 2026-05-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Upper%20River%20Valley%20Dietitian%201%20(DT01)%20PCN%201152986%20Horizon%20Health%20Network&location=Singapore) |
 | People & Culture Executive | Mandarin Oriental | LinkedIn | — | 2026-05-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20%26amp%3B%20Culture%20Executive%20Mandarin%20Oriental&location=Singapore) |
-| Product Support Specialist | Corpay | LinkedIn | — | 2026-05-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Product%20Support%20Specialist%20Corpay&location=Singapore) |
