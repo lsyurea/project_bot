@@ -3,18 +3,18 @@
 This repository automatically updates repository activity stats for my GitHub account.
 
 <!-- REPO_ACTIVITY:START -->
-Generated: 2026-05-07T14:46:36.203Z
+Generated: 2026-05-07T19:51:51.184Z
 
 Active window: last 90 days (cutoff: 2026-02-06)
-Total repositories analyzed: 51
+Total repositories analyzed: 48
 Active: 18
-Inactive: 33
+Inactive: 30
 
 ### Active Repositories
+- 🔒 [lsyurea/learnGPT](https://github.com/lsyurea/learnGPT) — last push: 2026-05-07
 - 🌐 [lsyurea/project_bot](https://github.com/lsyurea/project_bot) — last push: 2026-05-07
 - 🔒 [lsyurea/portfolio_next](https://github.com/lsyurea/portfolio_next) — last push: 2026-05-06
 - 🌐 [lsyurea/ml_streamlit_template](https://github.com/lsyurea/ml_streamlit_template) — last push: 2026-05-04
-- 🔒 [lsyurea/learnGPT](https://github.com/lsyurea/learnGPT) — last push: 2026-04-23
 - 🔒 [lsyurea/frontend_mono](https://github.com/lsyurea/frontend_mono) — last push: 2026-04-20
 - 🔒 [lsyurea/Ecommerce](https://github.com/lsyurea/Ecommerce) — last push: 2026-04-11
 - 🔒 [lsyurea/PromptHire](https://github.com/lsyurea/PromptHire) — last push: 2026-04-08
@@ -37,7 +37,6 @@ Inactive: 33
 - 🔒 [lsyurea/tsa_stock](https://github.com/lsyurea/tsa_stock) — last push: 2025-01-06
 - 🔒 [lsyurea/codeditor](https://github.com/lsyurea/codeditor) — last push: 2024-12-23
 - 🌐 [lsyurea/cs3219-ay2425s1-project-g11](https://github.com/lsyurea/cs3219-ay2425s1-project-g11) — last push: 2024-12-10
-- 🔒 [lsyurea/embedded-code-assistance](https://github.com/lsyurea/embedded-code-assistance) — last push: 2024-11-07
 - 🔒 [lsyurea/Simple_Ecommerce](https://github.com/lsyurea/Simple_Ecommerce) — last push: 2024-10-31
 - 🌐 [lsyurea/code-to-give-frontend](https://github.com/lsyurea/code-to-give-frontend) — last push: 2024-08-26
 - 🔒 [lsyurea/Ecommerce_Mobile](https://github.com/lsyurea/Ecommerce_Mobile) — last push: 2024-08-15
@@ -53,7 +52,6 @@ Inactive: 33
 - 🌐 [lsyurea/AI_ChatBot](https://github.com/lsyurea/AI_ChatBot) — last push: 2024-05-12
 - 🔒 [lsyurea/Blog](https://github.com/lsyurea/Blog) — last push: 2024-04-17
 - 🌐 [lsyurea/Web-Forum](https://github.com/lsyurea/Web-Forum) — last push: 2024-03-02
-- 🌐 [lsyurea/crypto_platform](https://github.com/lsyurea/crypto_platform) — last push: 2024-03-01
 - 🔒 [lsyurea/ThriftJoy](https://github.com/lsyurea/ThriftJoy) — last push: 2024-02-12
 - 🌐 [lsyurea/TriveTribe](https://github.com/lsyurea/TriveTribe) — last push: 2024-02-09
 - 🌐 [lsyurea/tskManager](https://github.com/lsyurea/tskManager) — last push: 2024-01-05
@@ -62,6 +60,5 @@ Inactive: 33
 - 🌐 [lsyurea/twittok](https://github.com/lsyurea/twittok) — last push: 2023-09-09
 - 🌐 [lsyurea/Python-projects](https://github.com/lsyurea/Python-projects) — last push: 2023-07-21
 - 🌐 [lsyurea/Web-crawling](https://github.com/lsyurea/Web-crawling) — last push: 2023-07-19
-- 🔒 [lsyurea/Go-application](https://github.com/lsyurea/Go-application) — last push: 2022-12-14
 - 🌐 [lsyurea/CS1101S](https://github.com/lsyurea/CS1101S) — last push: 2022-11-07
 <!-- REPO_ACTIVITY:END -->
