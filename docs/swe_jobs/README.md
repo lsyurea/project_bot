@@ -2,12 +2,18 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-05-06T15:14:14.417Z*
+> *Last updated: 2026-05-07T04:24:44.695Z*
 
-**Total listings: 48** *(MyCareersFuture: 42 | LinkedIn: 10)*
+**Total listings: 47** *(MyCareersFuture: 38 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Software Engineer | THALES SOLUTIONS ASIA PTE. LTD. | MyCareersFuture | 0 | 2026-05-07 | [Apply](https://www.mycareersfuture.gov.sg/job/8f19bc76b3535914c83aa416b48996bf) |
+| Java Software Engineer | MICHAEL PAGE (PERSONNEL) PTE. LTD. | MyCareersFuture | 1 | 2026-05-07 | [Apply](https://www.mycareersfuture.gov.sg/job/df91cf3a8b040d5bb7d6c82052c5dec3) |
+| Software Engineer (Visual Platform) | SODA VISION PTE. LTD. | MyCareersFuture | 1 | 2026-05-07 | [Apply](https://www.mycareersfuture.gov.sg/job/ad0e368accaeb589b0cd5f4dc817f546) |
+| Junior Digital Twin Engineer | SURBANA TECHNOLOGIES PTE. LTD. | MyCareersFuture | 1 | 2026-05-07 | [Apply](https://www.mycareersfuture.gov.sg/job/227bccdefcb487b0ab6c467062ef36b8) |
+| Senior Backend Engineer | Evooq | LinkedIn | — | 2026-05-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Backend%20Engineer%20Evooq&location=Singapore) |
+| Software Engineer (No Experience Needed) | Red Alpha Cybersecurity | LinkedIn | — | 2026-05-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(No%20Experience%20Needed)%20Red%20Alpha%20Cybersecurity&location=Singapore) |
 | System Software & Database Setup Engineer (Hospitality Solutions) | EUREKA TECHNOLOGIES PTE LTD | MyCareersFuture | 2 | 2026-05-06 | [Apply](https://www.mycareersfuture.gov.sg/job/812adfe5a1080157f9343ee54f583333) |
 | Full Stack Software Engineer - WCAN | WECRUIT PTE. LTD. | MyCareersFuture | 2 | 2026-05-06 | [Apply](https://www.mycareersfuture.gov.sg/job/5a42ae96fee54adf55fb8711aa0c1b34) |
 | 6723 - AWS Application Developer (Up to $6K - Tuas - Serverless, API, ReactJS) | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-05-06 | [Apply](https://www.mycareersfuture.gov.sg/job/e2db1d1a0d51a814441f93e30955e3ff) |
@@ -27,8 +33,6 @@
 | Software Engineer | Zoho APAC | LinkedIn | — | 2026-05-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Zoho%20APAC&location=Singapore) |
 | Information Technology - Data Scientist (Data Science Track) | Singapore Airlines | LinkedIn | — | 2026-05-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Information%20Technology%20-%20Data%20Scientist%20(Data%20Science%20Track)%20Singapore%20Airlines&location=Singapore) |
 | Software Engineer (Emerging Systems) | DSO National Laboratories | LinkedIn | — | 2026-05-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Emerging%20Systems)%20DSO%20National%20Laboratories&location=Singapore) |
-| Software Engineer (No Experience Needed) | Red Alpha Cybersecurity | LinkedIn | — | 2026-05-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(No%20Experience%20Needed)%20Red%20Alpha%20Cybersecurity&location=Singapore) |
-| Software Enginee | MAB INTERNACIONAL | LinkedIn | — | 2026-05-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Enginee%20MAB%20INTERNACIONAL&location=Singapore) |
 | Control (Software) Design Engineer / PLC Programmer #70912 | ANRADUS PTE. LTD. | MyCareersFuture | 0 | 2026-05-05 | [Apply](https://www.mycareersfuture.gov.sg/job/400199f451cc828f0f3da63ddb75462d) |
 | AI Software Engineer | VOLTADE PTE. LTD. | MyCareersFuture | 0 | 2026-05-05 | [Apply](https://www.mycareersfuture.gov.sg/job/92c457a1d34648ee2ce7dd7c461e7684) |
 | Software Engineer (ERP web / HTML) - 8890 | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 2 | 2026-05-05 | [Apply](https://www.mycareersfuture.gov.sg/job/c092284b1e86e3846849c775b73f44c1) |
@@ -46,13 +50,8 @@
 | Software Engineer, Perception | MOTIONAL SINGAPORE PTE. LIMITED | MyCareersFuture | 0 | 2026-05-05 | [Apply](https://www.mycareersfuture.gov.sg/job/2ecf78085b9ae4f33b55faaa339fc765) |
 | Software Engineer (Full Stack + React Js + Python) | BASIL TECHNOLOGIES PTE. LTD. | MyCareersFuture | 2 | 2026-05-05 | [Apply](https://www.mycareersfuture.gov.sg/job/b377c92daefa9119fa7a5b13dd82dab4) |
 | Software Engineer | WECRUIT PTE. LTD. | MyCareersFuture | 2 | 2026-05-05 | [Apply](https://www.mycareersfuture.gov.sg/job/50e1fcce1958e6a0549b8dcd1bb9ec91) |
-| Software Engineer (Go) | EVOLUTION RECRUITMENT SOLUTIONS PTE. LTD. | MyCareersFuture | 2 | 2026-05-05 | [Apply](https://www.mycareersfuture.gov.sg/job/29f16820c2a24e880d63093328a0b34e) |
-| Graduate software engineer | Bending Spoons | LinkedIn | — | 2026-05-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20software%20engineer%20Bending%20Spoons&location=Singapore) |
 | Software Engineer | SGInnovate | LinkedIn | — | 2026-05-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20SGInnovate&location=Singapore) |
+| Graduate software engineer | Bending Spoons | LinkedIn | — | 2026-05-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20software%20engineer%20Bending%20Spoons&location=Singapore) |
+| Software Engineer (ML/AI) | SHIELD | LinkedIn | — | 2026-05-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(ML%2FAI)%20SHIELD&location=Singapore) |
 | Software engineer, intern | Bending Spoons | LinkedIn | — | 2026-05-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20engineer%2C%20intern%20Bending%20Spoons&location=Singapore) |
 | Graduate AI software engineer | Bending Spoons | LinkedIn | — | 2026-05-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20AI%20software%20engineer%20Bending%20Spoons&location=Singapore) |
-| Software Engineer (ML/AI) | SHIELD | LinkedIn | — | 2026-05-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(ML%2FAI)%20SHIELD&location=Singapore) |
-| Software Engineer | ELLIOTT MOSS CONSULTING PTE. LTD. | MyCareersFuture | 2 | 2026-05-04 | [Apply](https://www.mycareersfuture.gov.sg/job/c04f40a31c409cbb4b37663a26bf2b4a) |
-| Software Engineer | AMPOTECH PTE. LTD. | MyCareersFuture | 0 | 2026-05-04 | [Apply](https://www.mycareersfuture.gov.sg/job/487139b5c2cd6b95a40dcd350d7ba45d) |
-| Software Engineer | COMFORTDELGRO DRIVING CENTRE PTE. LTD. | MyCareersFuture | 2 | 2026-05-04 | [Apply](https://www.mycareersfuture.gov.sg/job/5861428a4a2ed00e75fe21b134a5ee4b) |
-| Software Engineer | CPO PTE. LTD. | MyCareersFuture | 0 | 2026-05-04 | [Apply](https://www.mycareersfuture.gov.sg/job/25c8394e773f8cc154deaf9c07b433ea) |
