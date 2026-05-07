@@ -2,12 +2,17 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-05-06T15:14:01.158Z*
+> *Last updated: 2026-05-07T04:24:34.977Z*
 
-**Total listings: 51** *(MyCareersFuture: 44 | LinkedIn: 9)*
+**Total listings: 49** *(MyCareersFuture: 42 | LinkedIn: 9)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Workforce Development Project Coordinator | SCIENTEC CONSULTING PTE. LTD. | MyCareersFuture | 1 | 2026-05-07 | [Apply](https://www.mycareersfuture.gov.sg/job/8a27f30e21b25248342c408ea244bccf) |
+| Marketing Executive | EURASIA GLOBAL FOOD (S) PTE. LTD. | MyCareersFuture | 1 | 2026-05-07 | [Apply](https://www.mycareersfuture.gov.sg/job/63f4d3e3f3b3f13913f3308665809d29) |
+| HR & Admin Assistant | RECRUIT NOW SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-05-07 | [Apply](https://www.mycareersfuture.gov.sg/job/b3611c8fc2ad54cde32b397059662381) |
+| Learning & Development Manager / HR Executive / HR Assistance | Kampf Wine & Health | LinkedIn | — | 2026-05-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Learning%20%26amp%3B%20Development%20Manager%20%2F%20HR%20Executive%20%2F%20HR%20Assistance%20Kampf%20Wine%20%26amp%3B%20Health&location=Singapore) |
+| Talent Acquisition Manager / HR Project Executive / HR Coordinator | 3M HOME HEALTH-CARE SERVICES, LLC | LinkedIn | — | 2026-05-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Manager%20%2F%20HR%20Project%20Executive%20%2F%20HR%20Coordinator%203M%20HOME%20HEALTH-CARE%20SERVICES%2C%20LLC&location=Singapore) |
 | HUMAN RESOURCE OFFICER | YANG CITY ROOFING & BUILDERS PTE. LTD. | MyCareersFuture | 1 | 2026-05-06 | [Apply](https://www.mycareersfuture.gov.sg/job/4d59d9fb5258edb842f441cf3c34af9a) |
 | Admin Cum HR Executive | GPM BUILDERS PTE. LTD. | MyCareersFuture | 2 | 2026-05-06 | [Apply](https://www.mycareersfuture.gov.sg/job/f1b0987da3155aa23fbfc774f8aa4723) |
 | Admin Cum HR Executive | GOODLAND INVESTMENTS PTE LTD. | MyCareersFuture | 2 | 2026-05-06 | [Apply](https://www.mycareersfuture.gov.sg/job/fd3a59502d322f76ec2aab4d5663fa3a) |
@@ -30,13 +35,10 @@
 | Finance and HR Executive #OPK | TALENTS@WORK PTE. LTD. | MyCareersFuture | 2 | 2026-05-06 | [Apply](https://www.mycareersfuture.gov.sg/job/27266509ac9f562ae8d2639a208c3ce3) |
 | Human Resources Executive | BRIDGE MOBILE PTE. LTD. | MyCareersFuture | 2 | 2026-05-06 | [Apply](https://www.mycareersfuture.gov.sg/job/7c1eeed28438085900a998cfc7921a73) |
 | HR and Admin Executive($2500 - $3300) | OAKTREE CONSULTING | MyCareersFuture | 2 | 2026-05-06 | [Apply](https://www.mycareersfuture.gov.sg/job/61e4b2d1c30a69d8ffa4d601bf248a94) |
-| HR & Admin Assistant | RECRUIT NOW SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-05-06 | [Apply](https://www.mycareersfuture.gov.sg/job/22ec1ab7c645f315e691d152cf13875d) |
 | Human Resources Officer (Hotel) | GRAND IMPERIAL HOTEL PTE. LIMITED | MyCareersFuture | 1 | 2026-05-06 | [Apply](https://www.mycareersfuture.gov.sg/job/b9551033ba5b3fea5541e2e6cd0cc8eb) |
 | People & Culture Executive | Mandarin Oriental | LinkedIn | — | 2026-05-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20%26amp%3B%20Culture%20Executive%20Mandarin%20Oriental&location=Singapore) |
-| Senior Payroll and Benefits Specialist | Aon | LinkedIn | — | 2026-05-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Payroll%20and%20Benefits%20Specialist%20Aon&location=Singapore) |
-| Analyst, Tactical Opportunities | Blackstone | LinkedIn | — | 2026-05-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Analyst%2C%20Tactical%20Opportunities%20Blackstone&location=Singapore) |
-| Recruitment Consultant / Talent Sourcing / HR Coordinator | Group of Blooming Technicians | LinkedIn | — | 2026-05-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Recruitment%20Consultant%20%2F%20Talent%20Sourcing%20%2F%20HR%20Coordinator%20Group%20of%20Blooming%20Technicians&location=Singapore) |
-| Assistant Manager, Learning & Development | EDITION | LinkedIn | — | 2026-05-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Assistant%20Manager%2C%20Learning%20%26amp%3B%20Development%20EDITION&location=Singapore) |
+| Human Resources Executive | Worldwide Hotels (WWH) | LinkedIn | — | 2026-05-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20Worldwide%20Hotels%20(WWH)&location=Singapore) |
+| Talent Acquisition Specialist | AIG | LinkedIn | — | 2026-05-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Specialist%20AIG&location=Singapore) |
 | HR Manager #84013 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-05-05 | [Apply](https://www.mycareersfuture.gov.sg/job/7896f545346e156797300a6bdf6a7697) |
 | Workforce Development Executive - High Street | BUSINESS EDGE PERSONNEL SERVICES PTE LTD | MyCareersFuture | 2 | 2026-05-05 | [Apply](https://www.mycareersfuture.gov.sg/job/de709b3d18db5d66c0950c07f71d9c5b) |
 | Intern, Human Resources | UD TRUCKS SINGAPORE (PTE.) LTD. | MyCareersFuture | 0 | 2026-05-05 | [Apply](https://www.mycareersfuture.gov.sg/job/9017a2001a7866aed927cb34e652b031) |
@@ -52,10 +54,6 @@
 | HR Executive | ALCHEMIST WORKS PTE. LTD. | MyCareersFuture | 1 | 2026-05-05 | [Apply](https://www.mycareersfuture.gov.sg/job/f16697f94d235f39e9465f4f27c305aa) |
 | 360 Recruitment Consultant (BD Focus) | NODEWORTHY PTE. LTD. | MyCareersFuture | 1 | 2026-05-05 | [Apply](https://www.mycareersfuture.gov.sg/job/dde8532e07c06c15d48f6087ec8f15d8) |
 | HR EXECUTIVE (RECRUITMENT) | ENG LEE LOGISTICS PTE LTD | MyCareersFuture | 1 | 2026-05-05 | [Apply](https://www.mycareersfuture.gov.sg/job/5c9c576558a981f4b18a859965b29206) |
-| HR EXECUTIVE | DAY ONE PTE. LTD. | MyCareersFuture | 1 | 2026-05-05 | [Apply](https://www.mycareersfuture.gov.sg/job/aff2b147fd6210dc4406c29a409e9065) |
-| JL13431651 Admin Assistant | ROBERT HALF INTERNATIONAL PTE. LTD. | MyCareersFuture | 1 | 2026-05-05 | [Apply](https://www.mycareersfuture.gov.sg/job/36419520cc20cce35d3ccfefb3174011) |
-| Human Resource Executive | KIMLY FOOD MANUFACTURING PTE. LTD. | MyCareersFuture | 2 | 2026-05-05 | [Apply](https://www.mycareersfuture.gov.sg/job/e8979cceccbb5b6e37480bae15c7eb67) |
-| HR & Finance Executive | DSOURCING PTE. LTD. | MyCareersFuture | 2 | 2026-05-05 | [Apply](https://www.mycareersfuture.gov.sg/job/0aceabe8e77d658751be838ab8439ea3) |
 | Assistant Human Resources Manager | Westin Hotels & Resorts | LinkedIn | — | 2026-05-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Assistant%20Human%20Resources%20Manager%20Westin%20Hotels%20%26amp%3B%20Resorts&location=Singapore) |
+| Talent Acquisition Specialist | Antaes Asia | LinkedIn | — | 2026-05-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Specialist%20Antaes%20Asia&location=Singapore) |
 | Senior Executive Assistant, HR Group Shared Services | National University Health System | LinkedIn | — | 2026-05-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Executive%20Assistant%2C%20HR%20Group%20Shared%20Services%20National%20University%20Health%20System&location=Singapore) |
-| Manufacturing Technician II (12month Contract) | Coherent Corp. | LinkedIn | — | 2026-05-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Manufacturing%20Technician%20II%20(12month%20Contract)%20Coherent%20Corp.&location=Singapore) |
