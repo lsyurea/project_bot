@@ -2,15 +2,17 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-05-09T14:01:10.844Z*
+> *Last updated: 2026-05-10T04:34:19.037Z*
 
-**Total listings: 31** *(MyCareersFuture: 24 | LinkedIn: 9)*
+**Total listings: 27** *(MyCareersFuture: 21 | LinkedIn: 6)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| HR Admin Assistant/Executive | INFINIX HOSPITALITY MANAGEMENT PTE. LTD. | MyCareersFuture | 2 | 2026-05-10 | [Apply](https://www.mycareersfuture.gov.sg/job/281996cc449b98d1b49d9335e26337ea) |
 | Recruitment Assistant | MATHVISION ENRICHMENT CENTRE PTE. LTD. | MyCareersFuture | 2 | 2026-05-09 | [Apply](https://www.mycareersfuture.gov.sg/job/ca3941d4e1f0fa4987c4cfb040dc7873) |
 | Accounts & HR Officer | E-PLOYMENT CONSULTANCY | MyCareersFuture | 1 | 2026-05-09 | [Apply](https://www.mycareersfuture.gov.sg/job/0f2f076dedd337d506ce19b3aefbf0d5) |
-| HR ASSISTANT | Y.H.H Marine Engineering | LinkedIn | — | 2026-05-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20ASSISTANT%20Y.H.H%20Marine%20Engineering&location=Singapore) |
+| Talent Acquisition Specialist | Outpost Ventures | LinkedIn | — | 2026-05-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Specialist%20Outpost%20Ventures&location=Singapore) |
+| #PPPintern (Career Development & Competency Management), Jul to Dec 2026 | Public Service Division (Singapore) | LinkedIn | — | 2026-05-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=%23PPPintern%20(Career%20Development%20%26amp%3B%20Competency%20Management)%2C%20Jul%20to%20Dec%202026%20Public%20Service%20Division%20(Singapore)&location=Singapore) |
 | Management Trainee Program (Fresh Graduate)) | FUTURUM SPACE PTE. LTD. | MyCareersFuture | 0 | 2026-05-08 | [Apply](https://www.mycareersfuture.gov.sg/job/eebead05e92e4af6e478274e75598df5) |
 | Management Trainee (Fresh Graduate) | TREE ART INTERNATIONAL PTE. LTD. | MyCareersFuture | 0 | 2026-05-08 | [Apply](https://www.mycareersfuture.gov.sg/job/2647ac12ee248c6b4276408cba46aa2f) |
 | HR ASSISTANT MANAGER | WEISHEN INDUSTRIAL SERVICES PTE LTD | MyCareersFuture | 2 | 2026-05-08 | [Apply](https://www.mycareersfuture.gov.sg/job/199dc452f2068fa100b81bd6f0120303) |
@@ -29,13 +31,7 @@
 | HR EXECUTIVE (FRESH GRADUATES WELCOMED) | FISH & CO. RESTAURANTS PTE. LTD. | MyCareersFuture | 1 | 2026-05-08 | [Apply](https://www.mycareersfuture.gov.sg/job/69348a3c56dac2f80deff8de3442e85a) |
 | HR Assistant | HUATIONG CONTRACTOR PTE LTD | MyCareersFuture | 2 | 2026-05-08 | [Apply](https://www.mycareersfuture.gov.sg/job/d315bc0425d9b0b6f9577d7ddaba3d25) |
 | Talent Acquisition / HR Executive | UNITED ELITE CONSTRUCTION PTE. LTD. | MyCareersFuture | 2 | 2026-05-08 | [Apply](https://www.mycareersfuture.gov.sg/job/b81b8a7ec1644184806d3926656aa812) |
-| F&B Supervisor | Marina Bay Sands  PTE. LTD. | MyCareersFuture | 2 | 2026-05-08 | [Apply](https://www.mycareersfuture.gov.sg/job/07ba093f713410495be701ba56d94d3a) |
-| Part-Time HR & Finance Assistant (Weekends: $13 - $18/hr) | ZERO CONCEPTS PTE. LTD. | MyCareersFuture | 0 | 2026-05-08 | [Apply](https://www.mycareersfuture.gov.sg/job/83d16425f883f51f67ec7c14a32057c0) |
-| Contract HR Admin (Entry Level)  #NJN | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-05-08 | [Apply](https://www.mycareersfuture.gov.sg/job/a35205fb7594c40672c47961c647b132) |
-| HR & Admin Assistant | RECRUIT NOW SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-05-08 | [Apply](https://www.mycareersfuture.gov.sg/job/6af3e0d0ff7530aecdba0532990ddb01) |
-| Human Resources Executive | B H S | LinkedIn | — | 2026-05-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20B%20H%20S&location=Singapore) |
-| Human Resources Executive | HRLinked Asia Search & Consultancy Pte Ltd | LinkedIn | — | 2026-05-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20HRLinked%20Asia%20Search%20%26amp%3B%20Consultancy%20Pte%20Ltd&location=Singapore) |
-| Assistant Executive / Executive, Healthcare Manpower Division | MOH Holdings (Singapore) | LinkedIn | — | 2026-05-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Assistant%20Executive%20%2F%20Executive%2C%20Healthcare%20Manpower%20Division%20MOH%20Holdings%20(Singapore)&location=Singapore) |
 | People and Culture Executive | Ennismore | LinkedIn | — | 2026-05-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20and%20Culture%20Executive%20Ennismore&location=Singapore) |
 | Geo HR Specialist | UPS | LinkedIn | — | 2026-05-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Geo%20HR%20Specialist%20UPS&location=Singapore) |
-| People & Culture Executive | Mandarin Oriental | LinkedIn | — | 2026-05-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20%26amp%3B%20Culture%20Executive%20Mandarin%20Oriental&location=Singapore) |
+| Technical Recruiter - ServiceNow | Gegnat Inc. | LinkedIn | — | 2026-05-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Technical%20Recruiter%20-%20ServiceNow%20Gegnat%20Inc.&location=Singapore) |
+| Sales Associate | Van Cleef & Arpels | LinkedIn | — | 2026-05-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Sales%20Associate%20Van%20Cleef%20%26amp%3B%20Arpels&location=Singapore) |
