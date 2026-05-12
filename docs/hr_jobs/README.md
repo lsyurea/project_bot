@@ -2,12 +2,23 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-05-12T04:25:46.935Z*
+> *Last updated: 2026-05-12T15:25:54.332Z*
 
-**Total listings: 35** *(MyCareersFuture: 27 | LinkedIn: 10)*
+**Total listings: 46** *(MyCareersFuture: 38 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Human Resource Intern | SKILLS DEVELOPMENT ACADEMY PTE. LTD. | MyCareersFuture | 0 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/cdffcbbf1f43e97e954949dfc15e596e) |
+| Talent Acquisition Executive | SKILLS DEVELOPMENT ACADEMY PTE. LTD. | MyCareersFuture | 2 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/846bce6a3c8883367fecf339974d5d10) |
+| HUMAN RESOURCE OFFICER | XIE HE ENGINEERING PTE. LTD. | MyCareersFuture | 2 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/71eb0803841727c7cb11a6225a281e75) |
+| 6 Months Contract Senior/Officer (Credit Control) | SIA ENGINEERING COMPANY LIMITED | MyCareersFuture | 1 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/5b44ad8996b844c668aab2854ed54c73) |
+| HR Admin Assistant | ZEN CAREER PTE. LTD. | MyCareersFuture | 1 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/6ea1a955c71d1195ca9eebd40bd54fd7) |
+| SITE SUPERVISOR | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/6e698a02f9e9b030c2e09c11daf19338) |
+| HR Admin Assistant | BOEAMAN (SINGAPORE) TECHNOLOGY PTE. LTD. | MyCareersFuture | 1 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/d88d994f84333fe7ca22fcefcd78bcea) |
+| HR & Employee Engagement Executive (Banking) | GREENLANE PRIVATE LTD. | MyCareersFuture | 2 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/eb01d2f43c3dd2bac9b78f00173df9d3) |
+| People & Culture Executive (Public Sector - Stable Career Growth) #HDC | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/0fa767661657ba4f25e497e789565d72) |
+| SUPERVISOR | STEEL ALLY RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/7c9dd5d3ca7289ef3e775664164a26a9) |
+| Business Development Consultant | MACRO EMPLOYMENT SERVICES PTE. LTD. | MyCareersFuture | 0 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/2cdb11afa6658eed0a3e327c6586d77d) |
 | ELECTRICIAN | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/2b201aceca8f13e190820be8546c4b47) |
 | Legal & Compliance Management Trainee | BITMAIN DEVELOPMENT PTE. LTD. | MyCareersFuture | 0 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/2e8fa37abef4164dd978e29e928f06ff) |
 | Finance & Accounting Management Trainee | BITMAIN DEVELOPMENT PTE. LTD. | MyCareersFuture | 0 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/1c29c78c145adeca23a4d074c90b0f2a) |
@@ -16,8 +27,11 @@
 | HR Generalist (5 Days - AWS - VB) | JAC RECRUITMENT PTE. LTD. | MyCareersFuture | 1 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/fce2eecd97142468c235703e21594647) |
 | HR & Admin Assistant | RECRUIT NOW SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/faba084bf2287cce2753f882140f2006) |
 | HR Assistant (Learning & Development) - SGEP | Sunray Woodcraft (Singapore) | LinkedIn | — | 2026-05-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Assistant%20(Learning%20%26amp%3B%20Development)%20-%20SGEP%20Sunray%20Woodcraft%20(Singapore)&location=Singapore) |
-| Talent Acquisition Specialist | Outpost Partners | LinkedIn | — | 2026-05-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Specialist%20Outpost%20Partners&location=Singapore) |
-| Learning & Development Manager / Executive / HR Assistant | Quantum University | LinkedIn | — | 2026-05-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Learning%20%26amp%3B%20Development%20Manager%20%2F%20Executive%20%2F%20HR%20Assistant%20Quantum%20University&location=Singapore) |
+| HR Specialist/Assistant | Geomotion (Singapore) Private Limited | LinkedIn | — | 2026-05-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Specialist%2FAssistant%20Geomotion%20(Singapore)%20Private%20Limited&location=Singapore) |
+| Talent Acquisition Manager / Talent Acquisition Specialist / HR Executive | Shift AI | LinkedIn | — | 2026-05-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Manager%20%2F%20Talent%20Acquisition%20Specialist%20%2F%20HR%20Executive%20Shift%20AI&location=Singapore) |
+| Office Operations Executive | DSV - Global Transport and Logistics | LinkedIn | — | 2026-05-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Office%20Operations%20Executive%20DSV%20-%20Global%20Transport%20and%20Logistics&location=Singapore) |
+| Senior Executive/Assistant Manager (Strategic Planning and Development Unit) | Consortium for Clinical Research and Innovation, Singapore (CRIS) | LinkedIn | — | 2026-05-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Executive%2FAssistant%20Manager%20(Strategic%20Planning%20and%20Development%20Unit)%20Consortium%20for%20Clinical%20Research%20and%20Innovation%2C%20Singapore%20(CRIS)&location=Singapore) |
+| Operations Management Trainee - Finance | BITMAIN | LinkedIn | — | 2026-05-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Operations%20Management%20Trainee%20-%20Finance%20BITMAIN&location=Singapore) |
 | Human Resources & Administration Specialist (SSC Generalist) | SYAI HEALTH TECHNOLOGY PTE. LTD. | MyCareersFuture | 1 | 2026-05-11 | [Apply](https://www.mycareersfuture.gov.sg/job/bf10f15d8b40ca4fb22f8f3e54935f68) |
 | HR Manager #84013 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-05-11 | [Apply](https://www.mycareersfuture.gov.sg/job/c7e00f3960613393e9d45096b96b3cba) |
 | LORRY DRIVER | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-05-11 | [Apply](https://www.mycareersfuture.gov.sg/job/ad21cd59e1886fb7f7b5d7c5ef6e6b9e) |
@@ -39,7 +53,4 @@
 | FURNITURE CARPENTER | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-05-11 | [Apply](https://www.mycareersfuture.gov.sg/job/1b0a7a5f14484d92973e65cdb53b840d) |
 | Human Resources Assistant | INFOWIZ PTE LTD | LinkedIn | — | 2026-05-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Assistant%20INFOWIZ%20PTE%20LTD&location=Singapore) |
 | HR Resourcing Partner (Hospitality) | Far East Organization | LinkedIn | — | 2026-05-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Resourcing%20Partner%20(Hospitality)%20Far%20East%20Organization&location=Singapore) |
-| Talent Acquisition Specialist | AvenuesAI | LinkedIn | — | 2026-05-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Specialist%20AvenuesAI&location=Singapore) |
-| Human Resources & English teaching Executive | Capital College of the Arts, Management and Technology | LinkedIn | — | 2026-05-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20%26amp%3B%20English%20teaching%20Executive%20Capital%20College%20of%20the%20Arts%2C%20Management%20and%20Technology&location=Singapore) |
-| Crew Operations Specialist - Disney Cruise Line | The Walt Disney Company | LinkedIn | — | 2026-05-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Crew%20Operations%20Specialist%20-%20Disney%20Cruise%20Line%20The%20Walt%20Disney%20Company&location=Singapore) |
-| Training Development Executive | Singapore Aero Engine Services Private Limited (SAESL) | LinkedIn | — | 2026-05-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Training%20Development%20Executive%20Singapore%20Aero%20Engine%20Services%20Private%20Limited%20(SAESL)&location=Singapore) |
+| Analyst | Korn Ferry | LinkedIn | — | 2026-05-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Analyst%20Korn%20Ferry&location=Singapore) |
