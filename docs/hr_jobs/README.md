@@ -2,12 +2,22 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-05-11T15:45:53.930Z*
+> *Last updated: 2026-05-12T04:25:46.935Z*
 
-**Total listings: 28** *(MyCareersFuture: 21 | LinkedIn: 7)*
+**Total listings: 35** *(MyCareersFuture: 27 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| ELECTRICIAN | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/2b201aceca8f13e190820be8546c4b47) |
+| Legal & Compliance Management Trainee | BITMAIN DEVELOPMENT PTE. LTD. | MyCareersFuture | 0 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/2e8fa37abef4164dd978e29e928f06ff) |
+| Finance & Accounting Management Trainee | BITMAIN DEVELOPMENT PTE. LTD. | MyCareersFuture | 0 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/1c29c78c145adeca23a4d074c90b0f2a) |
+| Human Resource & Administration Officer | CM METAL PTE. LTD. | MyCareersFuture | 2 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/cee649326e0310fbea2588ac1c64115d) |
+| Payroll Executive (MNC) #JTL | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/44723bb075d3289ed65acc68060680b8) |
+| HR Generalist (5 Days - AWS - VB) | JAC RECRUITMENT PTE. LTD. | MyCareersFuture | 1 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/fce2eecd97142468c235703e21594647) |
+| HR & Admin Assistant | RECRUIT NOW SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/faba084bf2287cce2753f882140f2006) |
+| HR Assistant (Learning & Development) - SGEP | Sunray Woodcraft (Singapore) | LinkedIn | — | 2026-05-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Assistant%20(Learning%20%26amp%3B%20Development)%20-%20SGEP%20Sunray%20Woodcraft%20(Singapore)&location=Singapore) |
+| Talent Acquisition Specialist | Outpost Partners | LinkedIn | — | 2026-05-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Specialist%20Outpost%20Partners&location=Singapore) |
+| Learning & Development Manager / Executive / HR Assistant | Quantum University | LinkedIn | — | 2026-05-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Learning%20%26amp%3B%20Development%20Manager%20%2F%20Executive%20%2F%20HR%20Assistant%20Quantum%20University&location=Singapore) |
 | Human Resources & Administration Specialist (SSC Generalist) | SYAI HEALTH TECHNOLOGY PTE. LTD. | MyCareersFuture | 1 | 2026-05-11 | [Apply](https://www.mycareersfuture.gov.sg/job/bf10f15d8b40ca4fb22f8f3e54935f68) |
 | HR Manager #84013 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-05-11 | [Apply](https://www.mycareersfuture.gov.sg/job/c7e00f3960613393e9d45096b96b3cba) |
 | LORRY DRIVER | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-05-11 | [Apply](https://www.mycareersfuture.gov.sg/job/ad21cd59e1886fb7f7b5d7c5ef6e6b9e) |
@@ -27,12 +37,9 @@
 | HR Specialist | SGET SG PTE. LTD. | MyCareersFuture | 2 | 2026-05-11 | [Apply](https://www.mycareersfuture.gov.sg/job/f4ff112e613f8e59735dbd27f4329767) |
 | HR Executive | HUATIONG CONTRACTOR PTE LTD | MyCareersFuture | 2 | 2026-05-11 | [Apply](https://www.mycareersfuture.gov.sg/job/099f23571c56d8f5eedefc7d007e39d6) |
 | FURNITURE CARPENTER | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-05-11 | [Apply](https://www.mycareersfuture.gov.sg/job/1b0a7a5f14484d92973e65cdb53b840d) |
-| HR & Admin Assistant | RECRUIT NOW SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-05-11 | [Apply](https://www.mycareersfuture.gov.sg/job/64e981b875d25b1fe5ba6859114c7eca) |
 | Human Resources Assistant | INFOWIZ PTE LTD | LinkedIn | — | 2026-05-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Assistant%20INFOWIZ%20PTE%20LTD&location=Singapore) |
 | HR Resourcing Partner (Hospitality) | Far East Organization | LinkedIn | — | 2026-05-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Resourcing%20Partner%20(Hospitality)%20Far%20East%20Organization&location=Singapore) |
-| Analyst | Korn Ferry | LinkedIn | — | 2026-05-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Analyst%20Korn%20Ferry&location=Singapore) |
-| Field Application Specialist (Genomics) | Everlife-Chemopharm Group | LinkedIn | — | 2026-05-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Field%20Application%20Specialist%20(Genomics)%20Everlife-Chemopharm%20Group&location=Singapore) |
-| Trade Platform Support Analyst | StoneX Group Inc. | LinkedIn | — | 2026-05-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Trade%20Platform%20Support%20Analyst%20StoneX%20Group%20Inc.&location=Singapore) |
-| HR Admin Assistant/Executive | INFINIX HOSPITALITY MANAGEMENT PTE. LTD. | MyCareersFuture | 2 | 2026-05-10 | [Apply](https://www.mycareersfuture.gov.sg/job/281996cc449b98d1b49d9335e26337ea) |
+| Talent Acquisition Specialist | AvenuesAI | LinkedIn | — | 2026-05-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Specialist%20AvenuesAI&location=Singapore) |
+| Human Resources & English teaching Executive | Capital College of the Arts, Management and Technology | LinkedIn | — | 2026-05-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20%26amp%3B%20English%20teaching%20Executive%20Capital%20College%20of%20the%20Arts%2C%20Management%20and%20Technology&location=Singapore) |
 | Crew Operations Specialist - Disney Cruise Line | The Walt Disney Company | LinkedIn | — | 2026-05-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Crew%20Operations%20Specialist%20-%20Disney%20Cruise%20Line%20The%20Walt%20Disney%20Company&location=Singapore) |
 | Training Development Executive | Singapore Aero Engine Services Private Limited (SAESL) | LinkedIn | — | 2026-05-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Training%20Development%20Executive%20Singapore%20Aero%20Engine%20Services%20Private%20Limited%20(SAESL)&location=Singapore) |
