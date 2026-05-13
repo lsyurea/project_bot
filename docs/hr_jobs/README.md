@@ -2,12 +2,19 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-05-12T15:25:54.332Z*
+> *Last updated: 2026-05-13T04:32:08.721Z*
 
-**Total listings: 46** *(MyCareersFuture: 38 | LinkedIn: 10)*
+**Total listings: 51** *(MyCareersFuture: 41 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| HR Business Partner | ROYAL T GROUP PTE. LTD. | MyCareersFuture | 2 | 2026-05-13 | [Apply](https://www.mycareersfuture.gov.sg/job/3b80af7a43eafc7c2a91cff4d59bb426) |
+| HR Admin Assistant / Executive | CRAWFURD HOSPITAL PTE. LTD. | MyCareersFuture | 2 | 2026-05-13 | [Apply](https://www.mycareersfuture.gov.sg/job/32e3b0385ac1e79b52bc7e887155c040) |
+| HR & Administrative Manager | YUAN JU CONSTRUCTION PTE. LTD. | MyCareersFuture | 1 | 2026-05-13 | [Apply](https://www.mycareersfuture.gov.sg/job/7c30ba4eb435194afa7156304535312b) |
+| HR Executive & Admin | YY CIRCLE (SG) PRIVATE LIMITED | MyCareersFuture | 2 | 2026-05-13 | [Apply](https://www.mycareersfuture.gov.sg/job/0bc74734c69ce74623067db0e88eb1b1) |
+| HR Team Lead - Lengkok Bahru, Healthcare | GRACE HR SOLUTIONS | MyCareersFuture | 2 | 2026-05-13 | [Apply](https://www.mycareersfuture.gov.sg/job/88b0c1a27d38b6c030b840c35532a56e) |
+| Executive Search Consultant / Talent Acquisition Director | Clothing Nexus | LinkedIn | — | 2026-05-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Executive%20Search%20Consultant%20%2F%20Talent%20Acquisition%20Director%20Clothing%20Nexus&location=Singapore) |
+| Learning & Development Manager / Executive / HR Assistant | Cubic Construction | LinkedIn | — | 2026-05-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Learning%20%26amp%3B%20Development%20Manager%20%2F%20Executive%20%2F%20HR%20Assistant%20Cubic%20Construction&location=Singapore) |
 | Human Resource Intern | SKILLS DEVELOPMENT ACADEMY PTE. LTD. | MyCareersFuture | 0 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/cdffcbbf1f43e97e954949dfc15e596e) |
 | Talent Acquisition Executive | SKILLS DEVELOPMENT ACADEMY PTE. LTD. | MyCareersFuture | 2 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/846bce6a3c8883367fecf339974d5d10) |
 | HUMAN RESOURCE OFFICER | XIE HE ENGINEERING PTE. LTD. | MyCareersFuture | 2 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/71eb0803841727c7cb11a6225a281e75) |
@@ -26,9 +33,8 @@
 | Payroll Executive (MNC) #JTL | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/44723bb075d3289ed65acc68060680b8) |
 | HR Generalist (5 Days - AWS - VB) | JAC RECRUITMENT PTE. LTD. | MyCareersFuture | 1 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/fce2eecd97142468c235703e21594647) |
 | HR & Admin Assistant | RECRUIT NOW SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/faba084bf2287cce2753f882140f2006) |
-| HR Assistant (Learning & Development) - SGEP | Sunray Woodcraft (Singapore) | LinkedIn | — | 2026-05-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Assistant%20(Learning%20%26amp%3B%20Development)%20-%20SGEP%20Sunray%20Woodcraft%20(Singapore)&location=Singapore) |
+| Specialist, Talent Development | Marina Bay Sands | LinkedIn | — | 2026-05-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Specialist%2C%20Talent%20Development%20Marina%20Bay%20Sands&location=Singapore) |
 | HR Specialist/Assistant | Geomotion (Singapore) Private Limited | LinkedIn | — | 2026-05-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Specialist%2FAssistant%20Geomotion%20(Singapore)%20Private%20Limited&location=Singapore) |
-| Talent Acquisition Manager / Talent Acquisition Specialist / HR Executive | Shift AI | LinkedIn | — | 2026-05-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Manager%20%2F%20Talent%20Acquisition%20Specialist%20%2F%20HR%20Executive%20Shift%20AI&location=Singapore) |
 | Office Operations Executive | DSV - Global Transport and Logistics | LinkedIn | — | 2026-05-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Office%20Operations%20Executive%20DSV%20-%20Global%20Transport%20and%20Logistics&location=Singapore) |
 | Senior Executive/Assistant Manager (Strategic Planning and Development Unit) | Consortium for Clinical Research and Innovation, Singapore (CRIS) | LinkedIn | — | 2026-05-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Executive%2FAssistant%20Manager%20(Strategic%20Planning%20and%20Development%20Unit)%20Consortium%20for%20Clinical%20Research%20and%20Innovation%2C%20Singapore%20(CRIS)&location=Singapore) |
 | Operations Management Trainee - Finance | BITMAIN | LinkedIn | — | 2026-05-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Operations%20Management%20Trainee%20-%20Finance%20BITMAIN&location=Singapore) |
@@ -50,7 +56,6 @@
 | HR Admin (1 year renewable contract) | ZEN CAREER PTE. LTD. | MyCareersFuture | 2 | 2026-05-11 | [Apply](https://www.mycareersfuture.gov.sg/job/f937a3555fb207e155343e956fb12204) |
 | HR Specialist | SGET SG PTE. LTD. | MyCareersFuture | 2 | 2026-05-11 | [Apply](https://www.mycareersfuture.gov.sg/job/f4ff112e613f8e59735dbd27f4329767) |
 | HR Executive | HUATIONG CONTRACTOR PTE LTD | MyCareersFuture | 2 | 2026-05-11 | [Apply](https://www.mycareersfuture.gov.sg/job/099f23571c56d8f5eedefc7d007e39d6) |
-| FURNITURE CARPENTER | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-05-11 | [Apply](https://www.mycareersfuture.gov.sg/job/1b0a7a5f14484d92973e65cdb53b840d) |
 | Human Resources Assistant | INFOWIZ PTE LTD | LinkedIn | — | 2026-05-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Assistant%20INFOWIZ%20PTE%20LTD&location=Singapore) |
 | HR Resourcing Partner (Hospitality) | Far East Organization | LinkedIn | — | 2026-05-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Resourcing%20Partner%20(Hospitality)%20Far%20East%20Organization&location=Singapore) |
 | Analyst | Korn Ferry | LinkedIn | — | 2026-05-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Analyst%20Korn%20Ferry&location=Singapore) |
