@@ -2,12 +2,16 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-05-12T15:25:52.614Z*
+> *Last updated: 2026-05-13T04:32:11.013Z*
 
-**Total listings: 46** *(MyCareersFuture: 39 | LinkedIn: 9)*
+**Total listings: 41** *(MyCareersFuture: 35 | LinkedIn: 9)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Backend Software Engineer (Enterprise Systems) | FCS CAREERS PTE. LTD. | MyCareersFuture | 2 | 2026-05-13 | [Apply](https://www.mycareersfuture.gov.sg/job/2f1098578a6d41da80ef7d5a071ae9f5) |
+| Software Engineer / Developer | ANC Trading Community | LinkedIn | — | 2026-05-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20%2F%20Developer%20ANC%20Trading%20Community&location=Singapore) |
+| Software Engineer (No Experience Needed) | Red Alpha Cybersecurity | LinkedIn | — | 2026-05-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(No%20Experience%20Needed)%20Red%20Alpha%20Cybersecurity&location=Singapore) |
+| Software Tester / QA Analyst / Automation Engineer | Celythic | LinkedIn | — | 2026-05-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Tester%20%2F%20QA%20Analyst%20%2F%20Automation%20Engineer%20Celythic&location=Singapore) |
 | Software Engineer Graduate (Recommendation Ecosystem Infrastructure) - 2026 Start (BS/MS) | BYTEDANCE PTE. LTD. | MyCareersFuture | 0 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/8f77ed95e2f3a5afd266fa10a8fbb8bd) |
 | Project Engineer (Software) | AEM SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/665438d2bba6ee5404d1f4c840f91f89) |
 | Software Engineer | APBA TG HUMAN RESOURCE PTE. LTD. | MyCareersFuture | 2 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/beb9f62b3c7d9908e7affdfa639a3e6c) |
@@ -23,8 +27,7 @@
 | Mobile Developer / Software Engineer (Android/Kotlin) | TALENTSIS PTE. LTD. | MyCareersFuture | 2 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/3f95bd3528cea1b96314ce2476231bd5) |
 | Automation System Software Engineer | SYSMATIC GLOBAL PTE. LTD. | MyCareersFuture | 2 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/9b8edf9862639eb4e3f6cbe0470711aa) |
 | Software Engineer, ActiveSG | Open Government Products | LinkedIn | — | 2026-05-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20ActiveSG%20Open%20Government%20Products&location=Singapore) |
-| Software Engineer (No Experience Needed) | Red Alpha Cybersecurity | LinkedIn | — | 2026-05-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(No%20Experience%20Needed)%20Red%20Alpha%20Cybersecurity&location=Singapore) |
-| IT Systems & Software Engineer | Sankyu Singapore Pte Ltd | LinkedIn | — | 2026-05-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=IT%20Systems%20%26amp%3B%20Software%20Engineer%20Sankyu%20Singapore%20Pte%20Ltd&location=Singapore) |
+| Intern, Software Development Engineer [PSET-Access-ENG] | Autodesk | LinkedIn | — | 2026-05-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Intern%2C%20Software%20Development%20Engineer%20%5BPSET-Access-ENG%5D%20Autodesk&location=Singapore) |
 | Control (Software) Design Engineer / PLC Programmer #70912 | ANRADUS PTE. LTD. | MyCareersFuture | 0 | 2026-05-11 | [Apply](https://www.mycareersfuture.gov.sg/job/d03846f09e581685078eb7abad729c01) |
 | Software Engineer (Computer Vision/Vision Inspection, C++) | RECRUIT EXPERT PTE. LTD. | MyCareersFuture | 2 | 2026-05-11 | [Apply](https://www.mycareersfuture.gov.sg/job/a414f247104c62f7410c6836e8a97008) |
 | Software Engineer - Web Development | HOMESWIFT PTE. LTD. | MyCareersFuture | 1 | 2026-05-11 | [Apply](https://www.mycareersfuture.gov.sg/job/f3650dc07f95fecb0e5fbe4a7291d3e6) |
@@ -43,14 +46,6 @@
 | Software Engineer (Big Data), Application Computing | TIKTOK PTE. LTD. | MyCareersFuture | 1 | 2026-05-11 | [Apply](https://www.mycareersfuture.gov.sg/job/4c3c617a49e4da58bd263d43f8429c0a) |
 | Backend Software Engineer, TikTok Data Ecosystem (Data Lake) | TIKTOK PTE. LTD. | MyCareersFuture | 1 | 2026-05-11 | [Apply](https://www.mycareersfuture.gov.sg/job/77c36e03d5ab4e4d618f770041d78c96) |
 | Backend Software Engineer - TikTok Data Ecosystem (Storage) | TIKTOK PTE. LTD. | MyCareersFuture | 2 | 2026-05-11 | [Apply](https://www.mycareersfuture.gov.sg/job/cc359f81e502e7990a819b77f9433bff) |
-| Software Engineer | SINGULARITY DATA PTE. LTD. | MyCareersFuture | 1 | 2026-05-11 | [Apply](https://www.mycareersfuture.gov.sg/job/23db6d2ddc05cd116bf65a752fa545c9) |
-| Test Engineer - Software (AI) | PC PARTNER TECHNOLOGY PTE. LIMITED | MyCareersFuture | 2 | 2026-05-11 | [Apply](https://www.mycareersfuture.gov.sg/job/17a9bf3d2fb5de04973c80f28c7d6382) |
-| Senior Software Development Engineer (Medical) | RN CARE PTE. LTD. | MyCareersFuture | 2 | 2026-05-11 | [Apply](https://www.mycareersfuture.gov.sg/job/bcc835a3b498cefffc681a66f43fb161) |
-| Principal Software Design Engineer (Medical) | RN CARE PTE. LTD. | MyCareersFuture | 2 | 2026-05-11 | [Apply](https://www.mycareersfuture.gov.sg/job/5af7b7c5aa78d466fbb377f70bbb91d4) |
 | Full Stack Software Engineer | Amperesand | LinkedIn | — | 2026-05-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Full%20Stack%20Software%20Engineer%20Amperesand&location=Singapore) |
 | Software Engineer, BDH | A*STAR - Agency for Science, Technology and Research | LinkedIn | — | 2026-05-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20BDH%20A*STAR%20-%20Agency%20for%20Science%2C%20Technology%20and%20Research&location=Singapore) |
 | Software Engineer, Perception | Intrinsic | LinkedIn | — | 2026-05-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Perception%20Intrinsic&location=Singapore) |
-| Software Engineer (C++/C#, Machine Automation) #76684 | ANRADUS PTE. LTD. | MyCareersFuture | 1 | 2026-05-10 | [Apply](https://www.mycareersfuture.gov.sg/job/4d3962b5cecf03e3dea3b41cf8f1e623) |
-| Graduate software engineer | Bending Spoons | LinkedIn | — | 2026-05-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20software%20engineer%20Bending%20Spoons&location=Singapore) |
-| Software engineer, intern | Bending Spoons | LinkedIn | — | 2026-05-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20engineer%2C%20intern%20Bending%20Spoons&location=Singapore) |
-| Graduate AI software engineer | Bending Spoons | LinkedIn | — | 2026-05-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20AI%20software%20engineer%20Bending%20Spoons&location=Singapore) |
