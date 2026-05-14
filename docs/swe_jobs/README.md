@@ -2,12 +2,22 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-05-14T04:31:20.625Z*
+> *Last updated: 2026-05-14T15:08:26.498Z*
 
-**Total listings: 38** *(MyCareersFuture: 29 | LinkedIn: 10)*
+**Total listings: 37** *(MyCareersFuture: 27 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Research Engineer (Software Engineering & AI Deployment) | NATIONAL UNIVERSITY OF SINGAPORE | MyCareersFuture | 0 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/f85c10745beb955cda458c28b4475eb6) |
+| Software Engineer in Machine Learning Infra, Recommendation Architecture (ByteDance Singapore) | BYTEDANCE PTE. LTD. | MyCareersFuture | 1 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/829826b2e06bce28a0516b64116559ae) |
+| Site Reliability Engineer, Recommendation Architecture (ByteDance Singapore) | BYTEDANCE PTE. LTD. | MyCareersFuture | 1 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/51d69686534ab3d93990394345dd7052) |
+| Software Engineer II, Google Pay and Wallet - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 1 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/e70e5e1801c51389c82590e0d5d54f61) |
+| Software Engineer | SEMI INTEGRATION (S) PTE. LTD. | MyCareersFuture | 1 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/33c48520dd1186297a78229fc8dbfb4f) |
+| Software Engineer III, Google Pay and Wallet - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 2 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/841c903a37621bb2b6f95e2b7721b593) |
+| Software Engineer | DIGI SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/4ff47a1c80384f4a179ad63cac763f49) |
+| Software Engineer (Many Positions) | TALENTSIS PTE. LTD. | MyCareersFuture | 0 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/d2024f7993f820dee9a227a328448594) |
+| Java Software Engineer | THE EDGE CONTRACTING SERVICES PTE. LTD. | MyCareersFuture | 1 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/c85101ad8ab238147543dfc740450bfc) |
+| Software Engineer (Java, Python, C, C++, GO)- Fresh Grads | TANGSPAC CONSULTING PTE LTD | MyCareersFuture | 1 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/59b23a5ce76cd9103cbdef4f5bc9574e) |
 | Software Engineer, AI | THEIA HEALTH PTE. LTD. | MyCareersFuture | 1 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/5c69e51abf55671b065cedf67196d9a9) |
 | Software Engineer | GRAVITON RESEARCH CAPITAL (SINGAPORE) PTE. LTD. | MyCareersFuture | 2 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/39ee603a40c0e244e423d828c6f925a3) |
 | Software Engineer – Events & IT Security | REDSPHERE PTE. LTD. | MyCareersFuture | 2 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/ef87d4c0ee40914658ba4c5a4b08d004) |
@@ -35,14 +45,3 @@
 | Fullstack Java Engineer | Apple | LinkedIn | — | 2026-05-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Fullstack%20Java%20Engineer%20Apple&location=Singapore) |
 | Software Engineer, Apple Online Store | Apple | LinkedIn | — | 2026-05-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Apple%20Online%20Store%20Apple&location=Singapore) |
 | Functional Integration Engineer, Early Career | Apple | LinkedIn | — | 2026-05-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Functional%20Integration%20Engineer%2C%20Early%20Career%20Apple&location=Singapore) |
-| Software Engineer Graduate (Recommendation Ecosystem Infrastructure) - 2026 Start (BS/MS) | BYTEDANCE PTE. LTD. | MyCareersFuture | 0 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/8f77ed95e2f3a5afd266fa10a8fbb8bd) |
-| Project Engineer (Software) | AEM SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/665438d2bba6ee5404d1f4c840f91f89) |
-| Software Engineer | APBA TG HUMAN RESOURCE PTE. LTD. | MyCareersFuture | 2 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/beb9f62b3c7d9908e7affdfa639a3e6c) |
-| Software Engineer (Automation & Vision) | GMP TECHNOLOGIES (S) PTE LTD | MyCareersFuture | 1 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/5a6ac34be9679a048b5e8b1f2be97fc2) |
-| Software Engineer, Open Source Security - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 2 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/55fcb765e8e7dbfc96f9e20a16aac860) |
-| ENGINEER - PROBE SOFTWARE & ANALYTICAL | MICRON SEMICONDUCTOR ASIA OPERATIONS PTE. LTD. | MyCareersFuture | 0 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/d17f4c20bdd5aebe6c7f0c7e7964160a) |
-| Backend Software Engineer, Recommendation Content Understanding Architecture | TIKTOK PTE. LTD. | MyCareersFuture | 1 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/0d76d6a3307bf5b6eb702180bf2c410b) |
-| Day 2 Software Engineer (AMK) | MAESTRO HUMAN RESOURCE PTE. LTD. | MyCareersFuture | 2 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/37cfb04648fb6e31bc67b72a253afcd0) |
-| Software Engineer in Machine Learning Infra, TikTok Recommendation Architecture | TIKTOK PTE. LTD. | MyCareersFuture | 1 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/7fdaa899053cfedafa2315cc8376efef) |
-| Software Engineer (.Net/Sharepoint) | QUESS SELECTION & SERVICES PTE. LTD. | MyCareersFuture | 2 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/265eddd9d4300b1b7f8456d4565df003) |
-| Backend Software Engineer | ISERIOUS PTE. LTD. | MyCareersFuture | 1 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/dc2fb27873ef1dd2acf6a5c2281e2cff) |
