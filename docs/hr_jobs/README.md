@@ -2,12 +2,22 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-05-13T15:27:15.947Z*
+> *Last updated: 2026-05-14T04:31:09.908Z*
 
-**Total listings: 82** *(MyCareersFuture: 72 | LinkedIn: 10)*
+**Total listings: 79** *(MyCareersFuture: 69 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| HR Generalist | JJ VISTA MINES RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/a88b18af99138344543d3b03a9fdf010) |
+| HR Assistant | JJ VISTA MINES RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/d02f59af9bc371daca2de8e9faedb354) |
+| HR Assistant | D.A. FOODS INDUSTRIES PTE LTD | MyCareersFuture | 1 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/692a54609ab1f215f875e300e47f124b) |
+| HR & Admin Executive | Mlion Corporation Pte Ltd | LinkedIn | — | 2026-05-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20%26amp%3B%20Admin%20Executive%20Mlion%20Corporation%20Pte%20Ltd&location=Singapore) |
+| Human Resources Specialist (6-months Contract) | Bvlgari | LinkedIn | — | 2026-05-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Specialist%20(6-months%20Contract)%20Bvlgari&location=Singapore) |
+| Human Resources Associate / HR Services Coordinator | LinkedIn Local ATL | LinkedIn | — | 2026-05-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Associate%20%2F%20HR%20Services%20Coordinator%20LinkedIn%20Local%20ATL&location=Singapore) |
+| HUMAN RESOURCE OFFICER - RECRUITMENT | Shiners Facilities Pte Ltd | LinkedIn | — | 2026-05-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HUMAN%20RESOURCE%20OFFICER%20-%20RECRUITMENT%20Shiners%20Facilities%20Pte%20Ltd&location=Singapore) |
+| Office Admin (Purchaser and HR) | Aik Leong Plumbing Construction Pte Ltd | LinkedIn | — | 2026-05-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Office%20Admin%20(Purchaser%20and%20HR)%20Aik%20Leong%20Plumbing%20Construction%20Pte%20Ltd&location=Singapore) |
+| Human Resources Team Lead (DSC/ET) | ST ENGINEERING E-SERVICES PTE. LTD. | MyCareersFuture | 2 | 2026-05-13 | [Apply](https://www.mycareersfuture.gov.sg/job/c7072724ba305cdf4639a79f906f9a9c) |
+| Part-Time HR & Payroll Assistant (Weekends: $13 - $18/hr) | ZERO CONCEPTS PTE. LTD. | MyCareersFuture | 0 | 2026-05-13 | [Apply](https://www.mycareersfuture.gov.sg/job/9814527f370a7f9e649c9678f2410d4f) |
 | Human Resources Assistant - Central | PERSOL SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-05-13 | [Apply](https://www.mycareersfuture.gov.sg/job/d42b6363a8dedf6840eb090d827f88b8) |
 | HR Learning & Training Operations - West | PERSOL OUTSOURCING SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-05-13 | [Apply](https://www.mycareersfuture.gov.sg/job/dbaca1fb3ada54bf1bfe4f08f6e505bf) |
 | Accounts Executive | MORNINGSTAR MANAGEMENT CONSULTING PTE. LTD. | MyCareersFuture | 1 | 2026-05-13 | [Apply](https://www.mycareersfuture.gov.sg/job/c4e889688895ce97b947e776acc2f2fa) |
@@ -65,9 +75,6 @@
 | Human Resources Officer | Kajima Overseas Asia (Singapore) Pte. Ltd. | LinkedIn | — | 2026-05-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Officer%20Kajima%20Overseas%20Asia%20(Singapore)%20Pte.%20Ltd.&location=Singapore) |
 | Human Resources Rotational Program (Early Career) | WD | LinkedIn | — | 2026-05-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Rotational%20Program%20(Early%20Career)%20WD&location=Singapore) |
 | Human Resources/ Senior Executive (Compensation & Benefits) | Shangri-La Group | LinkedIn | — | 2026-05-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%2F%20Senior%20Executive%20(Compensation%20%26amp%3B%20Benefits)%20Shangri-La%20Group&location=Singapore) |
-| #PPPintern (Talent Attraction & People Experience), Jul to Dec 2026 | Public Service Division (Singapore) | LinkedIn | — | 2026-05-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=%23PPPintern%20(Talent%20Attraction%20%26amp%3B%20People%20Experience)%2C%20Jul%20to%20Dec%202026%20Public%20Service%20Division%20(Singapore)&location=Singapore) |
-| Procurement Executive | Human Resources Professional  Group | LinkedIn | — | 2026-05-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Procurement%20Executive%20Human%20Resources%20Professional%20%20Group&location=Singapore) |
-| Recruitment Marketing Executive / Talent Attraction Specialist | FTM TRADING PLC | LinkedIn | — | 2026-05-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Recruitment%20Marketing%20Executive%20%2F%20Talent%20Attraction%20Specialist%20FTM%20TRADING%20PLC&location=Singapore) |
 | Human Resource Intern | SKILLS DEVELOPMENT ACADEMY PTE. LTD. | MyCareersFuture | 0 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/cdffcbbf1f43e97e954949dfc15e596e) |
 | Talent Acquisition Executive | SKILLS DEVELOPMENT ACADEMY PTE. LTD. | MyCareersFuture | 2 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/846bce6a3c8883367fecf339974d5d10) |
 | HUMAN RESOURCE OFFICER | XIE HE ENGINEERING PTE. LTD. | MyCareersFuture | 2 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/71eb0803841727c7cb11a6225a281e75) |
@@ -78,15 +85,5 @@
 | HR & Employee Engagement Executive (Banking) | GREENLANE PRIVATE LTD. | MyCareersFuture | 2 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/eb01d2f43c3dd2bac9b78f00173df9d3) |
 | People & Culture Executive (Public Sector - Stable Career Growth) #HDC | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/0fa767661657ba4f25e497e789565d72) |
 | SUPERVISOR | STEEL ALLY RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/7c9dd5d3ca7289ef3e775664164a26a9) |
-| Business Development Consultant | MACRO EMPLOYMENT SERVICES PTE. LTD. | MyCareersFuture | 0 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/2cdb11afa6658eed0a3e327c6586d77d) |
-| ELECTRICIAN | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/2b201aceca8f13e190820be8546c4b47) |
-| Legal & Compliance Management Trainee | BITMAIN DEVELOPMENT PTE. LTD. | MyCareersFuture | 0 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/2e8fa37abef4164dd978e29e928f06ff) |
-| Finance & Accounting Management Trainee | BITMAIN DEVELOPMENT PTE. LTD. | MyCareersFuture | 0 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/1c29c78c145adeca23a4d074c90b0f2a) |
-| Human Resource & Administration Officer | CM METAL PTE. LTD. | MyCareersFuture | 2 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/cee649326e0310fbea2588ac1c64115d) |
-| Payroll Executive (MNC) #JTL | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/44723bb075d3289ed65acc68060680b8) |
-| HR Generalist (5 Days - AWS - VB) | JAC RECRUITMENT PTE. LTD. | MyCareersFuture | 1 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/fce2eecd97142468c235703e21594647) |
-| HR & Admin Assistant | RECRUIT NOW SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/faba084bf2287cce2753f882140f2006) |
 | Specialist, Talent Development | Marina Bay Sands | LinkedIn | — | 2026-05-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Specialist%2C%20Talent%20Development%20Marina%20Bay%20Sands&location=Singapore) |
 | HR Specialist/Assistant | Geomotion (Singapore) Private Limited | LinkedIn | — | 2026-05-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Specialist%2FAssistant%20Geomotion%20(Singapore)%20Private%20Limited&location=Singapore) |
-| Office Operations Executive | DSV - Global Transport and Logistics | LinkedIn | — | 2026-05-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Office%20Operations%20Executive%20DSV%20-%20Global%20Transport%20and%20Logistics&location=Singapore) |
-| Senior Executive/Assistant Manager (Strategic Planning and Development Unit) | Consortium for Clinical Research and Innovation, Singapore (CRIS) | LinkedIn | — | 2026-05-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Executive%2FAssistant%20Manager%20(Strategic%20Planning%20and%20Development%20Unit)%20Consortium%20for%20Clinical%20Research%20and%20Innovation%2C%20Singapore%20(CRIS)&location=Singapore) |
