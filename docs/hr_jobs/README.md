@@ -2,20 +2,32 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-05-14T04:31:09.908Z*
+> *Last updated: 2026-05-14T15:08:13.312Z*
 
-**Total listings: 79** *(MyCareersFuture: 69 | LinkedIn: 10)*
+**Total listings: 80** *(MyCareersFuture: 71 | LinkedIn: 9)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| HR Executive [Healthcare / East / 5 days] [EL] | WECRUIT PTE. LTD. | MyCareersFuture | 2 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/208833a6e9797d79f903161afc0525c3) |
+| Operation Manager | VEEDA ENGINEERING PTE. LTD. | MyCareersFuture | 2 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/45f8bcc350f62c078787e3b316c9215a) |
+| ACCOUNTING OFFICER | 66 CARPENTRY AND RENO DESIGN PTE. LTD. | MyCareersFuture | 2 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/3fd207b88fce7ff752b5dfde268571a6) |
+| HR Executive Assistant (Healthcare) #HJOT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/25e8af5660a6ae41d166329259013bb3) |
+| HR Executive (Recruitment, Manufacturing) | ALWAYSHIRED PTE. LTD. | MyCareersFuture | 2 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/06b1ba3ce26f5ef9a6d3ba010dc56cb5) |
+| HR cum Admin Assistant | BUSINESS EDGE PERSONNEL SERVICES PTE LTD | MyCareersFuture | 1 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/945b46ce194b2d107ffbe318efc77703) |
+| Management Trainee | GAIAX INTERNATIONAL PTE. LTD. | MyCareersFuture | 0 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/7ad3490fc0b25b93c306570bfbaaf28b) |
+| HR Intern | GRAND VENTURE TECHNOLOGY PRIVATE LIMITED | MyCareersFuture | 0 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/9faec4bfe8f55ea5c0e1ac114cbd0c33) |
+| HR Admin (2 Weeks Duration) | JEBSEN & JESSEN PACKAGING (S) PTE. LTD. | MyCareersFuture | 0 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/25445a6a35b7dd87280b993cccdaea83) |
+| Service Crew - FRONT OF HOUSE TEAM | GLOW FOOD 1 PTE. LTD. | MyCareersFuture | 1 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/9f8c7545212fb3fcb5890f7ae2743866) |
+| Business Associate | REVUP CONSULTING PTE. LTD. | MyCareersFuture | 1 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/98761cbe9f3210af98c22e6fa8ccc55b) |
+| Research Associate (Intern) | REVUP CONSULTING PTE. LTD. | MyCareersFuture | 1 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/c3ff7848a0ca8ce2e63f75d3035eed13) |
 | HR Generalist | JJ VISTA MINES RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/a88b18af99138344543d3b03a9fdf010) |
 | HR Assistant | JJ VISTA MINES RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/d02f59af9bc371daca2de8e9faedb354) |
 | HR Assistant | D.A. FOODS INDUSTRIES PTE LTD | MyCareersFuture | 1 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/692a54609ab1f215f875e300e47f124b) |
+| HR Associate | Sea | LinkedIn | — | 2026-05-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Associate%20Sea&location=Singapore) |
 | HR & Admin Executive | Mlion Corporation Pte Ltd | LinkedIn | — | 2026-05-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20%26amp%3B%20Admin%20Executive%20Mlion%20Corporation%20Pte%20Ltd&location=Singapore) |
 | Human Resources Specialist (6-months Contract) | Bvlgari | LinkedIn | — | 2026-05-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Specialist%20(6-months%20Contract)%20Bvlgari&location=Singapore) |
-| Human Resources Associate / HR Services Coordinator | LinkedIn Local ATL | LinkedIn | — | 2026-05-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Associate%20%2F%20HR%20Services%20Coordinator%20LinkedIn%20Local%20ATL&location=Singapore) |
 | HUMAN RESOURCE OFFICER - RECRUITMENT | Shiners Facilities Pte Ltd | LinkedIn | — | 2026-05-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HUMAN%20RESOURCE%20OFFICER%20-%20RECRUITMENT%20Shiners%20Facilities%20Pte%20Ltd&location=Singapore) |
-| Office Admin (Purchaser and HR) | Aik Leong Plumbing Construction Pte Ltd | LinkedIn | — | 2026-05-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Office%20Admin%20(Purchaser%20and%20HR)%20Aik%20Leong%20Plumbing%20Construction%20Pte%20Ltd&location=Singapore) |
+| Intern, People | foodpanda | LinkedIn | — | 2026-05-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Intern%2C%20People%20foodpanda&location=Singapore) |
 | Human Resources Team Lead (DSC/ET) | ST ENGINEERING E-SERVICES PTE. LTD. | MyCareersFuture | 2 | 2026-05-13 | [Apply](https://www.mycareersfuture.gov.sg/job/c7072724ba305cdf4639a79f906f9a9c) |
 | Part-Time HR & Payroll Assistant (Weekends: $13 - $18/hr) | ZERO CONCEPTS PTE. LTD. | MyCareersFuture | 0 | 2026-05-13 | [Apply](https://www.mycareersfuture.gov.sg/job/9814527f370a7f9e649c9678f2410d4f) |
 | Human Resources Assistant - Central | PERSOL SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-05-13 | [Apply](https://www.mycareersfuture.gov.sg/job/d42b6363a8dedf6840eb090d827f88b8) |
@@ -75,15 +87,4 @@
 | Human Resources Officer | Kajima Overseas Asia (Singapore) Pte. Ltd. | LinkedIn | — | 2026-05-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Officer%20Kajima%20Overseas%20Asia%20(Singapore)%20Pte.%20Ltd.&location=Singapore) |
 | Human Resources Rotational Program (Early Career) | WD | LinkedIn | — | 2026-05-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Rotational%20Program%20(Early%20Career)%20WD&location=Singapore) |
 | Human Resources/ Senior Executive (Compensation & Benefits) | Shangri-La Group | LinkedIn | — | 2026-05-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%2F%20Senior%20Executive%20(Compensation%20%26amp%3B%20Benefits)%20Shangri-La%20Group&location=Singapore) |
-| Human Resource Intern | SKILLS DEVELOPMENT ACADEMY PTE. LTD. | MyCareersFuture | 0 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/cdffcbbf1f43e97e954949dfc15e596e) |
-| Talent Acquisition Executive | SKILLS DEVELOPMENT ACADEMY PTE. LTD. | MyCareersFuture | 2 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/846bce6a3c8883367fecf339974d5d10) |
-| HUMAN RESOURCE OFFICER | XIE HE ENGINEERING PTE. LTD. | MyCareersFuture | 2 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/71eb0803841727c7cb11a6225a281e75) |
-| 6 Months Contract Senior/Officer (Credit Control) | SIA ENGINEERING COMPANY LIMITED | MyCareersFuture | 1 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/5b44ad8996b844c668aab2854ed54c73) |
-| HR Admin Assistant | ZEN CAREER PTE. LTD. | MyCareersFuture | 1 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/6ea1a955c71d1195ca9eebd40bd54fd7) |
-| SITE SUPERVISOR | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/6e698a02f9e9b030c2e09c11daf19338) |
-| HR Admin Assistant | BOEAMAN (SINGAPORE) TECHNOLOGY PTE. LTD. | MyCareersFuture | 1 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/d88d994f84333fe7ca22fcefcd78bcea) |
-| HR & Employee Engagement Executive (Banking) | GREENLANE PRIVATE LTD. | MyCareersFuture | 2 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/eb01d2f43c3dd2bac9b78f00173df9d3) |
-| People & Culture Executive (Public Sector - Stable Career Growth) #HDC | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/0fa767661657ba4f25e497e789565d72) |
-| SUPERVISOR | STEEL ALLY RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-05-12 | [Apply](https://www.mycareersfuture.gov.sg/job/7c9dd5d3ca7289ef3e775664164a26a9) |
 | Specialist, Talent Development | Marina Bay Sands | LinkedIn | — | 2026-05-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Specialist%2C%20Talent%20Development%20Marina%20Bay%20Sands&location=Singapore) |
-| HR Specialist/Assistant | Geomotion (Singapore) Private Limited | LinkedIn | — | 2026-05-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Specialist%2FAssistant%20Geomotion%20(Singapore)%20Private%20Limited&location=Singapore) |
