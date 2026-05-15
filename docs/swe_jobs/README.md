@@ -2,12 +2,19 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-05-14T15:08:26.498Z*
+> *Last updated: 2026-05-15T04:37:50.143Z*
 
-**Total listings: 37** *(MyCareersFuture: 27 | LinkedIn: 10)*
+**Total listings: 42** *(MyCareersFuture: 32 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Principal Software Design Engineer (Medical) | RN CARE PTE. LTD. | MyCareersFuture | 2 | 2026-05-15 | [Apply](https://www.mycareersfuture.gov.sg/job/2151bf2224911e205a1dce6bbb5f45bb) |
+| Senior Software Development Engineer (Medical) | RN CARE PTE. LTD. | MyCareersFuture | 2 | 2026-05-15 | [Apply](https://www.mycareersfuture.gov.sg/job/aaa90dd2165e28cc3cb94fdb389672e7) |
+| SOFTWARE ENGINEER (C#.Net MVC Framework) | THE VINE SEARCH PTE. LTD. | MyCareersFuture | 2 | 2026-05-15 | [Apply](https://www.mycareersfuture.gov.sg/job/2edbdd1682a73cfa955602f8cb394d7f) |
+| AI Chip Architecture Engineer – Hardware/Software Co-Design | CANAAN CREATIVE GLOBAL PTE. LTD. | MyCareersFuture | 0 | 2026-05-15 | [Apply](https://www.mycareersfuture.gov.sg/job/ea64db31585d57dc0522dffa5392feca) |
+| SOFTWARE ENGINEER (CLOUD APPLICATION) | THE VINE SEARCH PTE. LTD. | MyCareersFuture | 2 | 2026-05-15 | [Apply](https://www.mycareersfuture.gov.sg/job/42eb111c7afb18b09a6784a901359450) |
+| Software Engineer (Up to $5000) West | GEMS PARTNERS NETWORK PTE. LTD. | MyCareersFuture | 2 | 2026-05-15 | [Apply](https://www.mycareersfuture.gov.sg/job/dacceb7aa98f601248bffe0a0946d011) |
+| Software Engineer (No Experience Needed) | Red Alpha Cybersecurity | LinkedIn | — | 2026-05-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(No%20Experience%20Needed)%20Red%20Alpha%20Cybersecurity&location=Singapore) |
 | Research Engineer (Software Engineering & AI Deployment) | NATIONAL UNIVERSITY OF SINGAPORE | MyCareersFuture | 0 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/f85c10745beb955cda458c28b4475eb6) |
 | Software Engineer in Machine Learning Infra, Recommendation Architecture (ByteDance Singapore) | BYTEDANCE PTE. LTD. | MyCareersFuture | 1 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/829826b2e06bce28a0516b64116559ae) |
 | Site Reliability Engineer, Recommendation Architecture (ByteDance Singapore) | BYTEDANCE PTE. LTD. | MyCareersFuture | 1 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/51d69686534ab3d93990394345dd7052) |
@@ -24,8 +31,7 @@
 | Graduate software engineer | Evernote | LinkedIn | — | 2026-05-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20software%20engineer%20Evernote&location=Singapore) |
 | Graduate software engineer | Meetup | LinkedIn | — | 2026-05-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20software%20engineer%20Meetup&location=Singapore) |
 | Graduate software engineer | WeTransfer | LinkedIn | — | 2026-05-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20software%20engineer%20WeTransfer&location=Singapore) |
-| Software Engineer (GRC Platform) | Vinova | LinkedIn | — | 2026-05-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(GRC%20Platform)%20Vinova&location=Singapore) |
-| Software Engineer (No Experience Needed) | Red Alpha Cybersecurity | LinkedIn | — | 2026-05-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(No%20Experience%20Needed)%20Red%20Alpha%20Cybersecurity&location=Singapore) |
+| Software Engineer | Rakuten Asia Pte Ltd | LinkedIn | — | 2026-05-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Rakuten%20Asia%20Pte%20Ltd&location=Singapore) |
 | Software Engineer - C++, Flutter, Dart, and/or Python | PERSOL SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-05-13 | [Apply](https://www.mycareersfuture.gov.sg/job/2a8893fc3ccf876c22f7aa7515c88d19) |
 | Software Engineer (Computer Vision/Vision Inspection, C++) | RECRUIT EXPERT PTE. LTD. | MyCareersFuture | 2 | 2026-05-13 | [Apply](https://www.mycareersfuture.gov.sg/job/d29801a7d880e08c1c1da39e5f4aebaa) |
 | Technical Product Manager | RAKUTEN ASIA PTE. LTD. | MyCareersFuture | 2 | 2026-05-13 | [Apply](https://www.mycareersfuture.gov.sg/job/7be6134c138ecc0f8b918550f35ab5f3) |
@@ -39,7 +45,6 @@
 | Software Engineer (Embedded Systems) | THALES DIS (SINGAPORE) PTE. LTD. | MyCareersFuture | 2 | 2026-05-13 | [Apply](https://www.mycareersfuture.gov.sg/job/0c86af7665b05c8d63983302cd5ac958) |
 | Software Test Engineer (Singaporean Only) | APBA TG HUMAN RESOURCE PTE. LTD. | MyCareersFuture | 1 | 2026-05-13 | [Apply](https://www.mycareersfuture.gov.sg/job/6dd20002055c2877ce428c6b185349c9) |
 | Software Engineer and/or Senior Software Engineer (Automation & SCADA System - C - C++) | EA RECRUITMENT PTE. LTD. | MyCareersFuture | 2 | 2026-05-13 | [Apply](https://www.mycareersfuture.gov.sg/job/f1ec343e5d30addf097cd9fd14e04790) |
-| Backend Software Engineer (Enterprise Systems) | FCS CAREERS PTE. LTD. | MyCareersFuture | 2 | 2026-05-13 | [Apply](https://www.mycareersfuture.gov.sg/job/2f1098578a6d41da80ef7d5a071ae9f5) |
 | Software Engineer, Early Career | Apple | LinkedIn | — | 2026-05-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Early%20Career%20Apple&location=Singapore) |
 | Software Engineer, Apple Online Store (Early Careers) | Apple | LinkedIn | — | 2026-05-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Apple%20Online%20Store%20(Early%20Careers)%20Apple&location=Singapore) |
 | Fullstack Java Engineer | Apple | LinkedIn | — | 2026-05-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Fullstack%20Java%20Engineer%20Apple&location=Singapore) |
