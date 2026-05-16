@@ -2,12 +2,15 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-05-15T15:02:48.116Z*
+> *Last updated: 2026-05-16T04:10:52.734Z*
 
-**Total listings: 42** *(MyCareersFuture: 34 | LinkedIn: 9)*
+**Total listings: 38** *(MyCareersFuture: 30 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Accounts & HR Officer | E-PLOYMENT CONSULTANCY | MyCareersFuture | 1 | 2026-05-16 | [Apply](https://www.mycareersfuture.gov.sg/job/2eef2656c05560b9d38102243f774f69) |
+| Talent Acquisition Manager / HR Project Executive / HR Coordinator | Morrison Seger Venture Capital Partners | LinkedIn | — | 2026-05-16 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Manager%20%2F%20HR%20Project%20Executive%20%2F%20HR%20Coordinator%20Morrison%20Seger%20Venture%20Capital%20Partners&location=Singapore) |
+| Learning & Development Manager / HR Executive / HR Assistance | Fondazione Genova Startup ETS | LinkedIn | — | 2026-05-16 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Learning%20%26amp%3B%20Development%20Manager%20%2F%20HR%20Executive%20%2F%20HR%20Assistance%20Fondazione%20Genova%20Startup%20ETS&location=Singapore) |
 | HR & Admin Executive | GOOD JOB CREATIONS (SINGAPORE) PTE. LTD. | MyCareersFuture | 2 | 2026-05-15 | [Apply](https://www.mycareersfuture.gov.sg/job/5961cfaf98834589c000150391794edc) |
 | Commercial Lead (Business Development & Marketing) | Singapore Human Resources Institute (SHRI) | MyCareersFuture | 1 | 2026-05-15 | [Apply](https://www.mycareersfuture.gov.sg/job/5b25d3cf148cf45cc3f053753c7a9907) |
 | Recruitment Consultant (Tech / Banking Sector) | D L RESOURCES PTE LTD | MyCareersFuture | 1 | 2026-05-15 | [Apply](https://www.mycareersfuture.gov.sg/job/885ee1d39e342927a85a920f41ad0516) |
@@ -26,7 +29,7 @@
 | HR and Admin Executive($2500 - $3300) | OAKTREE CONSULTING | MyCareersFuture | 2 | 2026-05-15 | [Apply](https://www.mycareersfuture.gov.sg/job/807708adace7cfe3c8b1507f0c98ee81) |
 | Human Resources Associate, People Team (2026 Graduate) | Shopee | LinkedIn | — | 2026-05-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Associate%2C%20People%20Team%20(2026%20Graduate)%20Shopee&location=Singapore) |
 | HR Resourcing Partner (Hospitality) | Far East Organization | LinkedIn | — | 2026-05-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Resourcing%20Partner%20(Hospitality)%20Far%20East%20Organization&location=Singapore) |
-| Learning & Development Manager / Executive / HR Assistant | GR - CONGLOMERADO DE EMPRESAS | LinkedIn | — | 2026-05-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Learning%20%26amp%3B%20Development%20Manager%20%2F%20Executive%20%2F%20HR%20Assistant%20GR%20%7C%20CONGLOMERADO%20DE%20EMPRESAS&location=Singapore) |
+| Human Resources Specialist II | Hyve Solutions | LinkedIn | — | 2026-05-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Specialist%20II%20Hyve%20Solutions&location=Singapore) |
 | HR ADMIN AND PAYROLL ASSISTANT (REMOTE) | CURATE KITCHEN PTE. LTD. | MyCareersFuture | 1 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/3d200e008e6e774c866d2fdc5673dc27) |
 | HR Executive [Healthcare / East / 5 days] [EL] | WECRUIT PTE. LTD. | MyCareersFuture | 2 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/208833a6e9797d79f903161afc0525c3) |
 | Operation Manager | VEEDA ENGINEERING PTE. LTD. | MyCareersFuture | 2 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/45f8bcc350f62c078787e3b316c9215a) |
@@ -39,14 +42,7 @@
 | Service Crew - FRONT OF HOUSE TEAM | GLOW FOOD 1 PTE. LTD. | MyCareersFuture | 1 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/9f8c7545212fb3fcb5890f7ae2743866) |
 | Business Associate | REVUP CONSULTING PTE. LTD. | MyCareersFuture | 1 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/98761cbe9f3210af98c22e6fa8ccc55b) |
 | Research Associate (Intern) | REVUP CONSULTING PTE. LTD. | MyCareersFuture | 1 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/c3ff7848a0ca8ce2e63f75d3035eed13) |
-| HR Generalist | JJ VISTA MINES RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/a88b18af99138344543d3b03a9fdf010) |
-| HR Assistant | JJ VISTA MINES RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/d02f59af9bc371daca2de8e9faedb354) |
-| HR Assistant | D.A. FOODS INDUSTRIES PTE LTD | MyCareersFuture | 1 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/692a54609ab1f215f875e300e47f124b) |
 | HR Associate | Sea | LinkedIn | — | 2026-05-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Associate%20Sea&location=Singapore) |
-| Human Resources Specialist (6-months Contract) | Bvlgari | LinkedIn | — | 2026-05-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Specialist%20(6-months%20Contract)%20Bvlgari&location=Singapore) |
 | Intern, People | foodpanda | LinkedIn | — | 2026-05-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Intern%2C%20People%20foodpanda&location=Singapore) |
-| HR Recruiter | MNZL | LinkedIn | — | 2026-05-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Recruiter%20MNZL&location=Singapore) |
 | Senior Executive, Talent Management & Leadership Development | SingHealth | LinkedIn | — | 2026-05-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Executive%2C%20Talent%20Management%20%26amp%3B%20Leadership%20Development%20SingHealth&location=Singapore) |
 | Specialist, Talent Development (6 Months Maternity Cover) | Marina Bay Sands | LinkedIn | — | 2026-05-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Specialist%2C%20Talent%20Development%20(6%20Months%20Maternity%20Cover)%20Marina%20Bay%20Sands&location=Singapore) |
-| Human Resources Team Lead (DSC/ET) | ST ENGINEERING E-SERVICES PTE. LTD. | MyCareersFuture | 2 | 2026-05-13 | [Apply](https://www.mycareersfuture.gov.sg/job/c7072724ba305cdf4639a79f906f9a9c) |
-| Part-Time HR & Payroll Assistant (Weekends: $13 - $18/hr) | ZERO CONCEPTS PTE. LTD. | MyCareersFuture | 0 | 2026-05-13 | [Apply](https://www.mycareersfuture.gov.sg/job/9814527f370a7f9e649c9678f2410d4f) |
