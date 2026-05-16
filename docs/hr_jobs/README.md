@@ -2,9 +2,9 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-05-16T04:10:52.734Z*
+> *Last updated: 2026-05-16T14:07:24.114Z*
 
-**Total listings: 38** *(MyCareersFuture: 30 | LinkedIn: 10)*
+**Total listings: 26** *(MyCareersFuture: 18 | LinkedIn: 9)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
@@ -30,19 +30,7 @@
 | Human Resources Associate, People Team (2026 Graduate) | Shopee | LinkedIn | — | 2026-05-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Associate%2C%20People%20Team%20(2026%20Graduate)%20Shopee&location=Singapore) |
 | HR Resourcing Partner (Hospitality) | Far East Organization | LinkedIn | — | 2026-05-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Resourcing%20Partner%20(Hospitality)%20Far%20East%20Organization&location=Singapore) |
 | Human Resources Specialist II | Hyve Solutions | LinkedIn | — | 2026-05-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Specialist%20II%20Hyve%20Solutions&location=Singapore) |
+| Senior Executive, Human Resources | Nanyang Technological University Singapore | LinkedIn | — | 2026-05-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Executive%2C%20Human%20Resources%20Nanyang%20Technological%20University%20Singapore&location=Singapore) |
 | HR ADMIN AND PAYROLL ASSISTANT (REMOTE) | CURATE KITCHEN PTE. LTD. | MyCareersFuture | 1 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/3d200e008e6e774c866d2fdc5673dc27) |
-| HR Executive [Healthcare / East / 5 days] [EL] | WECRUIT PTE. LTD. | MyCareersFuture | 2 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/208833a6e9797d79f903161afc0525c3) |
-| Operation Manager | VEEDA ENGINEERING PTE. LTD. | MyCareersFuture | 2 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/45f8bcc350f62c078787e3b316c9215a) |
-| ACCOUNTING OFFICER | 66 CARPENTRY AND RENO DESIGN PTE. LTD. | MyCareersFuture | 2 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/3fd207b88fce7ff752b5dfde268571a6) |
-| HR Executive (Recruitment, Manufacturing) | ALWAYSHIRED PTE. LTD. | MyCareersFuture | 2 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/06b1ba3ce26f5ef9a6d3ba010dc56cb5) |
-| HR cum Admin Assistant | BUSINESS EDGE PERSONNEL SERVICES PTE LTD | MyCareersFuture | 1 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/945b46ce194b2d107ffbe318efc77703) |
-| Management Trainee | GAIAX INTERNATIONAL PTE. LTD. | MyCareersFuture | 0 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/7ad3490fc0b25b93c306570bfbaaf28b) |
-| HR Intern | GRAND VENTURE TECHNOLOGY PRIVATE LIMITED | MyCareersFuture | 0 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/9faec4bfe8f55ea5c0e1ac114cbd0c33) |
-| HR Admin (2 Weeks Duration) | JEBSEN & JESSEN PACKAGING (S) PTE. LTD. | MyCareersFuture | 0 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/25445a6a35b7dd87280b993cccdaea83) |
-| Service Crew - FRONT OF HOUSE TEAM | GLOW FOOD 1 PTE. LTD. | MyCareersFuture | 1 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/9f8c7545212fb3fcb5890f7ae2743866) |
-| Business Associate | REVUP CONSULTING PTE. LTD. | MyCareersFuture | 1 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/98761cbe9f3210af98c22e6fa8ccc55b) |
-| Research Associate (Intern) | REVUP CONSULTING PTE. LTD. | MyCareersFuture | 1 | 2026-05-14 | [Apply](https://www.mycareersfuture.gov.sg/job/c3ff7848a0ca8ce2e63f75d3035eed13) |
-| HR Associate | Sea | LinkedIn | — | 2026-05-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Associate%20Sea&location=Singapore) |
-| Intern, People | foodpanda | LinkedIn | — | 2026-05-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Intern%2C%20People%20foodpanda&location=Singapore) |
-| Senior Executive, Talent Management & Leadership Development | SingHealth | LinkedIn | — | 2026-05-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Executive%2C%20Talent%20Management%20%26amp%3B%20Leadership%20Development%20SingHealth&location=Singapore) |
 | Specialist, Talent Development (6 Months Maternity Cover) | Marina Bay Sands | LinkedIn | — | 2026-05-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Specialist%2C%20Talent%20Development%20(6%20Months%20Maternity%20Cover)%20Marina%20Bay%20Sands&location=Singapore) |
+| Project Coordinator | NOV | LinkedIn | — | 2026-05-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Project%20Coordinator%20NOV&location=Singapore) |
