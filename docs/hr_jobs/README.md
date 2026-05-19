@@ -2,12 +2,18 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-05-18T16:04:50.212Z*
+> *Last updated: 2026-05-19T04:44:56.047Z*
 
-**Total listings: 34** *(MyCareersFuture: 25 | LinkedIn: 10)*
+**Total listings: 36** *(MyCareersFuture: 27 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| HR Executive | ARCADIA SHIPPING PTE. LTD. | MyCareersFuture | 2 | 2026-05-19 | [Apply](https://www.mycareersfuture.gov.sg/job/eb5ea83e873e62f870bd1670025bfe64) |
+| HR Assistant / Executive | GUTHRIE ENGINEERING (S) PTE LTD | MyCareersFuture | 2 | 2026-05-19 | [Apply](https://www.mycareersfuture.gov.sg/job/ea9eab970672b1638184f5ab3e44de0a) |
+| Human Resources Executive | SENTOSA BEACH RESORT PTE LTD | MyCareersFuture | 1 | 2026-05-19 | [Apply](https://www.mycareersfuture.gov.sg/job/34ecfb352c87f9a3f462432d6243b116) |
+| Learning & Development Manager / HR Executive / HR Assistance | Startup Flip | LinkedIn | — | 2026-05-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Learning%20%26amp%3B%20Development%20Manager%20%2F%20HR%20Executive%20%2F%20HR%20Assistance%20Startup%20Flip&location=Singapore) |
+| Learning & Development Manager / Executive / HR Assistant | EntrepreneursNext Startup Bridge | LinkedIn | — | 2026-05-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Learning%20%26amp%3B%20Development%20Manager%20%2F%20Executive%20%2F%20HR%20Assistant%20EntrepreneursNext%20Startup%20Bridge&location=Singapore) |
+| HR Business Partner/Talent Acquisition Specialist/Compensation Analyst | CAI Launch LLC | LinkedIn | — | 2026-05-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Business%20Partner%2FTalent%20Acquisition%20Specialist%2FCompensation%20Analyst%20CAI%20Launch%20LLC&location=Singapore) |
 | Administration Manager | MEGASTEEL PROCESS & ENGINEERING PTE. LTD. | MyCareersFuture | 1 | 2026-05-18 | [Apply](https://www.mycareersfuture.gov.sg/job/70d269aae892478bc2e28353faf0b2c4) |
 | Administration Manager | MEGASTEEL CONSTRUCTION & ENGINEERING PTE. LTD. | MyCareersFuture | 1 | 2026-05-18 | [Apply](https://www.mycareersfuture.gov.sg/job/e0a3a3668b537f630b1a86713ff0f98b) |
 | FURNITURE CARPENTER | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-05-18 | [Apply](https://www.mycareersfuture.gov.sg/job/cb2fdca6835eadffc6208ef855f6baf8) |
@@ -33,12 +39,8 @@
 | Employee Experience Associate | CHARLES & KEITH GROUP | LinkedIn | — | 2026-05-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Employee%20Experience%20Associate%20CHARLES%20%26amp%3B%20KEITH%20GROUP&location=Singapore) |
 | Lead Officer, HR & Admin Shared Services | Sentosa Development Corporation | LinkedIn | — | 2026-05-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Lead%20Officer%2C%20HR%20%26amp%3B%20Admin%20Shared%20Services%20Sentosa%20Development%20Corporation&location=Singapore) |
 | Human Resources Specialist | LANDI Global | LinkedIn | — | 2026-05-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Specialist%20LANDI%20Global&location=Singapore) |
+| Junior HRBP, L&D | Soitec | LinkedIn | — | 2026-05-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Junior%20HRBP%2C%20L%26amp%3BD%20Soitec&location=Singapore) |
 | Human Resources Consultant / HR Consultant | Cadence HR Consulting | LinkedIn | — | 2026-05-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Consultant%20%2F%20HR%20Consultant%20Cadence%20HR%20Consulting&location=Singapore) |
 | Junior HR Transformation Project Manager | Amaris Consulting | LinkedIn | — | 2026-05-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Junior%20HR%20Transformation%20Project%20Manager%20Amaris%20Consulting&location=Singapore) |
-| Manufacturing Technician (12month Contract) | Coherent Corp. | LinkedIn | — | 2026-05-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Manufacturing%20Technician%20(12month%20Contract)%20Coherent%20Corp.&location=Singapore) |
-| Oracle Report Developer - Consultant | Rolling Arrays | LinkedIn | — | 2026-05-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Oracle%20Report%20Developer%20-%20Consultant%20Rolling%20Arrays&location=Singapore) |
-| Oracle Data Migration - Consultant | Rolling Arrays | LinkedIn | — | 2026-05-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Oracle%20Data%20Migration%20-%20Consultant%20Rolling%20Arrays&location=Singapore) |
-| Upper River Valley Registered Nurse Class A (RNCA) PCN 1152981 | Horizon Health Network | LinkedIn | — | 2026-05-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Upper%20River%20Valley%20Registered%20Nurse%20Class%20A%20(RNCA)%20PCN%201152981%20Horizon%20Health%20Network&location=Singapore) |
 | Part-Time HR & Finance Assistant (Weekends: $13 - $18/hr) | ZERO CONCEPTS PTE. LTD. | MyCareersFuture | 0 | 2026-05-17 | [Apply](https://www.mycareersfuture.gov.sg/job/411ee01f28b1884acbfa6d9ed908cea0) |
 | Human Resources Specialist II | Hyve Solutions | LinkedIn | — | 2026-05-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Specialist%20II%20Hyve%20Solutions&location=Singapore) |
-| HR Manager #84013 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-05-16 | [Apply](https://www.mycareersfuture.gov.sg/job/3c490aade468e0a9e0c3c81e038eea11) |
