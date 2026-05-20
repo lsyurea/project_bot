@@ -2,16 +2,26 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-05-20T04:49:28.020Z*
+> *Last updated: 2026-05-20T16:08:34.383Z*
 
-**Total listings: 34** *(MyCareersFuture: 28 | LinkedIn: 10)*
+**Total listings: 33** *(MyCareersFuture: 27 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| IT Software Engineer (Mini Program Development) | CHUANTANGJI PTE. LTD. | MyCareersFuture | 2 | 2026-05-20 | [Apply](https://www.mycareersfuture.gov.sg/job/82024473f04879fd4db1cb73d72e6869) |
+| Cyber Security Analyst (Fully Remote) | HYPHEN SEARCH PTE. LTD. | MyCareersFuture | 1 | 2026-05-20 | [Apply](https://www.mycareersfuture.gov.sg/job/a99111b2128e961fe34e5b4f0a996432) |
+| Java Web & Application Engineer - Software Design | REOLINK TECHNOLOGY PTE. LTD. | MyCareersFuture | 2 | 2026-05-20 | [Apply](https://www.mycareersfuture.gov.sg/job/3e4a2fbf170a0be5f6345f5ce45bb1dc) |
+| *Java* Backend Engineer - Software System Designer | REOLINK TECHNOLOGY PTE. LTD. | MyCareersFuture | 2 | 2026-05-20 | [Apply](https://www.mycareersfuture.gov.sg/job/52d3293c3d95655b4ccca2f860b2c325) |
+| Software Engineer | AVATAR MODERN TECHNO SERVICES PTE. LTD. | MyCareersFuture | 1 | 2026-05-20 | [Apply](https://www.mycareersfuture.gov.sg/job/af3c31a16e87381d95c0516b092ab002) |
+| Senior/Software Engineer [Java Proficiency Preferred] | TALENTSIS PTE. LTD. | MyCareersFuture | 1 | 2026-05-20 | [Apply](https://www.mycareersfuture.gov.sg/job/a6316868897c75277865b91011afe49e) |
+| Software Engineer | ST ENGINEERING AEROSPACE LTD. | MyCareersFuture | 2 | 2026-05-20 | [Apply](https://www.mycareersfuture.gov.sg/job/1ec67ad42e31afe4dccf78cef1efce34) |
 | Software Engineer, Google Wallet - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 2 | 2026-05-20 | [Apply](https://www.mycareersfuture.gov.sg/job/a959245bc1a805d5695ad1420c28379e) |
 | Software Engineer, Information Security Engineering - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 2 | 2026-05-20 | [Apply](https://www.mycareersfuture.gov.sg/job/686ef2cd3bcd07adeaef7cfa4737f5a3) |
 | Embedded Software Engineer - Mining Infrastructure | DADACONSULTANTS PTE. LTD. | MyCareersFuture | 2 | 2026-05-20 | [Apply](https://www.mycareersfuture.gov.sg/job/d66ae6d6de694c25f82c44ac349d57ae) |
-| Senior/Software Engineer [Java Proficiency Preferred] | TALENTSIS PTE. LTD. | MyCareersFuture | 1 | 2026-05-20 | [Apply](https://www.mycareersfuture.gov.sg/job/56149438c946d20d42b5779e7ff3f208) |
+| Software Engineer | Open Government Products | LinkedIn | — | 2026-05-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Open%20Government%20Products&location=Singapore) |
+| Software Engineer (Information) | DSO National Laboratories | LinkedIn | — | 2026-05-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Information)%20DSO%20National%20Laboratories&location=Singapore) |
+| Software Engineer - MERN | Paathz | LinkedIn | — | 2026-05-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20-%20MERN%20Paathz&location=Singapore) |
+| Robotics Software Engineer | DSO National Laboratories | LinkedIn | — | 2026-05-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Robotics%20Software%20Engineer%20DSO%20National%20Laboratories&location=Singapore) |
 | Software Engineer (No Experience Needed) | Red Alpha Cybersecurity | LinkedIn | — | 2026-05-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(No%20Experience%20Needed)%20Red%20Alpha%20Cybersecurity&location=Singapore) |
 | Software Engineer (Computer Vision/Vision Inspection, C++) | RECRUIT EXPERT PTE. LTD. | MyCareersFuture | 2 | 2026-05-19 | [Apply](https://www.mycareersfuture.gov.sg/job/479d65384282c50793ef22783cb7e098) |
 | Full Stack Software Engineer - WCAN | WECRUIT PTE. LTD. | MyCareersFuture | 2 | 2026-05-19 | [Apply](https://www.mycareersfuture.gov.sg/job/bb1d2156c66dcc5581a5b608ef19f8c2) |
@@ -31,14 +41,3 @@
 | Software Engineer, New Grad | Notewise | LinkedIn | — | 2026-05-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20New%20Grad%20Notewise&location=Singapore) |
 | Software Engineer - Java (Fresh Graduate) | CrimsonLogic | LinkedIn | — | 2026-05-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20-%20Java%20(Fresh%20Graduate)%20CrimsonLogic&location=Singapore) |
 | Graduate software engineer | WeTransfer | LinkedIn | — | 2026-05-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20software%20engineer%20WeTransfer&location=Singapore) |
-| Software Engineer | WSA – Wonderful Sound for All | LinkedIn | — | 2026-05-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20WSA%20%E2%80%93%20Wonderful%20Sound%20for%20All&location=Singapore) |
-| Software Engineer (Automation & Vision) | GMP TECHNOLOGIES (S) PTE LTD | MyCareersFuture | 1 | 2026-05-18 | [Apply](https://www.mycareersfuture.gov.sg/job/f11112be8ef84a0dc7d8a3bfd4c39a75) |
-| Electrical & Instrumentation Engineer (West/CAD or CMMS software) | CVISTA HR CONSULTING PTE. LTD. | MyCareersFuture | 2 | 2026-05-18 | [Apply](https://www.mycareersfuture.gov.sg/job/e7d7555668a762e26f42b60b2d2be17d) |
-| Software Engineer (Central) | PERSOL SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-05-18 | [Apply](https://www.mycareersfuture.gov.sg/job/b8fa06728a5722b11f00a8e5b5676662) |
-| java developer | UNIZEN TECHNOLOGIES PTE. LTD. | MyCareersFuture | 2 | 2026-05-18 | [Apply](https://www.mycareersfuture.gov.sg/job/20a163a70ecb844858f075cd066c3054) |
-| Software Engineer, Acceleration Platform Team - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 1 | 2026-05-18 | [Apply](https://www.mycareersfuture.gov.sg/job/f6249587c91edd1ac7847edd1d750dcf) |
-| Software Engineer | GRAVITON RESEARCH CAPITAL (SINGAPORE) PTE. LTD. | MyCareersFuture | 1 | 2026-05-18 | [Apply](https://www.mycareersfuture.gov.sg/job/f6e63d0bee56f35ad5defd52b31d8d45) |
-| Software Engineer, Acceleration Platform - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 2 | 2026-05-18 | [Apply](https://www.mycareersfuture.gov.sg/job/1de546882e19358ac00da36594362177) |
-| Software Engineer 2 | Abnormal AI | LinkedIn | — | 2026-05-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%202%20Abnormal%20AI&location=Singapore) |
-| WXG - Software Engineer - Infrastructure | Tencent | LinkedIn | — | 2026-05-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=WXG%20-%20Software%20Engineer%20-%20Infrastructure%20Tencent&location=Singapore) |
-| Embedded Software Engineer | ST Engineering | LinkedIn | — | 2026-05-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Embedded%20Software%20Engineer%20ST%20Engineering&location=Singapore) |
