@@ -2,12 +2,20 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-05-21T15:59:09.233Z*
+> *Last updated: 2026-05-22T04:47:24.120Z*
 
-**Total listings: 45** *(MyCareersFuture: 39 | LinkedIn: 10)*
+**Total listings: 47** *(MyCareersFuture: 41 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Maid Agency Operations Executive | MAIDS CENTRAL PTE. LTD. | MyCareersFuture | 2 | 2026-05-22 | [Apply](https://www.mycareersfuture.gov.sg/job/72d93619a4ca05dbc5f1117134a4024a) |
+| Administrator cum Personal Assistant | HEXOGON SOLUTION PTE. LTD. | MyCareersFuture | 2 | 2026-05-22 | [Apply](https://www.mycareersfuture.gov.sg/job/22a1d12200e0e02e033d489ba1713374) |
+| HR Officer (Recruitment and L&D) - Contract | SCIENTEC CONSULTING PTE. LTD. | MyCareersFuture | 0 | 2026-05-22 | [Apply](https://www.mycareersfuture.gov.sg/job/16e6e07b1e85e20cef48c12b4eaec603) |
+| HR Intern | ORIENTAL REMEDIES EAST COAST PRIVATE LIMITED | MyCareersFuture | 1 | 2026-05-22 | [Apply](https://www.mycareersfuture.gov.sg/job/b57e2be15773bbb54e540a90f73aeab3) |
+| HR Intern | ORIENTAL REMEDIES INCORPORATED (PRIVATE LIMITED) | MyCareersFuture | 1 | 2026-05-22 | [Apply](https://www.mycareersfuture.gov.sg/job/f4942bd1698612c67ad750a9ce096f32) |
+| HR Business Partner/Talent Acquisition Specialist/Compensation Analyst | Ideation | LinkedIn | — | 2026-05-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Business%20Partner%2FTalent%20Acquisition%20Specialist%2FCompensation%20Analyst%20Ideation&location=Singapore) |
+| HR Business Partner/Talent Acquisition Specialist/Compensation Analyst | Travcorp Poland | LinkedIn | — | 2026-05-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Business%20Partner%2FTalent%20Acquisition%20Specialist%2FCompensation%20Analyst%20Travcorp%20Poland&location=Singapore) |
+| HR Manager #84013 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-05-21 | [Apply](https://www.mycareersfuture.gov.sg/job/4e6496b2950e3d109201d4432f69ffe1) |
 | Administrative Intern | CLOUDUN TECHNOLOGY PTE. LTD. | MyCareersFuture | 0 | 2026-05-21 | [Apply](https://www.mycareersfuture.gov.sg/job/f881be4a51fc2508b13627e3aca7524d) |
 | Human Resources Assistant (FAST INTERVIEW) #HZOT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-05-21 | [Apply](https://www.mycareersfuture.gov.sg/job/6b7f9ed05c2a0ae27862111cbea59a88) |
 | HR Coordinator | TALENTVIS SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-05-21 | [Apply](https://www.mycareersfuture.gov.sg/job/839c5a6e6df2862e197428dd82564e94) |
@@ -30,9 +38,8 @@
 | People and Culture Associate (Human Resources Shared Services) | CLA GLOBAL TS HOLDINGS PTE. LTD. | MyCareersFuture | 1 | 2026-05-21 | [Apply](https://www.mycareersfuture.gov.sg/job/89e586be27e29c381e28e16f4affe049) |
 | Human Resources Officer | Hilton | LinkedIn | — | 2026-05-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Officer%20Hilton&location=Singapore) |
 | Human Resources Executive | Worldwide Hotels (WWH) | LinkedIn | — | 2026-05-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20Worldwide%20Hotels%20(WWH)&location=Singapore) |
-| Learning & Development Executive | JW Marriott | LinkedIn | — | 2026-05-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Learning%20%26amp%3B%20Development%20Executive%20JW%20Marriott&location=Singapore) |
 | Talent Acquisition Executive (1 year contract) | CEVA Logistics | LinkedIn | — | 2026-05-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Executive%20(1%20year%20contract)%20CEVA%20Logistics&location=Singapore) |
-| Associate/ Analyst, Research (Equity) | Manulife | LinkedIn | — | 2026-05-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Associate%2F%20Analyst%2C%20Research%20(Equity)%20Manulife&location=Singapore) |
+| Learning & Development Executive | JW Marriott | LinkedIn | — | 2026-05-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Learning%20%26amp%3B%20Development%20Executive%20JW%20Marriott&location=Singapore) |
 | Senior / Human Resource Executive (Bilingual English & Mandarin) | RIGHT CONSTRUCTION PTE LTD | MyCareersFuture | 1 | 2026-05-20 | [Apply](https://www.mycareersfuture.gov.sg/job/244287866abaec85c6ed261f504148fb) |
 | Talent Acquisition Associate (Technology & Banking Sector) | D L RESOURCES PTE LTD | MyCareersFuture | 2 | 2026-05-20 | [Apply](https://www.mycareersfuture.gov.sg/job/209db5a5539b7b0c09ed2e82f8b6a817) |
 | Executive (HR & Administration) | EDUBLITZ PTE LTD | MyCareersFuture | 1 | 2026-05-20 | [Apply](https://www.mycareersfuture.gov.sg/job/1c255ecb88d232fcc28ea93fa1152b96) |
@@ -44,12 +51,7 @@
 | Staff Augmentation Administrator | GOLDTECH RESOURCES PTE LTD | MyCareersFuture | 2 | 2026-05-20 | [Apply](https://www.mycareersfuture.gov.sg/job/8153dd767db150bfa7813ff93931caeb) |
 | Staff Augmentation Manager | GOLDTECH RESOURCES PTE LTD | MyCareersFuture | 2 | 2026-05-20 | [Apply](https://www.mycareersfuture.gov.sg/job/391a2c2b179a0744c756caf566fb1b35) |
 | Administrative Assistant (HR & Admin) | TOKIO MARINE INSURANCE SINGAPORE LTD. | MyCareersFuture | 1 | 2026-05-20 | [Apply](https://www.mycareersfuture.gov.sg/job/1f0b65068f844fe31c8cd82879ff6ac9) |
-| Human Resources Exe | WESMECH ENGINEERING PTE LTD | MyCareersFuture | 2 | 2026-05-20 | [Apply](https://www.mycareersfuture.gov.sg/job/eeb3158c5d91a2c4f1161dd92e5d74f7) |
-| HR & Admin Executive | DIVERSIFIED FREIGHT SYSTEM (SINGAPORE) PTE. LTD. | MyCareersFuture | 1 | 2026-05-20 | [Apply](https://www.mycareersfuture.gov.sg/job/d789e157ecd5d7370c65198a33bb9569) |
-| HR Admin (Recruitment) | ZEN CAREER PTE. LTD. | MyCareersFuture | 2 | 2026-05-20 | [Apply](https://www.mycareersfuture.gov.sg/job/e5a404567f094d9058d4fee2d46e4ccf) |
-| Project Engineer (Electrical) | ACCESSTECH ENGINEERING PTE LTD | MyCareersFuture | 2 | 2026-05-20 | [Apply](https://www.mycareersfuture.gov.sg/job/6dd6eb5e8472b6270a466c7bf7bd647d) |
 | Human Resources Assistant | INFOWIZ PTE LTD | LinkedIn | — | 2026-05-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Assistant%20INFOWIZ%20PTE%20LTD&location=Singapore) |
 | HR Executive (TA & Operations) | SearchAsia Consulting | LinkedIn | — | 2026-05-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Executive%20(TA%20%26amp%3B%20Operations)%20SearchAsia%20Consulting&location=Singapore) |
-| IT Recruiter | Tap Growth ai | LinkedIn | — | 2026-05-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=IT%20Recruiter%20Tap%20Growth%20ai&location=Singapore) |
 | HR Resourcing Partner (Hospitality) | Far East Organization | LinkedIn | — | 2026-05-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Resourcing%20Partner%20(Hospitality)%20Far%20East%20Organization&location=Singapore) |
-| Senior, Shipping-Receiving | Coherent Corp. | LinkedIn | — | 2026-05-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%2C%20Shipping-Receiving%20Coherent%20Corp.&location=Singapore) |
+| IT Recruiter | Tap Growth ai | LinkedIn | — | 2026-05-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=IT%20Recruiter%20Tap%20Growth%20ai&location=Singapore) |
