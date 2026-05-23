@@ -2,12 +2,16 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-05-22T15:37:59.753Z*
+> *Last updated: 2026-05-23T04:27:21.916Z*
 
-**Total listings: 45** *(MyCareersFuture: 39 | LinkedIn: 10)*
+**Total listings: 44** *(MyCareersFuture: 38 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Payroll Executive | PIONEER CORPORATE SERVICES PTE LTD | MyCareersFuture | 0 | 2026-05-23 | [Apply](https://www.mycareersfuture.gov.sg/job/7623b63b6ee84f02651d9a00121e1a15) |
+| Human Resources Specialist | Car O' Clock Rent a Car & Tours | LinkedIn | — | 2026-05-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Specialist%20Car%20O'%20Clock%20Rent%20a%20Car%20%26amp%3B%20Tours&location=Singapore) |
+| Part time Admin Assistant | Vantager Solutions Pte. Ltd | LinkedIn | — | 2026-05-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Part%20time%20Admin%20Assistant%20Vantager%20Solutions%20Pte.%20Ltd&location=Singapore) |
+| Pre-Sales Consultant | LINK COMPLIANCE PTE. LTD. | MyCareersFuture | 1 | 2026-05-22 | [Apply](https://www.mycareersfuture.gov.sg/job/4cebc62ff5e2d8c735cb02bf295c01df) |
 | OPERATIONS CUM ADMIN MANAGER | EXA SERVICES PTE. LTD. | MyCareersFuture | 0 | 2026-05-22 | [Apply](https://www.mycareersfuture.gov.sg/job/5299efe6934757648afe7edb688ceb6e) |
 | HR Executive, Recruitment (Manufacturing) | ALWAYSHIRED PTE. LTD. | MyCareersFuture | 2 | 2026-05-22 | [Apply](https://www.mycareersfuture.gov.sg/job/2abe84f0e65ce63638375c9ff224b032) |
 | Operation and Maintenance(O&M) Manager (Contract, East) #HAC | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-05-22 | [Apply](https://www.mycareersfuture.gov.sg/job/4127f7ee19e491dea9de4e5f782b2585) |
@@ -24,6 +28,7 @@
 | HR Intern | ORIENTAL REMEDIES EAST COAST PRIVATE LIMITED | MyCareersFuture | 1 | 2026-05-22 | [Apply](https://www.mycareersfuture.gov.sg/job/b57e2be15773bbb54e540a90f73aeab3) |
 | HR Intern | ORIENTAL REMEDIES INCORPORATED (PRIVATE LIMITED) | MyCareersFuture | 1 | 2026-05-22 | [Apply](https://www.mycareersfuture.gov.sg/job/f4942bd1698612c67ad750a9ce096f32) |
 | HR Resourcing Partner (Hospitality) | Far East Organization | LinkedIn | — | 2026-05-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Resourcing%20Partner%20(Hospitality)%20Far%20East%20Organization&location=Singapore) |
+| HR Assistant / Talent Acquisition Coordinator / Recruitment Support Specialist | Construction Industry | LinkedIn | — | 2026-05-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Assistant%20%2F%20Talent%20Acquisition%20Coordinator%20%2F%20Recruitment%20Support%20Specialist%20Construction%20Industry&location=Singapore) |
 | Corporate Secretary | ForBis | LinkedIn | — | 2026-05-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Corporate%20Secretary%20ForBis&location=Singapore) |
 | HR Manager #84013 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-05-21 | [Apply](https://www.mycareersfuture.gov.sg/job/4e6496b2950e3d109201d4432f69ffe1) |
 | Administrative Intern | CLOUDUN TECHNOLOGY PTE. LTD. | MyCareersFuture | 0 | 2026-05-21 | [Apply](https://www.mycareersfuture.gov.sg/job/f881be4a51fc2508b13627e3aca7524d) |
@@ -42,14 +47,8 @@
 | Administrative / HR Assistant | BLUE STAR TECH PTE. LTD. | MyCareersFuture | 1 | 2026-05-21 | [Apply](https://www.mycareersfuture.gov.sg/job/8ac0ce9df21ca30d38d6d54aabecfc7a) |
 | HR Executive (Payroll) | HONG YE GROUP PTE. LTD. | MyCareersFuture | 2 | 2026-05-21 | [Apply](https://www.mycareersfuture.gov.sg/job/9b4242ab78359b226888bbb0964a1cea) |
 | Administration Manager | MEGASTEEL PROCESS & ENGINEERING PTE. LTD. | MyCareersFuture | 1 | 2026-05-21 | [Apply](https://www.mycareersfuture.gov.sg/job/ad6ca1e1bf118f5167348476cc914e78) |
-| HR Admin Assistant | MOSSAD SERVICES PTE. LTD. | MyCareersFuture | 1 | 2026-05-21 | [Apply](https://www.mycareersfuture.gov.sg/job/497ce5c8fa93391357df99f87343b73e) |
-| Compensation & Benefits, Executive/ Senior Executive | BREADTALK GROUP PTE. LTD. | MyCareersFuture | 2 | 2026-05-21 | [Apply](https://www.mycareersfuture.gov.sg/job/dcc1fcd3021e39c136ab81071f2cf4e8) |
-| People and Culture Associate (Human Resources Shared Services) | CLA GLOBAL TS HOLDINGS PTE. LTD. | MyCareersFuture | 1 | 2026-05-21 | [Apply](https://www.mycareersfuture.gov.sg/job/89e586be27e29c381e28e16f4affe049) |
 | Human Resources Officer | Hilton | LinkedIn | — | 2026-05-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Officer%20Hilton&location=Singapore) |
-| Human Resources Executive | Worldwide Hotels (WWH) | LinkedIn | — | 2026-05-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20Worldwide%20Hotels%20(WWH)&location=Singapore) |
-| Talent Acquisition Executive (1 year contract) | CEVA Logistics | LinkedIn | — | 2026-05-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Executive%20(1%20year%20contract)%20CEVA%20Logistics&location=Singapore) |
 | Learning & Development Executive | JW Marriott | LinkedIn | — | 2026-05-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Learning%20%26amp%3B%20Development%20Executive%20JW%20Marriott&location=Singapore) |
+| Talent Acquisition Executive (1 year contract) | CEVA Logistics | LinkedIn | — | 2026-05-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Executive%20(1%20year%20contract)%20CEVA%20Logistics&location=Singapore) |
 | Sr. Analyst, People Operations, APAC | Restaurant Brands International | LinkedIn | — | 2026-05-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Sr.%20Analyst%2C%20People%20Operations%2C%20APAC%20Restaurant%20Brands%20International&location=Singapore) |
 | Associate/ Analyst, Research (Equity) | Manulife | LinkedIn | — | 2026-05-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Associate%2F%20Analyst%2C%20Research%20(Equity)%20Manulife&location=Singapore) |
-| Senior Executive, People Services | Nanyang Technological University Singapore | LinkedIn | — | 2026-05-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Executive%2C%20People%20Services%20Nanyang%20Technological%20University%20Singapore&location=Singapore) |
-| Assistant Executive Housekeeper | Marriott International | LinkedIn | — | 2026-05-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Assistant%20Executive%20Housekeeper%20Marriott%20International&location=Singapore) |
