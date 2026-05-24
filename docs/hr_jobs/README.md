@@ -2,18 +2,19 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-05-23T14:11:35.744Z*
+> *Last updated: 2026-05-24T04:49:28.753Z*
 
-**Total listings: 28** *(MyCareersFuture: 21 | LinkedIn: 7)*
+**Total listings: 26** *(MyCareersFuture: 16 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| HR Business Partner / Specialist | Vélo Factory | LinkedIn | — | 2026-05-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Business%20Partner%20%2F%20Specialist%20V%C3%A9lo%20Factory&location=Singapore) |
+| HR Business Partner/Talent Acquisition Specialist/Compensation Analyst | Benevelli Prototyping | LinkedIn | — | 2026-05-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Business%20Partner%2FTalent%20Acquisition%20Specialist%2FCompensation%20Analyst%20Benevelli%20Prototyping&location=Singapore) |
 | RETAIL ASSISTANT MANAGER | TISHON TRADING PTE. LTD. | MyCareersFuture | 2 | 2026-05-23 | [Apply](https://www.mycareersfuture.gov.sg/job/0d1d60aa1c916070d6e12cb20037e131) |
 | Accounting Assistant | JOWA (S) PTE LTD | MyCareersFuture | 1 | 2026-05-23 | [Apply](https://www.mycareersfuture.gov.sg/job/2c4e26ca8fd99416dff2f2e07b10bcc9) |
 | Recruitment Assistant | MATHVISION ENRICHMENT CENTRE PTE. LTD. | MyCareersFuture | 2 | 2026-05-23 | [Apply](https://www.mycareersfuture.gov.sg/job/4aea184e4452b13da77f20c086b0b48b) |
 | Payroll Executive | PIONEER CORPORATE SERVICES PTE LTD | MyCareersFuture | 0 | 2026-05-23 | [Apply](https://www.mycareersfuture.gov.sg/job/7623b63b6ee84f02651d9a00121e1a15) |
-| Part time Admin Assistant | Vantager Solutions Pte. Ltd | LinkedIn | — | 2026-05-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Part%20time%20Admin%20Assistant%20Vantager%20Solutions%20Pte.%20Ltd&location=Singapore) |
-| Learning Experience Designer / Training Content Specialist / Education Program Associate | Salesforce Testing Guy | LinkedIn | — | 2026-05-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Learning%20Experience%20Designer%20%2F%20Training%20Content%20Specialist%20%2F%20Education%20Program%20Associate%20Salesforce%20Testing%20Guy&location=Singapore) |
+| Human Resources Information System Analyst | Auxo Talent | LinkedIn | — | 2026-05-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Information%20System%20Analyst%20Auxo%20Talent&location=Singapore) |
 | Pre-Sales Consultant | LINK COMPLIANCE PTE. LTD. | MyCareersFuture | 1 | 2026-05-22 | [Apply](https://www.mycareersfuture.gov.sg/job/4cebc62ff5e2d8c735cb02bf295c01df) |
 | OPERATIONS CUM ADMIN MANAGER | EXA SERVICES PTE. LTD. | MyCareersFuture | 0 | 2026-05-22 | [Apply](https://www.mycareersfuture.gov.sg/job/5299efe6934757648afe7edb688ceb6e) |
 | HR Executive, Recruitment (Manufacturing) | ALWAYSHIRED PTE. LTD. | MyCareersFuture | 2 | 2026-05-22 | [Apply](https://www.mycareersfuture.gov.sg/job/2abe84f0e65ce63638375c9ff224b032) |
@@ -26,13 +27,10 @@
 | HR and Admin Executive($2500 - $3300) | OAKTREE CONSULTING | MyCareersFuture | 2 | 2026-05-22 | [Apply](https://www.mycareersfuture.gov.sg/job/c25a2030588de04156683cbbcd66b8ac) |
 | Technical Talent Acquisition Specialist - Banking & Technology Sector | D L RESOURCES PTE LTD | MyCareersFuture | 2 | 2026-05-22 | [Apply](https://www.mycareersfuture.gov.sg/job/95e5bd9235587362b0b30e39ee5979eb) |
 | Human Resources Executive - Talent & Operations Partner (Public Sector Exposure) #HDC | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-05-22 | [Apply](https://www.mycareersfuture.gov.sg/job/502b42464c3942c5158c124bfb205495) |
-| Administrator cum Personal Assistant | HEXOGON SOLUTION PTE. LTD. | MyCareersFuture | 2 | 2026-05-22 | [Apply](https://www.mycareersfuture.gov.sg/job/22a1d12200e0e02e033d489ba1713374) |
-| HR Officer (Recruitment and L&D) - Contract | SCIENTEC CONSULTING PTE. LTD. | MyCareersFuture | 0 | 2026-05-22 | [Apply](https://www.mycareersfuture.gov.sg/job/16e6e07b1e85e20cef48c12b4eaec603) |
-| HR Intern | ORIENTAL REMEDIES EAST COAST PRIVATE LIMITED | MyCareersFuture | 1 | 2026-05-22 | [Apply](https://www.mycareersfuture.gov.sg/job/b57e2be15773bbb54e540a90f73aeab3) |
-| HR Intern | ORIENTAL REMEDIES INCORPORATED (PRIVATE LIMITED) | MyCareersFuture | 1 | 2026-05-22 | [Apply](https://www.mycareersfuture.gov.sg/job/f4942bd1698612c67ad750a9ce096f32) |
-| HR Assistant / Talent Acquisition Coordinator / Recruitment Support Specialist | Construction Industry | LinkedIn | — | 2026-05-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Assistant%20%2F%20Talent%20Acquisition%20Coordinator%20%2F%20Recruitment%20Support%20Specialist%20Construction%20Industry&location=Singapore) |
-| HR Resourcing Partner (Hospitality) | Far East Organization | LinkedIn | — | 2026-05-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Resourcing%20Partner%20(Hospitality)%20Far%20East%20Organization&location=Singapore) |
-| Corporate Secretary | ForBis | LinkedIn | — | 2026-05-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Corporate%20Secretary%20ForBis&location=Singapore) |
-| Specialist, Accounting | American Bureau of Shipping (ABS) | LinkedIn | — | 2026-05-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Specialist%2C%20Accounting%20American%20Bureau%20of%20Shipping%20(ABS)&location=Singapore) |
-| HR Manager #84013 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-05-21 | [Apply](https://www.mycareersfuture.gov.sg/job/4e6496b2950e3d109201d4432f69ffe1) |
-| Sr. Analyst, People Operations, APAC | Restaurant Brands International | LinkedIn | — | 2026-05-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Sr.%20Analyst%2C%20People%20Operations%2C%20APAC%20Restaurant%20Brands%20International&location=Singapore) |
+| Human Resources Administrative Officer | Geely Auto International | LinkedIn | — | 2026-05-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Administrative%20Officer%20Geely%20Auto%20International&location=Singapore) |
+| HRBP | NEXadept | LinkedIn | — | 2026-05-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HRBP%20NEXadept&location=Singapore) |
+| HR Generalist | BSI | LinkedIn | — | 2026-05-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Generalist%20BSI&location=Singapore) |
+| HR Operations & Governance Manager | Vita Coco | LinkedIn | — | 2026-05-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Operations%20%26amp%3B%20Governance%20Manager%20Vita%20Coco&location=Singapore) |
+| HR Executive (Payroll) | HongYeGroup | LinkedIn | — | 2026-05-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Executive%20(Payroll)%20HongYeGroup&location=Singapore) |
+| Assistant Manager Human Resources | BreadTalk Group Pte Ltd | LinkedIn | — | 2026-05-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Assistant%20Manager%20Human%20Resources%20BreadTalk%20Group%20Pte%20Ltd&location=Singapore) |
+| People Advisor | Ramboll | LinkedIn | — | 2026-05-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20Advisor%20Ramboll&location=Singapore) |
