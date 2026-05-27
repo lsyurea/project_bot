@@ -2,12 +2,14 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-05-26T16:28:13.894Z*
+> *Last updated: 2026-05-27T04:59:27.947Z*
 
-**Total listings: 36** *(MyCareersFuture: 26 | LinkedIn: 10)*
+**Total listings: 33** *(MyCareersFuture: 23 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| HR & Admin Executive | VUI Systems Pte. Ltd. | LinkedIn | — | 2026-05-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20%26amp%3B%20Admin%20Executive%20VUI%20Systems%20Pte.%20Ltd.&location=Singapore) |
+| HR Business Partner / People Manager / Culture Lead | Campaign Inspiration | LinkedIn | — | 2026-05-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Business%20Partner%20%2F%20People%20Manager%20%2F%20Culture%20Lead%20Campaign%20Inspiration&location=Singapore) |
 | BUS DRIVER | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-05-26 | [Apply](https://www.mycareersfuture.gov.sg/job/75101772b9ecc07ede7456f771e82320) |
 | HR Business Partner  - Up to $4800 - REDHILL | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 2 | 2026-05-26 | [Apply](https://www.mycareersfuture.gov.sg/job/38d948fb05cea51ca62e7e311c1315eb) |
 | HR Associate (3 months/GOVT) - West/up to $3k #HAO | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-05-26 | [Apply](https://www.mycareersfuture.gov.sg/job/418e80a9a9c4f8edfc8752cdf5530683) |
@@ -36,11 +38,6 @@
 | 7506 - HR Assistant cum Admin (Junior) | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 0 | 2026-05-25 | [Apply](https://www.mycareersfuture.gov.sg/job/31ab05c3fe99f2376235ad6e1fcc5977) |
 | HR Officers($2500 - $3300) | OAKTREE CONSULTING | MyCareersFuture | 2 | 2026-05-25 | [Apply](https://www.mycareersfuture.gov.sg/job/b566cc976b7154fc144145d0799b0392) |
 | HR & Admin Executive | WANG FENG DEVELOPMENT PRIVATE LIMITED | MyCareersFuture | 2 | 2026-05-25 | [Apply](https://www.mycareersfuture.gov.sg/job/30d7bb2960682e1d3b422c2bd0101f19) |
-| HR Executive (Payroll) | HONG YE GROUP PTE. LTD. | MyCareersFuture | 2 | 2026-05-25 | [Apply](https://www.mycareersfuture.gov.sg/job/51cd9e9fd305b4d2a0f7916a35bfcb43) |
-| HR Intern | NAVAL GROUP FAR EAST PTE. LTD. | MyCareersFuture | 1 | 2026-05-25 | [Apply](https://www.mycareersfuture.gov.sg/job/5a7288f3cd11f98a5767c5101234d18d) |
-| Human Resource Executive | NOVEXX PTE. LTD. | MyCareersFuture | 2 | 2026-05-25 | [Apply](https://www.mycareersfuture.gov.sg/job/22d1e996009d37c7a3a1584dc8938c91) |
 | HR Specialist | Linxens | LinkedIn | — | 2026-05-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Specialist%20Linxens&location=Singapore) |
 | Product Support Specialist | Corpay | LinkedIn | — | 2026-05-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Product%20Support%20Specialist%20Corpay&location=Singapore) |
 | Warehouse Assistant (Packer) | Sirva | LinkedIn | — | 2026-05-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Warehouse%20Assistant%20(Packer)%20Sirva&location=Singapore) |
-| Warehouse Handlers/Crew - Singapore | Sirva | LinkedIn | — | 2026-05-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Warehouse%20Handlers%2FCrew%20-%20Singapore%20Sirva&location=Singapore) |
-| Contingent Workforce Management Business Partner | ByteDance | LinkedIn | — | 2026-05-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Contingent%20Workforce%20Management%20Business%20Partner%20ByteDance&location=Singapore) |
