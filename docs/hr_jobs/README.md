@@ -2,14 +2,20 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-05-27T04:59:27.947Z*
+> *Last updated: 2026-05-27T16:25:38.348Z*
 
-**Total listings: 33** *(MyCareersFuture: 23 | LinkedIn: 10)*
+**Total listings: 25** *(MyCareersFuture: 16 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Business Development Manager (IT & Banking Recruitment) | KANEZE INTERNATIONAL GROUP PTE. LTD. | MyCareersFuture | 2 | 2026-05-27 | [Apply](https://www.mycareersfuture.gov.sg/job/ebb6d687c478671f343d8c403b0f18be) |
+| Human Resources Intern | FUTURE ELECTRONICS INC. (DISTRIBUTION) PTE LTD | MyCareersFuture | 0 | 2026-05-27 | [Apply](https://www.mycareersfuture.gov.sg/job/ec125d8241e32dfc9218498b9718f197) |
+| HR Manager #84013 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-05-27 | [Apply](https://www.mycareersfuture.gov.sg/job/df55c653b737dcc56db8ad4ccf91c090) |
 | HR & Admin Executive | VUI Systems Pte. Ltd. | LinkedIn | — | 2026-05-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20%26amp%3B%20Admin%20Executive%20VUI%20Systems%20Pte.%20Ltd.&location=Singapore) |
-| HR Business Partner / People Manager / Culture Lead | Campaign Inspiration | LinkedIn | — | 2026-05-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Business%20Partner%20%2F%20People%20Manager%20%2F%20Culture%20Lead%20Campaign%20Inspiration&location=Singapore) |
+| Senior Executive Assistant, HR Group Shared Services | National University Health System | LinkedIn | — | 2026-05-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Executive%20Assistant%2C%20HR%20Group%20Shared%20Services%20National%20University%20Health%20System&location=Singapore) |
+| HR & Executive Assistant | RAPSYS TECHNOLOGIES PTE LTD | LinkedIn | — | 2026-05-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20%26amp%3B%20Executive%20Assistant%20RAPSYS%20TECHNOLOGIES%20PTE%20LTD&location=Singapore) |
+| Assistant Manager, Learning & Development - The Singapore EDITION | EDITION | LinkedIn | — | 2026-05-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Assistant%20Manager%2C%20Learning%20%26amp%3B%20Development%20-%20The%20Singapore%20EDITION%20EDITION&location=Singapore) |
+| Senior Payroll and Benefits Specialist | Aon | LinkedIn | — | 2026-05-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Payroll%20and%20Benefits%20Specialist%20Aon&location=Singapore) |
 | BUS DRIVER | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-05-26 | [Apply](https://www.mycareersfuture.gov.sg/job/75101772b9ecc07ede7456f771e82320) |
 | HR Business Partner  - Up to $4800 - REDHILL | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 2 | 2026-05-26 | [Apply](https://www.mycareersfuture.gov.sg/job/38d948fb05cea51ca62e7e311c1315eb) |
 | HR Associate (3 months/GOVT) - West/up to $3k #HAO | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-05-26 | [Apply](https://www.mycareersfuture.gov.sg/job/418e80a9a9c4f8edfc8752cdf5530683) |
@@ -26,18 +32,4 @@
 | Assistant Human Resources Manager | Westin Hotels & Resorts | LinkedIn | — | 2026-05-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Assistant%20Human%20Resources%20Manager%20Westin%20Hotels%20%26amp%3B%20Resorts&location=Singapore) |
 | Talent Acquisition Specialist | Antaes Asia | LinkedIn | — | 2026-05-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Specialist%20Antaes%20Asia&location=Singapore) |
 | Executive / Senior Executive / Assistant Manager, Healthcare Manpower Division | MOH Holdings (Singapore) | LinkedIn | — | 2026-05-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Executive%20%2F%20Senior%20Executive%20%2F%20Assistant%20Manager%2C%20Healthcare%20Manpower%20Division%20MOH%20Holdings%20(Singapore)&location=Singapore) |
-| Onboarding Operations Specialist - APAC | Remote | LinkedIn | — | 2026-05-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Onboarding%20Operations%20Specialist%20-%20APAC%20Remote&location=Singapore) |
 | Assistant Project Accountant | Cubic Corporation | LinkedIn | — | 2026-05-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Assistant%20Project%20Accountant%20Cubic%20Corporation&location=Singapore) |
-| Part-Time HR & Finance Assistant (Weekends: $13 - $18/hr) | ZERO CONCEPTS PTE. LTD. | MyCareersFuture | 0 | 2026-05-25 | [Apply](https://www.mycareersfuture.gov.sg/job/47824dd7f242841ca485e86af25b1765) |
-| Team Lead - Admin (Scholarship Management) | PERSOL OUTSOURCING SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-05-25 | [Apply](https://www.mycareersfuture.gov.sg/job/045ad5738eb95be64512fe4c422b898e) |
-| Receptionist cum Administrative Assistant/ Executive | SIMPSON SPENCE YOUNG LLP | MyCareersFuture | 1 | 2026-05-25 | [Apply](https://www.mycareersfuture.gov.sg/job/6555b555fb6764801c086cdb08522bf4) |
-| HR cum Admin | CT ELEVATOR PTE. LTD. | MyCareersFuture | 2 | 2026-05-25 | [Apply](https://www.mycareersfuture.gov.sg/job/d7a47c32c300c632ac8114ca4b788c28) |
-| HR Executive, Recruitment (Manufacturing) | ALWAYSHIRED PTE. LTD. | MyCareersFuture | 2 | 2026-05-25 | [Apply](https://www.mycareersfuture.gov.sg/job/9e07bbb18b5b99e66bbfed4662979020) |
-| Sales Administrator | LINK COMPLIANCE PTE. LTD. | MyCareersFuture | 1 | 2026-05-25 | [Apply](https://www.mycareersfuture.gov.sg/job/ece039a929278a15692c0591fefb6d53) |
-| Recruitment Coordinator (1-year Contract) | RMA CONTRACTS PTE. LTD. | MyCareersFuture | 1 | 2026-05-25 | [Apply](https://www.mycareersfuture.gov.sg/job/edefcfab6f2072ca972c5e8510b4fb00) |
-| 7506 - HR Assistant cum Admin (Junior) | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 0 | 2026-05-25 | [Apply](https://www.mycareersfuture.gov.sg/job/31ab05c3fe99f2376235ad6e1fcc5977) |
-| HR Officers($2500 - $3300) | OAKTREE CONSULTING | MyCareersFuture | 2 | 2026-05-25 | [Apply](https://www.mycareersfuture.gov.sg/job/b566cc976b7154fc144145d0799b0392) |
-| HR & Admin Executive | WANG FENG DEVELOPMENT PRIVATE LIMITED | MyCareersFuture | 2 | 2026-05-25 | [Apply](https://www.mycareersfuture.gov.sg/job/30d7bb2960682e1d3b422c2bd0101f19) |
-| HR Specialist | Linxens | LinkedIn | — | 2026-05-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Specialist%20Linxens&location=Singapore) |
-| Product Support Specialist | Corpay | LinkedIn | — | 2026-05-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Product%20Support%20Specialist%20Corpay&location=Singapore) |
-| Warehouse Assistant (Packer) | Sirva | LinkedIn | — | 2026-05-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Warehouse%20Assistant%20(Packer)%20Sirva&location=Singapore) |
