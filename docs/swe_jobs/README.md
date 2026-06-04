@@ -2,19 +2,32 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-06-04T05:25:16.887Z*
+> *Last updated: 2026-06-04T16:02:32.783Z*
 
-**Total listings: 32** *(MyCareersFuture: 25 | LinkedIn: 10)*
+**Total listings: 40** *(MyCareersFuture: 34 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Software Engineer (Computer Vision/Vision Inspection, C++) | RECRUIT EXPERT PTE. LTD. | MyCareersFuture | 2 | 2026-06-04 | [Apply](https://www.mycareersfuture.gov.sg/job/6a89388db08ae2ebdcf4874971177735) |
+| Vision Software Engineer | E-PLOYMENT CONSULTANCY | MyCareersFuture | 2 | 2026-06-04 | [Apply](https://www.mycareersfuture.gov.sg/job/80549a8c57d06fbba97f1bd15e7e9b2a) |
+| Software Engineer | ADECCO PERSONNEL PTE LTD | MyCareersFuture | 2 | 2026-06-04 | [Apply](https://www.mycareersfuture.gov.sg/job/ed871ebee7af1ae20c5cbe81a66b3aee) |
+| Software Engineer - Java - AI | AKKODIS SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-06-04 | [Apply](https://www.mycareersfuture.gov.sg/job/8661b80be9e35852d2e29a84f2c69af1) |
+| Software Engineer: C/C++ Development (New College Graduate) | APPLIED MATERIALS SOUTH EAST ASIA PTE. LTD. | MyCareersFuture | 0 | 2026-06-04 | [Apply](https://www.mycareersfuture.gov.sg/job/b0687dbc1417caf6a6ef9cbe830ded55) |
+| Software Engineer (.NET/SQL Server) | SECUR FOUNDRY PTE. LTD. | MyCareersFuture | 2 | 2026-06-04 | [Apply](https://www.mycareersfuture.gov.sg/job/4de42afa79b49c40f28d7ff178222567) |
+| Software Engineer (Observability & Automation Platform) | OPTIMUM SOLUTIONS (SINGAPORE) PTE LTD | MyCareersFuture | 1 | 2026-06-04 | [Apply](https://www.mycareersfuture.gov.sg/job/19037d006acf6f0f2aa97b302c07b153) |
+| Software Engineer | ETHOS SEARCH ASSOCIATES PTE. LTD. | MyCareersFuture | 1 | 2026-06-04 | [Apply](https://www.mycareersfuture.gov.sg/job/e5ea6a0f45ef689b36f6f3f10e2573ab) |
+| Software Engineer | SIVANTOS PTE. LTD. | MyCareersFuture | 0 | 2026-06-04 | [Apply](https://www.mycareersfuture.gov.sg/job/23d3a33308020fc2dffc82f25ba7ffeb) |
+| Embedded Software Engineer | ETHOS SEARCH ASSOCIATES PTE. LTD. | MyCareersFuture | 2 | 2026-06-04 | [Apply](https://www.mycareersfuture.gov.sg/job/ae22921a2d2243f318e8e2c4d1a93c61) |
+| Automation Software & Electrical Engineer | JULIAN GREY CORPORATE ADVISORY PTE. LTD. | MyCareersFuture | 2 | 2026-06-04 | [Apply](https://www.mycareersfuture.gov.sg/job/27fe425cc6ef6de5b80141eaa6ccc93b) |
+| Software Engineer | TRD SYSTEMS PTE. LTD. | MyCareersFuture | 2 | 2026-06-04 | [Apply](https://www.mycareersfuture.gov.sg/job/dd2029c54aa792cd64f913b4c2fc7547) |
 | Software Developer Engineer / Manager | AS UNITED PTE. LTD. | MyCareersFuture | 1 | 2026-06-04 | [Apply](https://www.mycareersfuture.gov.sg/job/dda7da80271ce0b7619bce6a9b3e13a2) |
-| Automation Software & Electrical Engineer | JULIAN GREY CORPORATE ADVISORY PTE. LTD. | MyCareersFuture | 2 | 2026-06-04 | [Apply](https://www.mycareersfuture.gov.sg/job/664dd825bce8e2ac682ff907240f53e8) |
 | Software Engineer - Cloud Ops | THALES DIS (SINGAPORE) PTE. LTD. | MyCareersFuture | 2 | 2026-06-04 | [Apply](https://www.mycareersfuture.gov.sg/job/ac644947403ef2450f7498faf6970eb8) |
 | Java Software Engineer (Ref 101) | IT CONSULTANCY & SERVICES PTE LTD | MyCareersFuture | 1 | 2026-06-04 | [Apply](https://www.mycareersfuture.gov.sg/job/8a600369b6252140a747bb008992f9c7) |
 | Software Engineer (Up to $5000) West | GEMS PARTNERS NETWORK PTE. LTD. | MyCareersFuture | 2 | 2026-06-04 | [Apply](https://www.mycareersfuture.gov.sg/job/b7a102b6fb1c8a6bdcadd11f4538773a) |
 | Computer Software Engineer (Junior Level) | Xiaomi Technology | LinkedIn | — | 2026-06-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Computer%20Software%20Engineer%20(Junior%20Level)%20Xiaomi%20Technology&location=Singapore) |
-| Software Tester / QA Analyst / Automation Engineer | CAMINGs CONSULTORES Y CONTRATISTAS SAC | LinkedIn | — | 2026-06-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Tester%20%2F%20QA%20Analyst%20%2F%20Automation%20Engineer%20CAMINGs%20CONSULTORES%20Y%20CONTRATISTAS%20SAC&location=Singapore) |
+| Software Engineer - School of Information Technology | NYP School of Engineering | LinkedIn | — | 2026-06-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20-%20School%20of%20Information%20Technology%20NYP%20School%20of%20Engineering&location=Singapore) |
+| Software Engineer | Rakuten Asia Pte Ltd | LinkedIn | — | 2026-06-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Rakuten%20Asia%20Pte%20Ltd&location=Singapore) |
+| Software Engineer (No Experience Needed) | Red Alpha Cybersecurity | LinkedIn | — | 2026-06-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(No%20Experience%20Needed)%20Red%20Alpha%20Cybersecurity&location=Singapore) |
 | IT Field Engineer | RAPSYS TECHNOLOGIES PTE LTD | LinkedIn | — | 2026-06-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=IT%20Field%20Engineer%20RAPSYS%20TECHNOLOGIES%20PTE%20LTD&location=Singapore) |
 | Software Quality Engineer | EMQ2 TECHNOLOGY SERVICES PTE. LTD. | MyCareersFuture | 2 | 2026-06-03 | [Apply](https://www.mycareersfuture.gov.sg/job/d2d0c0b5c00bbf4ed7a0f93ebd682cc1) |
 | Software Engineer, AI Agents | MIAO WORLDS PTE. LTD. | MyCareersFuture | 1 | 2026-06-03 | [Apply](https://www.mycareersfuture.gov.sg/job/69776d042c785544611ad7de8041a313) |
@@ -35,8 +48,3 @@
 | Graduate software engineer | WeTransfer | LinkedIn | — | 2026-06-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20software%20engineer%20WeTransfer&location=Singapore) |
 | Java Software Engineer | Akkodis | LinkedIn | — | 2026-06-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Java%20Software%20Engineer%20Akkodis&location=Singapore) |
 | Software Engineer (Network Systems) | Centre for Strategic Infocomm Technologies (CSIT) | LinkedIn | — | 2026-06-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Network%20Systems)%20Centre%20for%20Strategic%20Infocomm%20Technologies%20(CSIT)&location=Singapore) |
-| Forward Deployed Engineer | Chalk | LinkedIn | — | 2026-06-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Forward%20Deployed%20Engineer%20Chalk&location=Singapore) |
-| Software Engineer (Computer Vision/Vision Inspection, C++) | RECRUIT EXPERT PTE. LTD. | MyCareersFuture | 2 | 2026-06-02 | [Apply](https://www.mycareersfuture.gov.sg/job/d3639dfbd7a9bc86c9b43c1b3a513928) |
-| Java and Python Engineer | MARVES CONSULTING PTE. LTD. | MyCareersFuture | 2 | 2026-06-02 | [Apply](https://www.mycareersfuture.gov.sg/job/b7a548a3aeb1b6428d2794ae23447d52) |
-| Equipment Control Software Engineer (Ref 26314) | JOBLINE RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-06-02 | [Apply](https://www.mycareersfuture.gov.sg/job/4cfa925d39c17caf5e21c2aa0d176cd3) |
-| Software Engineer (Data Discovery and Operations) | Centre for Strategic Infocomm Technologies (CSIT) | LinkedIn | — | 2026-06-02 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Data%20Discovery%20and%20Operations)%20Centre%20for%20Strategic%20Infocomm%20Technologies%20(CSIT)&location=Singapore) |
