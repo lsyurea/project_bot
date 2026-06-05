@@ -2,17 +2,23 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-06-05T04:59:56.675Z*
+> *Last updated: 2026-06-05T15:37:47.580Z*
 
-**Total listings: 35** *(MyCareersFuture: 28 | LinkedIn: 10)*
+**Total listings: 32** *(MyCareersFuture: 24 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
-| Software Engineer / Developer | Stoic Wisdom | LinkedIn | — | 2026-06-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20%2F%20Developer%20Stoic%20Wisdom&location=Singapore) |
+| Full Stack Software Engineer - WCAN | WECRUIT PTE. LTD. | MyCareersFuture | 2 | 2026-06-05 | [Apply](https://www.mycareersfuture.gov.sg/job/7aee83c605882158aaf27439de4cc77c) |
+| Software Engineer (Golang, React, and JavaScript) | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-06-05 | [Apply](https://www.mycareersfuture.gov.sg/job/839c4f1268464d0c9687e1f1bb53335a) |
+| Software Engineer II | AIRWALLEX (SINGAPORE) PTE. LTD. | MyCareersFuture | 2 | 2026-06-05 | [Apply](https://www.mycareersfuture.gov.sg/job/631852340546a87da9626fd4475d66f0) |
+| Software Engineer II, GTPN Platform | AIRWALLEX (SINGAPORE) PTE. LTD. | MyCareersFuture | 2 | 2026-06-05 | [Apply](https://www.mycareersfuture.gov.sg/job/1a9308c7222591ff3ea2c8ad3ff629cb) |
+| Software Engineer, Machine Learning, Payments - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 2 | 2026-06-05 | [Apply](https://www.mycareersfuture.gov.sg/job/1e0e94001e5d158dbbc3a6d692951233) |
 | Graduate software engineer | Bending Spoons | LinkedIn | — | 2026-06-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20software%20engineer%20Bending%20Spoons&location=Singapore) |
-| Graduate AI software engineer | Bending Spoons | LinkedIn | — | 2026-06-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20AI%20software%20engineer%20Bending%20Spoons&location=Singapore) |
 | Software engineer, intern | Bending Spoons | LinkedIn | — | 2026-06-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20engineer%2C%20intern%20Bending%20Spoons&location=Singapore) |
+| Junior Java Developer | DXC Technology | LinkedIn | — | 2026-06-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Junior%20Java%20Developer%20DXC%20Technology&location=Singapore) |
+| Graduate AI software engineer | Bending Spoons | LinkedIn | — | 2026-06-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20AI%20software%20engineer%20Bending%20Spoons&location=Singapore) |
 | Software Engineer (No Experience Needed) | Red Alpha Cybersecurity | LinkedIn | — | 2026-06-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(No%20Experience%20Needed)%20Red%20Alpha%20Cybersecurity&location=Singapore) |
+| Engineer | ST Engineering | LinkedIn | — | 2026-06-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Engineer%20ST%20Engineering&location=Singapore) |
 | Control (Software) Design Engineer / PLC Programmer #70912 | ANRADUS PTE. LTD. | MyCareersFuture | 0 | 2026-06-04 | [Apply](https://www.mycareersfuture.gov.sg/job/17f9f00109e769c2149e8471da8b379b) |
 | Software Engineer (Computer Vision/Vision Inspection, C++) | RECRUIT EXPERT PTE. LTD. | MyCareersFuture | 2 | 2026-06-04 | [Apply](https://www.mycareersfuture.gov.sg/job/6a89388db08ae2ebdcf4874971177735) |
 | Vision Software Engineer | E-PLOYMENT CONSULTANCY | MyCareersFuture | 2 | 2026-06-04 | [Apply](https://www.mycareersfuture.gov.sg/job/80549a8c57d06fbba97f1bd15e7e9b2a) |
@@ -32,14 +38,5 @@
 | Software Engineer (Up to $5000) West | GEMS PARTNERS NETWORK PTE. LTD. | MyCareersFuture | 2 | 2026-06-04 | [Apply](https://www.mycareersfuture.gov.sg/job/b7a102b6fb1c8a6bdcadd11f4538773a) |
 | Computer Software Engineer (Junior Level) | Xiaomi Technology | LinkedIn | — | 2026-06-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Computer%20Software%20Engineer%20(Junior%20Level)%20Xiaomi%20Technology&location=Singapore) |
 | Software Engineer - School of Information Technology | NYP School of Engineering | LinkedIn | — | 2026-06-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20-%20School%20of%20Information%20Technology%20NYP%20School%20of%20Engineering&location=Singapore) |
-| Software Quality Engineer | EMQ2 TECHNOLOGY SERVICES PTE. LTD. | MyCareersFuture | 2 | 2026-06-03 | [Apply](https://www.mycareersfuture.gov.sg/job/d2d0c0b5c00bbf4ed7a0f93ebd682cc1) |
-| Software Engineer, AI Agents | MIAO WORLDS PTE. LTD. | MyCareersFuture | 1 | 2026-06-03 | [Apply](https://www.mycareersfuture.gov.sg/job/69776d042c785544611ad7de8041a313) |
-| Full Stack Software Engineer - WCAN | WECRUIT PTE. LTD. | MyCareersFuture | 2 | 2026-06-03 | [Apply](https://www.mycareersfuture.gov.sg/job/8282d5f09e87107eb17bc01403d1ba8c) |
-| Software Engineer (Automation & Vision) | GMP TECHNOLOGIES (S) PTE LTD | MyCareersFuture | 1 | 2026-06-03 | [Apply](https://www.mycareersfuture.gov.sg/job/b34f9574366e175f78079f74bb73323e) |
-| 6723 - Cloud Application Engineer (AWS - $4K–$6K - Tuas - Lambda, API Gateway, S3) | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-06-03 | [Apply](https://www.mycareersfuture.gov.sg/job/9961b59f9896110b1a2b3e3c517fb2ec) |
-| 6723 - AWS Application Developer (Up to $6K - Tuas - Serverless, API, ReactJS) | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-06-03 | [Apply](https://www.mycareersfuture.gov.sg/job/f16cb0ae2781b5f667290f3c9aeac92d) |
-| 6723 - Full Stack Cloud Engineer (AWS - $4K–$6K - Tuas - Node.js, React, REST API) | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-06-03 | [Apply](https://www.mycareersfuture.gov.sg/job/ce49c0405dc96fc1f5613e5a0eab32b7) |
-| 6723 - AWS Cloud Software Engineer (Up to $6K - Tuas - Serverless, IaC, APIs) | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-06-03 | [Apply](https://www.mycareersfuture.gov.sg/job/74caa3ec24e98754d34469362fbfd7a0) |
-| Graduate software engineer | Evernote | LinkedIn | — | 2026-06-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20software%20engineer%20Evernote&location=Singapore) |
-| Graduate software engineer | Meetup | LinkedIn | — | 2026-06-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20software%20engineer%20Meetup&location=Singapore) |
-| Graduate software engineer | WeTransfer | LinkedIn | — | 2026-06-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20software%20engineer%20WeTransfer&location=Singapore) |
+| Software Engineer | Rakuten Asia Pte Ltd | LinkedIn | — | 2026-06-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Rakuten%20Asia%20Pte%20Ltd&location=Singapore) |
+| Software Engineer (Test Automation) | Razer Inc. | LinkedIn | — | 2026-06-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Test%20Automation)%20Razer%20Inc.&location=Singapore) |
