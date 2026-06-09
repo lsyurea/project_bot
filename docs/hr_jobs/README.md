@@ -2,12 +2,21 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-06-08T16:37:49.708Z*
+> *Last updated: 2026-06-09T04:48:40.931Z*
 
-**Total listings: 40** *(MyCareersFuture: 35 | LinkedIn: 5)*
+**Total listings: 48** *(MyCareersFuture: 40 | LinkedIn: 8)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| HR EXECUTIVE | DAY ONE PTE. LTD. | MyCareersFuture | 1 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/17800ff4c7c233a61e12cda69df4f8a7) |
+| HR ADMIN ASSISTANT/EXECUTIVE | LUCKY GARDEN VERTICULTURE PTE. LTD. | MyCareersFuture | 2 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/4c51db400137e87dfccae7e710db8eee) |
+| HR & Admin Assistant | WYN2000 LOGISTICS PTE. LTD. | MyCareersFuture | 1 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/7671566c21e59fbc6838bbac39c44221) |
+| HR & Admin Assistant | WYN2000 TRANSPORT & CONTAINER SERVICES PTE LTD | MyCareersFuture | 1 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/7f5fbde1ba2ff4c6786aeac343243319) |
+| HR Coordinator | Bedrijf de Software Engineers | LinkedIn | — | 2026-06-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Coordinator%20Bedrijf%20de%20Software%20Engineers&location=Singapore) |
+| Talent Acquisition Specialist | Bedrijf de Software Engineers | LinkedIn | — | 2026-06-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Specialist%20Bedrijf%20de%20Software%20Engineers&location=Singapore) |
+| Business Intelligence  Analyst | DEVANTRA INNOVATIONS | LinkedIn | — | 2026-06-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Business%20Intelligence%20%20Analyst%20DEVANTRA%20INNOVATIONS&location=Singapore) |
+| Programme Executive (Communications & Partnerships Dept - Community Partnership & Volunteer) | Fei Yue | LinkedIn | — | 2026-06-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Programme%20Executive%20(Communications%20%26amp%3B%20Partnerships%20Dept%20-%20Community%20Partnership%20%26amp%3B%20Volunteer)%20Fei%20Yue&location=Singapore) |
+| HR Manager #84013 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-06-08 | [Apply](https://www.mycareersfuture.gov.sg/job/38dfa74d70dec82c07ce8497dc95ddb1) |
 | HR cum Admin Executive - Immediate | PURICARE PRIVATE LIMITED | MyCareersFuture | 2 | 2026-06-08 | [Apply](https://www.mycareersfuture.gov.sg/job/ddb685dba035f00161d347a8adaffb20) |
 | HR & Payroll Senior Executive (Regional Operations) | TRITON AI PTE. LTD. | MyCareersFuture | 2 | 2026-06-08 | [Apply](https://www.mycareersfuture.gov.sg/job/8f2573b65aa29b7ce96e7109d061b3f0) |
 | People & Culture Executive - Empower Employee Experience & Growth #HDC | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-06-08 | [Apply](https://www.mycareersfuture.gov.sg/job/79a20878e0e9ed2111c44fe8fd63bd9a) |
@@ -43,8 +52,7 @@
 | 3 Months Temp Operations Administrative Assistant - Up to $3500 #NKA | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-06-08 | [Apply](https://www.mycareersfuture.gov.sg/job/f3665efe27abed5f3416c4b9ae0b2f68) |
 | 3 Months Planning Assistant (Up to $3,500)  #NJN | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-06-08 | [Apply](https://www.mycareersfuture.gov.sg/job/90be0ee693e33d6921f548ce2c88bfcd) |
 | HR Admin assistant (9-Month Fixed-Term Contract) | FROG'YS PTE. LTD. | MyCareersFuture | 2 | 2026-06-08 | [Apply](https://www.mycareersfuture.gov.sg/job/e13dc4a9f30cf5c57597846b89852ad1) |
-| HR Recruiter | zone.health | LinkedIn | — | 2026-06-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Recruiter%20zone.health&location=Singapore) |
 | Lead Officer, HR & Admin Shared Services | Sentosa Development Corporation | LinkedIn | — | 2026-06-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Lead%20Officer%2C%20HR%20%26amp%3B%20Admin%20Shared%20Services%20Sentosa%20Development%20Corporation&location=Singapore) |
+| Junior HRBP, L&D | Soitec | LinkedIn | — | 2026-06-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Junior%20HRBP%2C%20L%26amp%3BD%20Soitec&location=Singapore) |
 | Junior HR Transformation Project Manager | Amaris Consulting | LinkedIn | — | 2026-06-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Junior%20HR%20Transformation%20Project%20Manager%20Amaris%20Consulting&location=Singapore) |
-| Human Resources Manager | NuLife Care & Counselling Services | LinkedIn | — | 2026-06-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Manager%20NuLife%20Care%20%26amp%3B%20Counselling%20Services&location=Singapore) |
 | Asset Management - HR Assistant | Mundo Infra | LinkedIn | — | 2026-06-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Asset%20Management%20-%20HR%20Assistant%20Mundo%20Infra&location=Singapore) |
