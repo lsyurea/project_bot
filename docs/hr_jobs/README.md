@@ -2,12 +2,27 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-06-10T05:03:58.385Z*
+> *Last updated: 2026-06-10T16:23:32.551Z*
 
-**Total listings: 61** *(MyCareersFuture: 51 | LinkedIn: 10)*
+**Total listings: 60** *(MyCareersFuture: 51 | LinkedIn: 9)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Senior Executive, Training & Development (Specialised Training Programme) | HYPERSCAL SOLUTIONS PTE. LTD. | MyCareersFuture | 1 | 2026-06-10 | [Apply](https://www.mycareersfuture.gov.sg/job/4ed4b1e77dafaf2fc8ef3943969a0b4f) |
+| HR + Accounts Assistant | LEE QUAN (GAMBAS) PTE. LTD. | MyCareersFuture | 1 | 2026-06-10 | [Apply](https://www.mycareersfuture.gov.sg/job/06a1b80fe2a7f1948433ba3f2fa16ec4) |
+| Admin Executive | ONE STOP ENGINEERING PTE. LTD. | MyCareersFuture | 1 | 2026-06-10 | [Apply](https://www.mycareersfuture.gov.sg/job/3f421b73f0244d83df2dd040e9579baf) |
+| Management Trainee | GAIAX INTERNATIONAL PTE. LTD. | MyCareersFuture | 0 | 2026-06-10 | [Apply](https://www.mycareersfuture.gov.sg/job/6ae828a7627b453ffbfae1d8bd167e9c) |
+| HR Admin [Tuas - 5 days - Company Transport provided -up to $3800] - LCYL | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-06-10 | [Apply](https://www.mycareersfuture.gov.sg/job/5f2a43230adf1a1a15db4c9cbbd6d71b) |
+| Recruitment Consultant | REERACOEN SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-06-10 | [Apply](https://www.mycareersfuture.gov.sg/job/3aa61c8957a13bdf1f72596d090686db) |
+| HR Executive, Recruitment (Manufacturing) | ALWAYSHIRED PTE. LTD. | MyCareersFuture | 2 | 2026-06-10 | [Apply](https://www.mycareersfuture.gov.sg/job/bbd4fc3ba83ff71b71a363c8047bc11e) |
+| HR Admin Executive (Training Provided - Diploma in HR/ Business) - 5days - Changi | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-06-10 | [Apply](https://www.mycareersfuture.gov.sg/job/ce90d5363545795b3dc0005f740fd603) |
+| Management Trainee (Fresh Graduate) | TREE ART INTERNATIONAL PTE. LTD. | MyCareersFuture | 0 | 2026-06-10 | [Apply](https://www.mycareersfuture.gov.sg/job/7881fa62d04d02d14dfc752ee4b19a9c) |
+| SALES MANAGER | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-06-10 | [Apply](https://www.mycareersfuture.gov.sg/job/b71760cfd6066d6b9a2279a73fd5a365) |
+| Senior / Officer (HR Technology & Continuous Improvement) | SIA ENGINEERING COMPANY LIMITED | MyCareersFuture | 1 | 2026-06-10 | [Apply](https://www.mycareersfuture.gov.sg/job/519ae87858b08d47bef5850a72224347) |
+| 6723 - HR Executive (Admin Support) - Logistics - $2.8K–$3K - Recruitment - East Singapore | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-06-10 | [Apply](https://www.mycareersfuture.gov.sg/job/f9730894935c682316c33e6a0ed767f3) |
+| 6723 - HR & Admin Executive - Freight Forwarding - $2.8K–$3K - Entry Level Welcome - East | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-06-10 | [Apply](https://www.mycareersfuture.gov.sg/job/e0d347e6e6fe147dd36e050ce4819cb1) |
+| 6723 - HR Admin Executive - Logistics - $2.8K–$3K - Training Provided - Changi | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-06-10 | [Apply](https://www.mycareersfuture.gov.sg/job/d33688085fd54a1ed37cd81a801ba083) |
+| Office Administrator | CAREGIVING WELFARE ASSOCIATION | MyCareersFuture | 1 | 2026-06-10 | [Apply](https://www.mycareersfuture.gov.sg/job/d6e7cc650c8108fafffe25c9ae1f3f9e) |
 | HR and Admin Executive | DFINITI TECHNOLOGIES PTE. LTD. | MyCareersFuture | 2 | 2026-06-10 | [Apply](https://www.mycareersfuture.gov.sg/job/3dc6a184ba72260d7e0cfa3358b8d62e) |
 | Assistant Director | HYPERSCAL SOLUTIONS PTE. LTD. | MyCareersFuture | 1 | 2026-06-10 | [Apply](https://www.mycareersfuture.gov.sg/job/99b6f9cb55f2b82b85b66daca98cf9ca) |
 | Management Trainee | MA KUANG CHINESE MEDICINE & RESEARCH CENTRE PTE LTD | MyCareersFuture | 1 | 2026-06-10 | [Apply](https://www.mycareersfuture.gov.sg/job/36e4ec86397deff29e1dd351e6c49c09) |
@@ -23,7 +38,8 @@
 | HR Assistant / Executive | Lian Hin Pte Ltd | LinkedIn | — | 2026-06-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Assistant%20%2F%20Executive%20Lian%20Hin%20Pte%20Ltd&location=Singapore) |
 | HR Assistant | Mac Aircon | LinkedIn | — | 2026-06-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Assistant%20Mac%20Aircon&location=Singapore) |
 | Human Resource & Admin Executive (Maitri School) | Metta Welfare Association | LinkedIn | — | 2026-06-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resource%20%26amp%3B%20Admin%20Executive%20(Maitri%20School)%20Metta%20Welfare%20Association&location=Singapore) |
-| Human Resources Specialist | Sensetac | LinkedIn | — | 2026-06-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Specialist%20Sensetac&location=Singapore) |
+| HR & Admin Assistant | Hoshi Tech Venture Pte. Ltd. | LinkedIn | — | 2026-06-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20%26amp%3B%20Admin%20Assistant%20Hoshi%20Tech%20Venture%20Pte.%20Ltd.&location=Singapore) |
+| Human Resources Executive | recruitSG | LinkedIn | — | 2026-06-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20recruitSG&location=Singapore) |
 | Tender Admin (6-month Maternity Cover) | APP ENGINEERING PTE LTD | LinkedIn | — | 2026-06-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Tender%20Admin%20(6-month%20Maternity%20Cover)%20APP%20ENGINEERING%20PTE%20LTD&location=Singapore) |
 | HR Assistant | SCIENTEC CONSULTING PTE. LTD. | MyCareersFuture | 2 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/b54e897181331c43678f1753182c426c) |
 | Human Resources Officer | SCIENTEC CONSULTING PTE. LTD. | MyCareersFuture | 0 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/dfaff196e9a84f3705a3148a2e86b3ed) |
@@ -49,23 +65,6 @@
 | HR & Admin Assistant | WYN2000 LOGISTICS PTE. LTD. | MyCareersFuture | 1 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/7671566c21e59fbc6838bbac39c44221) |
 | HR & Admin Assistant | WYN2000 TRANSPORT & CONTAINER SERVICES PTE LTD | MyCareersFuture | 1 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/7f5fbde1ba2ff4c6786aeac343243319) |
 | HR and Office Coordinator | Sennheiser | LinkedIn | — | 2026-06-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20and%20Office%20Coordinator%20Sennheiser&location=Singapore) |
+| Manufacturing Technician/ Assembler (12month Contract) | Coherent Corp. | LinkedIn | — | 2026-06-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Manufacturing%20Technician%2F%20Assembler%20(12month%20Contract)%20Coherent%20Corp.&location=Singapore) |
 | HR Manager #84013 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-06-08 | [Apply](https://www.mycareersfuture.gov.sg/job/38dfa74d70dec82c07ce8497dc95ddb1) |
-| HR cum Admin Executive - Immediate | PURICARE PRIVATE LIMITED | MyCareersFuture | 2 | 2026-06-08 | [Apply](https://www.mycareersfuture.gov.sg/job/ddb685dba035f00161d347a8adaffb20) |
-| HR & Payroll Senior Executive (Regional Operations) | TRITON AI PTE. LTD. | MyCareersFuture | 2 | 2026-06-08 | [Apply](https://www.mycareersfuture.gov.sg/job/8f2573b65aa29b7ce96e7109d061b3f0) |
-| People & Culture Executive - Empower Employee Experience & Growth #HDC | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-06-08 | [Apply](https://www.mycareersfuture.gov.sg/job/79a20878e0e9ed2111c44fe8fd63bd9a) |
-| HR Executive & Admin | YY CIRCLE (SG) PRIVATE LIMITED | MyCareersFuture | 2 | 2026-06-08 | [Apply](https://www.mycareersfuture.gov.sg/job/7445ad6091c4cd99ab3b2f88198eacf1) |
-| HR Executive (Payroll) | HONG YE GROUP PTE. LTD. | MyCareersFuture | 2 | 2026-06-08 | [Apply](https://www.mycareersfuture.gov.sg/job/3ab3f977648ddff4a914e9bd3e30f46a) |
-| HR Admin Executive [5 DAYS / TRAINING PROVIDED / CHANGI] (KCKC) | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-06-08 | [Apply](https://www.mycareersfuture.gov.sg/job/2b59ae8fa7a32595b71caf14de4af6f8) |
-| Executive (HR & Administration) | EDUBLITZ PTE LTD | MyCareersFuture | 1 | 2026-06-08 | [Apply](https://www.mycareersfuture.gov.sg/job/7038bd2980bc701615d30f13c7308b3e) |
-| Senior Exec, HR (Payroll and Operations) with a Global Maritime MNC | THE CAP CONSULTING GROUP PTE. LTD. | MyCareersFuture | 2 | 2026-06-08 | [Apply](https://www.mycareersfuture.gov.sg/job/6d3afcf1c691414ce76b86e087e65a20) |
-| HR Admin Assistant - Training Provided - Diploma - Changi - 5 Days - Up To $3.1K - 4461 | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-06-08 | [Apply](https://www.mycareersfuture.gov.sg/job/15e23f38128c7776e101c3046ca98974) |
-| Programme Executive (Communications & Partnerships Dept - Community Partnership & Volunteer) | Fei Yue Community Services | MyCareersFuture | 0 | 2026-06-08 | [Apply](https://www.mycareersfuture.gov.sg/job/015bafee3348fef1e23762ebbb963564) |
-| HR Admin [Tuas - 5 days - Company Transport provided -up to $3800] - LCYL | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-06-08 | [Apply](https://www.mycareersfuture.gov.sg/job/177cf873dfe736a64ad538ae3eed93f4) |
-| CORPORATE SUPPORT EXECUTIVE | ACEPAK TECHNOLOGY PTE. LTD. | MyCareersFuture | 2 | 2026-06-08 | [Apply](https://www.mycareersfuture.gov.sg/job/0c520ec7ea05798705286409ed8454d4) |
-| Business Development Executive | GUSHENGTANG TCM PTE. LTD. | MyCareersFuture | 2 | 2026-06-08 | [Apply](https://www.mycareersfuture.gov.sg/job/25261f4d25760fa656c908b9fb29ba45) |
-| 0731 - HR Admin Executive (Up to $3000 / Training Provided) | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-06-08 | [Apply](https://www.mycareersfuture.gov.sg/job/555e8fa9ef2f7ca742fff0818b7ecafb) |
-| Part time Human Resource Officer | VANTAGER SOLUTIONS PTE. LTD. | MyCareersFuture | 1 | 2026-06-08 | [Apply](https://www.mycareersfuture.gov.sg/job/eb4f42d60e5e07efbc9105cb56dee8c6) |
-| Lead Officer, HR & Admin Shared Services | Sentosa Development Corporation | LinkedIn | — | 2026-06-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Lead%20Officer%2C%20HR%20%26amp%3B%20Admin%20Shared%20Services%20Sentosa%20Development%20Corporation&location=Singapore) |
 | Junior HRBP, L&D | Soitec | LinkedIn | — | 2026-06-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Junior%20HRBP%2C%20L%26amp%3BD%20Soitec&location=Singapore) |
-| Asset Management - HR Assistant | Mundo Infra | LinkedIn | — | 2026-06-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Asset%20Management%20-%20HR%20Assistant%20Mundo%20Infra&location=Singapore) |
-| Junior HR Transformation Project Manager | Amaris Consulting | LinkedIn | — | 2026-06-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Junior%20HR%20Transformation%20Project%20Manager%20Amaris%20Consulting&location=Singapore) |
