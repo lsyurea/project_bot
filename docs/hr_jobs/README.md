@@ -2,12 +2,49 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-06-10T16:23:32.551Z*
+> *Last updated: 2026-06-11T05:13:51.825Z*
 
-**Total listings: 60** *(MyCareersFuture: 51 | LinkedIn: 9)*
+**Total listings: 87** *(MyCareersFuture: 84 | LinkedIn: 7)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| HR Executive | DEZIGN FORMAT PTE LTD | MyCareersFuture | 2 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/46e4bbba1c2f707a6c5c7171b832e0cd) |
+| HR (Construction) | JDA WMS PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/b8b3021843c0db4260e1b2b96bc910ef) |
+| People Intern (HR) | MIGHTY JAXX INTERNATIONAL PTE. LTD. | MyCareersFuture | 0 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/a74c907a73c136bf8ce436d3b3044dff) |
+| HUMAN RESOURCE GENERALIST | JJ VISTA MINES RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/9559501553bc97c8059f5736d8c60f11) |
+| HOUSEKEEPER | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/edcf91728b362022858196ad79ca99b1) |
+| AIRCON SERVICING TECHNICIAN | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/0d6940bba670730f07946e3a841e4518) |
+| CEILING FAN INSTALLER | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/cbcf21a61cd354ba207df2a4cfaacdb7) |
+| MAINTENANCE ADMIN | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/41cbaf53c833e5c89e708900b1cfe1b4) |
+| HAIR CARE CONSULTANT | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/93718e3f5caa36a02eebc61b60877ff0) |
+| Waiter / Waitress | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/3abd68137c24c8b92631527ca5a308e5) |
+| WAREHOUSE ASSISTANT | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/ab4e4621289a20e9ea05f615ac5cfff4) |
+| SUPPORT ADMIN | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/a3f0bbfa4560ad4905d5051f45563469) |
+| SERVICE SUPERVISOR | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/b28f25a5338f4a8026c756491aececfa) |
+| SERVICE CREW | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 0 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/23bfc2f30f572b73b99254279e0c7c1a) |
+| SALES EXECUTIVE (IT) | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/2a4b7bb780eff33a47d6a4ca86d9ba8e) |
+| SALES EXECUTIVE | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/76598ff65c70a9c4f669276b5b94beb4) |
+| SALES COORDINATOR | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/9cd85505a620ed838992c66ca84b337a) |
+| SERVICE SALES COORDINATOR | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/d0c46bb57ad03cfb48c1fb69b4fff326) |
+| REF ONSITE TECHNICIAN | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/fa4d08c5f260067c7c356f251072f2da) |
+| QUANTITY SURVEYORS | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/04532740ec7299e358c76d2de4ba50c4) |
+| QUANTITY SURVEYOR (MECHANICAL & ELECTRICAL) | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/79cd7b249ebe78dd0677c6e0300a8145) |
+| PROJECT MANAGER | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/0bbe7e1ceb27bd7b408b552ad9c1eace) |
+| PROJECT COORDINATOR | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 0 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/73bce009b5c7deb97c69f49fad4596e8) |
+| PRODUCTION MANAGER | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/55268b85b22bae3584a52645a6f6a336) |
+| OUTLET MANAGER | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/62abc553b9c063557685d8468dcbd9ef) |
+| MARKETING EXECUTIVE | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/5611c742d2a39b79f094ac685a26f0a1) |
+| MANAGEMENT TRAINEE (RETAIL) | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/8f494ef275a813b3c9343270fa6a39d5) |
+| MANAGEMENT TRAINEE (F&B) | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/954c8c5b1a84b1ba3d9e94371ad4f224) |
+| MANAGEMENT ASSOCIATE | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/b1cfd43df40acb8ce7b8c66a27d2676f) |
+| KITCHEN SUPERVISOR | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/0deac0e45790cacf7e17d4ee1bc99a59) |
+| KITCHEN ASSISTANT | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 0 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/1d307e30bca7f94924b8a850f100477e) |
+| CARPENTER | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/8a64cf983525249024d359d14a14c93d) |
+| BAKERY ASSISTANT | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/8799a9b1e677ce6ebde0287c865a45f3) |
+| ASSISTANT PROJECT ENGINEER / PROJECT ENGINEER (MECHANICAL & ELECTRICAL) | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/493b53a4b724e721166bc283139c39d9) |
+| Strategic Human Resource Business Partner - Drive People Excellence & Business Success #HDC | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 2 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/d662fbf2bb430e4827dd00d6fd606e96) |
+| HR & Accounts Executive | Lumina Advisory & Global Search | LinkedIn | — | 2026-06-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20%26amp%3B%20Accounts%20Executive%20Lumina%20Advisory%20%26amp%3B%20Global%20Search&location=Singapore) |
+| Associate | Link and Motivation Singapore Pte. Ltd. | LinkedIn | — | 2026-06-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Associate%20Link%20and%20Motivation%20Singapore%20Pte.%20Ltd.&location=Singapore) |
 | Senior Executive, Training & Development (Specialised Training Programme) | HYPERSCAL SOLUTIONS PTE. LTD. | MyCareersFuture | 1 | 2026-06-10 | [Apply](https://www.mycareersfuture.gov.sg/job/4ed4b1e77dafaf2fc8ef3943969a0b4f) |
 | HR + Accounts Assistant | LEE QUAN (GAMBAS) PTE. LTD. | MyCareersFuture | 1 | 2026-06-10 | [Apply](https://www.mycareersfuture.gov.sg/job/06a1b80fe2a7f1948433ba3f2fa16ec4) |
 | Admin Executive | ONE STOP ENGINEERING PTE. LTD. | MyCareersFuture | 1 | 2026-06-10 | [Apply](https://www.mycareersfuture.gov.sg/job/3f421b73f0244d83df2dd040e9579baf) |
@@ -35,12 +72,7 @@
 | Admin Cum HR Executive | GOODLAND INVESTMENTS PTE LTD. | MyCareersFuture | 2 | 2026-06-10 | [Apply](https://www.mycareersfuture.gov.sg/job/2647c5460905d913e8e9f822e68cacc1) |
 | Admin Cum HR Executive | GOODLAND DEVELOPMENT PTE LTD. | MyCareersFuture | 2 | 2026-06-10 | [Apply](https://www.mycareersfuture.gov.sg/job/8a05e8bcdb8246abaf409618d65baa8a) |
 | Intern, HR (Jun to Dec) | ECOLAB PTE. LTD. | MyCareersFuture | 0 | 2026-06-10 | [Apply](https://www.mycareersfuture.gov.sg/job/1dc5d9ff4688cb2f0c6d7abc588a9379) |
-| HR Assistant / Executive | Lian Hin Pte Ltd | LinkedIn | — | 2026-06-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Assistant%20%2F%20Executive%20Lian%20Hin%20Pte%20Ltd&location=Singapore) |
-| HR Assistant | Mac Aircon | LinkedIn | — | 2026-06-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Assistant%20Mac%20Aircon&location=Singapore) |
-| Human Resource & Admin Executive (Maitri School) | Metta Welfare Association | LinkedIn | — | 2026-06-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resource%20%26amp%3B%20Admin%20Executive%20(Maitri%20School)%20Metta%20Welfare%20Association&location=Singapore) |
-| HR & Admin Assistant | Hoshi Tech Venture Pte. Ltd. | LinkedIn | — | 2026-06-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20%26amp%3B%20Admin%20Assistant%20Hoshi%20Tech%20Venture%20Pte.%20Ltd.&location=Singapore) |
 | Human Resources Executive | recruitSG | LinkedIn | — | 2026-06-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20recruitSG&location=Singapore) |
-| Tender Admin (6-month Maternity Cover) | APP ENGINEERING PTE LTD | LinkedIn | — | 2026-06-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Tender%20Admin%20(6-month%20Maternity%20Cover)%20APP%20ENGINEERING%20PTE%20LTD&location=Singapore) |
 | HR Assistant | SCIENTEC CONSULTING PTE. LTD. | MyCareersFuture | 2 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/b54e897181331c43678f1753182c426c) |
 | Human Resources Officer | SCIENTEC CONSULTING PTE. LTD. | MyCareersFuture | 0 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/dfaff196e9a84f3705a3148a2e86b3ed) |
 | Customer Relationship Manager | A GOOD HELPER PTE. LTD. | MyCareersFuture | 1 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/31dbbc2a68b3e0140acae295893cc9b6) |
@@ -60,11 +92,6 @@
 | Business Development Executive | GUSHENGTANG SINGAPORE TCM HEALTHCARE TECHNOLOGIES HOLDINGS PRIVATE LIMITED | MyCareersFuture | 1 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/a30ae61a633843752517ad824f7a0d0e) |
 | HR Executive (Employee Relations & Engagement) | MIND STRETCHER EDUCATION PTE. LTD. | MyCareersFuture | 1 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/1b515bc095c51b986e0bf5b6107fe53c) |
 | Human Resource Business Partner / Talent Acquisition Specialist #HDC | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/98a855d7e381a9c00cf451bc4ef88ab3) |
-| HR EXECUTIVE | DAY ONE PTE. LTD. | MyCareersFuture | 1 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/17800ff4c7c233a61e12cda69df4f8a7) |
-| HR ADMIN ASSISTANT/EXECUTIVE | LUCKY GARDEN VERTICULTURE PTE. LTD. | MyCareersFuture | 2 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/4c51db400137e87dfccae7e710db8eee) |
-| HR & Admin Assistant | WYN2000 LOGISTICS PTE. LTD. | MyCareersFuture | 1 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/7671566c21e59fbc6838bbac39c44221) |
-| HR & Admin Assistant | WYN2000 TRANSPORT & CONTAINER SERVICES PTE LTD | MyCareersFuture | 1 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/7f5fbde1ba2ff4c6786aeac343243319) |
 | HR and Office Coordinator | Sennheiser | LinkedIn | — | 2026-06-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20and%20Office%20Coordinator%20Sennheiser&location=Singapore) |
 | Manufacturing Technician/ Assembler (12month Contract) | Coherent Corp. | LinkedIn | — | 2026-06-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Manufacturing%20Technician%2F%20Assembler%20(12month%20Contract)%20Coherent%20Corp.&location=Singapore) |
-| HR Manager #84013 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-06-08 | [Apply](https://www.mycareersfuture.gov.sg/job/38dfa74d70dec82c07ce8497dc95ddb1) |
-| Junior HRBP, L&D | Soitec | LinkedIn | — | 2026-06-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Junior%20HRBP%2C%20L%26amp%3BD%20Soitec&location=Singapore) |
+| Coating Cleaning Operator | Coherent Corp. | LinkedIn | — | 2026-06-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Coating%20Cleaning%20Operator%20Coherent%20Corp.&location=Singapore) |
