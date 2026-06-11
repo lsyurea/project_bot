@@ -2,12 +2,24 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-06-11T05:13:51.825Z*
+> *Last updated: 2026-06-11T16:38:17.190Z*
 
-**Total listings: 87** *(MyCareersFuture: 84 | LinkedIn: 7)*
+**Total listings: 82** *(MyCareersFuture: 77 | LinkedIn: 9)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| People Trainee | DELIVERY HERO (SINGAPORE) PTE. LTD. | MyCareersFuture | 0 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/4b827a9d952477576b3a2124f0b08b7c) |
+| HR & Admin Associate | PROPELL INTEGRATED PTE LTD | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/2bd7e1b3370a7963c836895b70c326d4) |
+| HR & Accounts Executive | LUMINA ADVISORY & GLOBAL SEARCH PTE. LTD. | MyCareersFuture | 2 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/e0c830a557d9a56c62e1c81dfb27a58c) |
+| Looking for HR Intern (Healthcare) #HGAT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/0da9c78353a82faa535ab6552acc3bb0) |
+| Govt* HR Coordinator [Tech Recruitment] | SCIENTEC CONSULTING PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/3e9ad134a8e2ab0934168a7a4e94ee1d) |
+| Supervisor | EVANOTE RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/94877a7377bf2cab0b664885ba65eec4) |
+| HR Admin [Tuas - 5 days - Company Transport provided -up to $3800] - LCYL | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/32d52ac21f81990c34649f10570847a9) |
+| HR Operation Intern | CYRUS TECHNOLOGY (S) PTE. LTD. | MyCareersFuture | 0 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/95b947810dfe20f99e1527b20cb9db2a) |
+| HUMAN RESOURCES ADMINISTRATOR [UP TO $3.8K , TUAS]  (JTYJV) | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/cd7d3a1cd453451b381ea870e5ed9818) |
+| HR EXECUTIVE | KAM LOON BUILDER PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/e21e3bfdb1bc5b79c0e3bd22a16dda50) |
+| HR Admin Officer | CWCS PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/bb1325ff836423aa3975eae7c8e22a3e) |
+| Total Rewards Specialist #ESY | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/24df9c2fff6628a1815e227544677fa2) |
 | HR Executive | DEZIGN FORMAT PTE LTD | MyCareersFuture | 2 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/46e4bbba1c2f707a6c5c7171b832e0cd) |
 | HR (Construction) | JDA WMS PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/b8b3021843c0db4260e1b2b96bc910ef) |
 | People Intern (HR) | MIGHTY JAXX INTERNATIONAL PTE. LTD. | MyCareersFuture | 0 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/a74c907a73c136bf8ce436d3b3044dff) |
@@ -44,12 +56,17 @@
 | ASSISTANT PROJECT ENGINEER / PROJECT ENGINEER (MECHANICAL & ELECTRICAL) | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/493b53a4b724e721166bc283139c39d9) |
 | Strategic Human Resource Business Partner - Drive People Excellence & Business Success #HDC | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 2 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/d662fbf2bb430e4827dd00d6fd606e96) |
 | HR & Accounts Executive | Lumina Advisory & Global Search | LinkedIn | — | 2026-06-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20%26amp%3B%20Accounts%20Executive%20Lumina%20Advisory%20%26amp%3B%20Global%20Search&location=Singapore) |
+| HR Coordinator | Banca delle Marche Spa | LinkedIn | — | 2026-06-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Coordinator%20Banca%20delle%20Marche%20Spa&location=Singapore) |
+| Regional HR Coordinator | INFOWIZ PTE LTD | LinkedIn | — | 2026-06-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Regional%20HR%20Coordinator%20INFOWIZ%20PTE%20LTD&location=Singapore) |
+| Upper River Valley Telecommunications/Admitting/Registration/Scheduling Clerk (1065) PCN 1153715 | Horizon Health Network | LinkedIn | — | 2026-06-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Upper%20River%20Valley%20Telecommunications%2FAdmitting%2FRegistration%2FScheduling%20Clerk%20(1065)%20PCN%201153715%20Horizon%20Health%20Network&location=Singapore) |
+| Senior Executive/Assistant Manager (Strategic Planning and Development Unit) | Consortium for Clinical Research and Innovation, Singapore (CRIS) | LinkedIn | — | 2026-06-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Executive%2FAssistant%20Manager%20(Strategic%20Planning%20and%20Development%20Unit)%20Consortium%20for%20Clinical%20Research%20and%20Innovation%2C%20Singapore%20(CRIS)&location=Singapore) |
 | Associate | Link and Motivation Singapore Pte. Ltd. | LinkedIn | — | 2026-06-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Associate%20Link%20and%20Motivation%20Singapore%20Pte.%20Ltd.&location=Singapore) |
+| Associate/ Analyst, Research (Equity) | Manulife | LinkedIn | — | 2026-06-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Associate%2F%20Analyst%2C%20Research%20(Equity)%20Manulife&location=Singapore) |
+| QC Specialist | GSK | LinkedIn | — | 2026-06-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=QC%20Specialist%20GSK&location=Singapore) |
 | Senior Executive, Training & Development (Specialised Training Programme) | HYPERSCAL SOLUTIONS PTE. LTD. | MyCareersFuture | 1 | 2026-06-10 | [Apply](https://www.mycareersfuture.gov.sg/job/4ed4b1e77dafaf2fc8ef3943969a0b4f) |
 | HR + Accounts Assistant | LEE QUAN (GAMBAS) PTE. LTD. | MyCareersFuture | 1 | 2026-06-10 | [Apply](https://www.mycareersfuture.gov.sg/job/06a1b80fe2a7f1948433ba3f2fa16ec4) |
 | Admin Executive | ONE STOP ENGINEERING PTE. LTD. | MyCareersFuture | 1 | 2026-06-10 | [Apply](https://www.mycareersfuture.gov.sg/job/3f421b73f0244d83df2dd040e9579baf) |
 | Management Trainee | GAIAX INTERNATIONAL PTE. LTD. | MyCareersFuture | 0 | 2026-06-10 | [Apply](https://www.mycareersfuture.gov.sg/job/6ae828a7627b453ffbfae1d8bd167e9c) |
-| HR Admin [Tuas - 5 days - Company Transport provided -up to $3800] - LCYL | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-06-10 | [Apply](https://www.mycareersfuture.gov.sg/job/5f2a43230adf1a1a15db4c9cbbd6d71b) |
 | Recruitment Consultant | REERACOEN SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-06-10 | [Apply](https://www.mycareersfuture.gov.sg/job/3aa61c8957a13bdf1f72596d090686db) |
 | HR Executive, Recruitment (Manufacturing) | ALWAYSHIRED PTE. LTD. | MyCareersFuture | 2 | 2026-06-10 | [Apply](https://www.mycareersfuture.gov.sg/job/bbd4fc3ba83ff71b71a363c8047bc11e) |
 | HR Admin Executive (Training Provided - Diploma in HR/ Business) - 5days - Changi | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-06-10 | [Apply](https://www.mycareersfuture.gov.sg/job/ce90d5363545795b3dc0005f740fd603) |
@@ -73,25 +90,3 @@
 | Admin Cum HR Executive | GOODLAND DEVELOPMENT PTE LTD. | MyCareersFuture | 2 | 2026-06-10 | [Apply](https://www.mycareersfuture.gov.sg/job/8a05e8bcdb8246abaf409618d65baa8a) |
 | Intern, HR (Jun to Dec) | ECOLAB PTE. LTD. | MyCareersFuture | 0 | 2026-06-10 | [Apply](https://www.mycareersfuture.gov.sg/job/1dc5d9ff4688cb2f0c6d7abc588a9379) |
 | Human Resources Executive | recruitSG | LinkedIn | — | 2026-06-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20recruitSG&location=Singapore) |
-| HR Assistant | SCIENTEC CONSULTING PTE. LTD. | MyCareersFuture | 2 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/b54e897181331c43678f1753182c426c) |
-| Human Resources Officer | SCIENTEC CONSULTING PTE. LTD. | MyCareersFuture | 0 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/dfaff196e9a84f3705a3148a2e86b3ed) |
-| Customer Relationship Manager | A GOOD HELPER PTE. LTD. | MyCareersFuture | 1 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/31dbbc2a68b3e0140acae295893cc9b6) |
-| Loans Admin | PLATINUM MOTORING SERVICES PTE. LTD. | MyCareersFuture | 2 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/c0b0fc11b069d68871f52c947a23cd31) |
-| Admin & HR Assistant Executive Changi/ 5 days/ $3k [0580] | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/3f47267e767ea7190befb4f60422f4bc) |
-| HRBP Coordinator | AEROSPEC SUPPLIES PTE LTD | MyCareersFuture | 2 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/5e59648c6d8e5e6b5ca09222ade14618) |
-| RECRUITMENT & HR EXECUTIVE [UP TO $3.8K , TUAS]  (JTYJV) | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/a0a8f4e358c9e52e16d35b05df360583) |
-| HUMAN RESOURCES COORDINATOR [UP TO $3.8K , TUAS]  (JTYJV) | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/97f75cc0d85b8e0c6810b7cffdc0260b) |
-| HUMAN RESOURCES OFFICER [UP TO $3.8K , TUAS]  (JTYJV) | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/abbda82a140e171a1c824a180f052c18) |
-| HR & ADMIN EXECUTIVE [UP TO $3.8K , TUAS]  (JTYJV) | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/b524b727748e7fe7a4d1a927f322fab2) |
-| HUMAN RESOURCES EXECUTIVE [UP TO $3.8K , TUAS]  (JTYJV) | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/c7f719270a752af8752cc41e0b787e75) |
-| HUMAN RESOURCES ADMINISTRATOR [UP TO $3.8K , TUAS]  (JTYJV) | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/f04e916571d31453bc143ae9e7fa00c5) |
-| 6723 - HR Admin Assistant [Training Provided] | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/e61ecc30be19fd1ea3dbeded7f92a21f) |
-| Accounts & HR Manager | RTA SHIP SERVICES PTE. LTD. | MyCareersFuture | 2 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/8d2f1686f5405153b185d161258860dd) |
-| HR Associate, Learning & Development (GOVT/MEDICAL) - West/Entry Level #HAO | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/6e775f1afb7e8734250662ea6306d240) |
-| Human Resources Associate (1-Year Contract) | ALLIED SEARCH PTE. LTD. | MyCareersFuture | 2 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/1a58da40ffa9173b4c99c51faf590369) |
-| Business Development Executive | GUSHENGTANG SINGAPORE TCM HEALTHCARE TECHNOLOGIES HOLDINGS PRIVATE LIMITED | MyCareersFuture | 1 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/a30ae61a633843752517ad824f7a0d0e) |
-| HR Executive (Employee Relations & Engagement) | MIND STRETCHER EDUCATION PTE. LTD. | MyCareersFuture | 1 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/1b515bc095c51b986e0bf5b6107fe53c) |
-| Human Resource Business Partner / Talent Acquisition Specialist #HDC | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-06-09 | [Apply](https://www.mycareersfuture.gov.sg/job/98a855d7e381a9c00cf451bc4ef88ab3) |
-| HR and Office Coordinator | Sennheiser | LinkedIn | — | 2026-06-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20and%20Office%20Coordinator%20Sennheiser&location=Singapore) |
-| Manufacturing Technician/ Assembler (12month Contract) | Coherent Corp. | LinkedIn | — | 2026-06-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Manufacturing%20Technician%2F%20Assembler%20(12month%20Contract)%20Coherent%20Corp.&location=Singapore) |
-| Coating Cleaning Operator | Coherent Corp. | LinkedIn | — | 2026-06-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Coating%20Cleaning%20Operator%20Coherent%20Corp.&location=Singapore) |
