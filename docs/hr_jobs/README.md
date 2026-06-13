@@ -2,15 +2,15 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-06-13T05:07:59.079Z*
+> *Last updated: 2026-06-13T14:40:13.872Z*
 
-**Total listings: 39** *(MyCareersFuture: 29 | LinkedIn: 10)*
+**Total listings: 27** *(MyCareersFuture: 18 | LinkedIn: 9)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Corporate Services Executive | PROPSELLER PTE. LTD. | MyCareersFuture | 1 | 2026-06-13 | [Apply](https://www.mycareersfuture.gov.sg/job/2f9b655b5f231634cdab12f2943c895c) |
 | HR Cum Admin | WE DO CONTRACT SERVICES PTE. LTD. | MyCareersFuture | 1 | 2026-06-13 | [Apply](https://www.mycareersfuture.gov.sg/job/5d54bef7d8acb4a96dc7eedb615bc10d) |
 | People Operations Generalist | Exa | LinkedIn | — | 2026-06-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20Operations%20Generalist%20Exa&location=Singapore) |
-| Assistant Manager Human Resources | Insight Genesis - IGAi | LinkedIn | — | 2026-06-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Assistant%20Manager%20Human%20Resources%20Insight%20Genesis%20-%20IGAi&location=Singapore) |
 | Talent Acquisition Executive | SKILLS DEVELOPMENT ACADEMY PTE. LTD. | MyCareersFuture | 2 | 2026-06-12 | [Apply](https://www.mycareersfuture.gov.sg/job/0fdebac4ff661307fe90e75e9fd6a084) |
 | Requitement Consultant(Life Sciences / Pharmaceutical) | QUESS SELECTION & SERVICES PTE. LTD. | MyCareersFuture | 2 | 2026-06-12 | [Apply](https://www.mycareersfuture.gov.sg/job/c4f1a65d7da8c86e7c8eea56166945e3) |
 | Senior HR Executive / Assistant HR Manager (Com & Ben) | Q & M DENTAL GROUP (SINGAPORE) LIMITED | MyCareersFuture | 2 | 2026-06-12 | [Apply](https://www.mycareersfuture.gov.sg/job/63eb12fc83b987062e19009af19a94d9) |
@@ -34,16 +34,4 @@
 | HR and Office Coordinator | Sennheiser | LinkedIn | — | 2026-06-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20and%20Office%20Coordinator%20Sennheiser&location=Singapore) |
 | Human Resources Executive | recruitSG | LinkedIn | — | 2026-06-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20recruitSG&location=Singapore) |
 | 2026 Inexperienced Hire - HR Professional | ExxonMobil | LinkedIn | — | 2026-06-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=2026%20Inexperienced%20Hire%20-%20HR%20Professional%20ExxonMobil&location=Singapore) |
-| People Trainee | DELIVERY HERO (SINGAPORE) PTE. LTD. | MyCareersFuture | 0 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/4b827a9d952477576b3a2124f0b08b7c) |
-| HR & Admin Associate | PROPELL INTEGRATED PTE LTD | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/2bd7e1b3370a7963c836895b70c326d4) |
-| HR & Accounts Executive | LUMINA ADVISORY & GLOBAL SEARCH PTE. LTD. | MyCareersFuture | 2 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/e0c830a557d9a56c62e1c81dfb27a58c) |
-| Looking for HR Intern (Healthcare) #HGAT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/0da9c78353a82faa535ab6552acc3bb0) |
-| Govt* HR Coordinator [Tech Recruitment] | SCIENTEC CONSULTING PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/3e9ad134a8e2ab0934168a7a4e94ee1d) |
-| Supervisor | EVANOTE RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/94877a7377bf2cab0b664885ba65eec4) |
-| HR Admin [Tuas - 5 days - Company Transport provided -up to $3800] - LCYL | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/32d52ac21f81990c34649f10570847a9) |
-| HR Operation Intern | CYRUS TECHNOLOGY (S) PTE. LTD. | MyCareersFuture | 0 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/95b947810dfe20f99e1527b20cb9db2a) |
-| HUMAN RESOURCES ADMINISTRATOR [UP TO $3.8K , TUAS]  (JTYJV) | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/cd7d3a1cd453451b381ea870e5ed9818) |
-| HR EXECUTIVE | KAM LOON BUILDER PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/e21e3bfdb1bc5b79c0e3bd22a16dda50) |
-| HR Admin Officer | CWCS PTE. LTD. | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/bb1325ff836423aa3975eae7c8e22a3e) |
-| Total Rewards Specialist #ESY | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-06-11 | [Apply](https://www.mycareersfuture.gov.sg/job/24df9c2fff6628a1815e227544677fa2) |
-| Upper River Valley Telecommunications/Admitting/Registration/Scheduling Clerk (1065) PCN 1153715 | Horizon Health Network | LinkedIn | — | 2026-06-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Upper%20River%20Valley%20Telecommunications%2FAdmitting%2FRegistration%2FScheduling%20Clerk%20(1065)%20PCN%201153715%20Horizon%20Health%20Network&location=Singapore) |
+| Specialist, Accounting (6 months contract) | American Bureau of Shipping (ABS) | LinkedIn | — | 2026-06-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Specialist%2C%20Accounting%20(6%20months%20contract)%20American%20Bureau%20of%20Shipping%20(ABS)&location=Singapore) |
