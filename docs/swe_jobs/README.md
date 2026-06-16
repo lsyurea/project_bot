@@ -2,12 +2,14 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-06-16T06:12:11.544Z*
+> *Last updated: 2026-06-16T17:34:45.396Z*
 
-**Total listings: 38** *(MyCareersFuture: 30 | LinkedIn: 10)*
+**Total listings: 38** *(MyCareersFuture: 31 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Software Engineer and/or Senior Software Engineer (Automation & SCADA System - C - C++) | EA RECRUITMENT PTE. LTD. | MyCareersFuture | 2 | 2026-06-16 | [Apply](https://www.mycareersfuture.gov.sg/job/c577303312de650d05c959238917650d) |
+| Audio Software Engineer | PERSOL SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-06-16 | [Apply](https://www.mycareersfuture.gov.sg/job/bd62728de76d4cf7eef93fef3009b000) |
 | Software Engineer (Machine Automation) | FA SYSTEMS AUTOMATION (S) PTE LTD | MyCareersFuture | 1 | 2026-06-16 | [Apply](https://www.mycareersfuture.gov.sg/job/b98e249e0a4a5ca3a3a882d1d6405813) |
 | Software Engineer (Contract) | QUESS ENGINEERING PTE. LTD. | MyCareersFuture | 2 | 2026-06-16 | [Apply](https://www.mycareersfuture.gov.sg/job/3f14e28225a945e2bae7ff31ba087061) |
 | Junior Software Developer (Many Openings) | TALENTSIS PTE. LTD. | MyCareersFuture | 2 | 2026-06-16 | [Apply](https://www.mycareersfuture.gov.sg/job/e48087296f4b3d653b206e8b4d364759) |
@@ -19,8 +21,7 @@
 | Software Design Engineer (Automation) | RN CARE PTE. LTD. | MyCareersFuture | 2 | 2026-06-16 | [Apply](https://www.mycareersfuture.gov.sg/job/13a9fe92a601bfe0e236225e7b5a3b78) |
 | Software Engineer | RN CARE PTE. LTD. | MyCareersFuture | 2 | 2026-06-16 | [Apply](https://www.mycareersfuture.gov.sg/job/cb019e5e9bb79ce71914f8c6779ac9f3) |
 | Software Engineer (AI Systems), Centralised Skills Assessment and Validation Initiative (CSAVI) | SINGAPORE INSTITUTE OF TECHNOLOGY | MyCareersFuture | 1 | 2026-06-16 | [Apply](https://www.mycareersfuture.gov.sg/job/c0b80aaf9d825adf063a5ea8b006aa7d) |
-| Senior Full Stack Software Engineer (Remote) | Hire Feed | LinkedIn | — | 2026-06-16 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Full%20Stack%20Software%20Engineer%20(Remote)%20Hire%20Feed&location=Singapore) |
-| Software Engineer and/or Senior Software Engineer (Automation & SCADA System - C - C++) | EA RECRUITMENT PTE. LTD. | MyCareersFuture | 2 | 2026-06-15 | [Apply](https://www.mycareersfuture.gov.sg/job/853525aa181de6f666c3eddd0347b4ee) |
+| Backend software Engineer-DBA | Xiaomi Technology | LinkedIn | — | 2026-06-16 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Backend%20software%20Engineer-DBA%20Xiaomi%20Technology&location=Singapore) |
 | Software Engineer | DOU YEE INTERNATIONAL PTE LTD | MyCareersFuture | 1 | 2026-06-15 | [Apply](https://www.mycareersfuture.gov.sg/job/50b684a228189b7788d5bd6fdaf7bcef) |
 | Software Engineer Intern | GEMSTONE SYSTEMS PTE. LTD. | MyCareersFuture | 0 | 2026-06-15 | [Apply](https://www.mycareersfuture.gov.sg/job/5074cb478b28036403323bfa26dbf187) |
 | Control (Software) Design Engineer / PLC Programmer #70912 | ANRADUS PTE. LTD. | MyCareersFuture | 0 | 2026-06-15 | [Apply](https://www.mycareersfuture.gov.sg/job/e548084cba7eeebfbc9c2cbb868ecb69) |
@@ -45,4 +46,3 @@
 | System Analyst / Software Engineering - AVP | OCBC | LinkedIn | — | 2026-06-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=System%20Analyst%20%2F%20Software%20Engineering%20-%20AVP%20OCBC&location=Singapore) |
 | Junior Digital Twin Engineer | SJ Group | LinkedIn | — | 2026-06-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Junior%20Digital%20Twin%20Engineer%20SJ%20Group&location=Singapore) |
 | Design Engineer (Civil & Structural) | SJ Group | LinkedIn | — | 2026-06-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Design%20Engineer%20(Civil%20%26amp%3B%20Structural)%20SJ%20Group&location=Singapore) |
-| Service Engineer (Automation / PC Software / MNC / 5 Days / North) | EA RECRUITMENT PTE. LTD. | MyCareersFuture | 1 | 2026-06-14 | [Apply](https://www.mycareersfuture.gov.sg/job/4708fbb368258cb074164d31c6535c6a) |
