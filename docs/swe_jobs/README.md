@@ -2,12 +2,24 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-06-17T16:26:01.753Z*
+> *Last updated: 2026-06-18T05:21:47.897Z*
 
-**Total listings: 39** *(MyCareersFuture: 32 | LinkedIn: 10)*
+**Total listings: 41** *(MyCareersFuture: 34 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Backend Software Engineer (Enterprise Systems) | FCS CAREERS PTE. LTD. | MyCareersFuture | 2 | 2026-06-18 | [Apply](https://www.mycareersfuture.gov.sg/job/26e25fec100de732301e32eccd02765f) |
+| Backend Software Engineer (AI Coding) - TikTok Live Revenue | TIKTOK PTE. LTD. | MyCareersFuture | 0 | 2026-06-18 | [Apply](https://www.mycareersfuture.gov.sg/job/9192237d26a0f24d311db662ed9fbe99) |
+| Backend Software Engineer - TikTok Live Foundation - Singapore | TIKTOK PTE. LTD. | MyCareersFuture | 0 | 2026-06-18 | [Apply](https://www.mycareersfuture.gov.sg/job/4bc65733270da95df122f7e69ae3ff98) |
+| Frontend Software Engineer (Payment), TikTok Live - Singapore | TIKTOK PTE. LTD. | MyCareersFuture | 0 | 2026-06-18 | [Apply](https://www.mycareersfuture.gov.sg/job/eebd44b1382d7840b8c092b1fc312524) |
+| Frontend Software Engineer - Global Live(Revenue)-Singapore | TIKTOK PTE. LTD. | MyCareersFuture | 0 | 2026-06-18 | [Apply](https://www.mycareersfuture.gov.sg/job/44195aa5a62b8b0c0a227211f194cf20) |
+| Software Engineer, AICET - NUS (1-year Contract; Renewable) | NATIONAL UNIVERSITY OF SINGAPORE | MyCareersFuture | 0 | 2026-06-18 | [Apply](https://www.mycareersfuture.gov.sg/job/a5a11efcab5251ae9a38b6981c76d762) |
+| Software Automation Test Engineer | RAZER (ASIA-PACIFIC) PTE. LTD. | MyCareersFuture | 2 | 2026-06-18 | [Apply](https://www.mycareersfuture.gov.sg/job/6f267b25f335303529ccb50b3f84fd6b) |
+| Software Engineer(Java+Jasper Report) | ELLIOTT MOSS CONSULTING PTE. LTD. | MyCareersFuture | 1 | 2026-06-18 | [Apply](https://www.mycareersfuture.gov.sg/job/d553c2e685aff1a60d3791778799026f) |
+| Software Engineer(Java +Oracle-BEA WebLogic App server) | ELLIOTT MOSS CONSULTING PTE. LTD. | MyCareersFuture | 1 | 2026-06-18 | [Apply](https://www.mycareersfuture.gov.sg/job/0ce0bba1608fee4fccb5584419e60697) |
+| Java Developer | ELLIOTT MOSS CONSULTING PTE. LTD. | MyCareersFuture | 2 | 2026-06-18 | [Apply](https://www.mycareersfuture.gov.sg/job/7f1375bb74b46db70c5bcba512d9f8f0) |
+| Software Engineer - P26003 | Activate Interactive | LinkedIn | — | 2026-06-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20-%20P26003%20Activate%20Interactive&location=Singapore) |
+| Software Engineer / Developer | AMPIN-Association des Masters IP/IT - Droit de la propriété intellectuelle Droit du numérique | LinkedIn | — | 2026-06-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20%2F%20Developer%20AMPIN-Association%20des%20Masters%20IP%2FIT%20-%20Droit%20de%20la%20propri%C3%A9t%C3%A9%20intellectuelle%20Droit%20du%20num%C3%A9rique&location=Singapore) |
 | Software Engineer (Automation & Vision) | GMP TECHNOLOGIES (S) PTE LTD | MyCareersFuture | 1 | 2026-06-17 | [Apply](https://www.mycareersfuture.gov.sg/job/ebe9a42fa68d01fec68cfa2190bc1058) |
 | 6723 - Software Engineer (PLC Programming) | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 2 | 2026-06-17 | [Apply](https://www.mycareersfuture.gov.sg/job/8769a575ad0965d680d68af0b8ade66e) |
 | Software Engineer | AVEPOINT SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-06-17 | [Apply](https://www.mycareersfuture.gov.sg/job/9f44ab35630ec7ad262fc7cbc2714134) |
@@ -26,24 +38,14 @@
 | Software Design Engineer (Automation) | RN CARE PTE. LTD. | MyCareersFuture | 2 | 2026-06-17 | [Apply](https://www.mycareersfuture.gov.sg/job/2a54b4b64b562365f66aa5cd427a8e84) |
 | Senior/Software Engineer [Full Stack, Many Job Levels/Positions Avail]] | TALENTSIS PTE. LTD. | MyCareersFuture | 1 | 2026-06-17 | [Apply](https://www.mycareersfuture.gov.sg/job/a7f35e8fda9ae2fb01a5a7e62d27c60d) |
 | Computer Software Engineer (Junior Level) | Xiaomi Technology | LinkedIn | — | 2026-06-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Computer%20Software%20Engineer%20(Junior%20Level)%20Xiaomi%20Technology&location=Singapore) |
-| Senior Software Engineer | National University Health System | LinkedIn | — | 2026-06-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%20National%20University%20Health%20System&location=Singapore) |
 | Information Technology - Data Scientist (Data Science Track) | Singapore Airlines | LinkedIn | — | 2026-06-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Information%20Technology%20-%20Data%20Scientist%20(Data%20Science%20Track)%20Singapore%20Airlines&location=Singapore) |
+| Senior Software Engineer | National University Health System | LinkedIn | — | 2026-06-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%20National%20University%20Health%20System&location=Singapore) |
 | Java Engineer - Exchange Service | Binance | LinkedIn | — | 2026-06-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Java%20Engineer%20-%20Exchange%20Service%20Binance&location=Singapore) |
-| Binance Accelerator Programm - Software Engineer Java | Binance | LinkedIn | — | 2026-06-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Binance%20Accelerator%20Programm%20-%20Software%20Engineer%20Java%20Binance&location=Singapore) |
+| Software Engineer 2 | Abnormal AI | LinkedIn | — | 2026-06-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%202%20Abnormal%20AI&location=Singapore) |
 | Backend Engineer (BE + LLM) | Binance | LinkedIn | — | 2026-06-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Backend%20Engineer%20(BE%20%2B%20LLM)%20Binance&location=Singapore) |
-| System Engineer (1 year) | Michael Page | LinkedIn | — | 2026-06-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=System%20Engineer%20(1%20year)%20Michael%20Page&location=Singapore) |
+| Software Engineer I - Backend - Message Security Products | Abnormal AI | LinkedIn | — | 2026-06-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20I%20-%20Backend%20-%20Message%20Security%20Products%20Abnormal%20AI&location=Singapore) |
 | Software Engineer (Computer Vision/Vision Inspection, C++) | RECRUIT EXPERT PTE. LTD. | MyCareersFuture | 2 | 2026-06-16 | [Apply](https://www.mycareersfuture.gov.sg/job/2a6954be9d09a4e1f3344cb70705a648) |
 | Software Engineer and/or Senior Software Engineer (Automation & SCADA System - C - C++) | EA RECRUITMENT PTE. LTD. | MyCareersFuture | 2 | 2026-06-16 | [Apply](https://www.mycareersfuture.gov.sg/job/c577303312de650d05c959238917650d) |
 | Audio Software Engineer | PERSOL SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-06-16 | [Apply](https://www.mycareersfuture.gov.sg/job/bd62728de76d4cf7eef93fef3009b000) |
 | Software Engineer (Machine Automation) | FA SYSTEMS AUTOMATION (S) PTE LTD | MyCareersFuture | 1 | 2026-06-16 | [Apply](https://www.mycareersfuture.gov.sg/job/b98e249e0a4a5ca3a3a882d1d6405813) |
-| Software Engineer (Contract) | QUESS ENGINEERING PTE. LTD. | MyCareersFuture | 2 | 2026-06-16 | [Apply](https://www.mycareersfuture.gov.sg/job/3f14e28225a945e2bae7ff31ba087061) |
-| Junior Software Developer (Many Openings) | TALENTSIS PTE. LTD. | MyCareersFuture | 2 | 2026-06-16 | [Apply](https://www.mycareersfuture.gov.sg/job/e48087296f4b3d653b206e8b4d364759) |
-| AI Engineer (Software Development) | SEATRIUM (SG) PTE. LTD. | MyCareersFuture | 2 | 2026-06-16 | [Apply](https://www.mycareersfuture.gov.sg/job/55fd2b0618aa6a5ee050d236209ebe34) |
-| Software Engineer (Agilepoint) | COMBUILDER PTE LTD | MyCareersFuture | 2 | 2026-06-16 | [Apply](https://www.mycareersfuture.gov.sg/job/1e915b8761652b1cf7dc142132534cbc) |
-| Junior Full Stack Software Engineer (.NET, SQL) | GMP TECHNOLOGIES (S) PTE LTD | MyCareersFuture | 1 | 2026-06-16 | [Apply](https://www.mycareersfuture.gov.sg/job/6dec8d6657c1b3f04e6f1c40d51bf03d) |
-| Backend Software Engineer (Transaction), TikTok - Singapore | TIKTOK PTE. LTD. | MyCareersFuture | 0 | 2026-06-16 | [Apply](https://www.mycareersfuture.gov.sg/job/9bc849b8fb48e561d61a2db1311f0674) |
-| Frontend Software Engineer (transaction), TikTok Live - Singapore | TIKTOK PTE. LTD. | MyCareersFuture | 0 | 2026-06-16 | [Apply](https://www.mycareersfuture.gov.sg/job/0da14018a05634ffde57785dcd4e7783) |
-| Software Engineer | RN CARE PTE. LTD. | MyCareersFuture | 2 | 2026-06-16 | [Apply](https://www.mycareersfuture.gov.sg/job/cb019e5e9bb79ce71914f8c6779ac9f3) |
-| Software Engineer (AI Systems), Centralised Skills Assessment and Validation Initiative (CSAVI) | SINGAPORE INSTITUTE OF TECHNOLOGY | MyCareersFuture | 1 | 2026-06-16 | [Apply](https://www.mycareersfuture.gov.sg/job/c0b80aaf9d825adf063a5ea8b006aa7d) |
 | Backend software Engineer-DBA | Xiaomi Technology | LinkedIn | — | 2026-06-16 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Backend%20software%20Engineer-DBA%20Xiaomi%20Technology&location=Singapore) |
-| System Analyst / Software Engineering - AVP | OCBC | LinkedIn | — | 2026-06-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=System%20Analyst%20%2F%20Software%20Engineering%20-%20AVP%20OCBC&location=Singapore) |
