@@ -3,12 +3,12 @@
 This repository automatically updates repository activity stats for my GitHub account.
 
 <!-- REPO_ACTIVITY:START -->
-Generated: 2026-06-18T20:37:12.949Z
+Generated: 2026-06-19T05:20:46.639Z
 
-Active window: last 90 days (cutoff: 2026-03-20)
+Active window: last 90 days (cutoff: 2026-03-21)
 Total repositories analyzed: 50
-Active: 17
-Inactive: 33
+Active: 16
+Inactive: 34
 
 ### Active Repositories
 - 🌐 [lsyurea/project_bot](https://github.com/lsyurea/project_bot) — last push: 2026-06-18
@@ -27,9 +27,9 @@ Inactive: 33
 - 🌐 [lsyurea/claude-code](https://github.com/lsyurea/claude-code) — last push: 2026-04-01
 - 🌐 [lsyurea/kimi-cli](https://github.com/lsyurea/kimi-cli) — last push: 2026-03-23
 - 🌐 [lsyurea/courserekt](https://github.com/lsyurea/courserekt) — last push: 2026-03-22
-- 🌐 [lsyurea/ollama](https://github.com/lsyurea/ollama) — last push: 2026-03-21
 
 ### Inactive Repositories
+- 🌐 [lsyurea/ollama](https://github.com/lsyurea/ollama) — last push: 2026-03-21
 - 🔒 [lsyurea/shortcuts](https://github.com/lsyurea/shortcuts) — last push: 2026-03-13
 - 🔒 [lsyurea/yq_portfolio](https://github.com/lsyurea/yq_portfolio) — last push: 2026-03-07
 - 🌐 [lsyurea/lsyurea](https://github.com/lsyurea/lsyurea) — last push: 2026-03-01
