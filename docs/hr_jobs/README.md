@@ -2,14 +2,19 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-06-20T04:54:42.792Z*
+> *Last updated: 2026-06-20T14:54:17.038Z*
 
-**Total listings: 33** *(MyCareersFuture: 23 | LinkedIn: 10)*
+**Total listings: 28** *(MyCareersFuture: 18 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| HR & Admin Assistant #10067 | ANRADUS PTE. LTD. | MyCareersFuture | 1 | 2026-06-20 | [Apply](https://www.mycareersfuture.gov.sg/job/a6ed3fa1097fcc780fbebaf058ce7c68) |
+| Payroll/HR Executive | BAYES RECRUITMENT PTE. LTD. | MyCareersFuture | 2 | 2026-06-20 | [Apply](https://www.mycareersfuture.gov.sg/job/a1df41de9d4bf14322624d8f21871df6) |
 | HR & Admin Executive | Mlion Corporation Pte Ltd | LinkedIn | — | 2026-06-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20%26amp%3B%20Admin%20Executive%20Mlion%20Corporation%20Pte%20Ltd&location=Singapore) |
+| Executive, Recruitment (FA Division) Onboarding | Manulife | LinkedIn | — | 2026-06-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Executive%2C%20Recruitment%20(FA%20Division)%20Onboarding%20Manulife&location=Singapore) |
 | Recruitment Consultant (With/Without Experience) | Beecruit Pte Ltd | LinkedIn | — | 2026-06-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Recruitment%20Consultant%20(With%2FWithout%20Experience)%20Beecruit%20Pte%20Ltd&location=Singapore) |
+| Part time Admin Assistant | Vantager Solutions Pte. Ltd | LinkedIn | — | 2026-06-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Part%20time%20Admin%20Assistant%20Vantager%20Solutions%20Pte.%20Ltd&location=Singapore) |
+| Workforce Development Specialist/Senior Specialist | Micron Technology | LinkedIn | — | 2026-06-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Workforce%20Development%20Specialist%2FSenior%20Specialist%20Micron%20Technology&location=Singapore) |
 | HR Manager #84013 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-06-19 | [Apply](https://www.mycareersfuture.gov.sg/job/4e78723fccdec71eff6d38a38da4a27e) |
 | Payroll Executive #10084 | ANRADUS PTE. LTD. | MyCareersFuture | 1 | 2026-06-19 | [Apply](https://www.mycareersfuture.gov.sg/job/a8c12ace5b0a75e7f3102da0ca159429) |
 | Human Resources Assistant/Executive | Apex Harmony Lodge | MyCareersFuture | 1 | 2026-06-19 | [Apply](https://www.mycareersfuture.gov.sg/job/1a56330e2954725b684ba36f3ed943b1) |
@@ -28,16 +33,6 @@
 | Talent Acquisition Partner / Senior Recruitment Specialist #HDC | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-06-19 | [Apply](https://www.mycareersfuture.gov.sg/job/3c666702437fffa0493c5f2f66c4a8d5) |
 | People & Culture Executive | Mandarin Oriental | LinkedIn | — | 2026-06-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20%26amp%3B%20Culture%20Executive%20Mandarin%20Oriental&location=Singapore) |
 | Geo HR Specialist | UPS | LinkedIn | — | 2026-06-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Geo%20HR%20Specialist%20UPS&location=Singapore) |
-| Sales Manager | TOPFLIGHT GROUP PTE. LTD. | MyCareersFuture | 1 | 2026-06-18 | [Apply](https://www.mycareersfuture.gov.sg/job/4db99b29367d541b5f10492deb095fa1) |
-| Temp/Perm HR Consultant (Healthcare) - Training Provided! #HGA | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-06-18 | [Apply](https://www.mycareersfuture.gov.sg/job/3ae3c32433e3979d16ffe11772bef0db) |
-| HR Operations Executive (12 months) | PERSOL SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-06-18 | [Apply](https://www.mycareersfuture.gov.sg/job/a3f14bbee9a8b791ef84f0c384887b17) |
-| HR Admin [Tuas - 5 days - Company Transport provided -up to $3800] - LCYL | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-06-18 | [Apply](https://www.mycareersfuture.gov.sg/job/066a8f685ec18d7ff3cba0f24afedf77) |
-| Assistant Manager / Manager, Advisory | TRIPARTITE ALLIANCE LIMITED | MyCareersFuture | 2 | 2026-06-18 | [Apply](https://www.mycareersfuture.gov.sg/job/aab97dc99b911df47f796a13e6abaa22) |
-| HR Assistant | MENTA DEVELOPMENT PTE. LTD. | MyCareersFuture | 1 | 2026-06-18 | [Apply](https://www.mycareersfuture.gov.sg/job/a28c7bbbdaed29e233d5fb7a20be1e50) |
-| Business & Events Internship | THEMEETUPSG PTE. LTD. | MyCareersFuture | 0 | 2026-06-18 | [Apply](https://www.mycareersfuture.gov.sg/job/1e716f31efb3e4d2228ecf0ea301a537) |
-| Human Resource Executive | Royce Dental Group | LinkedIn | — | 2026-06-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resource%20Executive%20Royce%20Dental%20Group&location=Singapore) |
+| Junior HR Business Partner (V.I.E) | Soitec | LinkedIn | — | 2026-06-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Junior%20HR%20Business%20Partner%20(V.I.E)%20Soitec&location=Singapore) |
 | Talent Acquisition Specialist | AIG | LinkedIn | — | 2026-06-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Specialist%20AIG&location=Singapore) |
-| Crew Operations Specialist - Disney Cruise Line | The Walt Disney Company | LinkedIn | — | 2026-06-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Crew%20Operations%20Specialist%20-%20Disney%20Cruise%20Line%20The%20Walt%20Disney%20Company&location=Singapore) |
-| Talent Acquisition Coordinator (4-Months Contract) | Certis | LinkedIn | — | 2026-06-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Coordinator%20(4-Months%20Contract)%20Certis&location=Singapore) |
-| Assistant Executive / Executive, Healthcare Manpower Division | MOH Holdings (Singapore) | LinkedIn | — | 2026-06-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Assistant%20Executive%20%2F%20Executive%2C%20Healthcare%20Manpower%20Division%20MOH%20Holdings%20(Singapore)&location=Singapore) |
 | Senior Executive Assistant, HR Group Shared Services | National University Health System | LinkedIn | — | 2026-06-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Executive%20Assistant%2C%20HR%20Group%20Shared%20Services%20National%20University%20Health%20System&location=Singapore) |
