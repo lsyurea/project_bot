@@ -2,12 +2,15 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-06-19T15:50:33.165Z*
+> *Last updated: 2026-06-20T04:54:42.792Z*
 
-**Total listings: 42** *(MyCareersFuture: 32 | LinkedIn: 10)*
+**Total listings: 33** *(MyCareersFuture: 23 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| HR & Admin Executive | Mlion Corporation Pte Ltd | LinkedIn | — | 2026-06-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20%26amp%3B%20Admin%20Executive%20Mlion%20Corporation%20Pte%20Ltd&location=Singapore) |
+| Recruitment Consultant (With/Without Experience) | Beecruit Pte Ltd | LinkedIn | — | 2026-06-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Recruitment%20Consultant%20(With%2FWithout%20Experience)%20Beecruit%20Pte%20Ltd&location=Singapore) |
+| HR Manager #84013 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-06-19 | [Apply](https://www.mycareersfuture.gov.sg/job/4e78723fccdec71eff6d38a38da4a27e) |
 | Payroll Executive #10084 | ANRADUS PTE. LTD. | MyCareersFuture | 1 | 2026-06-19 | [Apply](https://www.mycareersfuture.gov.sg/job/a8c12ace5b0a75e7f3102da0ca159429) |
 | Human Resources Assistant/Executive | Apex Harmony Lodge | MyCareersFuture | 1 | 2026-06-19 | [Apply](https://www.mycareersfuture.gov.sg/job/1a56330e2954725b684ba36f3ed943b1) |
 | Human Resource Assistant (3 months/GOVT) - Training Provided/West/up to $3k #HAO | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-06-19 | [Apply](https://www.mycareersfuture.gov.sg/job/e77017045ef012ee3d2e2110d3ef9783) |
@@ -32,21 +35,9 @@
 | Assistant Manager / Manager, Advisory | TRIPARTITE ALLIANCE LIMITED | MyCareersFuture | 2 | 2026-06-18 | [Apply](https://www.mycareersfuture.gov.sg/job/aab97dc99b911df47f796a13e6abaa22) |
 | HR Assistant | MENTA DEVELOPMENT PTE. LTD. | MyCareersFuture | 1 | 2026-06-18 | [Apply](https://www.mycareersfuture.gov.sg/job/a28c7bbbdaed29e233d5fb7a20be1e50) |
 | Business & Events Internship | THEMEETUPSG PTE. LTD. | MyCareersFuture | 0 | 2026-06-18 | [Apply](https://www.mycareersfuture.gov.sg/job/1e716f31efb3e4d2228ecf0ea301a537) |
-| Human Resource Executive | ROYCE DENTAL GROUP PTE. LTD. | MyCareersFuture | 1 | 2026-06-18 | [Apply](https://www.mycareersfuture.gov.sg/job/d44ae70de98820fa04e8546265929847) |
-| Operation Manager | VEEDA ENGINEERING PTE. LTD. | MyCareersFuture | 2 | 2026-06-18 | [Apply](https://www.mycareersfuture.gov.sg/job/5f519f0ab5d1b5d768c567797e3a7948) |
-| HR Support Specialist | NSEARCH GLOBAL PTE. LTD. | MyCareersFuture | 2 | 2026-06-18 | [Apply](https://www.mycareersfuture.gov.sg/job/2116e1d5ecce0fcb6c5a4b28cedf97b9) |
-| HR Executive (Payroll) | DIGIPHOTO ENTERTAINMENT IMAGING PTE. LTD. | MyCareersFuture | 2 | 2026-06-18 | [Apply](https://www.mycareersfuture.gov.sg/job/ae7b4cf920a1b7d44dffc973ba625127) |
-| Accounts Senior/Assistant | MODERN BEAUTY SALON (S) PTE. LTD. | MyCareersFuture | 1 | 2026-06-18 | [Apply](https://www.mycareersfuture.gov.sg/job/9e0909517202cf808ec8fcb213dc2bce) |
-| Senior Executive/Assistant Manager (HR Business Partner) | NATIONAL UNIVERSITY OF SINGAPORE | MyCareersFuture | 1 | 2026-06-18 | [Apply](https://www.mycareersfuture.gov.sg/job/d20ae1bed383789fd4949b0a6147f700) |
-| Admin & HR Executive | ENV TECH PTE. LTD. | MyCareersFuture | 2 | 2026-06-18 | [Apply](https://www.mycareersfuture.gov.sg/job/4ead1759932f5280aa1d8ba1d75b666f) |
-| Senior Executive, Organisational Development (Healthcare) #HKN | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-06-18 | [Apply](https://www.mycareersfuture.gov.sg/job/43ef93238207ff6e2f847ccdbd11b222) |
-| Strategic People Partner - Employee Relations & Workforce Excellence #HDC | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-06-18 | [Apply](https://www.mycareersfuture.gov.sg/job/6abda7e46b91f9363c364bbcd3f622ea) |
-| LORRY DRIVER | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-06-18 | [Apply](https://www.mycareersfuture.gov.sg/job/77bed64dcabc9bbc72256f1d682e766c) |
 | Human Resource Executive | Royce Dental Group | LinkedIn | — | 2026-06-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resource%20Executive%20Royce%20Dental%20Group&location=Singapore) |
 | Talent Acquisition Specialist | AIG | LinkedIn | — | 2026-06-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Specialist%20AIG&location=Singapore) |
 | Crew Operations Specialist - Disney Cruise Line | The Walt Disney Company | LinkedIn | — | 2026-06-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Crew%20Operations%20Specialist%20-%20Disney%20Cruise%20Line%20The%20Walt%20Disney%20Company&location=Singapore) |
 | Talent Acquisition Coordinator (4-Months Contract) | Certis | LinkedIn | — | 2026-06-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Coordinator%20(4-Months%20Contract)%20Certis&location=Singapore) |
 | Assistant Executive / Executive, Healthcare Manpower Division | MOH Holdings (Singapore) | LinkedIn | — | 2026-06-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Assistant%20Executive%20%2F%20Executive%2C%20Healthcare%20Manpower%20Division%20MOH%20Holdings%20(Singapore)&location=Singapore) |
 | Senior Executive Assistant, HR Group Shared Services | National University Health System | LinkedIn | — | 2026-06-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Executive%20Assistant%2C%20HR%20Group%20Shared%20Services%20National%20University%20Health%20System&location=Singapore) |
-| Graduate Human Resource Consultant | SearchAsia Consulting | LinkedIn | — | 2026-06-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20Human%20Resource%20Consultant%20SearchAsia%20Consulting&location=Singapore) |
-| Retail Administrative Executive (Lifestyle Retail Company) | Luxury Careers Pte Ltd | LinkedIn | — | 2026-06-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Retail%20Administrative%20Executive%20(Lifestyle%20Retail%20Company)%20Luxury%20Careers%20Pte%20Ltd&location=Singapore) |
