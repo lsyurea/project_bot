@@ -2,12 +2,17 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-06-25T15:26:36.089Z*
+> *Last updated: 2026-06-26T04:53:05.136Z*
 
-**Total listings: 38** *(MyCareersFuture: 33 | LinkedIn: 8)*
+**Total listings: 40** *(MyCareersFuture: 31 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Software Engineer (Control) | RIGHT RECRUIT PTE. LTD. | MyCareersFuture | 1 | 2026-06-26 | [Apply](https://www.mycareersfuture.gov.sg/job/7efab6fd17febbdbd828074fad389a77) |
+| Software Engineer, Content Safety - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 2 | 2026-06-26 | [Apply](https://www.mycareersfuture.gov.sg/job/dbfaacc8ea2a1aacf0e1f3fb5fe9d23c) |
+| Software Engineer and/or Senior Software Engineer (Automation & SCADA System - C - C++) | EA RECRUITMENT PTE. LTD. | MyCareersFuture | 2 | 2026-06-26 | [Apply](https://www.mycareersfuture.gov.sg/job/e355f0514ab1b67c99a158db70c6cc23) |
+| Full Stack Software Engineer (202607) | Digify | LinkedIn | — | 2026-06-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Full%20Stack%20Software%20Engineer%20(202607)%20Digify&location=Singapore) |
+| Forward Deployed Engineer/Senior Software Engineer | DEVX LABS PTE. LTD. | MyCareersFuture | 1 | 2026-06-25 | [Apply](https://www.mycareersfuture.gov.sg/job/50f53b45bcc7ce01be2c31797ca923e6) |
 | Computer Software Engineer (JAMF, Intune, Endpoint) | QUESSCORP SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-06-25 | [Apply](https://www.mycareersfuture.gov.sg/job/76a68f24fc3cd86dc7ef4daf62bd7650) |
 | Software Engineer (C++/C#, Machine Automation) #76684 | ANRADUS PTE. LTD. | MyCareersFuture | 1 | 2026-06-25 | [Apply](https://www.mycareersfuture.gov.sg/job/0b95b4051fffd7fd50c495cccbb58759) |
 | Software Engineer [Ang Mo Kio - 5 days - up to $6000] - LCYL | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 2 | 2026-06-25 | [Apply](https://www.mycareersfuture.gov.sg/job/4c8e985a7788d25166827cc148a1b8b8) |
@@ -26,9 +31,10 @@
 | Software Engineer #84739 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-06-25 | [Apply](https://www.mycareersfuture.gov.sg/job/0f6b7b77d9942776743b4540a07f9e1a) |
 | ENTRY LEVEL SOTWARE ENGINEER - FRESHERS ARE WELCOME TO APPLY | AVENSYS CONSULTING PTE. LTD. | MyCareersFuture | 0 | 2026-06-25 | [Apply](https://www.mycareersfuture.gov.sg/job/2997aa7696608c1b335d281eb7ecee81) |
 | Graduate Software Engineer (Oracle & Talend Training Provided) | AVENSYS CONSULTING PTE. LTD. | MyCareersFuture | 0 | 2026-06-25 | [Apply](https://www.mycareersfuture.gov.sg/job/da3b512ff1642ff9b57c67b4fb48b970) |
-| Graduate AI software engineer | Bending Spoons | LinkedIn | — | 2026-06-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20AI%20software%20engineer%20Bending%20Spoons&location=Singapore) |
-| Software Engineer (No Experience Needed) | Red Alpha Cybersecurity | LinkedIn | — | 2026-06-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(No%20Experience%20Needed)%20Red%20Alpha%20Cybersecurity&location=Singapore) |
-| Information Technology - Data Scientist (Data Science Track) | Singapore Airlines | LinkedIn | — | 2026-06-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Information%20Technology%20-%20Data%20Scientist%20(Data%20Science%20Track)%20Singapore%20Airlines&location=Singapore) |
+| Software Engineer (BCA) | GovTech Singapore | LinkedIn | — | 2026-06-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(BCA)%20GovTech%20Singapore&location=Singapore) |
+| Full Stack Engineer | Virtusa | LinkedIn | — | 2026-06-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Full%20Stack%20Engineer%20Virtusa&location=Singapore) |
+| Software Engineer, Experimental Systems and Technology Lab | GovTech Singapore | LinkedIn | — | 2026-06-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Experimental%20Systems%20and%20Technology%20Lab%20GovTech%20Singapore&location=Singapore) |
+| Software Engineer, Framework Engineering | Nex | LinkedIn | — | 2026-06-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Framework%20Engineering%20Nex&location=Singapore) |
 | Full Stack Software Engineer - WCAN | WECRUIT PTE. LTD. | MyCareersFuture | 2 | 2026-06-24 | [Apply](https://www.mycareersfuture.gov.sg/job/78bc040017ff6d9725aa607d44c0f141) |
 | Software Engineer | FENIX ONE PTE. LTD. | MyCareersFuture | 0 | 2026-06-24 | [Apply](https://www.mycareersfuture.gov.sg/job/62be3ed306fd1d102f68a13f543c0183) |
 | Senior/Lead Research Engineer (Software) | Singapore Polytechnic | MyCareersFuture | 2 | 2026-06-24 | [Apply](https://www.mycareersfuture.gov.sg/job/13df131f05378baad97f0408379e6eea) |
@@ -37,12 +43,8 @@
 | Software Engineer (Up to $5000) West | GEMS PARTNERS NETWORK PTE. LTD. | MyCareersFuture | 2 | 2026-06-24 | [Apply](https://www.mycareersfuture.gov.sg/job/c25758c85b6bfc2aac23a632f57ae33c) |
 | Software Engineer | CHICAGO GLOBAL CAPITAL PTE. LTD. | MyCareersFuture | 1 | 2026-06-24 | [Apply](https://www.mycareersfuture.gov.sg/job/777592dc0cfbeab1b9c316c9cd19923d) |
 | Junior Software Engineer | CHICAGO GLOBAL CAPITAL PTE. LTD. | MyCareersFuture | 1 | 2026-06-24 | [Apply](https://www.mycareersfuture.gov.sg/job/c9c5f7dae1589f3c4b1690687f6c0a4b) |
-| Software Engineer (Frontend) | DYNAMITE GAMES PTE. LTD. | MyCareersFuture | 2 | 2026-06-24 | [Apply](https://www.mycareersfuture.gov.sg/job/0e1dc869420e328fa0f8f0e1dac860b9) |
-| Piping Engineer - Software - CAD Worx | DIAN TECH PTE. LTD. | MyCareersFuture | 2 | 2026-06-24 | [Apply](https://www.mycareersfuture.gov.sg/job/79de326a6f1dcf6d68db160f70f75c8b) |
-| Java Software Engineer (Ref 101) | IT CONSULTANCY & SERVICES PTE LTD | MyCareersFuture | 1 | 2026-06-24 | [Apply](https://www.mycareersfuture.gov.sg/job/21b9750b8dce3e45e4a7a424d8107e70) |
-| Software Engineer | Dexian Asia Pacific | LinkedIn | — | 2026-06-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Dexian%20Asia%20Pacific&location=Singapore) |
-| Software Engineer (Java & OutSystems Preferred) | NCS Group | LinkedIn | — | 2026-06-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Java%20%26amp%3B%20OutSystems%20Preferred)%20NCS%20Group&location=Singapore) |
-| Tunnel Engineer | AECOM | LinkedIn | — | 2026-06-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Tunnel%20Engineer%20AECOM&location=Singapore) |
-| Geospatial Engineer | Kyndryl | LinkedIn | — | 2026-06-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Geospatial%20Engineer%20Kyndryl&location=Singapore) |
-| DevSecOps Engineer | Kyndryl | LinkedIn | — | 2026-06-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=DevSecOps%20Engineer%20Kyndryl&location=Singapore) |
-| Software Engineer (Computer Vision/Vision Inspection, C++) | RECRUIT EXPERT PTE. LTD. | MyCareersFuture | 2 | 2026-06-23 | [Apply](https://www.mycareersfuture.gov.sg/job/2dd2c1a51a1f3b63d3e13d6c3c337fa5) |
+| Software Engineer (Backend Focus) | Yojee | LinkedIn | — | 2026-06-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Backend%20Focus)%20Yojee&location=Singapore) |
+| Software Engineer | Applied Materials South East Asia | LinkedIn | — | 2026-06-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Applied%20Materials%20South%20East%20Asia&location=Singapore) |
+| C++ Software Engineer | Citadel Securities | LinkedIn | — | 2026-06-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=C%2B%2B%20Software%20Engineer%20Citadel%20Securities&location=Singapore) |
+| Software Engineer II, Enterprise Data Protection | Google | LinkedIn | — | 2026-06-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20II%2C%20Enterprise%20Data%20Protection%20Google&location=Singapore) |
+| Backend Engineer - Singapore | Plaud | LinkedIn | — | 2026-06-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Backend%20Engineer%20-%20Singapore%20Plaud&location=Singapore) |
