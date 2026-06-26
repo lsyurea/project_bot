@@ -2,12 +2,17 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-06-25T15:26:28.261Z*
+> *Last updated: 2026-06-26T04:53:00.057Z*
 
-**Total listings: 45** *(MyCareersFuture: 39 | LinkedIn: 9)*
+**Total listings: 47** *(MyCareersFuture: 39 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Human Resources Intern | LUMENS PTE. LTD. | MyCareersFuture | 1 | 2026-06-26 | [Apply](https://www.mycareersfuture.gov.sg/job/1884fc0cdd9886ed2b2e6982b1b4ecdd) |
+| Human Resource Business Partner - Strategic HR Partner Opportunity #HDC | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 2 | 2026-06-26 | [Apply](https://www.mycareersfuture.gov.sg/job/cd56af6ab2c55dc636596af96a241a89) |
+| Recruitment Officer | AIA Singapore | LinkedIn | — | 2026-06-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Recruitment%20Officer%20AIA%20Singapore&location=Singapore) |
+| Talent Acquisition Specialist | AIG | LinkedIn | — | 2026-06-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Specialist%20AIG&location=Singapore) |
+| Crewing Executive | Tap Growth ai | LinkedIn | — | 2026-06-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Crewing%20Executive%20Tap%20Growth%20ai&location=Singapore) |
 | Senior Manager Student Services | GLOBAL SCHOOL OF TECHNOLOGY & MANAGEMENT PTE. LTD. | MyCareersFuture | 2 | 2026-06-25 | [Apply](https://www.mycareersfuture.gov.sg/job/2cfcae99b22349a912809ba4279d61ee) |
 | LORRY DRIVER | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-06-25 | [Apply](https://www.mycareersfuture.gov.sg/job/7beeec125431653edc77b04158e0475f) |
 | HR Executive Assistant (Healthcare) #HJOT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-06-25 | [Apply](https://www.mycareersfuture.gov.sg/job/2a3bc64c124dfd0548dddd3389ed01d4) |
@@ -45,11 +50,8 @@
 | Strategic HR Business Partner - Employee Relations & Talent Excellence #HDC | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 2 | 2026-06-24 | [Apply](https://www.mycareersfuture.gov.sg/job/ce4b21c9ede868137dfaa9d99d4f2a81) |
 | Payroll Officer (Bedok Area/MFG Industry) | ALIGN RECRUITMENT PTE. LTD. | MyCareersFuture | 2 | 2026-06-24 | [Apply](https://www.mycareersfuture.gov.sg/job/12297dd850926b0f6e56706fc772d329) |
 | Senior HR Executive / Head of HR | TRULYYY PTE. LTD. | MyCareersFuture | 2 | 2026-06-24 | [Apply](https://www.mycareersfuture.gov.sg/job/3c087b8e3230b007312a6e93ecb7391e) |
-| Sales Force Capabilities Executive | BEATHCHAPMAN (PTE. LTD.) | MyCareersFuture | 2 | 2026-06-24 | [Apply](https://www.mycareersfuture.gov.sg/job/00f6df3df35fc4ee981683b9f6ea729a) |
 | HR Assistant | Stephenson Harwood LLP | LinkedIn | — | 2026-06-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Assistant%20Stephenson%20Harwood%20LLP&location=Singapore) |
 | Talent Experience Associate | Hegen | LinkedIn | — | 2026-06-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Experience%20Associate%20Hegen&location=Singapore) |
-| Contingent Workforce Management Business Partner | ByteDance | LinkedIn | — | 2026-06-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Contingent%20Workforce%20Management%20Business%20Partner%20ByteDance&location=Singapore) |
 | Human Resources Specialist II | Hyve Solutions | LinkedIn | — | 2026-06-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Specialist%20II%20Hyve%20Solutions&location=Singapore) |
-| GTM Recruiter (Fixed-Term) | Human Resources Exam SHRM | LinkedIn | — | 2026-06-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=GTM%20Recruiter%20(Fixed-Term)%20Human%20Resources%20Exam%20SHRM&location=Singapore) |
-| HR Marketing Specialist (1-year Contract) | OCBC | LinkedIn | — | 2026-06-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Marketing%20Specialist%20(1-year%20Contract)%20OCBC&location=Singapore) |
-| Human Resources Executive - South East Asia (12 months' contract) | Hilton | LinkedIn | — | 2026-06-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20-%20South%20East%20Asia%20(12%20months'%20contract)%20Hilton&location=Singapore) |
+| Contingent Workforce Management Business Partner | ByteDance | LinkedIn | — | 2026-06-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Contingent%20Workforce%20Management%20Business%20Partner%20ByteDance&location=Singapore) |
+| QC Associate | GSK | LinkedIn | — | 2026-06-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=QC%20Associate%20GSK&location=Singapore) |
