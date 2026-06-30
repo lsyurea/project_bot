@@ -2,12 +2,19 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-06-29T16:25:41.876Z*
+> *Last updated: 2026-06-30T04:48:09.737Z*
 
-**Total listings: 47** *(MyCareersFuture: 41 | LinkedIn: 10)*
+**Total listings: 51** *(MyCareersFuture: 46 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Admin & HR Executive | WEE HUR CONSTRUCTION PTE LTD | MyCareersFuture | 2 | 2026-06-30 | [Apply](https://www.mycareersfuture.gov.sg/job/83daf4c6117471407d1e002243e21b51) |
+| HR & Crewing Manager | SG SHIPPING PRIVATE LTD. | MyCareersFuture | 2 | 2026-06-30 | [Apply](https://www.mycareersfuture.gov.sg/job/2a10be773bd7162415872269ebefd166) |
+| Human Resources Administrator [Entry Level is Welcome!]  [5 DAYS / TUAS] (KCKC) | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-06-30 | [Apply](https://www.mycareersfuture.gov.sg/job/dd1e512ad8fe5f6574d88c644a79e2f7) |
+| AI Future of Work Designer Intern | SINGAPORE TELECOMMUNICATIONS LIMITED | MyCareersFuture | 0 | 2026-06-30 | [Apply](https://www.mycareersfuture.gov.sg/job/913023de92e605f9d67f3685d0cfe966) |
+| HR Executive | TALENT FIRST PTE. LTD. | MyCareersFuture | 1 | 2026-06-30 | [Apply](https://www.mycareersfuture.gov.sg/job/db68a1f4a09541bef2180c954ca4b15a) |
+| HR & Admin Executive | LEE TECH M&E INTEGRATED PTE. LTD. | MyCareersFuture | 2 | 2026-06-30 | [Apply](https://www.mycareersfuture.gov.sg/job/668564c7aefd153e5dc21faa8f180a1f) |
+| HRIT Specialist (SuccessFactors) | Adecco | LinkedIn | — | 2026-06-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HRIT%20Specialist%20(SuccessFactors)%20Adecco&location=Singapore) |
 | HR Administrator (Human Resources) | PERSONNEL LINK JOBHUB PTE. LTD. | MyCareersFuture | 1 | 2026-06-29 | [Apply](https://www.mycareersfuture.gov.sg/job/1c97f0ec63af845eb44255477adc491f) |
 | Accounts & HR Executive | SEAH'S SPICES FOOD INDUSTRIES PTE. LTD. | MyCareersFuture | 2 | 2026-06-29 | [Apply](https://www.mycareersfuture.gov.sg/job/7e09ea91b7c434869545b22785068dff) |
 | HR Intern ( Recruitment / Talent Acquisition ) #HYT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-06-29 | [Apply](https://www.mycareersfuture.gov.sg/job/01e888d0633ebcd7f70aab37fd8b3b63) |
@@ -35,7 +42,6 @@
 | HR EXECUTIVE | OCD HANDS PTE. LTD. | MyCareersFuture | 1 | 2026-06-29 | [Apply](https://www.mycareersfuture.gov.sg/job/f40c99a9f7208ce0c0384282c2b872de) |
 | HR EXECUTIVE | DAY ONE PTE. LTD. | MyCareersFuture | 1 | 2026-06-29 | [Apply](https://www.mycareersfuture.gov.sg/job/efef7a34ffda32dc7ec576e0ceb8414c) |
 | Recruitment Coordinator | DIRECT SEARCH ASIA PTE. LTD. | MyCareersFuture | 1 | 2026-06-29 | [Apply](https://www.mycareersfuture.gov.sg/job/354d3b5ca4413d58dde4e78e8f447b30) |
-| Human Resources Administrator [Entry Level is Welcome!]  [5 DAYS / TUAS] (KCKC) | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-06-29 | [Apply](https://www.mycareersfuture.gov.sg/job/fa8efed77de07d4f39b470d59dabf08d) |
 | Admin cum HR Assistant | HANSING RECRUITMENT PTE. LTD. | MyCareersFuture | 1 | 2026-06-29 | [Apply](https://www.mycareersfuture.gov.sg/job/9dadf11cf6d48a2cf44e441d74003ca4) |
 | Human Resources Executive (Regional Exposure) | MCI CAREER  SERVICES PTE. LTD. | MyCareersFuture | 2 | 2026-06-29 | [Apply](https://www.mycareersfuture.gov.sg/job/d88624a690a8a663720ca23d893ca8ef) |
 | Human Resource Assistant (Temp) | DREW & NAPIER LLC | MyCareersFuture | 0 | 2026-06-29 | [Apply](https://www.mycareersfuture.gov.sg/job/175e63839da2a909af06e2906a7dd771) |
@@ -45,13 +51,11 @@
 | Hr Officer | HRCONNECT CONSULTANCY SERVICES PTE. LTD. | MyCareersFuture | 1 | 2026-06-29 | [Apply](https://www.mycareersfuture.gov.sg/job/9d5bd2c1ab95ee560679b8755688dc7f) |
 | Smart Systems Engineer | MICRON SEMICONDUCTOR ASIA OPERATIONS PTE. LTD. | MyCareersFuture | 0 | 2026-06-29 | [Apply](https://www.mycareersfuture.gov.sg/job/f91e6994b94f2449af7565fdb1da4116) |
 | HR Advisor | Raytheon Australia | LinkedIn | — | 2026-06-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Advisor%20Raytheon%20Australia&location=Singapore) |
-| Human Resource Officer | SPEMOCEAN | LinkedIn | — | 2026-06-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resource%20Officer%20SPEMOCEAN&location=Singapore) |
+| People Operations Generalist | Breeze | LinkedIn | — | 2026-06-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20Operations%20Generalist%20Breeze&location=Singapore) |
 | Human Resources Expert | TechM Solution Pte Ltd | LinkedIn | — | 2026-06-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Expert%20TechM%20Solution%20Pte%20Ltd&location=Singapore) |
 | Human Resources Business Partner | Vanguard International Semiconductor Corporation (VIS) | LinkedIn | — | 2026-06-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Business%20Partner%20Vanguard%20International%20Semiconductor%20Corporation%20(VIS)&location=Singapore) |
 | Assistant Manager, Human Resources | Changi Airports International Pte Ltd | LinkedIn | — | 2026-06-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Assistant%20Manager%2C%20Human%20Resources%20Changi%20Airports%20International%20Pte%20Ltd&location=Singapore) |
 | HRBP / HR Specialist | Winning International Group Pte Ltd | LinkedIn | — | 2026-06-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HRBP%20%2F%20HR%20Specialist%20Winning%20International%20Group%20Pte%20Ltd&location=Singapore) |
 | HR Consultant | Keysight Technologies | LinkedIn | — | 2026-06-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Consultant%20Keysight%20Technologies&location=Singapore) |
 | Senior Human Resources Specialist | Confidential | LinkedIn | — | 2026-06-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Human%20Resources%20Specialist%20Confidential&location=Singapore) |
-| Manager, Human Resources – Asia Pacific | Hilton | LinkedIn | — | 2026-06-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Manager%2C%20Human%20Resources%20%E2%80%93%20Asia%20Pacific%20Hilton&location=Singapore) |
-| Office Administrator & HR Executive | FOXWOOD LLC | MyCareersFuture | 1 | 2026-06-28 | [Apply](https://www.mycareersfuture.gov.sg/job/61d9834f070c0e1c078290111377a060) |
 | Regional Employee Relations Manager | AMD | LinkedIn | — | 2026-06-28 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Regional%20Employee%20Relations%20Manager%20AMD&location=Singapore) |
