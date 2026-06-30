@@ -3,20 +3,20 @@
 This repository automatically updates repository activity stats for my GitHub account.
 
 <!-- REPO_ACTIVITY:START -->
-Generated: 2026-06-29T20:10:54.604Z
+Generated: 2026-06-30T04:21:47.358Z
 
-Active window: last 90 days (cutoff: 2026-03-31)
+Active window: last 90 days (cutoff: 2026-04-01)
 Total repositories analyzed: 50
-Active: 14
-Inactive: 36
+Active: 13
+Inactive: 37
 
 ### Active Repositories
+- 🔒 [lsyurea/frontend_mono](https://github.com/lsyurea/frontend_mono) — last push: 2026-06-30
 - 🌐 [lsyurea/project_bot](https://github.com/lsyurea/project_bot) — last push: 2026-06-29
 - 🌐 [lsyurea/ml_streamlit_template](https://github.com/lsyurea/ml_streamlit_template) — last push: 2026-06-25
 - 🔒 [lsyurea/CodeChallenge](https://github.com/lsyurea/CodeChallenge) — last push: 2026-06-18
 - 🔒 [lsyurea/portfolio_management](https://github.com/lsyurea/portfolio_management) — last push: 2026-06-10
 - 🔒 [lsyurea/Ecommerce](https://github.com/lsyurea/Ecommerce) — last push: 2026-05-24
-- 🔒 [lsyurea/frontend_mono](https://github.com/lsyurea/frontend_mono) — last push: 2026-05-17
 - 🔒 [lsyurea/learnGPT](https://github.com/lsyurea/learnGPT) — last push: 2026-05-17
 - 🌐 [lsyurea/miles](https://github.com/lsyurea/miles) — last push: 2026-05-15
 - 🌐 [lsyurea/Transformers](https://github.com/lsyurea/Transformers) — last push: 2026-05-15
@@ -24,9 +24,9 @@ Inactive: 36
 - 🔒 [lsyurea/PromptHire](https://github.com/lsyurea/PromptHire) — last push: 2026-04-08
 - 🔒 [lsyurea/Meetify](https://github.com/lsyurea/Meetify) — last push: 2026-04-05
 - 🌐 [lsyurea/openclaude](https://github.com/lsyurea/openclaude) — last push: 2026-04-02
-- 🌐 [lsyurea/claude-code](https://github.com/lsyurea/claude-code) — last push: 2026-04-01
 
 ### Inactive Repositories
+- 🌐 [lsyurea/claude-code](https://github.com/lsyurea/claude-code) — last push: 2026-04-01
 - 🌐 [lsyurea/kimi-cli](https://github.com/lsyurea/kimi-cli) — last push: 2026-03-23
 - 🌐 [lsyurea/courserekt](https://github.com/lsyurea/courserekt) — last push: 2026-03-22
 - 🌐 [lsyurea/ollama](https://github.com/lsyurea/ollama) — last push: 2026-03-21
