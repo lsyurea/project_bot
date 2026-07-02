@@ -2,17 +2,27 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-07-02T04:44:00.328Z*
+> *Last updated: 2026-07-02T14:42:31.060Z*
 
-**Total listings: 35** *(MyCareersFuture: 26 | LinkedIn: 10)*
+**Total listings: 36** *(MyCareersFuture: 26 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Software Engineer | CODEX SOLUTIONS PTE. LTD. | MyCareersFuture | 1 | 2026-07-02 | [Apply](https://www.mycareersfuture.gov.sg/job/5019260f1446cb22633b9ef098207a34) |
+| Software Engineer and/or Senior Software Engineer (Automation & SCADA System - C - C++) | EA RECRUITMENT PTE. LTD. | MyCareersFuture | 2 | 2026-07-02 | [Apply](https://www.mycareersfuture.gov.sg/job/37af5ceb990e2d9d44438788b794bef6) |
+| Software Engineer(GoLang) | AVENSYS CONSULTING PTE. LTD. | MyCareersFuture | 2 | 2026-07-02 | [Apply](https://www.mycareersfuture.gov.sg/job/5799da32a9eb63ed785695c649efaa56) |
+| Software Engineer (PLC Automation) [Ang Mo Kio - 5 days - up to $6000] - LCYL | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 2 | 2026-07-02 | [Apply](https://www.mycareersfuture.gov.sg/job/1d444e74560ba2277639af03e7d42906) |
+| Software Engineer, Android Trust - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 1 | 2026-07-02 | [Apply](https://www.mycareersfuture.gov.sg/job/d3444c191c0df041bd7f739869ae5268) |
+| Robotics Software Engineer (ROS-I Embodied AI), ARTC | A*STAR RESEARCH ENTITIES | MyCareersFuture | 2 | 2026-07-02 | [Apply](https://www.mycareersfuture.gov.sg/job/71e8d5642e930def2c72509bbd97af42) |
 | SOFTWARE DESIGN ENGINEER | PTERIS GLOBAL LIMITED | MyCareersFuture | 2 | 2026-07-02 | [Apply](https://www.mycareersfuture.gov.sg/job/39d6b70834bab6edb09b211c4ce8f85f) |
 | PLC Automation Software Engineer (Automation / Semiconductor) | SEARCH PERSONNEL PRIVATE LIMITED | MyCareersFuture | 2 | 2026-07-02 | [Apply](https://www.mycareersfuture.gov.sg/job/8535d36e97ef329464ec50c8e72b3fc5) |
 | ENGINEER - PROBE SOFTWARE & ANALYTICAL | MICRON SEMICONDUCTOR ASIA OPERATIONS PTE. LTD. | MyCareersFuture | 0 | 2026-07-02 | [Apply](https://www.mycareersfuture.gov.sg/job/399b3b0e1c40f246df1304d5cc391e70) |
 | Software Engineer (C++/C#, Machine Automation) #76684 | ANRADUS PTE. LTD. | MyCareersFuture | 1 | 2026-07-02 | [Apply](https://www.mycareersfuture.gov.sg/job/c3d3e9e5f19e73d6c17567b832981cdd) |
-| Sales Engineer - APAC | Agilysys | LinkedIn | — | 2026-07-02 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Sales%20Engineer%20-%20APAC%20Agilysys&location=Singapore) |
+| computer software engineer | Xiaomi Technology | LinkedIn | — | 2026-07-02 | [Apply](https://www.linkedin.com/jobs/search/?keywords=computer%20software%20engineer%20Xiaomi%20Technology&location=Singapore) |
+| Software Engineer (Information) | DSO National Laboratories | LinkedIn | — | 2026-07-02 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Information)%20DSO%20National%20Laboratories&location=Singapore) |
+| Software Engineer | Videotto | LinkedIn | — | 2026-07-02 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Videotto&location=Singapore) |
+| Software Engineer (Developer Platform) | Centre for Strategic Infocomm Technologies (CSIT) | LinkedIn | — | 2026-07-02 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Developer%20Platform)%20Centre%20for%20Strategic%20Infocomm%20Technologies%20(CSIT)&location=Singapore) |
+| Software Engineer (Product-minded) | SGX Group | LinkedIn | — | 2026-07-02 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Product-minded)%20SGX%20Group&location=Singapore) |
 | Software Engineer #84739 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-07-01 | [Apply](https://www.mycareersfuture.gov.sg/job/7e76cb5a274f337933393e4b057d13cf) |
 | 2027 Software Engineer Program_Summer Analyst (Singapore) | JPMORGAN CHASE BANK, N.A. | MyCareersFuture | 0 | 2026-07-01 | [Apply](https://www.mycareersfuture.gov.sg/job/052085d4ae94d934ae229585e25e4ded) |
 | Urgent !!! Associate QA Engineer (Software Test) | TRUST RECRUIT PTE. LTD. | MyCareersFuture | 1 | 2026-07-01 | [Apply](https://www.mycareersfuture.gov.sg/job/0f89f348b64295bf424a21f42759c499) |
@@ -27,19 +37,10 @@
 | Software Design Engineer (Automation) | RN CARE PTE. LTD. | MyCareersFuture | 2 | 2026-07-01 | [Apply](https://www.mycareersfuture.gov.sg/job/a0f9e6dc6cc397b158af7daaf60610ff) |
 | Junior Software Developer (Frontend/ Many Openings) | TALENTSIS PTE. LTD. | MyCareersFuture | 2 | 2026-07-01 | [Apply](https://www.mycareersfuture.gov.sg/job/e1c1d9e626209a8e4dccd31742b73fb2) |
 | Junior Software Developer (Open for 1 Year experience) | TALENTSIS PTE. LTD. | MyCareersFuture | 2 | 2026-07-01 | [Apply](https://www.mycareersfuture.gov.sg/job/ac7b6560e3e2e35ab963fc6e5d457a34) |
-| Fresh Graduate Software Engineer (Oracle & Talend Training Provided) | Avensys Consulting | LinkedIn | — | 2026-07-01 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Fresh%20Graduate%20Software%20Engineer%20(Oracle%20%26amp%3B%20Talend%20Training%20Provided)%20Avensys%20Consulting&location=Singapore) |
-| Junior Dotnet Developer | Crédit Agricole CIB | LinkedIn | — | 2026-07-01 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Junior%20Dotnet%20Developer%20Cr%C3%A9dit%20Agricole%20CIB&location=Singapore) |
-| Software Engineer (AI Training) | Alignerr | LinkedIn | — | 2026-07-01 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(AI%20Training)%20Alignerr&location=Singapore) |
-| Software Engineer | DSO National Laboratories | LinkedIn | — | 2026-07-01 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20DSO%20National%20Laboratories&location=Singapore) |
-| Data Engineer | TENTACLE SSO SDN BHD | LinkedIn | — | 2026-07-01 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Data%20Engineer%20TENTACLE%20SSO%20SDN%20BHD&location=Singapore) |
-| Research Engineer II (Computer Science / Robotics / Automation) | Nanyang Technological University Singapore | LinkedIn | — | 2026-07-01 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Research%20Engineer%20II%20(Computer%20Science%20%2F%20Robotics%20%2F%20Automation)%20Nanyang%20Technological%20University%20Singapore&location=Singapore) |
+| Backend Software Engineer(Singapore) | Baidu, Inc. | LinkedIn | — | 2026-07-01 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Backend%20Software%20Engineer(Singapore)%20Baidu%2C%20Inc.&location=Singapore) |
+| Software Engineer | SteelSeries | LinkedIn | — | 2026-07-01 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20SteelSeries&location=Singapore) |
+| Software Engineer - P26003 | Activate Interactive | LinkedIn | — | 2026-07-01 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20-%20P26003%20Activate%20Interactive&location=Singapore) |
+| Software Engineer | GN Group | LinkedIn | — | 2026-07-01 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20GN%20Group&location=Singapore) |
 | Software Engineer - Java | ELLIOTT MOSS CONSULTING PTE. LTD. | MyCareersFuture | 1 | 2026-06-30 | [Apply](https://www.mycareersfuture.gov.sg/job/2644df65e2ad0d5731af7005b7207c1f) |
 | Software Engineer (Computer Vision/Vision Inspection, C++) | RECRUIT EXPERT PTE. LTD. | MyCareersFuture | 2 | 2026-06-30 | [Apply](https://www.mycareersfuture.gov.sg/job/dcdd2a59c30f28635949962665e10e3c) |
-| Software Engineer | GODOC (SINGAPORE) PTE. LTD. | MyCareersFuture | 1 | 2026-06-30 | [Apply](https://www.mycareersfuture.gov.sg/job/a91fa7e4bd0195d6b841b97dc7fcd490) |
-| Software Engineer (Permanent) | TALENTSIS PTE. LTD. | MyCareersFuture | 2 | 2026-06-30 | [Apply](https://www.mycareersfuture.gov.sg/job/138237cec6fbae5643ddf33eae6db7ea) |
-| Software Quality Engineer | MAYSEN MANPOWER PTE. LTD. | MyCareersFuture | 2 | 2026-06-30 | [Apply](https://www.mycareersfuture.gov.sg/job/95e42d506b775ea2da17cb0c030dc6ee) |
-| Software Engineer, Android Trust - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 1 | 2026-06-30 | [Apply](https://www.mycareersfuture.gov.sg/job/dc4cea450f6185438e02fce758599a85) |
-| Software Engineer Java | U3 INFOTECH PTE. LTD. | MyCareersFuture | 2 | 2026-06-30 | [Apply](https://www.mycareersfuture.gov.sg/job/3bb0ee17b33c10103e34c84a8e70f689) |
-| Early Career Software Engineer, Applied AI Applications | Apple | LinkedIn | — | 2026-06-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Early%20Career%20Software%20Engineer%2C%20Applied%20AI%20Applications%20Apple&location=Singapore) |
-| Forward Deployed Software Engineer | PhysicsX | LinkedIn | — | 2026-06-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Forward%20Deployed%20Software%20Engineer%20PhysicsX&location=Singapore) |
-| Product Executive | A65 | LinkedIn | — | 2026-06-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Product%20Executive%20A65&location=Singapore) |
+| Software Engineer II - Java | JPMorganChase | LinkedIn | — | 2026-06-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20II%20-%20Java%20JPMorganChase&location=Singapore) |
