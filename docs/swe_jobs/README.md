@@ -2,12 +2,14 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-07-04T04:23:11.609Z*
+> *Last updated: 2026-07-04T14:11:20.250Z*
 
-**Total listings: 29** *(MyCareersFuture: 19 | LinkedIn: 10)*
+**Total listings: 23** *(MyCareersFuture: 13 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Software Engineer and/or Senior Software Engineer (Automation & SCADA System - C - C++) | EA RECRUITMENT PTE. LTD. | MyCareersFuture | 2 | 2026-07-04 | [Apply](https://www.mycareersfuture.gov.sg/job/1cc9b89154d664f953d3f450888f8b41) |
+| Software Engineer II, Google Pay and Wallet | Google | LinkedIn | — | 2026-07-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20II%2C%20Google%20Pay%20and%20Wallet%20Google&location=Singapore) |
 | Software Developer / Software Engineer #10123 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-07-03 | [Apply](https://www.mycareersfuture.gov.sg/job/b7d57a2f432260d1d4869d276b65c18e) |
 | Software Engineer - Machine Learning (Behaviors) | MOTIONAL SINGAPORE PTE. LIMITED | MyCareersFuture | 0 | 2026-07-03 | [Apply](https://www.mycareersfuture.gov.sg/job/8233d32389f281298d640d429564691b) |
 | Senior Software Engineer (PLC) | FA SYSTEMS AUTOMATION (S) PTE LTD | MyCareersFuture | 1 | 2026-07-03 | [Apply](https://www.mycareersfuture.gov.sg/job/acee3b4cbe8cb4674a30a11d06e20681) |
@@ -24,16 +26,8 @@
 | Software Engineer, Open Source Security | Google | LinkedIn | — | 2026-07-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Open%20Source%20Security%20Google&location=Singapore) |
 | C++ Software Engineer | Optiver | LinkedIn | — | 2026-07-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=C%2B%2B%20Software%20Engineer%20Optiver&location=Singapore) |
 | Full Stack Engineer | Astek | LinkedIn | — | 2026-07-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Full%20Stack%20Engineer%20Astek&location=Singapore) |
+| Software Developer | Tower Research Capital | LinkedIn | — | 2026-07-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Developer%20Tower%20Research%20Capital&location=Singapore) |
+| Backend Software Engineer II | foodpanda | LinkedIn | — | 2026-07-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Backend%20Software%20Engineer%20II%20foodpanda&location=Singapore) |
 | Fullstack Software Engineer | MRI SOFTWARE SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-07-02 | [Apply](https://www.mycareersfuture.gov.sg/job/f3e2345927ec8723713e86f60a9e1f79) |
 | Software Engineer (Computer Vision/Vision Inspection, C++) | RECRUIT EXPERT PTE. LTD. | MyCareersFuture | 2 | 2026-07-02 | [Apply](https://www.mycareersfuture.gov.sg/job/32a9e6e33ebdfaa076416f3850d37e12) |
-| Software Engineer | CODEX SOLUTIONS PTE. LTD. | MyCareersFuture | 1 | 2026-07-02 | [Apply](https://www.mycareersfuture.gov.sg/job/5019260f1446cb22633b9ef098207a34) |
-| Software Engineer and/or Senior Software Engineer (Automation & SCADA System - C - C++) | EA RECRUITMENT PTE. LTD. | MyCareersFuture | 2 | 2026-07-02 | [Apply](https://www.mycareersfuture.gov.sg/job/37af5ceb990e2d9d44438788b794bef6) |
-| Software Engineer(GoLang) | AVENSYS CONSULTING PTE. LTD. | MyCareersFuture | 2 | 2026-07-02 | [Apply](https://www.mycareersfuture.gov.sg/job/5799da32a9eb63ed785695c649efaa56) |
-| Software Engineer (PLC Automation) [Ang Mo Kio - 5 days - up to $6000] - LCYL | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 2 | 2026-07-02 | [Apply](https://www.mycareersfuture.gov.sg/job/1d444e74560ba2277639af03e7d42906) |
-| Software Engineer, Android Trust - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 1 | 2026-07-02 | [Apply](https://www.mycareersfuture.gov.sg/job/d3444c191c0df041bd7f739869ae5268) |
-| Robotics Software Engineer (ROS-I Embodied AI), ARTC | A*STAR RESEARCH ENTITIES | MyCareersFuture | 2 | 2026-07-02 | [Apply](https://www.mycareersfuture.gov.sg/job/71e8d5642e930def2c72509bbd97af42) |
-| Java Software Engineer (AWS/Spring Boot/ReactJS/Python) | OPUS IT SERVICES PTE LTD | MyCareersFuture | 1 | 2026-07-02 | [Apply](https://www.mycareersfuture.gov.sg/job/2f5fa31c2b79c814b5f0e9f41326193d) |
-| Software Engineer (Information) | DSO National Laboratories | LinkedIn | — | 2026-07-02 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Information)%20DSO%20National%20Laboratories&location=Singapore) |
 | Software Engineer | Tower Research Capital | LinkedIn | — | 2026-07-02 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Tower%20Research%20Capital&location=Singapore) |
-| Software Engineer (Developer Platform) | Centre for Strategic Infocomm Technologies (CSIT) | LinkedIn | — | 2026-07-02 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Developer%20Platform)%20Centre%20for%20Strategic%20Infocomm%20Technologies%20(CSIT)&location=Singapore) |
-| Software Engineer (Product-minded) | SGX Group | LinkedIn | — | 2026-07-02 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Product-minded)%20SGX%20Group&location=Singapore) |
