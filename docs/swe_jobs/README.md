@@ -2,12 +2,19 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-07-09T04:34:47.415Z*
+> *Last updated: 2026-07-09T15:44:35.896Z*
 
-**Total listings: 44** *(MyCareersFuture: 43 | LinkedIn: 10)*
+**Total listings: 41** *(MyCareersFuture: 38 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Software Test Engineer (Cardlink / VisionPLUS) | TEKISHUB CONSULTING SERVICES PTE. LTD. | MyCareersFuture | 2 | 2026-07-09 | [Apply](https://www.mycareersfuture.gov.sg/job/daae8eb69bd43a2faada5e98c269b433) |
+| Software Developer / Software Engineer #10123 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-07-09 | [Apply](https://www.mycareersfuture.gov.sg/job/17df54b23760e2a60f926fba5744586a) |
+| Software Engineer III, Android Trust - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 2 | 2026-07-09 | [Apply](https://www.mycareersfuture.gov.sg/job/a27f3189c3b8c50c5c7dbddcdd9fe51b) |
+| Software Engineer, Digital Identity, Google Wallet - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 1 | 2026-07-09 | [Apply](https://www.mycareersfuture.gov.sg/job/fb526cbc0848e40bfd508a9b54e70e18) |
+| Senior/Software Engineer, Lead | TALENTSIS PTE. LTD. | MyCareersFuture | 1 | 2026-07-09 | [Apply](https://www.mycareersfuture.gov.sg/job/fea6e501fb8c73a094b396c5d17c6e90) |
+| Software Engineer Trainee (Android) | DELIVERY HERO APAC PTE. LIMITED | MyCareersFuture | 0 | 2026-07-09 | [Apply](https://www.mycareersfuture.gov.sg/job/f985a3fa4b8e1868a8277809e77c6251) |
+| Software Engineer Trainee (iOS) | DELIVERY HERO APAC PTE. LIMITED | MyCareersFuture | 0 | 2026-07-09 | [Apply](https://www.mycareersfuture.gov.sg/job/88deaacc325f495ac283dd7912d84517) |
 | Backend Software Engineer (Aeolus) - Data Platform | TIKTOK PTE. LTD. | MyCareersFuture | 2 | 2026-07-09 | [Apply](https://www.mycareersfuture.gov.sg/job/9c9180cd1dc6f3e6f4beb8f46e8af748) |
 | Day 2 Software Engineer | APBA TG HUMAN RESOURCE PTE. LTD. | MyCareersFuture | 2 | 2026-07-09 | [Apply](https://www.mycareersfuture.gov.sg/job/2f42c8a5d1fd3091d56b49d8fcae435f) |
 | Backend Software Engineer (Aeolus) - Data Platform | BYTEDANCE PTE. LTD. | MyCareersFuture | 2 | 2026-07-09 | [Apply](https://www.mycareersfuture.gov.sg/job/ccdf6c41cb643082cb136176a465a6fb) |
@@ -18,7 +25,12 @@
 | Software Engineer, Cloud Infrastructure | EDGEMATRIX COMPUTING PTE. LIMITED | MyCareersFuture | 1 | 2026-07-09 | [Apply](https://www.mycareersfuture.gov.sg/job/88e37e353c18e3ae39694e9f31629bbc) |
 | Software Engineer - Test Automation | REALTEK SINGAPORE PRIVATE LIMITED | MyCareersFuture | 0 | 2026-07-09 | [Apply](https://www.mycareersfuture.gov.sg/job/ae47edc7af4bfd1a6b5af0121a92d772) |
 | Software Engineer – WiFi/ Embedded System Development | REALTEK SINGAPORE PRIVATE LIMITED | MyCareersFuture | 0 | 2026-07-09 | [Apply](https://www.mycareersfuture.gov.sg/job/28aa7fa8de4a35a40a7cb16f0defb113) |
-| Software Engineer | Padlet | LinkedIn | — | 2026-07-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Padlet&location=Singapore) |
+| Java Engineer - Exchange Service | Binance | LinkedIn | — | 2026-07-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Java%20Engineer%20-%20Exchange%20Service%20Binance&location=Singapore) |
+| Software Engineering Graduate Programme (Immediate Start) | FDM Group | LinkedIn | — | 2026-07-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineering%20Graduate%20Programme%20(Immediate%20Start)%20FDM%20Group&location=Singapore) |
+| Software Engineer(Java) - Tech Compliance | Binance | LinkedIn | — | 2026-07-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer(Java)%20-%20Tech%20Compliance%20Binance&location=Singapore) |
+| Software Engineer (AI Training) | Alignerr | LinkedIn | — | 2026-07-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(AI%20Training)%20Alignerr&location=Singapore) |
+| Embedded Software Engineer | FPT Software Career | LinkedIn | — | 2026-07-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Embedded%20Software%20Engineer%20FPT%20Software%20Career&location=Singapore) |
+| Software Engineer (Java & AI preferred) | NCS Group | LinkedIn | — | 2026-07-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Java%20%26amp%3B%20AI%20preferred)%20NCS%20Group&location=Singapore) |
 | Software Engineer | PADLET PTE. LTD. | MyCareersFuture | 1 | 2026-07-08 | [Apply](https://www.mycareersfuture.gov.sg/job/bba2c95a0c00a87bf9df4b129f740e33) |
 | Security Engineer | PADLET PTE. LTD. | MyCareersFuture | 2 | 2026-07-08 | [Apply](https://www.mycareersfuture.gov.sg/job/b48e151f7f272e8c99b772e33a2c2733) |
 | Software Engineer (GoLang) | ELLIOTT MOSS CONSULTING PTE. LTD. | MyCareersFuture | 1 | 2026-07-08 | [Apply](https://www.mycareersfuture.gov.sg/job/aa024698bf103e0bc229ddfef05a8243) |
@@ -33,22 +45,7 @@
 | Software Engineer | UROMEDTECH PTE. LTD. | MyCareersFuture | 2 | 2026-07-08 | [Apply](https://www.mycareersfuture.gov.sg/job/463a9009c1eb47e5bbea9051d7a8ef26) |
 | Software Engineer | CPO PTE. LTD. | MyCareersFuture | 0 | 2026-07-08 | [Apply](https://www.mycareersfuture.gov.sg/job/70503bbbdf37588a1ce7f6e3e25fb5c8) |
 | Senior/Software Engineer (Java / Python / C++) | TALENTSIS PTE. LTD. | MyCareersFuture | 2 | 2026-07-08 | [Apply](https://www.mycareersfuture.gov.sg/job/9ae532da3eaee0a7df5f2be743c6f87b) |
-| Software Engineer | Applied Materials South East Asia | LinkedIn | — | 2026-07-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Applied%20Materials%20South%20East%20Asia&location=Singapore) |
-| Software Engineer II, Core Loyalty Platform | Ascenda | LinkedIn | — | 2026-07-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20II%2C%20Core%20Loyalty%20Platform%20Ascenda&location=Singapore) |
-| Software Engineer (Payment Network) - Global Payment - Singapore | ByteDance | LinkedIn | — | 2026-07-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Payment%20Network)%20-%20Global%20Payment%20-%20Singapore%20ByteDance&location=Singapore) |
-| Software Engineer | ALPHA X TECHNOLOGY PTE. LTD. | MyCareersFuture | 2 | 2026-07-07 | [Apply](https://www.mycareersfuture.gov.sg/job/b5b0a36289e2a3e8f0f3833abdf51801) |
-| Software Engineer (C++/C#, Machine Automation) #76684 | ANRADUS PTE. LTD. | MyCareersFuture | 1 | 2026-07-07 | [Apply](https://www.mycareersfuture.gov.sg/job/0d34b56f39cff3c01f2407af789f4e63) |
-| Software Engineer | SUN SINGAPORE SYSTEMS PTE. LTD. | MyCareersFuture | 2 | 2026-07-07 | [Apply](https://www.mycareersfuture.gov.sg/job/28256494578fd20b858526e0d829eea5) |
-| Software Development Engineer | NUTEK PRIVATE LIMITED | MyCareersFuture | 1 | 2026-07-07 | [Apply](https://www.mycareersfuture.gov.sg/job/74dad62ebc93e4d434196845b91310fa) |
-| Software Engineer | AVENSYS CONSULTING PTE. LTD. | MyCareersFuture | 1 | 2026-07-07 | [Apply](https://www.mycareersfuture.gov.sg/job/bc4e98ca6945d5d508615f9ca8c4f576) |
-| Software Engineer | DAIKIN HOLDINGS SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-07-07 | [Apply](https://www.mycareersfuture.gov.sg/job/77f2fd4610e12281be1f2be3420340b1) |
-| Software Engineer (Java, SpringBoot, React) (ref: 120) | IT CONSULTANCY & SERVICES PTE LTD | MyCareersFuture | 1 | 2026-07-07 | [Apply](https://www.mycareersfuture.gov.sg/job/85764f72e7e07afaca8cb2afd100d4c2) |
-| Graduate Industry Trainee (GRIT) – Junior Software Engineer | DXC TECHNOLOGY SERVICES SINGAPORE PTE. LTD. | MyCareersFuture | 0 | 2026-07-07 | [Apply](https://www.mycareersfuture.gov.sg/job/4a86c9857cd8584ee10d81093217b63c) |
-| Software Engineer #84739 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-07-07 | [Apply](https://www.mycareersfuture.gov.sg/job/a00bff2242d3b8b3d041e009738d8974) |
-| AI Fleet Engineer | STYL SOLUTIONS PTE. LTD. | MyCareersFuture | 2 | 2026-07-07 | [Apply](https://www.mycareersfuture.gov.sg/job/3e7cea882f6a49fc418804c0e05ab07f) |
-| Software Engineer | Hitachi Rail | LinkedIn | — | 2026-07-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Hitachi%20Rail&location=Singapore) |
-| Software Engineer | Ascendion | LinkedIn | — | 2026-07-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Ascendion&location=Singapore) |
-| Software Engineer, HealthTech | Open Government Products | LinkedIn | — | 2026-07-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20HealthTech%20Open%20Government%20Products&location=Singapore) |
-| Sr Software Engineer | The Trade Desk | LinkedIn | — | 2026-07-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Sr%20Software%20Engineer%20The%20Trade%20Desk&location=Singapore) |
-| Software Engineer III, Payments Technology | JPMorganChase | LinkedIn | — | 2026-07-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20III%2C%20Payments%20Technology%20JPMorganChase&location=Singapore) |
-| Software Engineer, Data Programme | GovTech Singapore | LinkedIn | — | 2026-07-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Data%20Programme%20GovTech%20Singapore&location=Singapore) |
+| Full Stack Engineer (AI & GenAI) (2 Year Contract) | Rhino Partners | LinkedIn | — | 2026-07-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Full%20Stack%20Engineer%20(AI%20%26amp%3B%20GenAI)%20(2%20Year%20Contract)%20Rhino%20Partners&location=Singapore) |
+| Automation Software Engineer | SUPCON | LinkedIn | — | 2026-07-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Automation%20Software%20Engineer%20SUPCON&location=Singapore) |
+| Binance Accelerator Program - Software Engineer (Backend + AI/LLM) | Binance | LinkedIn | — | 2026-07-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Binance%20Accelerator%20Program%20-%20Software%20Engineer%20(Backend%20%2B%20AI%2FLLM)%20Binance&location=Singapore) |
+| Binance Accelerator Programm - Software Engineer Java | Binance | LinkedIn | — | 2026-07-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Binance%20Accelerator%20Programm%20-%20Software%20Engineer%20Java%20Binance&location=Singapore) |
