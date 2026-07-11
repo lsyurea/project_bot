@@ -2,12 +2,13 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-07-10T15:15:37.794Z*
+> *Last updated: 2026-07-11T03:55:41.109Z*
 
-**Total listings: 65** *(MyCareersFuture: 57 | LinkedIn: 10)*
+**Total listings: 60** *(MyCareersFuture: 51 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| HR Assistant (School / Central) | PERSOL SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-07-11 | [Apply](https://www.mycareersfuture.gov.sg/job/e36388cff5c6d26c852ae526c5afbfa3) |
 | HR Business Partner (Manufacturing MNC) | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 1 | 2026-07-10 | [Apply](https://www.mycareersfuture.gov.sg/job/53b1ee3c5c8c490be091a7aed316438d) |
 | Assistant Administration Manager | STAR NINE PTE. LTD. | MyCareersFuture | 2 | 2026-07-10 | [Apply](https://www.mycareersfuture.gov.sg/job/d0ef466964fd982e78fdc00c4591f037) |
 | Human Resource Assistant (On the job training provided) (YS81) | TRUST RECRUIT PTE. LTD. | MyCareersFuture | 1 | 2026-07-10 | [Apply](https://www.mycareersfuture.gov.sg/job/8b2a322c103f97a6a692ca66e86a9524) |
@@ -28,10 +29,11 @@
 | LORRY DRIVER | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-07-10 | [Apply](https://www.mycareersfuture.gov.sg/job/2956dc715079772a418d048b9932e61d) |
 | Human Resources & Administration Executive (Farrer Park) | PRIMESTAFF MANAGEMENT SERVICES PTE LTD | MyCareersFuture | 2 | 2026-07-10 | [Apply](https://www.mycareersfuture.gov.sg/job/b81f5ce7d30cb6be429cae30628583fd) |
 | Finance, HR & Admin Executive | ATLAS ENGINEERING & CONSTRUCTION PTE. LTD. | MyCareersFuture | 1 | 2026-07-10 | [Apply](https://www.mycareersfuture.gov.sg/job/465139dd7cf7bea743113fe63bd4e8f4) |
-| Human Resources Executive | Confidential | LinkedIn | — | 2026-07-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20Confidential&location=Singapore) |
-| HRM | BGone Consultants | LinkedIn | — | 2026-07-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HRM%20BGone%20Consultants&location=Singapore) |
-| Human Resources Executive | Spruson & Ferguson | LinkedIn | — | 2026-07-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20Spruson%20%26amp%3B%20Ferguson&location=Singapore) |
-| HR People Ops APAC | Mistral | LinkedIn | — | 2026-07-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20People%20Ops%20APAC%20Mistral&location=Singapore) |
+| People & Culture Executive | Mandarin Oriental | LinkedIn | — | 2026-07-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20%26amp%3B%20Culture%20Executive%20Mandarin%20Oriental&location=Singapore) |
+| Senior Executive Assistant, HR Group Shared Services | National University Health System | LinkedIn | — | 2026-07-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Executive%20Assistant%2C%20HR%20Group%20Shared%20Services%20National%20University%20Health%20System&location=Singapore) |
+| HR Generalist (1 Year Contract) | Michael Page | LinkedIn | — | 2026-07-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Generalist%20(1%20Year%20Contract)%20Michael%20Page&location=Singapore) |
+| Assistant Manager, Learning & Development - The Singapore EDITION | EDITION | LinkedIn | — | 2026-07-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Assistant%20Manager%2C%20Learning%20%26amp%3B%20Development%20-%20The%20Singapore%20EDITION%20EDITION&location=Singapore) |
+| Specialist, HR Services (4 Months Maternity Cover, Nov 2026) | Marina Bay Sands | LinkedIn | — | 2026-07-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Specialist%2C%20HR%20Services%20(4%20Months%20Maternity%20Cover%2C%20Nov%202026)%20Marina%20Bay%20Sands&location=Singapore) |
 | HR & Admin Executive | LUMINA ADVISORY & GLOBAL SEARCH PTE. LTD. | MyCareersFuture | 2 | 2026-07-09 | [Apply](https://www.mycareersfuture.gov.sg/job/1e4f45ec03db7dfbefe0f5a908b3fac9) |
 | Recruiter (FMCG) - 2 Months Contract - UP 3.5K #HYT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-07-09 | [Apply](https://www.mycareersfuture.gov.sg/job/1032017183d80cd9ea683c74f8de02c9) |
 | HR Admin - 1 year contract | VISIONPOWER SEMICONDUCTOR MANUFACTURING COMPANY PTE. LTD. | MyCareersFuture | 0 | 2026-07-09 | [Apply](https://www.mycareersfuture.gov.sg/job/7bedd6d33640f9b7cdb7938da565ad8b) |
@@ -61,15 +63,8 @@
 | HR EXECUTIVE | MANDATE OF MANPOWER PTE. LTD. | MyCareersFuture | 1 | 2026-07-09 | [Apply](https://www.mycareersfuture.gov.sg/job/fdff1a808073a3240296995961b9974d) |
 | DATA ANALYST | SERVICE CONNECTIONS HR CONSULTANCY PTE. LTD. | MyCareersFuture | 1 | 2026-07-09 | [Apply](https://www.mycareersfuture.gov.sg/job/f3b6bea4dffd00832242fd39f13221fe) |
 | Operations & Property Manager | ABI RESOURCES & SERVICES PTE. LTD. | MyCareersFuture | 1 | 2026-07-09 | [Apply](https://www.mycareersfuture.gov.sg/job/cfb8249b201176c25f3c1f13ddbbedd1) |
-| HR Billing Executive | ULRICH ENGINEERING & RAILWORKS PTE. LTD. | MyCareersFuture | 2 | 2026-07-09 | [Apply](https://www.mycareersfuture.gov.sg/job/f03dbf1681af3951d4db9fc3576fc153) |
-| HR & Admin Executive | INFINIX HOSPITALITY MANAGEMENT PTE. LTD. | MyCareersFuture | 2 | 2026-07-09 | [Apply](https://www.mycareersfuture.gov.sg/job/106614b304676b32afaafb3a9e5da466) |
-| ENGINEER | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-07-09 | [Apply](https://www.mycareersfuture.gov.sg/job/f13d851805569584c3fa881712d74891) |
-| Recruitment Consultant | REERACOEN SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-07-09 | [Apply](https://www.mycareersfuture.gov.sg/job/bd0ab37aaba5aaf98507577448c5a9af) |
-| CHEF DE CUISINE | LIMONCELLO PTE. LTD. | MyCareersFuture | 2 | 2026-07-09 | [Apply](https://www.mycareersfuture.gov.sg/job/b1502cd6dc2cf6fe84a6821f49a5e606) |
-| Compensation & Benefits Specialist | Shopee | LinkedIn | — | 2026-07-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Compensation%20%26amp%3B%20Benefits%20Specialist%20Shopee&location=Singapore) |
-| Senior Employee Relations Advisor | Wise | LinkedIn | — | 2026-07-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Employee%20Relations%20Advisor%20Wise&location=Singapore) |
-| Manager, Rewards | Grab | LinkedIn | — | 2026-07-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Manager%2C%20Rewards%20Grab&location=Singapore) |
-| HR & Management Specialist | Miraco Nutripharm | LinkedIn | — | 2026-07-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20%26amp%3B%20Management%20Specialist%20Miraco%20Nutripharm&location=Singapore) |
-| Human Resources Executive | Capella Hotels and Resorts | LinkedIn | — | 2026-07-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20Capella%20Hotels%20and%20Resorts&location=Singapore) |
-| HR Admin Executive | CWCS PTE. LTD. | MyCareersFuture | 1 | 2026-07-08 | [Apply](https://www.mycareersfuture.gov.sg/job/8044776c1bbfabe24c4077ded137e680) |
-| Senior HR Generalist | Spotify | LinkedIn | — | 2026-07-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20HR%20Generalist%20Spotify&location=Singapore) |
+| Human Resources Specialist (Contract) | Zuellig Pharma | LinkedIn | — | 2026-07-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Specialist%20(Contract)%20Zuellig%20Pharma&location=Singapore) |
+| People Assistant | FDM Group | LinkedIn | — | 2026-07-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20Assistant%20FDM%20Group&location=Singapore) |
+| Assistant / Executive, HR & Admin | Future Electronics | LinkedIn | — | 2026-07-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Assistant%20%2F%20Executive%2C%20HR%20%26amp%3B%20Admin%20Future%20Electronics&location=Singapore) |
+| Recruitment And Sales Consultant | SPEMOCEAN | LinkedIn | — | 2026-07-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Recruitment%20And%20Sales%20Consultant%20SPEMOCEAN&location=Singapore) |
+| QC Specialist | GSK | LinkedIn | — | 2026-07-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=QC%20Specialist%20GSK&location=Singapore) |
