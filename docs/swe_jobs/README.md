@@ -2,17 +2,18 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-07-11T14:03:21.542Z*
+> *Last updated: 2026-07-12T04:08:48.019Z*
 
-**Total listings: 31** *(MyCareersFuture: 21 | LinkedIn: 10)*
+**Total listings: 27** *(MyCareersFuture: 17 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Software Engineer and/or Senior Software Engineer (Automation & SCADA System - C - C++) | EA RECRUITMENT PTE. LTD. | MyCareersFuture | 2 | 2026-07-11 | [Apply](https://www.mycareersfuture.gov.sg/job/ccea6e21bee4f307b0ccb2099cdbc8c7) |
 | Linux C/C++ Software Engineer | NEXTLABS INTERNATIONAL PRIVATE LIMITED | MyCareersFuture | 1 | 2026-07-11 | [Apply](https://www.mycareersfuture.gov.sg/job/d880e0d5ae03c9a8fea517376747d8fe) |
 | SOFTWARE ENGINEER | KOH INFRASTRUCTURE SERVICES PTE. LTD. | MyCareersFuture | 2 | 2026-07-11 | [Apply](https://www.mycareersfuture.gov.sg/job/947ca7b4ec7f5ace2e01da8e1ef545ad) |
-| Software Engineer | Upskills | LinkedIn | — | 2026-07-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Upskills&location=Singapore) |
-| Software Tester / QA Analyst / Automation Engineer | ICMR Regional Medical Research Centre, Sri Vijaya Puram | LinkedIn | — | 2026-07-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Tester%20%2F%20QA%20Analyst%20%2F%20Automation%20Engineer%20ICMR%20Regional%20Medical%20Research%20Centre%2C%20Sri%20Vijaya%20Puram&location=Singapore) |
-| Technical Support Engineer / AI Engineer | Poultry & Livestock Middle East & Africa Magazine | LinkedIn | — | 2026-07-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Technical%20Support%20Engineer%20%2F%20AI%20Engineer%20Poultry%20%26amp%3B%20Livestock%20Middle%20East%20%26amp%3B%20Africa%20Magazine&location=Singapore) |
+| Software Engineer, Backend | GXS Bank | LinkedIn | — | 2026-07-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Backend%20GXS%20Bank&location=Singapore) |
+| Full Stack Developer | Pitney Bowes | LinkedIn | — | 2026-07-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Full%20Stack%20Developer%20Pitney%20Bowes&location=Singapore) |
+| Full Stack Engineer, Growth | Stripe | LinkedIn | — | 2026-07-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Full%20Stack%20Engineer%2C%20Growth%20Stripe&location=Singapore) |
 | Control (Software) Design Engineer / PLC Programmer #70912 | ANRADUS PTE. LTD. | MyCareersFuture | 0 | 2026-07-10 | [Apply](https://www.mycareersfuture.gov.sg/job/525e43483807515e1aba8853928d07ba) |
 | Software Engineer, Engineering Enablement | MOTIONAL SINGAPORE PTE. LIMITED | MyCareersFuture | 2 | 2026-07-10 | [Apply](https://www.mycareersfuture.gov.sg/job/dd48792e78f7f87afa774883a3b628d9) |
 | Software Engineer | NEWBRIDGE ALLIANCE PTE. LTD. | MyCareersFuture | 1 | 2026-07-10 | [Apply](https://www.mycareersfuture.gov.sg/job/8de91070b6d5438c1244b1e9004baac6) |
@@ -27,15 +28,10 @@
 | Principal Software Design Engineer (Medical) | RN CARE PTE. LTD. | MyCareersFuture | 2 | 2026-07-10 | [Apply](https://www.mycareersfuture.gov.sg/job/5c30731a5348b928d9a3cea42af987db) |
 | Senior Software Development Engineer (Medical) | RN CARE PTE. LTD. | MyCareersFuture | 2 | 2026-07-10 | [Apply](https://www.mycareersfuture.gov.sg/job/d21e97e050ad404fb221e8dcf40f5b8a) |
 | Day 2 Software Engineer | ASCENDION ENGINEERING SOLUTIONS SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-07-10 | [Apply](https://www.mycareersfuture.gov.sg/job/03d9cadd67fa5fa196880a81efbec524) |
-| Software Engineer (Automation) | RN CARE PTE. LTD. | MyCareersFuture | 2 | 2026-07-10 | [Apply](https://www.mycareersfuture.gov.sg/job/c2057e738e68e55a7fe601332faaa97a) |
-| Software Design Engineer (Automation) | RN CARE PTE. LTD. | MyCareersFuture | 2 | 2026-07-10 | [Apply](https://www.mycareersfuture.gov.sg/job/7b4f41b58bb20120f77cbf2b5edd20b6) |
-| Software Engineer (Java) | CAPGEMINI SINGAPORE  PTE. LTD. | MyCareersFuture | 2 | 2026-07-10 | [Apply](https://www.mycareersfuture.gov.sg/job/ef41bc2f5307840c61a62ef67acb449d) |
-| Java Software Engineer | THE EDGE CONTRACTING SERVICES PTE. LTD. | MyCareersFuture | 1 | 2026-07-10 | [Apply](https://www.mycareersfuture.gov.sg/job/e4a8e7cf76eedb24259a4b97b4b00283) |
-| ENGINEER, SOFTWARE | RENEW GROUP PRIVATE LIMITED | MyCareersFuture | 2 | 2026-07-10 | [Apply](https://www.mycareersfuture.gov.sg/job/501d6e0a7d8f1af512612ddea2eda133) |
-| Backend Software Engineer | Trulyyy | LinkedIn | — | 2026-07-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Backend%20Software%20Engineer%20Trulyyy&location=Singapore) |
-| Software Engineer | LTM | LinkedIn | — | 2026-07-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20LTM&location=Singapore) |
-| Founding Software Engineer | Clinify | LinkedIn | — | 2026-07-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Founding%20Software%20Engineer%20Clinify&location=Singapore) |
-| Software Test Engineer (Singapore) | Radix | LinkedIn | — | 2026-07-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Test%20Engineer%20(Singapore)%20Radix&location=Singapore) |
-| Software Engineer (Emerging Systems) | DSO National Laboratories | LinkedIn | — | 2026-07-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Emerging%20Systems)%20DSO%20National%20Laboratories&location=Singapore) |
-| Cloud Software Engineer | ST Engineering | LinkedIn | — | 2026-07-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Cloud%20Software%20Engineer%20ST%20Engineering&location=Singapore) |
-| Software Developer | DXC Technology | LinkedIn | — | 2026-07-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Developer%20DXC%20Technology&location=Singapore) |
+| Software Engineer III, Debug | Google | LinkedIn | — | 2026-07-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20III%2C%20Debug%20Google&location=Singapore) |
+| Software Engineer - Service Platform | ByteDance | LinkedIn | — | 2026-07-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20-%20Service%20Platform%20ByteDance&location=Singapore) |
+| Senior Software Engineer, Debug | Google | LinkedIn | — | 2026-07-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%2C%20Debug%20Google&location=Singapore) |
+| Backend Systems Engineer - IOT/Smart City | Accenture Southeast Asia | LinkedIn | — | 2026-07-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Backend%20Systems%20Engineer%20-%20IOT%2FSmart%20City%20Accenture%20Southeast%20Asia&location=Singapore) |
+| Back-end Developer | Accenture Southeast Asia | LinkedIn | — | 2026-07-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Back-end%20Developer%20Accenture%20Southeast%20Asia&location=Singapore) |
+| Software Developer | Singtel | LinkedIn | — | 2026-07-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Developer%20Singtel&location=Singapore) |
+| Software Engineer (Teradyne, Singapore) | Teradyne | LinkedIn | — | 2026-07-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Teradyne%2C%20Singapore)%20Teradyne&location=Singapore) |
