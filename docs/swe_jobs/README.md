@@ -2,12 +2,19 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-07-14T14:26:58.241Z*
+> *Last updated: 2026-07-15T03:47:08.062Z*
 
-**Total listings: 43** *(MyCareersFuture: 35 | LinkedIn: 10)*
+**Total listings: 47** *(MyCareersFuture: 40 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Software Engineer and/or Senior Software Engineer (Automation & SCADA System - C - C++) | EA RECRUITMENT PTE. LTD. | MyCareersFuture | 2 | 2026-07-15 | [Apply](https://www.mycareersfuture.gov.sg/job/365577e9aface466a15fb7c0e146b00b) |
+| Junior Software Developer (Open for 1 Year experience) | TALENTSIS PTE. LTD. | MyCareersFuture | 2 | 2026-07-15 | [Apply](https://www.mycareersfuture.gov.sg/job/9f30f28ed4b235678aea23b439d10ffb) |
+| Software Engineer, Data Programme | GovTech Singapore | LinkedIn | — | 2026-07-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Data%20Programme%20GovTech%20Singapore&location=Singapore) |
+| Software Engineer (.NET - SharePoint - Azure - Power Platform) | ELLIOTT MOSS CONSULTING PTE. LTD. | MyCareersFuture | 2 | 2026-07-14 | [Apply](https://www.mycareersfuture.gov.sg/job/0799202ba2770483c94a5c9e3b2e1c88) |
+| Computer Software Engineer (Fresh Graduate) | XIAOMI TECHNOLOGIES SINGAPORE PTE. LTD. | MyCareersFuture | 0 | 2026-07-14 | [Apply](https://www.mycareersfuture.gov.sg/job/a334e7c7e047ee107535d99979b09c8d) |
+| Software Engineer (Fresh Graduate) | XIAOMI TECHNOLOGIES SINGAPORE PTE. LTD. | MyCareersFuture | 0 | 2026-07-14 | [Apply](https://www.mycareersfuture.gov.sg/job/6c2146f7c07598f47117f5334f5cf954) |
+| Software Engineer (Computer Vision/Vision Inspection, C++) | RECRUIT EXPERT PTE. LTD. | MyCareersFuture | 2 | 2026-07-14 | [Apply](https://www.mycareersfuture.gov.sg/job/b881866d744a18faf90a7e2aa28c9962) |
 | Software Developer / Software Engineer #10123 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-07-14 | [Apply](https://www.mycareersfuture.gov.sg/job/f6fe75bfd6383b1a20f39ce9850c5ce0) |
 | Junior Full Stack Software Engineer (.NET, SQL) | GMP TECHNOLOGIES (S) PTE LTD | MyCareersFuture | 1 | 2026-07-14 | [Apply](https://www.mycareersfuture.gov.sg/job/a501f0d44d1ae7b0d6d2a4f71d0dd040) |
 | Service Engineer - Construction Software - Class 3 - 5 Days - Up To $3.9K - 4461 | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-07-14 | [Apply](https://www.mycareersfuture.gov.sg/job/65ab78bbd578fbab8a04f1e122d354d1) |
@@ -37,17 +44,14 @@
 | Backend Software Engineer - TikTok Live (Data Platform) - Singapore | TIKTOK PTE. LTD. | MyCareersFuture | 0 | 2026-07-13 | [Apply](https://www.mycareersfuture.gov.sg/job/1c0f2a9c49ef0c845263127eef5c31e2) |
 | Software Engineer (C++/C#, Machine Automation) #76684 | ANRADUS PTE. LTD. | MyCareersFuture | 1 | 2026-07-13 | [Apply](https://www.mycareersfuture.gov.sg/job/6bba04748370a1187e47ababde1dd38b) |
 | Semiconductor Software Test Engineer (Automation, Data Analytics & AI) | ETHOS SEARCH ASSOCIATES PTE. LTD. | MyCareersFuture | 1 | 2026-07-13 | [Apply](https://www.mycareersfuture.gov.sg/job/d3dfc06a0b139bf492e4473b89b03b23) |
-| Software Engineer and/or Senior Software Engineer (Automation & SCADA System - C - C++) | EA RECRUITMENT PTE. LTD. | MyCareersFuture | 2 | 2026-07-13 | [Apply](https://www.mycareersfuture.gov.sg/job/9d99dfbf45eb1bd3f8d06344a2f6e59a) |
 | Executive (Fresh Graduate) | YCH GROUP PTE LTD | MyCareersFuture | 0 | 2026-07-13 | [Apply](https://www.mycareersfuture.gov.sg/job/28c12cb3524516c0f642bacdf1ebdf18) |
 | Software Engineer | SINGULARITY DATA PTE. LTD. | MyCareersFuture | 1 | 2026-07-13 | [Apply](https://www.mycareersfuture.gov.sg/job/983b8d46fbb03852b3d628536e371750) |
 | Vision Software Engineer | TRANSCELESTIAL TECHNOLOGIES PTE. LTD. | MyCareersFuture | 2 | 2026-07-13 | [Apply](https://www.mycareersfuture.gov.sg/job/8232b4e29e754de1c434e8dee123fc9e) |
 | Software Engineer (C#, .NET Core framework, Angular) | ALLIANCE HEALTHCARE GROUP LIMITED | MyCareersFuture | 1 | 2026-07-13 | [Apply](https://www.mycareersfuture.gov.sg/job/5a4bc7bfda4969ff6f0230c6a07df3b0) |
 | Principal Software Design Engineer (Medical) | RN CARE PTE. LTD. | MyCareersFuture | 2 | 2026-07-13 | [Apply](https://www.mycareersfuture.gov.sg/job/6b1bedf39ac72cf670eba276454f781a) |
 | Senior Software Development Engineer (Medical) | RN CARE PTE. LTD. | MyCareersFuture | 2 | 2026-07-13 | [Apply](https://www.mycareersfuture.gov.sg/job/3b85c3e3577b7cf8838a1fca8dd3d40f) |
-| Software Engineer | TALENTVIS SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-07-13 | [Apply](https://www.mycareersfuture.gov.sg/job/7f8feaa8ee866139cc25556054819e87) |
 | Software Engineer, Ads Delivery | TikTok | LinkedIn | — | 2026-07-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Ads%20Delivery%20TikTok&location=Singapore) |
 | Software Engineer, Judiciary | GovTech Singapore | LinkedIn | — | 2026-07-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Judiciary%20GovTech%20Singapore&location=Singapore) |
-| Software Engineer | ThunderSoft | LinkedIn | — | 2026-07-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20ThunderSoft&location=Singapore) |
 | Backend Developer | Evolve MMA | LinkedIn | — | 2026-07-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Backend%20Developer%20Evolve%20MMA&location=Singapore) |
 | Backend Software Engineer, TikTok Shop (Europe) | TikTok | LinkedIn | — | 2026-07-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Backend%20Software%20Engineer%2C%20TikTok%20Shop%20(Europe)%20TikTok&location=Singapore) |
-| Software Engineer (Distributed Storage), Cloud Infrastructure | ByteDance | LinkedIn | — | 2026-07-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Distributed%20Storage)%2C%20Cloud%20Infrastructure%20ByteDance&location=Singapore) |
+| Software Engineer III, Google Pay and Wallet | Google | LinkedIn | — | 2026-07-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20III%2C%20Google%20Pay%20and%20Wallet%20Google&location=Singapore) |
