@@ -2,15 +2,24 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-07-16T14:35:52.244Z*
+> *Last updated: 2026-07-17T03:49:59.963Z*
 
-**Total listings: 60** *(MyCareersFuture: 52 | LinkedIn: 10)*
+**Total listings: 63** *(MyCareersFuture: 54 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| QUANTITY SURVEYOR | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-07-17 | [Apply](https://www.mycareersfuture.gov.sg/job/290a55f0d4b69b5d5c7fba87fb095daf) |
+| COORDINATOR | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-07-17 | [Apply](https://www.mycareersfuture.gov.sg/job/eb73104c645ceb5f3d56bce7595b2795) |
+| Admin Assistant (5.25 days) [EL] | WECRUIT PTE. LTD. | MyCareersFuture | 1 | 2026-07-17 | [Apply](https://www.mycareersfuture.gov.sg/job/250b8a37fba2cd241275645595cb40af) |
+| Associate Executive (Data Analytics), Human Resource, Data Management Office | JOBSTUDIO PTE. LTD. | MyCareersFuture | 1 | 2026-07-17 | [Apply](https://www.mycareersfuture.gov.sg/job/fdf9bbab10ec7f7b00b5c565956b1747) |
+| HR Intern ( Recruitment / Talent Acquisition Healthcare) #HYT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-07-17 | [Apply](https://www.mycareersfuture.gov.sg/job/d9c9515f87e0329380b874b76259d77c) |
+| HR Intern ( Healthcare 1-1 mentorship ) #HYT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-07-17 | [Apply](https://www.mycareersfuture.gov.sg/job/45a5b301e643e446d2cb3140d80c126f) |
+| Operations & HR Admin Executive | KOUFU PTE LTD | MyCareersFuture | 1 | 2026-07-17 | [Apply](https://www.mycareersfuture.gov.sg/job/b0d8cca58287a9023c17d0aacf0479bb) |
+| HR & Management Specialist | Miraco Nutripharm | LinkedIn | — | 2026-07-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20%26amp%3B%20Management%20Specialist%20Miraco%20Nutripharm&location=Singapore) |
+| HR/Admin | ZHONGHUA WATER PTE. LTD. | MyCareersFuture | 1 | 2026-07-16 | [Apply](https://www.mycareersfuture.gov.sg/job/e647f4b286fbd40b93819ed16b0dbb77) |
 | Admin Cum HR Assistant | KAI PENG TECHNOLOGY PTE. LTD. | MyCareersFuture | 1 | 2026-07-16 | [Apply](https://www.mycareersfuture.gov.sg/job/76de656ee0dd89a60270aff64f3cec78) |
 | Junior Accountant/Accountant (Operations & Finance) | AGEM BIO PTE. LTD. | MyCareersFuture | 1 | 2026-07-16 | [Apply](https://www.mycareersfuture.gov.sg/job/894636d63cc69002543a5b29ee2c46b2) |
-| FRESH ENTRY Talent Development HR Associate Executive #HJN | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-07-16 | [Apply](https://www.mycareersfuture.gov.sg/job/756f912490ee784285b260f86e779816) |
+| Talent Development HR Associate Executive #HJN | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-07-16 | [Apply](https://www.mycareersfuture.gov.sg/job/756f912490ee784285b260f86e779816) |
 | Talent Acquisition Specialist | PERSOL SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-07-16 | [Apply](https://www.mycareersfuture.gov.sg/job/a51f92f678286989ca7535aa89260f04) |
 | HR ASSISTANT | TEX-STAR ENGINEERING SINGAPORE PTE LTD | MyCareersFuture | 2 | 2026-07-16 | [Apply](https://www.mycareersfuture.gov.sg/job/d1cf825ae63234e1c64cd792018127fb) |
 | HR ASSISTANT | TEX-STAR ENGINEERING PTE LTD | MyCareersFuture | 2 | 2026-07-16 | [Apply](https://www.mycareersfuture.gov.sg/job/117cd2b051d246a8b743db212d234c6e) |
@@ -28,8 +37,10 @@
 | Human Resources (HR) Intern | JR FOODS PTE. LTD. | MyCareersFuture | 1 | 2026-07-16 | [Apply](https://www.mycareersfuture.gov.sg/job/af85cc925ac497d535c6b5d5c84ffa74) |
 | Human Resources Business Partner - Strategic HR & Employee Relations #HDC | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 2 | 2026-07-16 | [Apply](https://www.mycareersfuture.gov.sg/job/a416feaa7f0562e8e9cf42e641275990) |
 | HR & Admin Assistant (6months contract) | MDR LIMITED | MyCareersFuture | 1 | 2026-07-16 | [Apply](https://www.mycareersfuture.gov.sg/job/637be1e82f83a5d5c14c9521fb8abc1c) |
-| HR Specialist / HR Coordinator / HR Manager | WE Global Women Foundation | LinkedIn | — | 2026-07-16 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Specialist%20%2F%20HR%20Coordinator%20%2F%20HR%20Manager%20WE%20Global%20Women%20Foundation&location=Singapore) |
-| Part time Admin Assistant | Vantager Solutions Pte. Ltd | LinkedIn | — | 2026-07-16 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Part%20time%20Admin%20Assistant%20Vantager%20Solutions%20Pte.%20Ltd&location=Singapore) |
+| HR Advisor | RTX | LinkedIn | — | 2026-07-16 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Advisor%20RTX&location=Singapore) |
+| People & Culture Manager | Raffles Hotels & Resorts | LinkedIn | — | 2026-07-16 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20%26amp%3B%20Culture%20Manager%20Raffles%20Hotels%20%26amp%3B%20Resorts&location=Singapore) |
+| Manager (Human Resource) - Nee Soon | Ministry of Defence of Singapore | LinkedIn | — | 2026-07-16 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Manager%20(Human%20Resource)%20-%20Nee%20Soon%20Ministry%20of%20Defence%20of%20Singapore&location=Singapore) |
+| Senior Executive/Assistant Manager Industrial Relations | Singapore Airlines | LinkedIn | — | 2026-07-16 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Executive%2FAssistant%20Manager%20Industrial%20Relations%20Singapore%20Airlines&location=Singapore) |
 | HR Executive (Learning and Organisation Development; Public Sector) | ADECCO PERSONNEL PTE LTD | MyCareersFuture | 1 | 2026-07-15 | [Apply](https://www.mycareersfuture.gov.sg/job/dd4be8c60802dae9a17c8389e5307846) |
 | HR Executive #10149 | ANRADUS PTE. LTD. | MyCareersFuture | 1 | 2026-07-15 | [Apply](https://www.mycareersfuture.gov.sg/job/6582cb854d5cdc19cb45a14b43904192) |
 | HR Business Partner (MNC Manufacturing) - North | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 1 | 2026-07-15 | [Apply](https://www.mycareersfuture.gov.sg/job/46deb1d4c15591f9968e1c94b0836fcc) |
@@ -55,16 +66,8 @@
 | HR EXECUTIVE | OCD HANDS PTE. LTD. | MyCareersFuture | 1 | 2026-07-15 | [Apply](https://www.mycareersfuture.gov.sg/job/859bacf595c03fdfbc58f1c7f26e8751) |
 | HR ASSISTANT MANAGER | OCD HANDS PTE. LTD. | MyCareersFuture | 2 | 2026-07-15 | [Apply](https://www.mycareersfuture.gov.sg/job/b50c76afebccd9c0d46d0e9affbfb190) |
 | SAPERVISOR | STEEL ALLY RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-07-15 | [Apply](https://www.mycareersfuture.gov.sg/job/b3c3d889c778273f1094d1160aac5369) |
-| Sales Consultant (Live-In Caregiver Agency) | TOP FAITH PTE. LTD. | MyCareersFuture | 0 | 2026-07-15 | [Apply](https://www.mycareersfuture.gov.sg/job/ceb85b510c94a096c446348c1d86ab6a) |
-| Human Resources Manager - Basic Up $6000 - 5 days - Kranji-QQ | GRIFFIN HR CONSULTANCY PTE. LTD. | MyCareersFuture | 2 | 2026-07-15 | [Apply](https://www.mycareersfuture.gov.sg/job/4680369059c57e47f5ecc8f2b597cf20) |
-| HR Business Partner - Strategic People & Employee Relations Partner #HDC | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 2 | 2026-07-15 | [Apply](https://www.mycareersfuture.gov.sg/job/7b4588edf4bfe3a560819676296b3a2c) |
-| HR Executive (Talent & Campus Recruitment) | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-07-15 | [Apply](https://www.mycareersfuture.gov.sg/job/64b4e9cde9a7fce80641551ae9494b52) |
-| Executive / Senior Executive (Compensation & Benefits), HR | Singapore Business Federation | MyCareersFuture | 0 | 2026-07-15 | [Apply](https://www.mycareersfuture.gov.sg/job/03415dcf52c7b53e25e762d4feafcd76) |
-| Events Manager - The Singapore EDITION | EDITION | LinkedIn | — | 2026-07-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Events%20Manager%20-%20The%20Singapore%20EDITION%20EDITION&location=Singapore) |
-| Supplier Quality Engineer | Cohu, Inc. | LinkedIn | — | 2026-07-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Supplier%20Quality%20Engineer%20Cohu%2C%20Inc.&location=Singapore) |
-| AI Transformation Specialist, People Team | Shopee | LinkedIn | — | 2026-07-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=AI%20Transformation%20Specialist%2C%20People%20Team%20Shopee&location=Singapore) |
-| Crewing Executive (Maritime) | Tap Growth ai | LinkedIn | — | 2026-07-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Crewing%20Executive%20(Maritime)%20Tap%20Growth%20ai&location=Singapore) |
-| Internship - HR Talent Acquisition (October 2026 to April 2027) | Mediacorp Pte Ltd | LinkedIn | — | 2026-07-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Internship%20-%20HR%20Talent%20Acquisition%20(October%202026%20to%20April%202027)%20Mediacorp%20Pte%20Ltd&location=Singapore) |
+| HR Compensation & Benefits Specialist | Mizuho | LinkedIn | — | 2026-07-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Compensation%20%26amp%3B%20Benefits%20Specialist%20Mizuho&location=Singapore) |
+| HR Digital Specialist | Airbus | LinkedIn | — | 2026-07-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Digital%20Specialist%20Airbus&location=Singapore) |
+| Assistant Manager, People & Culture | Hegen | LinkedIn | — | 2026-07-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Assistant%20Manager%2C%20People%20%26amp%3B%20Culture%20Hegen&location=Singapore) |
+| Learning And Development Specialist | Zig by ComfortDelGro | LinkedIn | — | 2026-07-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Learning%20And%20Development%20Specialist%20Zig%20by%20ComfortDelGro&location=Singapore) |
 | Human Resources Executive - South East Asia (12 months' contract) | Hilton | LinkedIn | — | 2026-07-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20-%20South%20East%20Asia%20(12%20months'%20contract)%20Hilton&location=Singapore) |
-| Assistant Manager, Outreach & Talent Development (IME) | A*STAR - Agency for Science, Technology and Research | LinkedIn | — | 2026-07-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Assistant%20Manager%2C%20Outreach%20%26amp%3B%20Talent%20Development%20(IME)%20A*STAR%20-%20Agency%20for%20Science%2C%20Technology%20and%20Research&location=Singapore) |
-| Event Management - Manager | The Ritz-Carlton Hotel Company, L.L.C. | LinkedIn | — | 2026-07-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Event%20Management%20-%20Manager%20The%20Ritz-Carlton%20Hotel%20Company%2C%20L.L.C.&location=Singapore) |
