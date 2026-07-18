@@ -2,12 +2,14 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-07-18T03:43:38.467Z*
+> *Last updated: 2026-07-18T14:00:00.859Z*
 
-**Total listings: 40** *(MyCareersFuture: 30 | LinkedIn: 10)*
+**Total listings: 31** *(MyCareersFuture: 21 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| (Gain Hands On Recruiting Experiences!) 3 Months Temp HR Intern (Recruitment) @ Orchard #HJC | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-07-18 | [Apply](https://www.mycareersfuture.gov.sg/job/5c4bf4a02d9bbc224d65cf911a7e98cb) |
+| Customer Service Officer | GOLDEN DRAGON HUMAN RESOURCES | MyCareersFuture | 2 | 2026-07-18 | [Apply](https://www.mycareersfuture.gov.sg/job/265031a9d249437f139c06764cde8c97) |
 | Human Resources Executive | FU XIANG CONSTRUCTION PTE. LTD. | MyCareersFuture | 2 | 2026-07-18 | [Apply](https://www.mycareersfuture.gov.sg/job/46b74a21849da5c1338a4f89578f782b) |
 | HR Business Partner (MNC Manufacturing) - North | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 1 | 2026-07-18 | [Apply](https://www.mycareersfuture.gov.sg/job/59691f081fa2d3659bb40368b8287dc8) |
 | Executive, Shared Services | HYPERSCAL SOLUTIONS PTE. LTD. | MyCareersFuture | 0 | 2026-07-17 | [Apply](https://www.mycareersfuture.gov.sg/job/afbd93583929ed5b8410a714c8724d53) |
@@ -33,18 +35,7 @@
 | Manager, Rewards | Grab | LinkedIn | — | 2026-07-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Manager%2C%20Rewards%20Grab&location=Singapore) |
 | HR & Management Specialist | Miraco Nutripharm | LinkedIn | — | 2026-07-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20%26amp%3B%20Management%20Specialist%20Miraco%20Nutripharm&location=Singapore) |
 | HRBP, APAC Region - Singapore | DoubleVerify | LinkedIn | — | 2026-07-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HRBP%2C%20APAC%20Region%20-%20Singapore%20DoubleVerify&location=Singapore) |
+| HR Executive | Confidential | LinkedIn | — | 2026-07-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Executive%20Confidential&location=Singapore) |
 | HR/Admin | ZHONGHUA WATER PTE. LTD. | MyCareersFuture | 1 | 2026-07-16 | [Apply](https://www.mycareersfuture.gov.sg/job/e647f4b286fbd40b93819ed16b0dbb77) |
-| Admin Cum HR Assistant | KAI PENG TECHNOLOGY PTE. LTD. | MyCareersFuture | 1 | 2026-07-16 | [Apply](https://www.mycareersfuture.gov.sg/job/76de656ee0dd89a60270aff64f3cec78) |
-| Junior Accountant/Accountant (Operations & Finance) | AGEM BIO PTE. LTD. | MyCareersFuture | 1 | 2026-07-16 | [Apply](https://www.mycareersfuture.gov.sg/job/894636d63cc69002543a5b29ee2c46b2) |
-| Talent Development HR Associate Executive #HJN | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-07-16 | [Apply](https://www.mycareersfuture.gov.sg/job/756f912490ee784285b260f86e779816) |
-| Talent Acquisition Specialist | PERSOL SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-07-16 | [Apply](https://www.mycareersfuture.gov.sg/job/a51f92f678286989ca7535aa89260f04) |
-| HR ASSISTANT | TEX-STAR ENGINEERING SINGAPORE PTE LTD | MyCareersFuture | 2 | 2026-07-16 | [Apply](https://www.mycareersfuture.gov.sg/job/d1cf825ae63234e1c64cd792018127fb) |
-| HR ASSISTANT | TEX-STAR ENGINEERING PTE LTD | MyCareersFuture | 2 | 2026-07-16 | [Apply](https://www.mycareersfuture.gov.sg/job/117cd2b051d246a8b743db212d234c6e) |
-| Human Resource Executive | GRANDWORK INTERIOR PTE LTD | MyCareersFuture | 1 | 2026-07-16 | [Apply](https://www.mycareersfuture.gov.sg/job/4db46f110e4fff2d2aa5738b6bc7ca6f) |
-| HR (Talent Acquisition Specialist) up to $4000 | TALENT RECRUITMENT PTE. LTD. | MyCareersFuture | 1 | 2026-07-16 | [Apply](https://www.mycareersfuture.gov.sg/job/5742c4efbae0279c4bd94c775080b44e) |
-| HRIS Data Management (Power Query) #FR (1 year) | HAYS SPECIALIST RECRUITMENT PTE. LTD. | MyCareersFuture | 1 | 2026-07-16 | [Apply](https://www.mycareersfuture.gov.sg/job/a7e69bdf4260e9a57f0d5dd7b4a9953d) |
-| Talent Acquisition Executive | JTA CONSULTANCY | MyCareersFuture | 0 | 2026-07-16 | [Apply](https://www.mycareersfuture.gov.sg/job/b5de0fe9207a564c287b835695de8f91) |
-| Management Trainee Program (Fresh Graduate)) | FUTURUM SPACE PTE. LTD. | MyCareersFuture | 0 | 2026-07-16 | [Apply](https://www.mycareersfuture.gov.sg/job/ac84b9fc05cb8d6d7573f0765714ca0b) |
 | HR Advisor | RTX | LinkedIn | — | 2026-07-16 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Advisor%20RTX&location=Singapore) |
 | People & Culture Manager | Raffles Hotels & Resorts | LinkedIn | — | 2026-07-16 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20%26amp%3B%20Culture%20Manager%20Raffles%20Hotels%20%26amp%3B%20Resorts&location=Singapore) |
-| Manager (Human Resource) - Nee Soon | Ministry of Defence of Singapore | LinkedIn | — | 2026-07-16 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Manager%20(Human%20Resource)%20-%20Nee%20Soon%20Ministry%20of%20Defence%20of%20Singapore&location=Singapore) |
