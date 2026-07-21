@@ -2,12 +2,17 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-07-20T14:41:54.730Z*
+> *Last updated: 2026-07-21T03:58:28.401Z*
 
-**Total listings: 46** *(MyCareersFuture: 36 | LinkedIn: 10)*
+**Total listings: 47** *(MyCareersFuture: 39 | LinkedIn: 8)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Shipping & Admin Assistant/Import/Export Clerk | RENFOO PTE. LTD. | MyCareersFuture | 2 | 2026-07-21 | [Apply](https://www.mycareersfuture.gov.sg/job/f64d81fff45e9c7f0ec32ff55ec3af13) |
+| HR Assistant | GOLDTECH RESOURCES PTE LTD | MyCareersFuture | 2 | 2026-07-21 | [Apply](https://www.mycareersfuture.gov.sg/job/062eb8b3dba1aec75e9f5b7886a4ec3c) |
+| SAPERVISOR | STEEL ALLY RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-07-21 | [Apply](https://www.mycareersfuture.gov.sg/job/99646b13bd2128a3aa7aad74b351c8fd) |
+| Corporate Secretarial Assistant | PKF-CAP CORPORATE SERVICES PTE. LTD. | MyCareersFuture | 0 | 2026-07-21 | [Apply](https://www.mycareersfuture.gov.sg/job/b5a9e283c5431dd702ed86316dc88fb6) |
+| Intern, HR | Bosch ASEAN | LinkedIn | — | 2026-07-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Intern%2C%20HR%20Bosch%20ASEAN&location=Singapore) |
 | Corporate Assistant | TECHZU ICHICODE PTE. LTD. | MyCareersFuture | 1 | 2026-07-20 | [Apply](https://www.mycareersfuture.gov.sg/job/a2b813407b17e7c8c94e1e564890752e) |
 | Accounts cum HR Admin Assistant | AGUNER UNIVERSAL PTE. LTD. | MyCareersFuture | 1 | 2026-07-20 | [Apply](https://www.mycareersfuture.gov.sg/job/00cc935e6f60caa662d8ebeb5aa80cd9) |
 | 1 Year Contract Talent Acquisition Specialist (Healthcare, Up to $4200) #HCG | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 2 | 2026-07-20 | [Apply](https://www.mycareersfuture.gov.sg/job/3d3a2296be91e2c46ed584f8a07c5d23) |
@@ -42,15 +47,11 @@
 | HR Admin Assistant | STANDARD ENGINEERING PTE. LTD. | MyCareersFuture | 1 | 2026-07-20 | [Apply](https://www.mycareersfuture.gov.sg/job/a628d0d9274361153324eafac4d09744) |
 | HR & Admin Executive (manufacturing or precision engineering industry) - Woodlands - UP S$4.2K + basic | RECRUIT NOW SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-07-20 | [Apply](https://www.mycareersfuture.gov.sg/job/c6845fedfcf1afc32bb45179f786119b) |
 | HR & Admin Executive - S$3,800 – S$4,200 | RECRUIT NOW SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-07-20 | [Apply](https://www.mycareersfuture.gov.sg/job/542dd342c61d0ed9a2ad9d042904304c) |
-| Human Resources Executive | Valiram | LinkedIn | — | 2026-07-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20Valiram&location=Singapore) |
+| Human Resources Officer | iHub Solutions | LinkedIn | — | 2026-07-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Officer%20iHub%20Solutions&location=Singapore) |
+| Recruitment & Administrative Coordinator | Tap Growth ai | LinkedIn | — | 2026-07-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Recruitment%20%26amp%3B%20Administrative%20Coordinator%20Tap%20Growth%20ai&location=Singapore) |
 | Satair - People Solutions Specialist | Satair | LinkedIn | — | 2026-07-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Satair%20-%20People%20Solutions%20Specialist%20Satair&location=Singapore) |
-| Human Resources Manager | Raffles Girls' School | LinkedIn | — | 2026-07-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Manager%20Raffles%20Girls'%20School&location=Singapore) |
-| Manager, Human Resources – Asia Pacific | Hilton | LinkedIn | — | 2026-07-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Manager%2C%20Human%20Resources%20%E2%80%93%20Asia%20Pacific%20Hilton&location=Singapore) |
+| Satair - People Solutions Specialist | Airbus | LinkedIn | — | 2026-07-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Satair%20-%20People%20Solutions%20Specialist%20Airbus&location=Singapore) |
+| Area Sales Officer | Insight Genesis - IGAi | LinkedIn | — | 2026-07-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Area%20Sales%20Officer%20Insight%20Genesis%20-%20IGAi&location=Singapore) |
+| Senior/Biotechnologist (contracted till 30 Nov 2027) | GSK | LinkedIn | — | 2026-07-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%2FBiotechnologist%20(contracted%20till%2030%20Nov%202027)%20GSK&location=Singapore) |
 | HR & Admin Executive #10153 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-07-19 | [Apply](https://www.mycareersfuture.gov.sg/job/d9b9dfeb45dbe319ba272c65ef24ce62) |
-| Regional Employee Relations Manager | AMD | LinkedIn | — | 2026-07-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Regional%20Employee%20Relations%20Manager%20AMD&location=Singapore) |
-| Human Resource Business Partner | Nanyang Polytechnic | LinkedIn | — | 2026-07-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resource%20Business%20Partner%20Nanyang%20Polytechnic&location=Singapore) |
-| HR Business Partner - Singapore | Plaud | LinkedIn | — | 2026-07-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Business%20Partner%20-%20Singapore%20Plaud&location=Singapore) |
-| HR Executive | AccountStaff | LinkedIn | — | 2026-07-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Executive%20AccountStaff&location=Singapore) |
-| Executive, Shared Services (Contract Position) | HYPERSCAL SOLUTIONS PTE. LTD. | MyCareersFuture | 0 | 2026-07-18 | [Apply](https://www.mycareersfuture.gov.sg/job/eb0292699014ae5d101df2c56c3e5a1d) |
-| Tech Recruiter | Nas Company | LinkedIn | — | 2026-07-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Tech%20Recruiter%20Nas%20Company&location=Singapore) |
-| Recruiter | Gartner | LinkedIn | — | 2026-07-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Recruiter%20Gartner&location=Singapore) |
+| OUE | CMFASExam | LinkedIn | — | 2026-07-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=OUE%20CMFASExam&location=Singapore) |
