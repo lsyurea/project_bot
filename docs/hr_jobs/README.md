@@ -2,12 +2,20 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-07-22T14:37:13.900Z*
+> *Last updated: 2026-07-23T03:57:35.592Z*
 
-**Total listings: 39** *(MyCareersFuture: 31 | LinkedIn: 10)*
+**Total listings: 43** *(MyCareersFuture: 35 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Human Resources Executive | LUMINA ADVISORY & GLOBAL SEARCH PTE. LTD. | MyCareersFuture | 1 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/f4690a106b17aa00cec153f4067d44bb) |
+| HR Resourcing Partner (Hospitality) | FAR EAST HOSPITALITY MANAGEMENT (S) PTE. LTD. | MyCareersFuture | 1 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/a4d39941d19e9a7bfd3ee60e88847fa3) |
+| HR Admin | FEI SIONG FOOD MANAGEMENT PTE. LTD. | MyCareersFuture | 1 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/2644b246f895a2a9a29c84e16c962f8a) |
+| Human Resource Assistantant - Min $2.5k {hkhdv} | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 0 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/8141c12fe8a5c6990acd31d00da4a70a) |
+| Human Resource Assistantant - Training Provided {hkhdv} | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 0 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/dd04ec4509ee8c5468dbfcee6c7cf4f2) |
+| Assistant Manager (Recruitment Operations & Talent Research) - Government Sector | APBA TG HUMAN RESOURCE PTE. LTD. | MyCareersFuture | 1 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/ee25e10e7d7494c680e2f61ba85a7eb6) |
+| HR Specialist | Association of Process Industry | MyCareersFuture | 2 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/cd8b9ef56dfb0202e21015de87c071cc) |
+| HR Executive (Centre Area) [SL] | WECRUIT PTE. LTD. | MyCareersFuture | 1 | 2026-07-22 | [Apply](https://www.mycareersfuture.gov.sg/job/193fa0cb1cedf94f1d68cd5560a3190a) |
 | HR, Administrative & Accounts Officer | EASTERN FURNITURE & RENOVATION PTE. LTD. | MyCareersFuture | 2 | 2026-07-22 | [Apply](https://www.mycareersfuture.gov.sg/job/16dc353254b0f391e1fe8a88cb00923c) |
 | HR Assistant | YOKOGAWA ENGINEERING ASIA PTE LTD | MyCareersFuture | 2 | 2026-07-22 | [Apply](https://www.mycareersfuture.gov.sg/job/a95493c1b24eef144e32b98a284d5735) |
 | HR Executive | MINISTRY OF HOUSING PTE. LTD. | MyCareersFuture | 2 | 2026-07-22 | [Apply](https://www.mycareersfuture.gov.sg/job/f631c003b76aaec72f02e324a84bb25f) |
@@ -29,8 +37,8 @@
 | Human Resources Manager | Andaz Singapore | LinkedIn | — | 2026-07-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Manager%20Andaz%20Singapore&location=Singapore) |
 | Satair - People Solutions Specialist | Airbus | LinkedIn | — | 2026-07-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Satair%20-%20People%20Solutions%20Specialist%20Airbus&location=Singapore) |
 | Senior Human Resources Executive (HRBP) | UNIQLO | LinkedIn | — | 2026-07-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Human%20Resources%20Executive%20(HRBP)%20UNIQLO&location=Singapore) |
-| HR Executive | GKE CORPORATION LIMITED | LinkedIn | — | 2026-07-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Executive%20GKE%20CORPORATION%20LIMITED&location=Singapore) |
 | HR Business Partner (Regional) | DHL Supply Chain | LinkedIn | — | 2026-07-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Business%20Partner%20(Regional)%20DHL%20Supply%20Chain&location=Singapore) |
+| Senior Associate, Human Resources | HarbourVest Partners | LinkedIn | — | 2026-07-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Associate%2C%20Human%20Resources%20HarbourVest%20Partners&location=Singapore) |
 | Payroll Executive (Contract) - Orchard - up $4K per month | HRNET VENTURES PTE. LTD. | MyCareersFuture | 2 | 2026-07-21 | [Apply](https://www.mycareersfuture.gov.sg/job/b3c95747d60599bd475790e765271ad4) |
 | HR Executive (Payroll) | HONG YE GROUP PTE. LTD. | MyCareersFuture | 2 | 2026-07-21 | [Apply](https://www.mycareersfuture.gov.sg/job/7b94e5e0bf736d7299ba5d29664bad34) |
 | HR Business Partner (MNC Manufacturing) - North | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 1 | 2026-07-21 | [Apply](https://www.mycareersfuture.gov.sg/job/9282a368ee0df050b25db467e1864fe7) |
@@ -41,9 +49,5 @@
 | Human Resources Manager | FU XIANG ENGINEERING PTE. LTD. | MyCareersFuture | 2 | 2026-07-21 | [Apply](https://www.mycareersfuture.gov.sg/job/514520b20c07bdfe01bfb9472dccdcf3) |
 | HR Assistant - Up to $3k  {hkhdv} | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-07-21 | [Apply](https://www.mycareersfuture.gov.sg/job/071290a7a24c0ee94873a583f1a627f0) |
 | HR Assistant Admin - Tiong Bahru {hkhdv} | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-07-21 | [Apply](https://www.mycareersfuture.gov.sg/job/0a413a4901b397e607b66ce16029563c) |
-| Shipping & Admin Assistant/Import/Export Clerk | RENFOO PTE. LTD. | MyCareersFuture | 2 | 2026-07-21 | [Apply](https://www.mycareersfuture.gov.sg/job/f64d81fff45e9c7f0ec32ff55ec3af13) |
-| HR Assistant | GOLDTECH RESOURCES PTE LTD | MyCareersFuture | 2 | 2026-07-21 | [Apply](https://www.mycareersfuture.gov.sg/job/062eb8b3dba1aec75e9f5b7886a4ec3c) |
-| SAPERVISOR | STEEL ALLY RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-07-21 | [Apply](https://www.mycareersfuture.gov.sg/job/99646b13bd2128a3aa7aad74b351c8fd) |
-| Corporate Secretarial Assistant | PKF-CAP CORPORATE SERVICES PTE. LTD. | MyCareersFuture | 0 | 2026-07-21 | [Apply](https://www.mycareersfuture.gov.sg/job/b5a9e283c5431dd702ed86316dc88fb6) |
 | People Operations Generalist | Breeze | LinkedIn | — | 2026-07-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20Operations%20Generalist%20Breeze&location=Singapore) |
-| Specialist, Cabin Services (Crew Performance & Engagement) | Scoot | LinkedIn | — | 2026-07-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Specialist%2C%20Cabin%20Services%20(Crew%20Performance%20%26amp%3B%20Engagement)%20Scoot&location=Singapore) |
+| Human Resources Business Partner | CEVA Logistics | LinkedIn | — | 2026-07-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Business%20Partner%20CEVA%20Logistics&location=Singapore) |
