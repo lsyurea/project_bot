@@ -2,12 +2,24 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-07-23T14:52:18.704Z*
+> *Last updated: 2026-07-24T03:56:28.251Z*
 
-**Total listings: 45** *(MyCareersFuture: 37 | LinkedIn: 10)*
+**Total listings: 50** *(MyCareersFuture: 46 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| SENIOR HR EXECUTIVE / ASSISTANT HR MANAGER | MANDATE OF MANPOWER PTE. LTD. | MyCareersFuture | 2 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/384dec7d9b7c35189440ad6d8dfcb875) |
+| HR EXECUTIVE | MANDATE OF MANPOWER PTE. LTD. | MyCareersFuture | 1 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/b75b7bdd5461947d02e26514d62734b5) |
+| HR Executive (Entry Level) #ESY | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/cbbeab50d1882490996a9ee7023636c7) |
+| HR Generalist - Entry Level ($3550)  #NJN | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/763e509305a67a01b4bda68d14fc0ef1) |
+| Financial and Admin Assistant | WEAVE LIVING SG PTE. LTD. | MyCareersFuture | 2 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/faea7711414ca019dad06adc8e50a51d) |
+| MANAGEMENT ASSOCIATE | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/cf0f62a7368e59b76511d98e92d96072) |
+| HR EXECUTIVE | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/eb688fce28d260f7dc5d50c37a614588) |
+| ACCOUNT MANAGER | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/b1142b8a25637f2e0fb1108d56a5f485) |
+| ACCOUNT EXECUTIVE | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/16ebdfcae5f88f81cb7373e84c454b46) |
+| Human Resource Assistant - Jurong East Japanese MNC | GRACE HR SOLUTIONS | MyCareersFuture | 0 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/16b6997f693a3ae5a0b234dbd107f644) |
+| Human Resources Executive | Acclime | LinkedIn | — | 2026-07-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20Acclime&location=Singapore) |
+| HR ADMIN | Day One Pte. Ltd. | LinkedIn | — | 2026-07-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20ADMIN%20Day%20One%20Pte.%20Ltd.&location=Singapore) |
 | Corporate Coordinating Manager | HAVE FUN ORCHARD PTE. LTD. | MyCareersFuture | 2 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/61f187008ac3131cea07f65519b250de) |
 | FLOOR TILER | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/78a3ceaee19ce9a00f5d0138bda7b856) |
 | HR Executive Assistant (Healthcare) #HJOT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/286bb42ca03efc0d44d837769f4951d9) |
@@ -29,8 +41,6 @@
 | Assistant Manager (Recruitment Operations & Talent Research) - Government Sector | APBA TG HUMAN RESOURCE PTE. LTD. | MyCareersFuture | 1 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/ee25e10e7d7494c680e2f61ba85a7eb6) |
 | HR Specialist | Association of Process Industry | MyCareersFuture | 2 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/cd8b9ef56dfb0202e21015de87c071cc) |
 | Executive/ Senior Executive/ Asst Mger Learning & Devt - OJT & Capability Devt (2 Years Contract) | Singapore Airlines | LinkedIn | — | 2026-07-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Executive%2F%20Senior%20Executive%2F%20Asst%20Mger%20Learning%20%26amp%3B%20Devt%20-%20OJT%20%26amp%3B%20Capability%20Devt%20(2%20Years%20Contract)%20Singapore%20Airlines&location=Singapore) |
-| Assistant Manager Compliance | Google Developer Student Clubs | LinkedIn | — | 2026-07-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Assistant%20Manager%20Compliance%20Google%20Developer%20Student%20Clubs&location=Singapore) |
-| Associate | Link and Motivation Singapore Pte. Ltd. | LinkedIn | — | 2026-07-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Associate%20Link%20and%20Motivation%20Singapore%20Pte.%20Ltd.&location=Singapore) |
 | HR Executive (Centre Area) [SL] | WECRUIT PTE. LTD. | MyCareersFuture | 1 | 2026-07-22 | [Apply](https://www.mycareersfuture.gov.sg/job/193fa0cb1cedf94f1d68cd5560a3190a) |
 | HR, Administrative & Accounts Officer | EASTERN FURNITURE & RENOVATION PTE. LTD. | MyCareersFuture | 2 | 2026-07-22 | [Apply](https://www.mycareersfuture.gov.sg/job/16dc353254b0f391e1fe8a88cb00923c) |
 | HR Assistant | YOKOGAWA ENGINEERING ASIA PTE LTD | MyCareersFuture | 2 | 2026-07-22 | [Apply](https://www.mycareersfuture.gov.sg/job/a95493c1b24eef144e32b98a284d5735) |
@@ -42,14 +52,9 @@
 | HR Admin - Human Resources Admin (5 Days / West) | EA RECRUITMENT PTE. LTD. | MyCareersFuture | 1 | 2026-07-22 | [Apply](https://www.mycareersfuture.gov.sg/job/3ae609e38d6a3d3bec4f2f0da23fed40) |
 | CIVIL ENGINEERING DRAFTER | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-07-22 | [Apply](https://www.mycareersfuture.gov.sg/job/3dc87e7fcb33df92395a2778fccfecb4) |
 | Talent Acquisition Executive | JTA CONSULTANCY | MyCareersFuture | 0 | 2026-07-22 | [Apply](https://www.mycareersfuture.gov.sg/job/aea98aed110f079f1027c2ae1590d523) |
-| Recruitment Consultant | REERACOEN SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-07-22 | [Apply](https://www.mycareersfuture.gov.sg/job/6c328d2293eb32b772aacbcd5ce57b76) |
-| HR Admin Assistant / Executive | CRAWFURD HOSPITAL PTE. LTD. | MyCareersFuture | 2 | 2026-07-22 | [Apply](https://www.mycareersfuture.gov.sg/job/385ef3b090a2760661be2e3d59361e73) |
-| Human Resource Assistant | TALENT FIRST PTE. LTD. | MyCareersFuture | 1 | 2026-07-22 | [Apply](https://www.mycareersfuture.gov.sg/job/f3e929e2164a1ce512821d25f60abdc4) |
-| ELECTRICAL & INSTRUMENTATION ENGINEER | OMNI-CREST ENGINEERING & CONSTRUCTION PTE. LTD. | MyCareersFuture | 2 | 2026-07-22 | [Apply](https://www.mycareersfuture.gov.sg/job/9f6e93d722b10b7b3990c1f54fd344ae) |
 | Human Resources Associate, People Team (2026 Graduate) | Shopee | LinkedIn | — | 2026-07-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Associate%2C%20People%20Team%20(2026%20Graduate)%20Shopee&location=Singapore) |
 | Human Resources Specialist II | Hyve Solutions | LinkedIn | — | 2026-07-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Specialist%20II%20Hyve%20Solutions&location=Singapore) |
-| Human Resources Executive | Talent First Pte Ltd | LinkedIn | — | 2026-07-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20Talent%20First%20Pte%20Ltd&location=Singapore) |
 | Recruiter | Ultra Clean Technology | LinkedIn | — | 2026-07-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Recruiter%20Ultra%20Clean%20Technology&location=Singapore) |
 | Senior / Assistant Manager, HR Technology | SingHealth | LinkedIn | — | 2026-07-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20%2F%20Assistant%20Manager%2C%20HR%20Technology%20SingHealth&location=Singapore) |
+| Hotel/Tourism Jobs in Fairmont Singapore & Swissôtel The Stamford | Job Vacancy At Dubai | LinkedIn | — | 2026-07-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Hotel%2FTourism%20Jobs%20in%20Fairmont%20Singapore%20%26amp%3B%20Swiss%C3%B4tel%20The%20Stamford%20Job%20Vacancy%20At%20Dubai&location=Singapore) |
 | Site Administrator | Huntsman Corporation | LinkedIn | — | 2026-07-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Site%20Administrator%20Huntsman%20Corporation&location=Singapore) |
-| Specialist, Payroll | Scoot | LinkedIn | — | 2026-07-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Specialist%2C%20Payroll%20Scoot&location=Singapore) |
