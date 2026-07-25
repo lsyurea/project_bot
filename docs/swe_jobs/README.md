@@ -2,12 +2,14 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-07-24T14:23:02.256Z*
+> *Last updated: 2026-07-25T03:51:56.482Z*
 
-**Total listings: 41** *(MyCareersFuture: 32 | LinkedIn: 10)*
+**Total listings: 36** *(MyCareersFuture: 27 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Software Engineer / Software Developer / Application Developer | Dolphin Marine Services Marine Surveyor & Loss Assessors. | LinkedIn | — | 2026-07-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20%2F%20Software%20Developer%20%2F%20Application%20Developer%20Dolphin%20Marine%20Services%20Marine%20Surveyor%20%26amp%3B%20Loss%20Assessors.&location=Singapore) |
+| Software Engineer | HEYGEN ASIA PACIFIC PTE. LTD. | MyCareersFuture | 2 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/85018c8038dce96c2c3409a35c3d7424) |
 | AI Software Engineer (1-year renewable) #IAC | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/3c949026ffa7d086eab4df8d7a8c887b) |
 | Full Stack Software Engineer - WCAN | WECRUIT PTE. LTD. | MyCareersFuture | 2 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/18fc6431b6cf5706238a114dc46aa4ab) |
 | Software Engineer #84739 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/3e233402ae5a2fd59a54ab12201ee760) |
@@ -19,12 +21,11 @@
 | Software Engineer (Java, SpringBoot, React) (ref: 120) | IT CONSULTANCY & SERVICES PTE LTD | MyCareersFuture | 1 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/f4eaef664ba610faf3d66136822e193a) |
 | Test Engineer - Software (AI) | PC PARTNER TECHNOLOGY PTE. LIMITED | MyCareersFuture | 2 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/45ae6275e7d3667572a26c9d82e9f929) |
 | Senior / Software Engineer (PLC) | PSB TECHNOLOGIES PTE. LTD. | MyCareersFuture | 2 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/80b73e85e0f6209be244c3f07c7c2e5d) |
-| Software Engineer | iOS Developer | LinkedIn | — | 2026-07-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20iOS%20Developer&location=Singapore) |
+| Software Engineer | Tower Research Capital | LinkedIn | — | 2026-07-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Tower%20Research%20Capital&location=Singapore) |
 | Software Engineer (Information) | DSO National Laboratories | LinkedIn | — | 2026-07-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Information)%20DSO%20National%20Laboratories&location=Singapore) |
-| Robotics Software Engineer | DSO National Laboratories | LinkedIn | — | 2026-07-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Robotics%20Software%20Engineer%20DSO%20National%20Laboratories&location=Singapore) |
 | Machine Learning Engineer | Apple | LinkedIn | — | 2026-07-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Machine%20Learning%20Engineer%20Apple&location=Singapore) |
+| Robotics Software Engineer | DSO National Laboratories | LinkedIn | — | 2026-07-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Robotics%20Software%20Engineer%20DSO%20National%20Laboratories&location=Singapore) |
 | Software Engineer (mid-level, L4) | Hotlotz | LinkedIn | — | 2026-07-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(mid-level%2C%20L4)%20Hotlotz&location=Singapore) |
-| Engineer | ST Engineering | LinkedIn | — | 2026-07-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Engineer%20ST%20Engineering&location=Singapore) |
 | Software Engineer (Up to $5000) West | GEMS PARTNERS NETWORK PTE. LTD. | MyCareersFuture | 2 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/5fc3845053c4303b3f2166f5736a34e4) |
 | Software Engineer (Computer Vision/Vision Inspection, C++) | RECRUIT EXPERT PTE. LTD. | MyCareersFuture | 2 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/7cf29eb4f4ca8dd7569f463a613bf8eb) |
 | Software Engineer (Internship) | ORDERING PTE. LTD. | MyCareersFuture | 0 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/5cb19a8bc007c47a7ef91fd0f4f0a5c3) |
@@ -39,12 +40,6 @@
 | Software Engineer | WIZVISION PTE. LTD. | MyCareersFuture | 1 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/94719e8323b78433b4c284b27bf3bc22) |
 | Software Engineer x 4 (C++ / C#.Net)  AMK area | MAESTRO HUMAN RESOURCE PTE. LTD. | MyCareersFuture | 2 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/dd6873440ca6c2a65e39feaedd3c9d02) |
 | Junior Software Test Engineer | DIGIWORLD TECHNOLOGIES PTE. LTD. | MyCareersFuture | 1 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/8834edeec71a2e619e26c24ba4005b76) |
-| *Entry Level* 12 Months Contract Engineer (Up to $6,000)  #NJN | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/9ba43e2787e8066a02d17dc71d4bfc36) |
-| Senior Software Development Engineer (Medical) | RN CARE PTE. LTD. | MyCareersFuture | 2 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/7ee060c07f590d15a5604df66efb35d9) |
-| Principal Software Design Engineer (Medical) | RN CARE PTE. LTD. | MyCareersFuture | 2 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/203ed0ae16488bf7bcad9f58f2c16657) |
-| Software Engineer (Automation) | RN CARE PTE. LTD. | MyCareersFuture | 2 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/9a34c73c8bd86a4efb1cdd53001488ba) |
-| Software Design Engineer (Automation) | RN CARE PTE. LTD. | MyCareersFuture | 2 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/3274adf5f143aeee8b46f7d0db4c55f8) |
-| Control (Software) Design Engineer / PLC Programmer #70912 | ANRADUS PTE. LTD. | MyCareersFuture | 0 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/0ee04d1c0b7f35eda4b026c798e1cce4) |
 | Software Development Engineer in Test | Apple | LinkedIn | — | 2026-07-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Development%20Engineer%20in%20Test%20Apple&location=Singapore) |
 | Software Test Engineer (Singapore) | Radix | LinkedIn | — | 2026-07-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Test%20Engineer%20(Singapore)%20Radix&location=Singapore) |
 | Software Engineer, ActiveSG | Open Government Products | LinkedIn | — | 2026-07-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20ActiveSG%20Open%20Government%20Products&location=Singapore) |
