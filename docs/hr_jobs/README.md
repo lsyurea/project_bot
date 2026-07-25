@@ -2,13 +2,18 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-07-25T03:51:52.295Z*
+> *Last updated: 2026-07-25T14:12:52.590Z*
 
-**Total listings: 48** *(MyCareersFuture: 42 | LinkedIn: 10)*
+**Total listings: 37** *(MyCareersFuture: 31 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Recruitment Consultant （Commission Base WFH) - Singapore | MAYSON TAYOR PTE. LTD. | MyCareersFuture | 1 | 2026-07-25 | [Apply](https://www.mycareersfuture.gov.sg/job/9c5f3263f95f412bac9f664ab09bdd6b) |
+| HR & Admin Executive #10153 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-07-25 | [Apply](https://www.mycareersfuture.gov.sg/job/89f85b9d4dca44d6f0691edb49f7dc2b) |
+| Associate/Senior Associate, Talent Acquisition | Klook | LinkedIn | — | 2026-07-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Associate%2FSenior%20Associate%2C%20Talent%20Acquisition%20Klook&location=Singapore) |
+| People Trainee (6 months) | foodpanda | LinkedIn | — | 2026-07-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20Trainee%20(6%20months)%20foodpanda&location=Singapore) |
 | Part time Admin Assistant | Vantager Solutions Pte. Ltd | LinkedIn | — | 2026-07-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Part%20time%20Admin%20Assistant%20Vantager%20Solutions%20Pte.%20Ltd&location=Singapore) |
+| Associate/ Analyst, Research (Equity) | Manulife | LinkedIn | — | 2026-07-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Associate%2F%20Analyst%2C%20Research%20(Equity)%20Manulife&location=Singapore) |
 | Executive, Human Resource & Administration (IT) | Down Syndrome Association (Singapore) | MyCareersFuture | 1 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/62e01614ea5978ad57b59cc400ef2846) |
 | *URGENT* Talent Acquisition Executive (Central, Healthcare) - HWX | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/195a6dfaa3c8ce7d63b952b9048acf07) |
 | Part time Human Resource Officer | VANTAGER SOLUTIONS PTE. LTD. | MyCareersFuture | 1 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/3a8acc6ba26b56b8caea436d9052d42e) |
@@ -39,20 +44,4 @@
 | Human Resources Administrator | Sanli Environmental Limited | LinkedIn | — | 2026-07-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Administrator%20Sanli%20Environmental%20Limited&location=Singapore) |
 | Management / Human Resources (Full-time) | Mavericks Consulting | LinkedIn | — | 2026-07-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Management%20%2F%20Human%20Resources%20(Full-time)%20Mavericks%20Consulting&location=Singapore) |
 | 2026 Inexperienced Hire - HR Professional | ExxonMobil | LinkedIn | — | 2026-07-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=2026%20Inexperienced%20Hire%20-%20HR%20Professional%20ExxonMobil&location=Singapore) |
-| HR Generalist (L&D) (6 Months Contract) | Michael Page | LinkedIn | — | 2026-07-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Generalist%20(L%26amp%3BD)%20(6%20Months%20Contract)%20Michael%20Page&location=Singapore) |
 | Executive, Shared Services (Contract Position) | Empact | LinkedIn | — | 2026-07-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Executive%2C%20Shared%20Services%20(Contract%20Position)%20Empact&location=Singapore) |
-| Sales Specialist | Insight Genesis - IGAi | LinkedIn | — | 2026-07-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Sales%20Specialist%20Insight%20Genesis%20-%20IGAi&location=Singapore) |
-| Corporate Coordinating Manager | HAVE FUN ORCHARD PTE. LTD. | MyCareersFuture | 2 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/61f187008ac3131cea07f65519b250de) |
-| FLOOR TILER | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/78a3ceaee19ce9a00f5d0138bda7b856) |
-| HR Executive Assistant (Healthcare) #HJOT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/286bb42ca03efc0d44d837769f4951d9) |
-| HR EXECUTIVE | OCD HANDS PTE. LTD. | MyCareersFuture | 1 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/5858f940e5ed4130e76c88d7d477e7b8) |
-| HR ASSISTANT MANAGER | OCD HANDS PTE. LTD. | MyCareersFuture | 2 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/ef504a8e0f2eac639a37a698463558c7) |
-| HR Generalist (Perm- Banking - CBD) | GREENLANE PRIVATE LTD. | MyCareersFuture | 2 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/372eb27d72ce6cd4fcad424ba2288024) |
-| Founder Content & B2B Marketing Intern | CURIOUSCORE PTE. LTD. | MyCareersFuture | 1 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/e99b09c718e990126765ff950cd7007a) |
-| HR Assistant | IDEALS RECRUITMENT PTE. LTD. | MyCareersFuture | 1 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/a715053a09c42ee55edc50bbbe4fa6b1) |
-| Learning & Development Executive (Corporate Training) | TANGPINXUAN PTE. LTD. | MyCareersFuture | 2 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/bc678d36d4e0b47e104c38624d203f9a) |
-| HR EXECUTIVE | DAY ONE PTE. LTD. | MyCareersFuture | 1 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/44ee11aef7f157c45cea542e9ce62bce) |
-| Workforce Planning & Organizational Development Intern | HL BUILDING MATERIALS PTE. LTD. | MyCareersFuture | 0 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/ddb52c7731298e2ddb7f0c793013691e) |
-| CONSTRUCTION SUPERVISOR | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/37dec88ef5823b68e2f7f18f2ffcec9d) |
-| HR INTERN | ABSOLUT POH TEO INVESTMENT HOLDING LLP | MyCareersFuture | 0 | 2026-07-23 | [Apply](https://www.mycareersfuture.gov.sg/job/952d08457e5ed0ee3f354952532217e3) |
-| Executive/ Senior Executive/ Asst Mger Learning & Devt - OJT & Capability Devt (2 Years Contract) | Singapore Airlines | LinkedIn | — | 2026-07-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Executive%2F%20Senior%20Executive%2F%20Asst%20Mger%20Learning%20%26amp%3B%20Devt%20-%20OJT%20%26amp%3B%20Capability%20Devt%20(2%20Years%20Contract)%20Singapore%20Airlines&location=Singapore) |
