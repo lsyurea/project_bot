@@ -2,9 +2,9 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-07-26T04:08:46.564Z*
+> *Last updated: 2026-07-26T14:11:41.450Z*
 
-**Total listings: 25** *(MyCareersFuture: 15 | LinkedIn: 10)*
+**Total listings: 20** *(MyCareersFuture: 10 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
@@ -20,16 +20,11 @@
 | Software Developer | Tower Research Capital | LinkedIn | — | 2026-07-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Developer%20Tower%20Research%20Capital&location=Singapore) |
 | Software Engineer, GovTech Innovation Office | GovTech Singapore | LinkedIn | — | 2026-07-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20GovTech%20Innovation%20Office%20GovTech%20Singapore&location=Singapore) |
 | Software Engineer | Applied Materials South East Asia | LinkedIn | — | 2026-07-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Applied%20Materials%20South%20East%20Asia&location=Singapore) |
+| Software Engineer | Internal Security Department | LinkedIn | — | 2026-07-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Internal%20Security%20Department&location=Singapore) |
+| Software Engineer - Display i18n (Linux, C/C++, Mandarin) | Red Hat | LinkedIn | — | 2026-07-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20-%20Display%20i18n%20(Linux%2C%20C%2FC%2B%2B%2C%20Mandarin)%20Red%20Hat&location=Singapore) |
+| Software Developer | VisionPower Semiconductor Manufacturing Company (VSMC) | LinkedIn | — | 2026-07-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Developer%20VisionPower%20Semiconductor%20Manufacturing%20Company%20(VSMC)&location=Singapore) |
+| Golang 开发工程师 | 上海猎鑫人力资源有限公司 | LinkedIn | — | 2026-07-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Golang%20%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%20%E4%B8%8A%E6%B5%B7%E7%8C%8E%E9%91%AB%E4%BA%BA%E5%8A%9B%E8%B5%84%E6%BA%90%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&location=Singapore) |
 | Software Engineer | HEYGEN ASIA PACIFIC PTE. LTD. | MyCareersFuture | 2 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/85018c8038dce96c2c3409a35c3d7424) |
-| AI Software Engineer (1-year renewable) #IAC | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/3c949026ffa7d086eab4df8d7a8c887b) |
-| Full Stack Software Engineer - WCAN | WECRUIT PTE. LTD. | MyCareersFuture | 2 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/18fc6431b6cf5706238a114dc46aa4ab) |
-| Software Engineer #84739 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/3e233402ae5a2fd59a54ab12201ee760) |
-| Backend Software Engineer Graduate (Global Live Data Platform) - 2027 Start | TIKTOK PTE. LTD. | MyCareersFuture | 0 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/7ace2f93fb0550edf2120dc8378356d2) |
-| Backend Software Engineer Graduate (Global LIVE Fund Safety)- 2027 Start | TIKTOK PTE. LTD. | MyCareersFuture | 0 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/1f16ca166627a6c329cd04c29a4d7fd4) |
-| Software Engineer (Information) | DSO National Laboratories | LinkedIn | — | 2026-07-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Information)%20DSO%20National%20Laboratories&location=Singapore) |
 | Software Engineer, Safe Coding | Google | LinkedIn | — | 2026-07-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Safe%20Coding%20Google&location=Singapore) |
 | Software Engineer | Tower Research Capital | LinkedIn | — | 2026-07-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Tower%20Research%20Capital&location=Singapore) |
-| Software Engineer, Open Source Security | Google | LinkedIn | — | 2026-07-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Open%20Source%20Security%20Google&location=Singapore) |
-| Software Engineer, Backend | Grab | LinkedIn | — | 2026-07-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Backend%20Grab&location=Singapore) |
-| C++ Software Engineer | Optiver | LinkedIn | — | 2026-07-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=C%2B%2B%20Software%20Engineer%20Optiver&location=Singapore) |
-| Software Engineer (User) | SEPHORA | LinkedIn | — | 2026-07-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(User)%20SEPHORA&location=Singapore) |
+| Software Engineer, Acceleration Platform | Google | LinkedIn | — | 2026-07-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Acceleration%20Platform%20Google&location=Singapore) |
