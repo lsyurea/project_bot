@@ -2,12 +2,13 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-07-25T14:12:52.590Z*
+> *Last updated: 2026-07-26T04:08:49.940Z*
 
-**Total listings: 37** *(MyCareersFuture: 31 | LinkedIn: 10)*
+**Total listings: 25** *(MyCareersFuture: 16 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Talent Operations & Delivery Coordinator (2 months contract) | Manpower Singapore | LinkedIn | — | 2026-07-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Operations%20%26amp%3B%20Delivery%20Coordinator%20(2%20months%20contract)%20Manpower%20Singapore&location=Singapore) |
 | Recruitment Consultant （Commission Base WFH) - Singapore | MAYSON TAYOR PTE. LTD. | MyCareersFuture | 1 | 2026-07-25 | [Apply](https://www.mycareersfuture.gov.sg/job/9c5f3263f95f412bac9f664ab09bdd6b) |
 | HR & Admin Executive #10153 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-07-25 | [Apply](https://www.mycareersfuture.gov.sg/job/89f85b9d4dca44d6f0691edb49f7dc2b) |
 | Associate/Senior Associate, Talent Acquisition | Klook | LinkedIn | — | 2026-07-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Associate%2FSenior%20Associate%2C%20Talent%20Acquisition%20Klook&location=Singapore) |
@@ -28,19 +29,6 @@
 | Business Support Executive [HR Admin & Payroll support] | APBA TG HUMAN RESOURCE PTE. LTD. | MyCareersFuture | 1 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/2d36675b1f3a0b253ab77961a01db313) |
 | Accountant (12 months contract) | NEXTKIDNEY SG PTE. LTD. | MyCareersFuture | 2 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/1fdbd7171c6c4da6eba9e8cca180b61b) |
 | Human Resources Intern | BIG 3 GROUP PTE. LTD. | MyCareersFuture | 0 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/6d73413c8a17a204ee9a0c1725c5a1ce) |
-| LORRY DRIVER | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/36390998b038794661ec73512ebce2ae) |
-| HR EXECUTIVE | TOTAL MANPOWER PTE. LTD. | MyCareersFuture | 1 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/88fc018cd2a501ccde1cc25f5471b9e8) |
-| SENIOR HR EXECUTIVE / ASSISTANT HR MANAGER | MANDATE OF MANPOWER PTE. LTD. | MyCareersFuture | 2 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/384dec7d9b7c35189440ad6d8dfcb875) |
-| HR EXECUTIVE | MANDATE OF MANPOWER PTE. LTD. | MyCareersFuture | 1 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/b75b7bdd5461947d02e26514d62734b5) |
-| HR Executive (Entry Level) #ESY | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/cbbeab50d1882490996a9ee7023636c7) |
-| HR Generalist - Entry Level ($3550)  #NJN | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/763e509305a67a01b4bda68d14fc0ef1) |
-| Financial and Admin Assistant | WEAVE LIVING SG PTE. LTD. | MyCareersFuture | 2 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/faea7711414ca019dad06adc8e50a51d) |
-| MANAGEMENT ASSOCIATE | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/cf0f62a7368e59b76511d98e92d96072) |
-| HR EXECUTIVE | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/eb688fce28d260f7dc5d50c37a614588) |
-| ACCOUNT MANAGER | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/b1142b8a25637f2e0fb1108d56a5f485) |
-| ACCOUNT EXECUTIVE | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/16ebdfcae5f88f81cb7373e84c454b46) |
-| Human Resource Executive- Jurong East Japanese MNC | GRACE HR SOLUTIONS | MyCareersFuture | 0 | 2026-07-24 | [Apply](https://www.mycareersfuture.gov.sg/job/16b6997f693a3ae5a0b234dbd107f644) |
-| Human Resources Executive | Acclime | LinkedIn | — | 2026-07-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20Acclime&location=Singapore) |
 | Human Resources Administrator | Sanli Environmental Limited | LinkedIn | — | 2026-07-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Administrator%20Sanli%20Environmental%20Limited&location=Singapore) |
 | Management / Human Resources (Full-time) | Mavericks Consulting | LinkedIn | — | 2026-07-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Management%20%2F%20Human%20Resources%20(Full-time)%20Mavericks%20Consulting&location=Singapore) |
 | 2026 Inexperienced Hire - HR Professional | ExxonMobil | LinkedIn | — | 2026-07-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=2026%20Inexperienced%20Hire%20-%20HR%20Professional%20ExxonMobil&location=Singapore) |
