@@ -2,12 +2,22 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-07-27T15:26:21.757Z*
+> *Last updated: 2026-07-28T03:49:31.499Z*
 
-**Total listings: 34** *(MyCareersFuture: 27 | LinkedIn: 7)*
+**Total listings: 45** *(MyCareersFuture: 36 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Assistant Executive Housekeeper | SOUTH BEACH INTERNATIONAL HOTEL MANAGEMENT PTE. LTD. | MyCareersFuture | 2 | 2026-07-28 | [Apply](https://www.mycareersfuture.gov.sg/job/199864f9cb848d7a497b8342ccf0636c) |
+| Human Resources Business Partner - HRBP - Strategic HR Partner #HDC | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 2 | 2026-07-28 | [Apply](https://www.mycareersfuture.gov.sg/job/4db2b4c026398da18f19febe4e74f834) |
+| Human Resources Manager - Basic Up $6000 - 5 days - Kranji-QQ | GRIFFIN HR CONSULTANCY PTE. LTD. | MyCareersFuture | 2 | 2026-07-28 | [Apply](https://www.mycareersfuture.gov.sg/job/154bc09ff81fdfb33c164b5d29c4aa71) |
+| 1 year Contract HR Executive (Automation / Benefits) #HJO | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-07-28 | [Apply](https://www.mycareersfuture.gov.sg/job/d2621d327965717ee2f82444850e0e76) |
+| HR Admin | IDEALS RECRUITMENT PTE. LTD. | MyCareersFuture | 1 | 2026-07-28 | [Apply](https://www.mycareersfuture.gov.sg/job/40e77f4124a9c08daff793192a4e1a95) |
+| Mechanical / Aircon / Electrical Engineer | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-07-28 | [Apply](https://www.mycareersfuture.gov.sg/job/338e384e2218894ea284a438dc31a63a) |
+| Employee Relations Specialist (1 Year Contract, Opportunity to Renew / Convert) | AJI   INTERNATIONAL PTE. LTD. | MyCareersFuture | 1 | 2026-07-28 | [Apply](https://www.mycareersfuture.gov.sg/job/38e4ca8408f28b9523abed18fdfea3fb) |
+| Assistant, Crewing (Marine Personnel) | HONG LAM MARINE PTE. LTD. | MyCareersFuture | 1 | 2026-07-28 | [Apply](https://www.mycareersfuture.gov.sg/job/1a0237140036165942cb98ee2f0bb5e1) |
+| HR Coordinator | MITSUBISHI CHEMICAL METHACRYLATES SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-07-28 | [Apply](https://www.mycareersfuture.gov.sg/job/fa6c9b48b1b9207aec78c2660b15c7cb) |
+| People Operations Specialist | Booking.com | LinkedIn | — | 2026-07-28 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20Operations%20Specialist%20Booking.com&location=Singapore) |
 | Purchaser Cum Admin | HOCK SOON LEE FURNITURE INDUSTRIES PTE. LTD. | MyCareersFuture | 2 | 2026-07-27 | [Apply](https://www.mycareersfuture.gov.sg/job/2ec6abf6c592e24ec6ac612b35f0aca4) |
 | Senior/ Talent Acquisition Executive | RAFFLES HOSPITAL PTE LTD | MyCareersFuture | 2 | 2026-07-27 | [Apply](https://www.mycareersfuture.gov.sg/job/a5965071535226f3d7cc38fb2c42409b) |
 | HR Executive & Admin | YY CIRCLE (SG) PRIVATE LIMITED | MyCareersFuture | 2 | 2026-07-27 | [Apply](https://www.mycareersfuture.gov.sg/job/f20ef671c6a0666d5451616865c73f55) |
@@ -35,10 +45,11 @@
 | Human Resources (HR) Intern | JR FOODS PTE. LTD. | MyCareersFuture | 1 | 2026-07-27 | [Apply](https://www.mycareersfuture.gov.sg/job/ede06e3551d55b4de1ec011621427270) |
 | Associate Executive, Learning & Career Development (6 months contract) | SINGAPORE GENERAL HOSPITAL PTE LTD | MyCareersFuture | 1 | 2026-07-27 | [Apply](https://www.mycareersfuture.gov.sg/job/fd27772bb0770f762414bbdb1e02bcfa) |
 | HR Executive #10149 | ANRADUS PTE. LTD. | MyCareersFuture | 1 | 2026-07-27 | [Apply](https://www.mycareersfuture.gov.sg/job/c1f973b50ee260d8d567651c0fa9aeda) |
-| Senior Executive (Engagement & Recognition) | Ministry of Defence of Singapore | LinkedIn | — | 2026-07-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Executive%20(Engagement%20%26amp%3B%20Recognition)%20Ministry%20of%20Defence%20of%20Singapore&location=Singapore) |
-| Human Resources Executive | Shopix & Co Pte Ltd | LinkedIn | — | 2026-07-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20Shopix%20%26amp%3B%20Co%20Pte%20Ltd&location=Singapore) |
-| Junior Accountant (Operations & Finance) | AGEM Bio Pte. Ltd. | LinkedIn | — | 2026-07-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Junior%20Accountant%20(Operations%20%26amp%3B%20Finance)%20AGEM%20Bio%20Pte.%20Ltd.&location=Singapore) |
-| Coating Utility Operator (sandblaster) | Coherent Corp. | LinkedIn | — | 2026-07-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Coating%20Utility%20Operator%20(sandblaster)%20Coherent%20Corp.&location=Singapore) |
-| Talent Operations & Delivery Coordinator (2 months contract) | Manpower Singapore | LinkedIn | — | 2026-07-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Operations%20%26amp%3B%20Delivery%20Coordinator%20(2%20months%20contract)%20Manpower%20Singapore&location=Singapore) |
-| Business Sales Manager | Insight Genesis - IGAi | LinkedIn | — | 2026-07-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Business%20Sales%20Manager%20Insight%20Genesis%20-%20IGAi&location=Singapore) |
-| AM, Audit Manager, Group Governance and Corporate Functions Audit | OCBC | LinkedIn | — | 2026-07-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=AM%2C%20Audit%20Manager%2C%20Group%20Governance%20and%20Corporate%20Functions%20Audit%20OCBC&location=Singapore) |
+| Rewards Specialist | Swire Shipping | LinkedIn | — | 2026-07-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Rewards%20Specialist%20Swire%20Shipping&location=Singapore) |
+| HR Generalist | BSI | LinkedIn | — | 2026-07-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Generalist%20BSI&location=Singapore) |
+| Human Resources Executive | Bird & Bird | LinkedIn | — | 2026-07-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20Bird%20%26amp%3B%20Bird&location=Singapore) |
+| Employee Relations Manager | Salesforce | LinkedIn | — | 2026-07-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Employee%20Relations%20Manager%20Salesforce&location=Singapore) |
+| HRIS & HR Analysis Consultant | OPay | LinkedIn | — | 2026-07-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HRIS%20%26amp%3B%20HR%20Analysis%20Consultant%20OPay&location=Singapore) |
+| Assistant Manager, People & Culture | Hegen | LinkedIn | — | 2026-07-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Assistant%20Manager%2C%20People%20%26amp%3B%20Culture%20Hegen&location=Singapore) |
+| Employee Relations Specialist (1 Year Contract, Opportunity to Renew / Convert) | Certis | LinkedIn | — | 2026-07-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Employee%20Relations%20Specialist%20(1%20Year%20Contract%2C%20Opportunity%20to%20Renew%20%2F%20Convert)%20Certis&location=Singapore) |
+| HR Business Partner (Regional Office) | DHL Supply Chain | LinkedIn | — | 2026-07-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Business%20Partner%20(Regional%20Office)%20DHL%20Supply%20Chain&location=Singapore) |
