@@ -2,16 +2,28 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-07-31T04:05:27.058Z*
+> *Last updated: 2026-07-31T15:02:26.033Z*
 
-**Total listings: 31** *(MyCareersFuture: 24 | LinkedIn: 9)*
+**Total listings: 34** *(MyCareersFuture: 26 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Software Engineer II, Payments Technology | JPMORGAN CHASE BANK, N.A. | MyCareersFuture | 2 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/7038ca4b3d2b44ad33ac4194dbaa2431) |
+| Software Engineer, Product (Singapore) | FACEBOOK SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/a3e5e04f6f5b17763f538367353fdb06) |
+| Software Engineer (C++) | GOOD JOB CREATIONS (SINGAPORE) PTE. LTD. | MyCareersFuture | 0 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/a97462c3ff2b0c61f7c78a4319702958) |
+| Software Engineer - Automation Industry [2683] | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/9fcd827688b3eec1fef5a95d3f9c546e) |
+| Junior Software Test Engineer | MMT GLOBAL TECHNOLOGIES PTE. LTD. | MyCareersFuture | 1 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/1fe5941719beb7933837a491af1013a8) |
+| Desktop Support Engineer/IT Service Desk Engineer | ITCAN PTE. LIMITED | MyCareersFuture | 1 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/d4591144758776f811d16b215a3e123c) |
+| Software Engineer (Java/Javascript/C++) | ST ENGINEERING MISSION SOFTWARE & SERVICES PTE. LTD. | MyCareersFuture | 0 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/5562830c19a8a2c905a431494649e8f9) |
 | Java Software Engineer | THE EDGE CONTRACTING SERVICES PTE. LTD. | MyCareersFuture | 1 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/1b91c38d0ab421fdf9e1114297ec2137) |
 | Software DevOps Engineer (Fresh Graduate) | TALENTSIS PTE. LTD. | MyCareersFuture | 0 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/04762bfd9400720bfd45f6f5ae10037f) |
 | Software Engineer (Up to $5000) West | GEMS PARTNERS NETWORK PTE. LTD. | MyCareersFuture | 2 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/ce83b462c0f33fd2449d2f3b40067a2a) |
 | Software Engineer (Instrumentation, Control & Automation Support) | AXIS-TEC PTE. LTD. | MyCareersFuture | 2 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/d71651f82c2ea8e174cecbefd6cd7a8c) |
+| computer software engineer | Xiaomi Technology | LinkedIn | — | 2026-07-31 | [Apply](https://www.linkedin.com/jobs/search/?keywords=computer%20software%20engineer%20Xiaomi%20Technology&location=Singapore) |
+| Custom Software Engineer | Accenture Southeast Asia | LinkedIn | — | 2026-07-31 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Custom%20Software%20Engineer%20Accenture%20Southeast%20Asia&location=Singapore) |
+| Software Engineer (multiple roles available) | Cygnify | LinkedIn | — | 2026-07-31 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(multiple%20roles%20available)%20Cygnify&location=Singapore) |
+| Software Engineer - A26268 | Activate Interactive | LinkedIn | — | 2026-07-31 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20-%20A26268%20Activate%20Interactive&location=Singapore) |
+| Software Engineer, Google Pay Shopping | Google | LinkedIn | — | 2026-07-31 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Google%20Pay%20Shopping%20Google&location=Singapore) |
 | Software Engineer (C++/C#, Machine Automation) #76684 | ANRADUS PTE. LTD. | MyCareersFuture | 1 | 2026-07-30 | [Apply](https://www.mycareersfuture.gov.sg/job/8ace038ca33a2d9959fa49b9b60f4636) |
 | Software Engineer #84739 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-07-30 | [Apply](https://www.mycareersfuture.gov.sg/job/6bba766091f2577e5ded7f1452fe7909) |
 | Software Engineer (Fullstack Java+ Angular) | AVENSYS CONSULTING PTE. LTD. | MyCareersFuture | 2 | 2026-07-30 | [Apply](https://www.mycareersfuture.gov.sg/job/034a98f02873479fc30c77143b50a158) |
@@ -25,17 +37,8 @@
 | Software Engineer III, Business Mobile App, Payments - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 2 | 2026-07-30 | [Apply](https://www.mycareersfuture.gov.sg/job/4c2b5d1ff4b5c75e80d7d3298a8dc1d1) |
 | Junior Software Developer (Open for 1 Year experience) | TALENTSIS PTE. LTD. | MyCareersFuture | 2 | 2026-07-30 | [Apply](https://www.mycareersfuture.gov.sg/job/80411925de7e25d3934536b718ac8f4a) |
 | Software Engineer (JAVA) | SILVERLAKEGROUP PTE LTD | MyCareersFuture | 2 | 2026-07-30 | [Apply](https://www.mycareersfuture.gov.sg/job/49a27166da11db8d6f382923f89cf127) |
-| Software Engineer - 1 Year | Michael Page | LinkedIn | — | 2026-07-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20-%201%20Year%20Michael%20Page&location=Singapore) |
-| Java Engineer - Exchange Service | Binance | LinkedIn | — | 2026-07-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Java%20Engineer%20-%20Exchange%20Service%20Binance&location=Singapore) |
-| Software Engineer(Java) - Tech Compliance | Binance | LinkedIn | — | 2026-07-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer(Java)%20-%20Tech%20Compliance%20Binance&location=Singapore) |
-| Graduate Hiring - Software Systems Design Engineer — Blockchain Security & Protocol | BIT Official | LinkedIn | — | 2026-07-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Graduate%20Hiring%20-%20Software%20Systems%20Design%20Engineer%20%E2%80%94%20Blockchain%20Security%20%26amp%3B%20Protocol%20BIT%20Official&location=Singapore) |
-| Mechanical Design Engineer | Nebius | LinkedIn | — | 2026-07-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Mechanical%20Design%20Engineer%20Nebius&location=Singapore) |
-| Fullstack Engineer for PDA (Photonics), IME | A*STAR - Agency for Science, Technology and Research | LinkedIn | — | 2026-07-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Fullstack%20Engineer%20for%20PDA%20(Photonics)%2C%20IME%20A*STAR%20-%20Agency%20for%20Science%2C%20Technology%20and%20Research&location=Singapore) |
-| Electrical Design Engineer | Nebius | LinkedIn | — | 2026-07-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Electrical%20Design%20Engineer%20Nebius&location=Singapore) |
-| Geospatial Engineer | Kyndryl | LinkedIn | — | 2026-07-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Geospatial%20Engineer%20Kyndryl&location=Singapore) |
-| Software Engineer II, Glass Liquidity & Cash Management | JPMORGAN CHASE BANK, N.A. | MyCareersFuture | 2 | 2026-07-29 | [Apply](https://www.mycareersfuture.gov.sg/job/9a15f928963c3b603b9361728ffd60a6) |
-| Software Engineer (Embedded Systems) | THALES DIS (SINGAPORE) PTE. LTD. | MyCareersFuture | 2 | 2026-07-29 | [Apply](https://www.mycareersfuture.gov.sg/job/a61f8c8b2b68e34b8badad649cef926d) |
-| Software Engineer | PRISM AI STUDIO PTE. LTD. | MyCareersFuture | 1 | 2026-07-29 | [Apply](https://www.mycareersfuture.gov.sg/job/6f5aba86f812fd820b8f43572112091d) |
-| Software Engineer (Japanese Speaking) | GUUD PTE. LTD. | MyCareersFuture | 1 | 2026-07-29 | [Apply](https://www.mycareersfuture.gov.sg/job/5ed6a9a3846ed4935caeaafb4f3b71f9) |
-| Software Engineer | AVATAR MODERN TECHNO SERVICES PTE. LTD. | MyCareersFuture | 1 | 2026-07-29 | [Apply](https://www.mycareersfuture.gov.sg/job/c9ab9d848b4307075d78dc0265d9c9bd) |
-| Singapore Poly Manufacturing & Aviation Career Fair (July 2026) | VisionPower Semiconductor Manufacturing Company (VSMC) | LinkedIn | — | 2026-07-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Singapore%20Poly%20Manufacturing%20%26amp%3B%20Aviation%20Career%20Fair%20(July%202026)%20VisionPower%20Semiconductor%20Manufacturing%20Company%20(VSMC)&location=Singapore) |
+| Software Engineer | Cygnify | LinkedIn | — | 2026-07-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Cygnify&location=Singapore) |
+| Full Stack Engineer | Accenture Southeast Asia | LinkedIn | — | 2026-07-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Full%20Stack%20Engineer%20Accenture%20Southeast%20Asia&location=Singapore) |
+| Software Engineer, Microservices Framework - Data Infrastructure | ByteDance | LinkedIn | — | 2026-07-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Microservices%20Framework%20-%20Data%20Infrastructure%20ByteDance&location=Singapore) |
+| Software Engineer (Payment Network) - Global Payment - Singapore | ByteDance | LinkedIn | — | 2026-07-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Payment%20Network)%20-%20Global%20Payment%20-%20Singapore%20ByteDance&location=Singapore) |
+| Software Engineer, Data Programme | GovTech Singapore | LinkedIn | — | 2026-07-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Data%20Programme%20GovTech%20Singapore&location=Singapore) |
