@@ -2,12 +2,23 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-07-30T14:52:44.000Z*
+> *Last updated: 2026-07-31T04:05:20.659Z*
 
-**Total listings: 44** *(MyCareersFuture: 35 | LinkedIn: 10)*
+**Total listings: 50** *(MyCareersFuture: 40 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Consultant_Oracle Data Migration | ROLLING ARRAYS CONSULTING PTE. LTD. | MyCareersFuture | 2 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/04ea3fb2df0753091526b39549b1c817) |
+| Consultant_Oracle Interface Designer | ROLLING ARRAYS CONSULTING PTE. LTD. | MyCareersFuture | 2 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/e389a15bfc834789c10e6e7107dd875c) |
+| HR admin - Entry Level - Tiong Bahru (up to $3k)  - {hkhdv} | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 0 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/3866233f1f7a67fe4eab1166200f0b7b) |
+| Human Resource Specialist #ESY | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/f8e494f38d6eab8f030121cad07701c7) |
+| Manager (Beauty Salon) | MODERN BEAUTY SALON (S) PTE. LTD. | MyCareersFuture | 2 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/679fbe6a87c7fd279198143210c35cf4) |
+| Human Resource Associate - MEDICAL (6 months/GOVT) - up to $3k/West/Training Provided #HAO | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/2708dbd617d79143c6686abef3c5134f) |
+| HR Executive (8 Months Maternity Cover) | ZPMC SOUTHEAST ASIA PTE. LTD. | MyCareersFuture | 1 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/f92b68e09804a40a3af191465ceb8e6f) |
+| HR Intern | SENSETIME INTERNATIONAL PTE. LTD. | MyCareersFuture | 1 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/1736a06059e9cc5cedef0715e1436728) |
+| HR & Admin Executive (AI & Digital Transformation) | IAPPS HEALTH GROUP PTE. LTD. | MyCareersFuture | 0 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/189759ed9207cba135ebb47a18837e07) |
+| Administrative Assistant | WOODLANDS TRANSPORT SERVICE PTE LTD | MyCareersFuture | 2 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/683098ad0987336e286edcc35652fe4f) |
+| HR & Admin Executive #10153 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-07-30 | [Apply](https://www.mycareersfuture.gov.sg/job/80761716bac408e2f2b6daf1764a33e0) |
 | Part time Human Resource Officer | VANTAGER SOLUTIONS PTE. LTD. | MyCareersFuture | 1 | 2026-07-30 | [Apply](https://www.mycareersfuture.gov.sg/job/2b50202ca0d6a77a82bb6e49aa69f2cd) |
 | Corporate Communications & Branding Associate (HR Communications) | AEON SEARCH CONSULTING PTE. LTD. | MyCareersFuture | 1 | 2026-07-30 | [Apply](https://www.mycareersfuture.gov.sg/job/faefbb260dc9696f2e799cc913b80589) |
 | Business Development Support & Administration Associate | CHINA SOUTHERN AIRLINES COMPANY LIMITED | MyCareersFuture | 0 | 2026-07-30 | [Apply](https://www.mycareersfuture.gov.sg/job/7973be82dd4b90fb91e378f2fbd86483) |
@@ -24,12 +35,13 @@
 | HR Intern | A LOOP PTE. LTD. | MyCareersFuture | 0 | 2026-07-30 | [Apply](https://www.mycareersfuture.gov.sg/job/332246c9e4f07e5eb9de61c4cc75ab56) |
 | Human Resource Intern (1 year) | COMMERZBANK AKTIENGESELLSCHAFT | MyCareersFuture | 0 | 2026-07-30 | [Apply](https://www.mycareersfuture.gov.sg/job/20a574d254f02706652dbf210f43f2c4) |
 | Finance Specialist (Fresh Graduate/Entry-level) | BITMAIN DEVELOPMENT PTE. LTD. | MyCareersFuture | 0 | 2026-07-30 | [Apply](https://www.mycareersfuture.gov.sg/job/7b220c2eb8258b6a5955149e44fb47d1) |
-| Office Administration and HR Coordinator | Blue Stream Consultancy Pte Ltd | LinkedIn | — | 2026-07-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Office%20Administration%20and%20HR%20Coordinator%20Blue%20Stream%20Consultancy%20Pte%20Ltd&location=Singapore) |
-| Client Operations Coordinator | ManpowerGroup | LinkedIn | — | 2026-07-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Client%20Operations%20Coordinator%20ManpowerGroup&location=Singapore) |
-| Employee Engagement Associate, People Team (2026 Graduate) | Shopee | LinkedIn | — | 2026-07-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Employee%20Engagement%20Associate%2C%20People%20Team%20(2026%20Graduate)%20Shopee&location=Singapore) |
-| Senior Executive (Talent Acquisition)(2 Year Contract) | DSO National Laboratories | LinkedIn | — | 2026-07-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Executive%20(Talent%20Acquisition)(2%20Year%20Contract)%20DSO%20National%20Laboratories&location=Singapore) |
-| Assistant Manager, Outreach & Talent Development (IME) | A*STAR - Agency for Science, Technology and Research | LinkedIn | — | 2026-07-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Assistant%20Manager%2C%20Outreach%20%26amp%3B%20Talent%20Development%20(IME)%20A*STAR%20-%20Agency%20for%20Science%2C%20Technology%20and%20Research&location=Singapore) |
-| Crewing Executive (Maritime) | Tap Growth ai | LinkedIn | — | 2026-07-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Crewing%20Executive%20(Maritime)%20Tap%20Growth%20ai&location=Singapore) |
+| Senior HR Generalist | Spotify | LinkedIn | — | 2026-07-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20HR%20Generalist%20Spotify&location=Singapore) |
+| HR Executive (Human Resource Department) [NIE] | Nanyang Technological University Singapore | LinkedIn | — | 2026-07-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Executive%20(Human%20Resource%20Department)%20%5BNIE%5D%20Nanyang%20Technological%20University%20Singapore&location=Singapore) |
+| HR, Payroll & Operations | Dada Consultants | LinkedIn | — | 2026-07-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%2C%20Payroll%20%26amp%3B%20Operations%20Dada%20Consultants&location=Singapore) |
+| Tech Recruiter | Nas Company | LinkedIn | — | 2026-07-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Tech%20Recruiter%20Nas%20Company&location=Singapore) |
+| Manager, Rewards | Grab | LinkedIn | — | 2026-07-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Manager%2C%20Rewards%20Grab&location=Singapore) |
+| People Services Specialist | Aspen Technology | LinkedIn | — | 2026-07-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20Services%20Specialist%20Aspen%20Technology&location=Singapore) |
+| Talent Acquisition, Analyst | AIA Singapore | LinkedIn | — | 2026-07-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%2C%20Analyst%20AIA%20Singapore&location=Singapore) |
 | Workday HCM Analyst / Consultant l Contract | MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD | MyCareersFuture | 2 | 2026-07-29 | [Apply](https://www.mycareersfuture.gov.sg/job/def76a0f287424d7be83ddbea7c5c233) |
 | HR Executive | PERSOL SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-07-29 | [Apply](https://www.mycareersfuture.gov.sg/job/20bd3e9518765e40b964c30af2ed209e) |
 | Human Resource Talent Acqusition (Recruitment) #HCK | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-07-29 | [Apply](https://www.mycareersfuture.gov.sg/job/87fae8d1962656f2590d3a2bd503ce10) |
@@ -43,12 +55,6 @@
 | Talent Acquisition Specialist | S. F. EXPRESS (SINGAPORE) PRIVATE LIMITED | MyCareersFuture | 2 | 2026-07-29 | [Apply](https://www.mycareersfuture.gov.sg/job/4b02391e2eeef8fe45ae1b23fd40e931) |
 | HR & Admin Assistant | MAPO MARINE PTE. LTD. | MyCareersFuture | 0 | 2026-07-29 | [Apply](https://www.mycareersfuture.gov.sg/job/515be7976e0c3f0dc9e74f210eb802cf) |
 | Talent Acquisition Specialist up to $4000 | TALENT RECRUITMENT PTE. LTD. | MyCareersFuture | 1 | 2026-07-29 | [Apply](https://www.mycareersfuture.gov.sg/job/d9df55e30b52f0e3547b77e20c30e4fe) |
-| HR Specialist &   Accountant  人力资源兼会计专员 | KAWIN BIOSCIENCES SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-07-29 | [Apply](https://www.mycareersfuture.gov.sg/job/5dd835bee34f1110249371ba869fe7ea) |
-| Business Process Analyst | KOCH BUSINESS SOLUTIONS - ASIA PACIFIC PTE. LTD. | MyCareersFuture | 1 | 2026-07-29 | [Apply](https://www.mycareersfuture.gov.sg/job/118a24f68365cdfc82e7fee73bebe9f2) |
-| HR ADMIN EXECUTIVE | CLO HAUS PTE. LTD. | MyCareersFuture | 1 | 2026-07-29 | [Apply](https://www.mycareersfuture.gov.sg/job/31d352abb104d484e4ae6d0398baa452) |
-| Business Process Analyst (Accounts Payable) | KOCH BUSINESS SOLUTIONS - ASIA PACIFIC PTE. LTD. | MyCareersFuture | 1 | 2026-07-29 | [Apply](https://www.mycareersfuture.gov.sg/job/1aca7ac3c0366515a85dc2bdb124bec8) |
-| Office Admin Assistant (1 year contract) | DTC WORLD CORPORATION PTE. LTD. | MyCareersFuture | 0 | 2026-07-29 | [Apply](https://www.mycareersfuture.gov.sg/job/060f5e65131d829148b88f5670e5b121) |
-| Talent Acquisition Executive | Raffles Medical Group | LinkedIn | — | 2026-07-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Executive%20Raffles%20Medical%20Group&location=Singapore) |
-| Human Resources Specialist (6-months Contract) | Bvlgari | LinkedIn | — | 2026-07-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Specialist%20(6-months%20Contract)%20Bvlgari&location=Singapore) |
-| Talent Acquisition Specialist | Antaes Asia | LinkedIn | — | 2026-07-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Specialist%20Antaes%20Asia&location=Singapore) |
-| HR / Senior HR Executive (L&D /Manufacturing/West area) | TRUST RECRUIT PTE. LTD. | MyCareersFuture | 2 | 2026-07-28 | [Apply](https://www.mycareersfuture.gov.sg/job/7464afce501a1f413d677ddee8b2dd93) |
+| Human Resources Operations Specialist | JC Consulting | LinkedIn | — | 2026-07-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Operations%20Specialist%20JC%20Consulting&location=Singapore) |
+| Human Resources Business Partner | Confidential Jobs | LinkedIn | — | 2026-07-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Business%20Partner%20Confidential%20Jobs&location=Singapore) |
+| HR Governance & Employee Relations, Principal | AIA Singapore | LinkedIn | — | 2026-07-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Governance%20%26amp%3B%20Employee%20Relations%2C%20Principal%20AIA%20Singapore&location=Singapore) |
