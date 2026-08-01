@@ -2,9 +2,9 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-07-31T15:02:21.643Z*
+> *Last updated: 2026-08-01T04:03:19.240Z*
 
-**Total listings: 50** *(MyCareersFuture: 40 | LinkedIn: 10)*
+**Total listings: 45** *(MyCareersFuture: 35 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
@@ -47,14 +47,9 @@
 | TRUCK DRIVER | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-07-30 | [Apply](https://www.mycareersfuture.gov.sg/job/a6c0413a3aa445d06da67b6f179c9a12) |
 | LORRY DRIVER | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-07-30 | [Apply](https://www.mycareersfuture.gov.sg/job/03ce30e435329bd145b37124e231c75d) |
 | HR Specialist (1 year/FINANCE MNC) - Training Provided/up to $4k #HAO | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-07-30 | [Apply](https://www.mycareersfuture.gov.sg/job/f67eb2b1757b3bdf827e4d2d6bfebf38) |
-| HR & Admin Assistant | FUTURE TECHNOLOGY DEVICES INTERNATIONAL LIMITED Singapore Branch | MyCareersFuture | 2 | 2026-07-30 | [Apply](https://www.mycareersfuture.gov.sg/job/f4373ed4ec34638981c6d9d6ba49167a) |
-| Accounts & HR Assistant | RTA SHIP SERVICES PTE. LTD. | MyCareersFuture | 1 | 2026-07-30 | [Apply](https://www.mycareersfuture.gov.sg/job/72440d798d2c7e40d970e1cf689461be) |
-| HR Intern | A LOOP PTE. LTD. | MyCareersFuture | 0 | 2026-07-30 | [Apply](https://www.mycareersfuture.gov.sg/job/332246c9e4f07e5eb9de61c4cc75ab56) |
-| Human Resource Intern (1 year) | COMMERZBANK AKTIENGESELLSCHAFT | MyCareersFuture | 0 | 2026-07-30 | [Apply](https://www.mycareersfuture.gov.sg/job/20a574d254f02706652dbf210f43f2c4) |
-| Finance Specialist (Fresh Graduate/Entry-level) | BITMAIN DEVELOPMENT PTE. LTD. | MyCareersFuture | 0 | 2026-07-30 | [Apply](https://www.mycareersfuture.gov.sg/job/7b220c2eb8258b6a5955149e44fb47d1) |
 | Office Administration and HR Coordinator | Blue Stream Consultancy Pte Ltd | LinkedIn | — | 2026-07-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Office%20Administration%20and%20HR%20Coordinator%20Blue%20Stream%20Consultancy%20Pte%20Ltd&location=Singapore) |
 | Employee Engagement Associate, People Team (2026 Graduate) | Shopee | LinkedIn | — | 2026-07-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Employee%20Engagement%20Associate%2C%20People%20Team%20(2026%20Graduate)%20Shopee&location=Singapore) |
-| Client Operations Coordinator | ManpowerGroup | LinkedIn | — | 2026-07-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Client%20Operations%20Coordinator%20ManpowerGroup&location=Singapore) |
 | Senior Executive (Talent Acquisition)(2 Year Contract) | DSO National Laboratories | LinkedIn | — | 2026-07-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Executive%20(Talent%20Acquisition)(2%20Year%20Contract)%20DSO%20National%20Laboratories&location=Singapore) |
 | Crewing Executive (Maritime) | Tap Growth ai | LinkedIn | — | 2026-07-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Crewing%20Executive%20(Maritime)%20Tap%20Growth%20ai&location=Singapore) |
 | Assistant Manager, Outreach & Talent Development (IME) | A*STAR - Agency for Science, Technology and Research | LinkedIn | — | 2026-07-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Assistant%20Manager%2C%20Outreach%20%26amp%3B%20Talent%20Development%20(IME)%20A*STAR%20-%20Agency%20for%20Science%2C%20Technology%20and%20Research&location=Singapore) |
+| QC Specialist | GSK | LinkedIn | — | 2026-07-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=QC%20Specialist%20GSK&location=Singapore) |
