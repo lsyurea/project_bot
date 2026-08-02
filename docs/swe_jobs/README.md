@@ -2,22 +2,24 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-08-02T04:07:14.830Z*
+> *Last updated: 2026-08-02T14:11:07.049Z*
 
-**Total listings: 13** *(MyCareersFuture: 10 | LinkedIn: 3)*
+**Total listings: 15** *(MyCareersFuture: 5 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Control (Software) Design Engineer / PLC Programmer #70912 | ANRADUS PTE. LTD. | MyCareersFuture | 0 | 2026-08-02 | [Apply](https://www.mycareersfuture.gov.sg/job/b6812b8c9d0e94e06309f7b54907247d) |
+| Software Engineer | RFNET TECHNOLOGIES PTE LTD | MyCareersFuture | 1 | 2026-08-02 | [Apply](https://www.mycareersfuture.gov.sg/job/1fce6101fdd09fd90a466df77a0eac9e) |
 | Robotics Software Engineer (SLAM & Navigation) - up to $10,000 + Bonus | TYSON JAY MANAGEMENT PTE. LTD. | MyCareersFuture | 1 | 2026-08-02 | [Apply](https://www.mycareersfuture.gov.sg/job/08e3162fdb44a0329b8d11b23a9eaf1d) |
+| Software Engineer (ERP) | SEPHORA | LinkedIn | — | 2026-08-02 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(ERP)%20SEPHORA&location=Singapore) |
 | Software Engineer | ELEC-PRO TECHNOLOGY PTE. LTD. | MyCareersFuture | 0 | 2026-08-01 | [Apply](https://www.mycareersfuture.gov.sg/job/54afd7133d1573d0e15b7ed0c53f2143) |
 | Software Developer / Software Engineer #10123 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-08-01 | [Apply](https://www.mycareersfuture.gov.sg/job/115fa7b5283a10dd2b83cf036f083894) |
-| Fabrica AI Tile Grouting Robotics Software Engineer | Fabrica AI | LinkedIn | — | 2026-08-01 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Fabrica%20AI%20Tile%20Grouting%20Robotics%20Software%20Engineer%20Fabrica%20AI&location=Singapore) |
-| Software Engineer II, Payments Technology | JPMORGAN CHASE BANK, N.A. | MyCareersFuture | 2 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/7038ca4b3d2b44ad33ac4194dbaa2431) |
-| Software Engineer, Product (Singapore) | FACEBOOK SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/a3e5e04f6f5b17763f538367353fdb06) |
-| Software Engineer (C++) | GOOD JOB CREATIONS (SINGAPORE) PTE. LTD. | MyCareersFuture | 0 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/a97462c3ff2b0c61f7c78a4319702958) |
-| Software Engineer - Automation Industry [2683] | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/9fcd827688b3eec1fef5a95d3f9c546e) |
-| Junior Software Test Engineer | MMT GLOBAL TECHNOLOGIES PTE. LTD. | MyCareersFuture | 1 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/1fe5941719beb7933837a491af1013a8) |
-| Desktop Support Engineer/IT Service Desk Engineer | ITCAN PTE. LIMITED | MyCareersFuture | 1 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/d4591144758776f811d16b215a3e123c) |
-| Software Engineer (Java/Javascript/C++) | ST ENGINEERING MISSION SOFTWARE & SERVICES PTE. LTD. | MyCareersFuture | 0 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/5562830c19a8a2c905a431494649e8f9) |
-| Software Engineer (Emerging Systems) | DSO National Laboratories | LinkedIn | — | 2026-07-31 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Emerging%20Systems)%20DSO%20National%20Laboratories&location=Singapore) |
-| Test Engineer | Rockwell Automation | LinkedIn | — | 2026-07-31 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Test%20Engineer%20Rockwell%20Automation&location=Singapore) |
+| Software Engineer (Product-minded) | SGX Group | LinkedIn | — | 2026-08-01 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Product-minded)%20SGX%20Group&location=Singapore) |
+| Back-end Developer | Accenture Southeast Asia | LinkedIn | — | 2026-08-01 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Back-end%20Developer%20Accenture%20Southeast%20Asia&location=Singapore) |
+| AI-Native Engineer (Software Full Stack Developer) | PALO IT | LinkedIn | — | 2026-08-01 | [Apply](https://www.linkedin.com/jobs/search/?keywords=AI-Native%20Engineer%20(Software%20Full%20Stack%20Developer)%20PALO%20IT&location=Singapore) |
+| Software Engineer, Google Pay, Growth and Communications | Google | LinkedIn | — | 2026-07-31 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Google%20Pay%2C%20Growth%20and%20Communications%20Google&location=Singapore) |
+| Software Engineer (Teradyne, Singapore) | Teradyne | LinkedIn | — | 2026-07-31 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Teradyne%2C%20Singapore)%20Teradyne&location=Singapore) |
+| Software Engineer, Rapid Response Assignment - (Singapore) | VulnCheck | LinkedIn | — | 2026-07-31 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Rapid%20Response%20Assignment%20-%20(Singapore)%20VulnCheck&location=Singapore) |
+| Full Stack Engineer | OCBC | LinkedIn | — | 2026-07-31 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Full%20Stack%20Engineer%20OCBC&location=Singapore) |
+| Software Engineer | Hunter Bond | LinkedIn | — | 2026-07-31 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Hunter%20Bond&location=Singapore) |
+| Manufacturing Software Engineer (Fullstack) | Thales | LinkedIn | — | 2026-07-31 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Manufacturing%20Software%20Engineer%20(Fullstack)%20Thales&location=Singapore) |
