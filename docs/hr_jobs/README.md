@@ -2,18 +2,20 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-08-01T14:08:55.971Z*
+> *Last updated: 2026-08-02T04:07:12.939Z*
 
-**Total listings: 38** *(MyCareersFuture: 31 | LinkedIn: 8)*
+**Total listings: 32** *(MyCareersFuture: 23 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Finance & HR Executive | KLARRA PTE. LTD. | MyCareersFuture | 2 | 2026-08-01 | [Apply](https://www.mycareersfuture.gov.sg/job/c6d437bd86a82e6176ebcaa3fe1bcdf0) |
+| Talent Acquisition Specialist | MAYSEN MANPOWER PTE. LTD. | MyCareersFuture | 2 | 2026-08-01 | [Apply](https://www.mycareersfuture.gov.sg/job/22ad4fc0662f5f9e2527a592ce0279ff) |
+| HR & Admin Assistant (Human Resources - Training Provided) | EA RECRUITMENT PTE. LTD. | MyCareersFuture | 0 | 2026-08-01 | [Apply](https://www.mycareersfuture.gov.sg/job/4933efd86c2481a88f5e6d2c1e56fb89) |
 | CHIEF COOK | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-08-01 | [Apply](https://www.mycareersfuture.gov.sg/job/1f21182c75d8370e054f1123bd82717b) |
 | Automation Technician | GOLDEN DRAGON HUMAN RESOURCES | MyCareersFuture | 2 | 2026-08-01 | [Apply](https://www.mycareersfuture.gov.sg/job/b0a44aaa03e5e9464016f888cebc9877) |
 | Executive (Human Resource) | Care Community Services Society | MyCareersFuture | 2 | 2026-08-01 | [Apply](https://www.mycareersfuture.gov.sg/job/5a842216bfec275696175cfe1aef7e37) |
 | Human Resource Assistant (On the job training provided) (YS81) | TRUST RECRUIT PTE. LTD. | MyCareersFuture | 1 | 2026-08-01 | [Apply](https://www.mycareersfuture.gov.sg/job/2b6fb0fcad992e8617c86d374eca41d6) |
-| Payroll Assistant/Officer | Suntec Real Estate Services Management | LinkedIn | — | 2026-08-01 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Payroll%20Assistant%2FOfficer%20Suntec%20Real%20Estate%20Services%20Management&location=Singapore) |
-| Sales Manager | Insight Genesis - IGAi | LinkedIn | — | 2026-08-01 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Sales%20Manager%20Insight%20Genesis%20-%20IGAi&location=Singapore) |
+| Assistant Manager, People & Culture | Hegen | LinkedIn | — | 2026-08-01 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Assistant%20Manager%2C%20People%20%26amp%3B%20Culture%20Hegen&location=Singapore) |
 | Human Resource Assistant | PRECIOUS HOMES PTE. LTD. | MyCareersFuture | 2 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/b6fb0a37710761085e32fc9d473c28e3) |
 | HR Executive (1 Year Contract / Up to $3,550 / Central) | GOOD JOB CREATIONS (SINGAPORE) PTE. LTD. | MyCareersFuture | 0 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/3e8705210e59c847088a59d4388f43a6) |
 | Human Resources Intern | BUZUD PTE. LTD. | MyCareersFuture | 0 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/349f492df6fbf0049dfcee1c8378e378) |
@@ -29,20 +31,12 @@
 | Admin Associate (Mental Health Service) | HYPERSCAL SOLUTIONS PTE. LTD. | MyCareersFuture | 2 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/6a62f2586d9e6b2f8a4e5807b18b66cf) |
 | HR Intern | ACP COMPUTER TRAINING SCHOOL PTE. LTD. | MyCareersFuture | 0 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/12e01f4ab69b5207a32a2866d8f77cca) |
 | Business Operations Executive (AI & Automation) | TECHZU ICHICODE PTE. LTD. | MyCareersFuture | 2 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/0bfd41403538d6da9b60c105105e95a2) |
-| Consultant_Oracle Data Migration | ROLLING ARRAYS CONSULTING PTE. LTD. | MyCareersFuture | 2 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/04ea3fb2df0753091526b39549b1c817) |
-| Consultant_Oracle Interface Designer | ROLLING ARRAYS CONSULTING PTE. LTD. | MyCareersFuture | 2 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/e389a15bfc834789c10e6e7107dd875c) |
-| HR admin - Entry Level - Tiong Bahru (up to $3k)  - {hkhdv} | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 0 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/3866233f1f7a67fe4eab1166200f0b7b) |
-| Human Resource Specialist #ESY | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/f8e494f38d6eab8f030121cad07701c7) |
-| Manager (Beauty Salon) | MODERN BEAUTY SALON (S) PTE. LTD. | MyCareersFuture | 2 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/679fbe6a87c7fd279198143210c35cf4) |
-| Human Resource Associate - MEDICAL (6 months/GOVT) - up to $3k/West/Training Provided #HAO | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/2708dbd617d79143c6686abef3c5134f) |
-| HR Executive (8 Months Maternity Cover) | ZPMC SOUTHEAST ASIA PTE. LTD. | MyCareersFuture | 1 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/f92b68e09804a40a3af191465ceb8e6f) |
-| HR Intern | SENSETIME INTERNATIONAL PTE. LTD. | MyCareersFuture | 1 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/1736a06059e9cc5cedef0715e1436728) |
-| HR & Admin Executive (AI & Digital Transformation) | IAPPS HEALTH GROUP PTE. LTD. | MyCareersFuture | 0 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/189759ed9207cba135ebb47a18837e07) |
-| Administrative Assistant | WOODLANDS TRANSPORT SERVICE PTE LTD | MyCareersFuture | 2 | 2026-07-31 | [Apply](https://www.mycareersfuture.gov.sg/job/683098ad0987336e286edcc35652fe4f) |
+| Benefits Consultant | Visa | LinkedIn | — | 2026-07-31 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Benefits%20Consultant%20Visa&location=Singapore) |
+| Human Resource Manager | Housing & Development Board | LinkedIn | — | 2026-07-31 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resource%20Manager%20Housing%20%26amp%3B%20Development%20Board&location=Singapore) |
+| Human Resources Business Partner | Cathay Petroleum International Pte Ltd | LinkedIn | — | 2026-07-31 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Business%20Partner%20Cathay%20Petroleum%20International%20Pte%20Ltd&location=Singapore) |
+| Regional Benefits Partner | Traveloka | LinkedIn | — | 2026-07-31 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Regional%20Benefits%20Partner%20Traveloka&location=Singapore) |
+| Human Resources Manager | HR Millennium Consultancy Pte Ltd | LinkedIn | — | 2026-07-31 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Manager%20HR%20Millennium%20Consultancy%20Pte%20Ltd&location=Singapore) |
+| [Singapore Citizen] HR & Admin Manager | Xingyun Group | LinkedIn | — | 2026-07-31 | [Apply](https://www.linkedin.com/jobs/search/?keywords=%5BSingapore%20Citizen%5D%20HR%20%26amp%3B%20Admin%20Manager%20Xingyun%20Group&location=Singapore) |
 | People & Culture Executive | Mandarin Oriental | LinkedIn | — | 2026-07-31 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20%26amp%3B%20Culture%20Executive%20Mandarin%20Oriental&location=Singapore) |
-| HR Generalist, Associate (Operations and TA) | Ninja Van | LinkedIn | — | 2026-07-31 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Generalist%2C%20Associate%20(Operations%20and%20TA)%20Ninja%20Van&location=Singapore) |
-| HR Executive | SPORTFIVE | LinkedIn | — | 2026-07-31 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Executive%20SPORTFIVE&location=Singapore) |
-| Associate, Talent Attraction (1 Year Contract) | NTUC Health Co-operative Limited | LinkedIn | — | 2026-07-31 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Associate%2C%20Talent%20Attraction%20(1%20Year%20Contract)%20NTUC%20Health%20Co-operative%20Limited&location=Singapore) |
-| Marketing and Administrative Executive | ASSA ABLOY Group | LinkedIn | — | 2026-07-31 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Marketing%20and%20Administrative%20Executive%20ASSA%20ABLOY%20Group&location=Singapore) |
-| Analyst - Trade Platform Support | StoneX Group Inc. | LinkedIn | — | 2026-07-31 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Analyst%20-%20Trade%20Platform%20Support%20StoneX%20Group%20Inc.&location=Singapore) |
-| HR & Admin Executive #10153 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-07-30 | [Apply](https://www.mycareersfuture.gov.sg/job/80761716bac408e2f2b6daf1764a33e0) |
+| Compensation & Benefits Specialist | Vouch Recruitment | LinkedIn | — | 2026-07-31 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Compensation%20%26amp%3B%20Benefits%20Specialist%20Vouch%20Recruitment&location=Singapore) |
+| HR Business Partner - NTS Singapore | NTS | LinkedIn | — | 2026-07-31 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Business%20Partner%20%7C%20NTS%20Singapore%20NTS&location=Singapore) |
