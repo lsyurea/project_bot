@@ -2,12 +2,15 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-08-03T15:27:36.117Z*
+> *Last updated: 2026-08-04T03:51:36.026Z*
 
-**Total listings: 25** *(MyCareersFuture: 15 | LinkedIn: 10)*
+**Total listings: 26** *(MyCareersFuture: 16 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| IT Engineer/ Software Engineer | JDA WMS PTE. LTD. | MyCareersFuture | 2 | 2026-08-04 | [Apply](https://www.mycareersfuture.gov.sg/job/ffcfa69e3248785d97c0807ddf9a7614) |
+| Senior/Software Engineer (Java Experience Preferred) | TALENTSIS PTE. LTD. | MyCareersFuture | 2 | 2026-08-04 | [Apply](https://www.mycareersfuture.gov.sg/job/99203dfc7ba21d4c51363a1ea7ea80c7) |
+| Innovation Engineer (Embedded Systems & Interactive Products) | Trinax | LinkedIn | — | 2026-08-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Innovation%20Engineer%20(Embedded%20Systems%20%26amp%3B%20Interactive%20Products)%20Trinax&location=Singapore) |
 | Software Engineer (Junior / Senior) - Permanent | TALENTSIS PTE. LTD. | MyCareersFuture | 1 | 2026-08-03 | [Apply](https://www.mycareersfuture.gov.sg/job/541a0474c68b9ad237147d89a562d63b) |
 | Full Stack Software Engineer - WCAN | WECRUIT PTE. LTD. | MyCareersFuture | 2 | 2026-08-03 | [Apply](https://www.mycareersfuture.gov.sg/job/411474e66a583695b2217e24871d5b15) |
 | SOFTWARE ENGINEER | INNOGRITY PTE. LTD. | MyCareersFuture | 2 | 2026-08-03 | [Apply](https://www.mycareersfuture.gov.sg/job/b2292c4220cca386e3053cc6984e292d) |
@@ -20,16 +23,14 @@
 | Senior Software Engineer | SINDO FERRY (PTE. LTD.) | MyCareersFuture | 2 | 2026-08-03 | [Apply](https://www.mycareersfuture.gov.sg/job/e2ff0dc97dfe81f08ef38c060a0bf283) |
 | Software Engineer (Up to $5000) West | GEMS PARTNERS NETWORK PTE. LTD. | MyCareersFuture | 2 | 2026-08-03 | [Apply](https://www.mycareersfuture.gov.sg/job/299f2898a80979f573d657c3104476ad) |
 | Software Engineer, AI Agents | MIAO WORLDS PTE. LTD. | MyCareersFuture | 1 | 2026-08-03 | [Apply](https://www.mycareersfuture.gov.sg/job/b2ad308d25044791970e119a5fba54d5) |
-| Backend Software Engineer(Singapore) | Baidu, Inc. | LinkedIn | — | 2026-08-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Backend%20Software%20Engineer(Singapore)%20Baidu%2C%20Inc.&location=Singapore) |
-| Software Engineer | Rohde & Schwarz | LinkedIn | — | 2026-08-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Rohde%20%26amp%3B%20Schwarz&location=Singapore) |
-| Software Engineer (GASP) | GovTech Singapore | LinkedIn | — | 2026-08-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(GASP)%20GovTech%20Singapore&location=Singapore) |
-| Software Developer - APAC | InCommodities | LinkedIn | — | 2026-08-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Developer%20-%20APAC%20InCommodities&location=Singapore) |
-| Founding Engineer (Full-Stack) | FortMind.ai | LinkedIn | — | 2026-08-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Founding%20Engineer%20(Full-Stack)%20FortMind.ai&location=Singapore) |
-| Full Stack Engineer | Total eBiz Solutions | LinkedIn | — | 2026-08-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Full%20Stack%20Engineer%20Total%20eBiz%20Solutions&location=Singapore) |
+| Computer Software Engineer (Junior Level) | Xiaomi Technology | LinkedIn | — | 2026-08-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Computer%20Software%20Engineer%20(Junior%20Level)%20Xiaomi%20Technology&location=Singapore) |
+| Python Developer | Pand.ai | LinkedIn | — | 2026-08-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Python%20Developer%20Pand.ai&location=Singapore) |
 | Cloud Software Engineer | Dyson | LinkedIn | — | 2026-08-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Cloud%20Software%20Engineer%20Dyson&location=Singapore) |
-| Software Engineer, Core Engineering Products | GovTech Singapore | LinkedIn | — | 2026-08-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Core%20Engineering%20Products%20GovTech%20Singapore&location=Singapore) |
-| Back End Developer | NEXadept | LinkedIn | — | 2026-08-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Back%20End%20Developer%20NEXadept&location=Singapore) |
+| Senior Software Engineer I | Jeppesen ForeFlight | LinkedIn | — | 2026-08-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%20I%20Jeppesen%20ForeFlight&location=Singapore) |
+| IT SOFTWARE ENGINEER | Micron Technology | LinkedIn | — | 2026-08-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=IT%20SOFTWARE%20ENGINEER%20Micron%20Technology&location=Singapore) |
+| C++ Software Engineer - Data Platform | WorldQuant | LinkedIn | — | 2026-08-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=C%2B%2B%20Software%20Engineer%20-%20Data%20Platform%20WorldQuant&location=Singapore) |
+| Software Engineer (Space) | Transcelestial | LinkedIn | — | 2026-08-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Space)%20Transcelestial&location=Singapore) |
+| Cybersecurity Engineer | Michael Page | LinkedIn | — | 2026-08-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Cybersecurity%20Engineer%20Michael%20Page&location=Singapore) |
 | Control (Software) Design Engineer / PLC Programmer #70912 | ANRADUS PTE. LTD. | MyCareersFuture | 0 | 2026-08-02 | [Apply](https://www.mycareersfuture.gov.sg/job/b6812b8c9d0e94e06309f7b54907247d) |
 | Software Engineer | RFNET TECHNOLOGIES PTE LTD | MyCareersFuture | 1 | 2026-08-02 | [Apply](https://www.mycareersfuture.gov.sg/job/1fce6101fdd09fd90a466df77a0eac9e) |
-| Robotics Software Engineer (SLAM & Navigation) - up to $10,000 + Bonus | TYSON JAY MANAGEMENT PTE. LTD. | MyCareersFuture | 1 | 2026-08-02 | [Apply](https://www.mycareersfuture.gov.sg/job/08e3162fdb44a0329b8d11b23a9eaf1d) |
-| Software Engineer (ERP) | SEPHORA | LinkedIn | — | 2026-08-02 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(ERP)%20SEPHORA&location=Singapore) |
+| AI / MLOps Engineer | Greetsquare | LinkedIn | — | 2026-08-02 | [Apply](https://www.linkedin.com/jobs/search/?keywords=AI%20%2F%20MLOps%20Engineer%20Greetsquare&location=Singapore) |
