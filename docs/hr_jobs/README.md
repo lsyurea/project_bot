@@ -2,12 +2,17 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-08-04T15:05:12.524Z*
+> *Last updated: 2026-08-05T03:47:09.699Z*
 
-**Total listings: 57** *(MyCareersFuture: 56 | LinkedIn: 7)*
+**Total listings: 58** *(MyCareersFuture: 52 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Human Resources and Operations Executive | LEARNING POINT KIDS PTE. LTD. | MyCareersFuture | 1 | 2026-08-05 | [Apply](https://www.mycareersfuture.gov.sg/job/6ac65e7cbd7cb3f7f782954fa0087a79) |
+| HR Intern | ALLINTON ENGINEERING & TRADING PTE. LTD. | MyCareersFuture | 1 | 2026-08-05 | [Apply](https://www.mycareersfuture.gov.sg/job/96428114821bd9bc4090d6da8950dc74) |
+| HR Admin Exec [High Volume Headcount - Growth opportunities] | APBA TG HUMAN RESOURCE PTE. LTD. | MyCareersFuture | 1 | 2026-08-05 | [Apply](https://www.mycareersfuture.gov.sg/job/b04624e804a1abbae1cf2722938205cf) |
+| Talent Acquisition Specialist (Tech Recruitment) | ALPHAEUS PTE. LTD. | MyCareersFuture | 2 | 2026-08-05 | [Apply](https://www.mycareersfuture.gov.sg/job/a3e8a91664d2c786934a89bae31dce70) |
+| 6 Months Contract Data Analyst #EAT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 2 | 2026-08-05 | [Apply](https://www.mycareersfuture.gov.sg/job/ab957435f9fa7908c583c4f1c87fc3ac) |
 | Human Resources (HR) Intern - Hands-On Training - 1-to-1 Mentorship #HYT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-08-04 | [Apply](https://www.mycareersfuture.gov.sg/job/fb6983149fcc8834c2b3816590d6eb46) |
 | Legal Secretary (Corporate Environment) | REOLINK TECHNOLOGY PTE. LTD. | MyCareersFuture | 2 | 2026-08-04 | [Apply](https://www.mycareersfuture.gov.sg/job/6034c745f31a44b47c49606d9d62d394) |
 | 6 Months Data Analyst (Wellbeing)  #NJN | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-08-04 | [Apply](https://www.mycareersfuture.gov.sg/job/e217682e3a122b1cc9accbc4465de558) |
@@ -34,10 +39,13 @@
 | Accounts cum HR Executive [Open to fresh entry level] | TALENTSIS PTE. LTD. | MyCareersFuture | 0 | 2026-08-04 | [Apply](https://www.mycareersfuture.gov.sg/job/a82191e9c91783b50728741aa907e29e) |
 | HR Assistant Admin ( Training Provided - up to $3k)  {hkhdv} | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 0 | 2026-08-04 | [Apply](https://www.mycareersfuture.gov.sg/job/d9bd5d15ecdce534c48182273f76be00) |
 | Finance cum HR Executive [Open to fresh entry level] | TALENTSIS PTE. LTD. | MyCareersFuture | 0 | 2026-08-04 | [Apply](https://www.mycareersfuture.gov.sg/job/8686ac27bac031ad987f87a6e4b8452b) |
-| Admin/HR | Envirotec Controls (Asia Pacific) | LinkedIn | — | 2026-08-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Admin%2FHR%20Envirotec%20Controls%20(Asia%20Pacific)&location=Singapore) |
-| Event Management - Manager | The Ritz-Carlton Hotel Company, L.L.C. | LinkedIn | — | 2026-08-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Event%20Management%20-%20Manager%20The%20Ritz-Carlton%20Hotel%20Company%2C%20L.L.C.&location=Singapore) |
-| Events Sales Manager | W Hotels | LinkedIn | — | 2026-08-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Events%20Sales%20Manager%20W%20Hotels&location=Singapore) |
-| Area Sales Executive | Insight Genesis - IGAi | LinkedIn | — | 2026-08-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Area%20Sales%20Executive%20Insight%20Genesis%20-%20IGAi&location=Singapore) |
+| HR Generalist - Recruitment & People Operations | Dynamite Games | LinkedIn | — | 2026-08-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Generalist%20-%20Recruitment%20%26amp%3B%20People%20Operations%20Dynamite%20Games&location=Singapore) |
+| Human Resources Generalist | Allianz Global Investors | LinkedIn | — | 2026-08-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Generalist%20Allianz%20Global%20Investors&location=Singapore) |
+| HR Associate | Tencent | LinkedIn | — | 2026-08-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Associate%20Tencent&location=Singapore) |
+| Principal Human Resources Executive | Singapore Aero Engine Services Private Limited (SAESL) | LinkedIn | — | 2026-08-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Principal%20Human%20Resources%20Executive%20Singapore%20Aero%20Engine%20Services%20Private%20Limited%20(SAESL)&location=Singapore) |
+| HR Business Partner | Binance | LinkedIn | — | 2026-08-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Business%20Partner%20Binance&location=Singapore) |
+| Human Resources Business Partner Executive | Cove | LinkedIn | — | 2026-08-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Business%20Partner%20Executive%20Cove&location=Singapore) |
+| HR & Management Specialist | Miraco Nutripharm | LinkedIn | — | 2026-08-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20%26amp%3B%20Management%20Specialist%20Miraco%20Nutripharm&location=Singapore) |
 | Admin Executive, HR | PRIMECH A & P PTE. LTD. | MyCareersFuture | 1 | 2026-08-03 | [Apply](https://www.mycareersfuture.gov.sg/job/8a40bc7d28b319e483f318be277a6a62) |
 | Human Resources Assistant- 5.5 Days - North | NEXBRIDGE RECRUITMENT PTE. LTD. | MyCareersFuture | 2 | 2026-08-03 | [Apply](https://www.mycareersfuture.gov.sg/job/ecebfcaa6d747ba5698f84c18d3b5d2d) |
 | HR Intern ( Healthcare 1-1 mentorship ) #HYT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-08-03 | [Apply](https://www.mycareersfuture.gov.sg/job/3bb318b0f144f33675d644091b589dca) |
@@ -55,13 +63,6 @@
 | HR Intern (3 to 6 months) | INTERNATIONAL SOS SINGAPORE PTE. LTD. | MyCareersFuture | 0 | 2026-08-03 | [Apply](https://www.mycareersfuture.gov.sg/job/28ae35249634df3d0f2eb5000aa72b7c) |
 | HR Executive & Admin | YY CIRCLE (SG) PRIVATE LIMITED | MyCareersFuture | 2 | 2026-08-03 | [Apply](https://www.mycareersfuture.gov.sg/job/b6d81cfd15e840246fce38e6a63a1dfa) |
 | Education Coordinator | ZENITANT ENRICHMENT PRIVATE LIMITED | MyCareersFuture | 2 | 2026-08-03 | [Apply](https://www.mycareersfuture.gov.sg/job/c7376b9ec82a80cc2aed401b1f0cd926) |
-| HR INTERN | ABSOLUT POH TEO INVESTMENT HOLDING LLP | MyCareersFuture | 0 | 2026-08-03 | [Apply](https://www.mycareersfuture.gov.sg/job/eb46e8d376a4b53a294ffc3e073b64ad) |
-| HR Intern  | AC P. COMPUTER TRAINING & CONSULTANCY PTE LTD | MyCareersFuture | 0 | 2026-08-03 | [Apply](https://www.mycareersfuture.gov.sg/job/90c602b2a46fb0422c29dd1b13401c75) |
-| Events & Marketing Interns | Singapore Human Resources Institute (SHRI) | MyCareersFuture | 1 | 2026-08-03 | [Apply](https://www.mycareersfuture.gov.sg/job/d9f7d47656ccd4b7aa22b4877b6a316d) |
-| Events & Membership, Senior Executive (1 year contract) | Singapore Human Resources Institute (SHRI) | MyCareersFuture | 2 | 2026-08-03 | [Apply](https://www.mycareersfuture.gov.sg/job/d4b44a4fff753c7bb1e00a5ce372a3a8) |
-| HR Intern | A LOOP PTE. LTD. | MyCareersFuture | 0 | 2026-08-03 | [Apply](https://www.mycareersfuture.gov.sg/job/cf94949e131e73aa2bfcef5908803e62) |
-| Assistant Manager, Learning & Development - The Singapore EDITION | GRANMIL HOLDINGS PTE LTD | MyCareersFuture | 2 | 2026-08-03 | [Apply](https://www.mycareersfuture.gov.sg/job/e6c43aab3e0e81f991d2bc43ea871538) |
-| Program Coordinator | AMS | LinkedIn | — | 2026-08-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Program%20Coordinator%20AMS&location=Singapore) |
-| Workforce Development Specialist/Senior Specialist | Micron Technology | LinkedIn | — | 2026-08-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Workforce%20Development%20Specialist%2FSenior%20Specialist%20Micron%20Technology&location=Singapore) |
-| Intern | Halliburton | LinkedIn | — | 2026-08-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Intern%20Halliburton&location=Singapore) |
-| HR Executive [5 days] [EL] | WECRUIT PTE. LTD. | MyCareersFuture | 2 | 2026-08-02 | [Apply](https://www.mycareersfuture.gov.sg/job/230922c3463d07a8bcc8da8e8fc811a4) |
+| Human Resource Business Partner | Groz-Beckert | LinkedIn | — | 2026-08-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resource%20Business%20Partner%20Groz-Beckert&location=Singapore) |
+| HR Operations | MEXC | LinkedIn | — | 2026-08-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Operations%20MEXC&location=Singapore) |
+| HR Executive | Confidential Jobs | LinkedIn | — | 2026-08-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Executive%20Confidential%20Jobs&location=Singapore) |
