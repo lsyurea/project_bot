@@ -2,12 +2,13 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-08-07T13:53:00.036Z*
+> *Last updated: 2026-08-08T02:30:08.268Z*
 
-**Total listings: 64** *(MyCareersFuture: 54 | LinkedIn: 10)*
+**Total listings: 60** *(MyCareersFuture: 50 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Human Resource Assistant (On the job training provided) (YS81) | TRUST RECRUIT PTE. LTD. | MyCareersFuture | 1 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/62d8f89c14ba467ba5ae0f2cb84227ff) |
 | HR INTERN | ABSOLUT POH TEO INVESTMENT HOLDING LLP | MyCareersFuture | 0 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/2860e16866aaa1c6e71f2b60fd401cc5) |
 | HR Intern | A LOOP PTE. LTD. | MyCareersFuture | 0 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/f318cbbaddc16d5618c0428a23ff7188) |
 | HR Executive (Campus Recruitment) 1 Year contract #HJO | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/f84154567c57db65ba9a44944d428202) |
@@ -39,9 +40,11 @@
 | Part-Time HR & Admin Assistant (6-Month Contract, Renewable) | ASIA-LINK TECHNOLOGY PTE LTD | MyCareersFuture | 0 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/bf3f0ebfcb2a1727635ec5927957e276) |
 | Presales Solutions Consultant | BIPO SERVICE (SINGAPORE) PTE. LTD. | MyCareersFuture | 2 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/b970c29cde7dcad85422655ae741ccf6) |
 | HR Assistant | ENOVA ELECTRICAL PTE. LTD. | MyCareersFuture | 0 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/94be24581d488d93a0f03b594cacf1e4) |
+| People & Culture Analyst (Mid-Level) – Singapore | EBANX | LinkedIn | — | 2026-08-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20%26amp%3B%20Culture%20Analyst%20(Mid-Level)%20%E2%80%93%20Singapore%20EBANX&location=Singapore) |
 | Human Resources Specialist | Applied Medical | LinkedIn | — | 2026-08-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Specialist%20Applied%20Medical&location=Singapore) |
 | People & Culture Manager | Raffles Hotels & Resorts | LinkedIn | — | 2026-08-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20%26amp%3B%20Culture%20Manager%20Raffles%20Hotels%20%26amp%3B%20Resorts&location=Singapore) |
 | HR Executive (Human Resource Department) [NIE] | Nanyang Technological University Singapore | LinkedIn | — | 2026-08-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Executive%20(Human%20Resource%20Department)%20%5BNIE%5D%20Nanyang%20Technological%20University%20Singapore&location=Singapore) |
+| Human Resources Executive | Capella Hotels and Resorts | LinkedIn | — | 2026-08-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20Capella%20Hotels%20and%20Resorts&location=Singapore) |
 | HR Associate (Data Migration) | SCIENTEC CONSULTING PTE. LTD. | MyCareersFuture | 1 | 2026-08-06 | [Apply](https://www.mycareersfuture.gov.sg/job/f47c8696d191e989c60aefe4db9805e6) |
 | L&D Specialist (Public Finance - Gov - UP5500) | PERSOL SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-08-06 | [Apply](https://www.mycareersfuture.gov.sg/job/2fc85a2e38526861923e0766c97f03f1) |
 | Executive, HR Shared Services (1-Year Contract, Up to $4k) #HFT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-08-06 | [Apply](https://www.mycareersfuture.gov.sg/job/d70a9edd659d01f36060e6da55b652d0) |
@@ -60,15 +63,8 @@
 | Payroll Executive (Contract) - Orchard - up $4K per month | HRNET VENTURES PTE. LTD. | MyCareersFuture | 2 | 2026-08-06 | [Apply](https://www.mycareersfuture.gov.sg/job/57f7596460faa9a6c82f58bc5aac1e58) |
 | Assistant Director, Organisational Development - Up to $10,000+ - 1-Year Contract #HMS | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 2 | 2026-08-06 | [Apply](https://www.mycareersfuture.gov.sg/job/35c334d8a93a4803c1cf6e8b1a29f636) |
 | Administrative Assistant | WEE CHWEE HUAT SCAFFOLDING & CONSTRUCTION PTE LTD | MyCareersFuture | 2 | 2026-08-06 | [Apply](https://www.mycareersfuture.gov.sg/job/94e5e05d1c9dfc021d43896a20de20c9) |
-| Human Resource Officer-WT | JUST RECRUIT SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-08-06 | [Apply](https://www.mycareersfuture.gov.sg/job/aae9c8f29d8680066f17e9fbe64f65c2) |
-| HR cum Accounts Executive [Open to fresh entry level] | TALENTSIS PTE. LTD. | MyCareersFuture | 0 | 2026-08-06 | [Apply](https://www.mycareersfuture.gov.sg/job/5df301ffd16c21f67856a269d0f3ee85) |
-| HR Executive cum Personal Assistant | LINKWAVE TECHNOLOGIES PTE. LTD. | MyCareersFuture | 2 | 2026-08-06 | [Apply](https://www.mycareersfuture.gov.sg/job/991bd202393a137007751b0773c16be1) |
-| Admin & Operations Executive | LH GRANDE CONSTRUCTION PTE. LTD. | MyCareersFuture | 0 | 2026-08-06 | [Apply](https://www.mycareersfuture.gov.sg/job/ccca76fabfc7d11e3dce31498dd21d84) |
-| HR Executive #10235 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-08-06 | [Apply](https://www.mycareersfuture.gov.sg/job/80c0702f6a1d328da4b013bfa35a07e8) |
 | HR Compensation & Benefits Specialist | Mizuho | LinkedIn | — | 2026-08-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Compensation%20%26amp%3B%20Benefits%20Specialist%20Mizuho&location=Singapore) |
 | Human Resources Generalist | Allianz Global Investors | LinkedIn | — | 2026-08-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Generalist%20Allianz%20Global%20Investors&location=Singapore) |
 | HR Operations | MEXC | LinkedIn | — | 2026-08-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Operations%20MEXC&location=Singapore) |
 | Manager (Human Resource) - Nee Soon | Ministry of Defence of Singapore | LinkedIn | — | 2026-08-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Manager%20(Human%20Resource)%20-%20Nee%20Soon%20Ministry%20of%20Defence%20of%20Singapore&location=Singapore) |
 | Senior Executive/Assistant Manager Industrial Relations | Singapore Airlines | LinkedIn | — | 2026-08-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Executive%2FAssistant%20Manager%20Industrial%20Relations%20Singapore%20Airlines&location=Singapore) |
-| Administrator II (HR) | SANMINA-SCI TECHNOLOGY INDIA PRIVATE LIMITED | LinkedIn | — | 2026-08-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Administrator%20II%20(HR)%20SANMINA-SCI%20TECHNOLOGY%20INDIA%20PRIVATE%20LIMITED&location=Singapore) |
-| HR Digital Specialist | Airbus | LinkedIn | — | 2026-08-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Digital%20Specialist%20Airbus&location=Singapore) |
