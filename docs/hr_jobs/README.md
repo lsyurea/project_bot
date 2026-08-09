@@ -2,9 +2,9 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-08-08T13:29:23.994Z*
+> *Last updated: 2026-08-09T02:36:49.765Z*
 
-**Total listings: 82** *(MyCareersFuture: 75 | LinkedIn: 10)*
+**Total listings: 77** *(MyCareersFuture: 70 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
@@ -49,7 +49,9 @@
 | HR ASSISTANT MANAGER | OCD HANDS PTE. LTD. | MyCareersFuture | 2 | 2026-08-08 | [Apply](https://www.mycareersfuture.gov.sg/job/b0a06fb3b48ad10beccea87c06f7bf98) |
 | HR EXECUTIVE | DAY ONE PTE. LTD. | MyCareersFuture | 1 | 2026-08-08 | [Apply](https://www.mycareersfuture.gov.sg/job/49ecef75c320775d28b737e15035fa8d) |
 | Human Resources Executive | MEXC | LinkedIn | — | 2026-08-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20MEXC&location=Singapore) |
+| HR Operations | MEXC | LinkedIn | — | 2026-08-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Operations%20MEXC&location=Singapore) |
 | Assistant Manager Human Resources | BreadTalk Group Pte Ltd | LinkedIn | — | 2026-08-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Assistant%20Manager%20Human%20Resources%20BreadTalk%20Group%20Pte%20Ltd&location=Singapore) |
+| HR Generalist (1-Year Contract) | Pacific International Lines (PTE) Ltd | LinkedIn | — | 2026-08-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Generalist%20(1-Year%20Contract)%20Pacific%20International%20Lines%20(PTE)%20Ltd&location=Singapore) |
 | Human Resource Assistant (On the job training provided) (YS81) | TRUST RECRUIT PTE. LTD. | MyCareersFuture | 1 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/62d8f89c14ba467ba5ae0f2cb84227ff) |
 | HR INTERN | ABSOLUT POH TEO INVESTMENT HOLDING LLP | MyCareersFuture | 0 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/2860e16866aaa1c6e71f2b60fd401cc5) |
 | HR Intern | A LOOP PTE. LTD. | MyCareersFuture | 0 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/f318cbbaddc16d5618c0428a23ff7188) |
@@ -77,16 +79,9 @@
 | HR Admin Exec [High Volume Headcount - Growth opportunities] | APBA TG HUMAN RESOURCE PTE. LTD. | MyCareersFuture | 1 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/ac4dda76e54061d0773fe7b2c494f371) |
 | coordinator | UNICO MARINE PTE. LTD. | MyCareersFuture | 2 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/e36d2cf69de05373dd72dece4f34d95b) |
 | Arts Administrator | CITY BALLET ACADEMY PTE. LTD. | MyCareersFuture | 2 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/8d7d50b6dfe330c540b2aca2ec1cead7) |
-| Accounts Executive | MORNINGSTAR MANAGEMENT CONSULTING PTE. LTD. | MyCareersFuture | 1 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/43a3d0f15ab54c04aac01cbb1c9c88e8) |
-| Human Resources Executive | PICO GUARDS PTE LTD | MyCareersFuture | 2 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/868c0cf32df3fed19eb147df3a18e6bb) |
-| Part-Time HR & Admin Assistant (6-Month Contract, Renewable) | ASIA-LINK TECHNOLOGY PTE LTD | MyCareersFuture | 0 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/bf3f0ebfcb2a1727635ec5927957e276) |
-| Presales Solutions Consultant | BIPO SERVICE (SINGAPORE) PTE. LTD. | MyCareersFuture | 2 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/b970c29cde7dcad85422655ae741ccf6) |
-| HR Assistant | ENOVA ELECTRICAL PTE. LTD. | MyCareersFuture | 0 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/94be24581d488d93a0f03b594cacf1e4) |
 | People & Culture Analyst (Mid-Level) – Singapore | EBANX | LinkedIn | — | 2026-08-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20%26amp%3B%20Culture%20Analyst%20(Mid-Level)%20%E2%80%93%20Singapore%20EBANX&location=Singapore) |
 | Human Resources Specialist | Applied Medical | LinkedIn | — | 2026-08-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Specialist%20Applied%20Medical&location=Singapore) |
 | People & Culture Manager | Raffles Hotels & Resorts | LinkedIn | — | 2026-08-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20%26amp%3B%20Culture%20Manager%20Raffles%20Hotels%20%26amp%3B%20Resorts&location=Singapore) |
 | HR Executive (Human Resource Department) [NIE] | Nanyang Technological University Singapore | LinkedIn | — | 2026-08-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Executive%20(Human%20Resource%20Department)%20%5BNIE%5D%20Nanyang%20Technological%20University%20Singapore&location=Singapore) |
 | Human Resources Executive | Capella Hotels and Resorts | LinkedIn | — | 2026-08-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20Capella%20Hotels%20and%20Resorts&location=Singapore) |
 | Human Resources Manager | Onesea Solutions Pte Ltd | LinkedIn | — | 2026-08-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Manager%20Onesea%20Solutions%20Pte%20Ltd&location=Singapore) |
-| HR Compensation & Benefits Specialist | Mizuho | LinkedIn | — | 2026-08-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Compensation%20%26amp%3B%20Benefits%20Specialist%20Mizuho&location=Singapore) |
-| HR Operations | MEXC | LinkedIn | — | 2026-08-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Operations%20MEXC&location=Singapore) |
