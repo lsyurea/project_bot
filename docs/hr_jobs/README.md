@@ -2,12 +2,19 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-08-09T02:36:49.765Z*
+> *Last updated: 2026-08-10T02:54:27.896Z*
 
-**Total listings: 77** *(MyCareersFuture: 70 | LinkedIn: 10)*
+**Total listings: 54** *(MyCareersFuture: 47 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| ADMIN AND HR EXECUTIVE (TUAS) (5DAYS) (MEAL PROVIDED) | SIN CHEW WOODPAQ PTE LTD | MyCareersFuture | 2 | 2026-08-10 | [Apply](https://www.mycareersfuture.gov.sg/job/bd17f00a80b540cc6d615bf510ae6e2c) |
+| Senior Executive, Human Resources | Fleet Management Limited | LinkedIn | — | 2026-08-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Executive%2C%20Human%20Resources%20Fleet%20Management%20Limited&location=Singapore) |
+| L&D Specialist, Gov (Entry Level - UP5500) | PERSOL SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-08-09 | [Apply](https://www.mycareersfuture.gov.sg/job/d543daf045bfb3713c0ad886243e86c1) |
+| HR AND ADMINISTRATIVE ASSISTANT | 10 STANLEY STREET PTE. LTD. | MyCareersFuture | 1 | 2026-08-09 | [Apply](https://www.mycareersfuture.gov.sg/job/bbda08bf783a498aeb83b5b52d7b58a8) |
+| HR AND ADMINISTRATIVE ASSISTANT | SAKE LABO PTE. LTD. | MyCareersFuture | 1 | 2026-08-09 | [Apply](https://www.mycareersfuture.gov.sg/job/eae40b276b312cbefe46ba9040802185) |
+| Human Resource Business Partner | Nanyang Polytechnic | LinkedIn | — | 2026-08-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resource%20Business%20Partner%20Nanyang%20Polytechnic&location=Singapore) |
+| Recruiter | Gartner | LinkedIn | — | 2026-08-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Recruiter%20Gartner&location=Singapore) |
 | Human Resource Assistant (No Experience Needed!!) (YS81) | TRUST RECRUIT PTE. LTD. | MyCareersFuture | 1 | 2026-08-08 | [Apply](https://www.mycareersfuture.gov.sg/job/e1145e78b98dedcfa1892bccde5adbd6) |
 | HR EXECUTIVE | MANDATE OF MANPOWER PTE. LTD. | MyCareersFuture | 1 | 2026-08-08 | [Apply](https://www.mycareersfuture.gov.sg/job/4ba7ee2219e1408327bd734321dae3e6) |
 | Mechanical / Aircon / Electrical Engineer | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-08-08 | [Apply](https://www.mycareersfuture.gov.sg/job/552d7b4fcd228537e74d8788003b6f7a) |
@@ -52,36 +59,6 @@
 | HR Operations | MEXC | LinkedIn | — | 2026-08-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Operations%20MEXC&location=Singapore) |
 | Assistant Manager Human Resources | BreadTalk Group Pte Ltd | LinkedIn | — | 2026-08-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Assistant%20Manager%20Human%20Resources%20BreadTalk%20Group%20Pte%20Ltd&location=Singapore) |
 | HR Generalist (1-Year Contract) | Pacific International Lines (PTE) Ltd | LinkedIn | — | 2026-08-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Generalist%20(1-Year%20Contract)%20Pacific%20International%20Lines%20(PTE)%20Ltd&location=Singapore) |
-| Human Resource Assistant (On the job training provided) (YS81) | TRUST RECRUIT PTE. LTD. | MyCareersFuture | 1 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/62d8f89c14ba467ba5ae0f2cb84227ff) |
-| HR INTERN | ABSOLUT POH TEO INVESTMENT HOLDING LLP | MyCareersFuture | 0 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/2860e16866aaa1c6e71f2b60fd401cc5) |
-| HR Intern | A LOOP PTE. LTD. | MyCareersFuture | 0 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/f318cbbaddc16d5618c0428a23ff7188) |
-| HR Executive (Campus Recruitment) 1 Year contract #HJO | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/f84154567c57db65ba9a44944d428202) |
-| HR Executive | LEONG HUP FOOD PTE. LTD. | MyCareersFuture | 2 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/6a7231e70cd1a8d836bd339fcc153e80) |
-| HR Assistant (No experience needed - Recruitment) #HJO | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/ebf1791fd2a885628224a82377b60654) |
-| Intern, Data Analytics, Talent Attraction | NTUC HEALTH CO-OPERATIVE LTD | MyCareersFuture | 0 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/ae70823f5fb946913200e6cbe71898f3) |
-| Payroll Executive (5-Month Contract) - Up to $4000/month | HRNET VENTURES PTE. LTD. | MyCareersFuture | 2 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/6c73c9e5b42bd5939ff6bf2893462201) |
-| Accounts cum HR Executive, $4,000 (North) | TEMP-TEAM PTE LTD | MyCareersFuture | 2 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/292310286cf2c66de8625d562ad65ef6) |
-| Senior Executive/Assistant Manager, Marcoms | Singapore Human Resources Institute (SHRI) | MyCareersFuture | 2 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/30fc9ced6e889942224a594d6b200388) |
-| Human Resource Assistant | TECHLEAD TECHNOLOGY PTE. LTD. | MyCareersFuture | 2 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/829e640445febb93d9a867e0b9d28ab2) |
-| HR EXECUTIVE | GLOBEVISA CONSULTANT PTE. LTD. | MyCareersFuture | 1 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/4d012cb1fdd20944b956e16bbfb42801) |
-| Accounts & HR Executive | LEO MANPOWER PTE. LTD. | MyCareersFuture | 2 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/25ee1f30a0a0315d4e60d3917e9d0f34) |
-| *URGENT* HR Assistant (Nursing Home) #HRY | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 2 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/4a226f6b157177a9e075aa6ba84a468c) |
-| MECHANICAL ENGINEER | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/1803c3d05d9cc0dfee9e9976574568c6) |
-| Recruitment Consultant (PERM) | TALENTSIS PTE. LTD. | MyCareersFuture | 1 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/791cfb937d7e9380525af4a511196ec8) |
-| HR Assistant - Senoko- 5 Days - $2500 -Company transport provided from Jurong East MRT | SWIFT SEARCH GLOBAL PTE. LTD. | MyCareersFuture | 1 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/779ee75f54caae70c128eb029ced910c) |
-| HR Executive (Recruitment) | SOLID M&Z PTE. LTD. | MyCareersFuture | 2 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/b2b7beb560410a96cfd2eb15e56d20f3) |
-| L&D Specialist (Gov Sector) | PERSOL SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/4eb4b660ae8f69d57a5f6d6c04106b78) |
-| Human Resources Assistant | ANDAZ SINGAPORE | MyCareersFuture | 0 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/ff3533ca31e93f5f2b0839c7921996ee) |
-| HUMAN RESOURCE EXECUTIVE | STRAITS FACILITIES PRIVATE LIMITED | MyCareersFuture | 1 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/ba9512f4bd96115aaa6d394b0549ccac) |
-| HR Executive #10149 | ANRADUS PTE. LTD. | MyCareersFuture | 1 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/597e774a0592fd0b13cb4def271c6ee2) |
-| Entry Level - L&D Specialist (Innovation - Gov - UP5500) | PERSOL SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/8a70bf9bf234dbdc9a510b52464948c9) |
-| HR Executive | IDEALS RECRUITMENT PTE. LTD. | MyCareersFuture | 1 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/6eba7588c6749debdb397975d1d0829a) |
-| HR Admin Exec [High Volume Headcount - Growth opportunities] | APBA TG HUMAN RESOURCE PTE. LTD. | MyCareersFuture | 1 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/ac4dda76e54061d0773fe7b2c494f371) |
-| coordinator | UNICO MARINE PTE. LTD. | MyCareersFuture | 2 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/e36d2cf69de05373dd72dece4f34d95b) |
-| Arts Administrator | CITY BALLET ACADEMY PTE. LTD. | MyCareersFuture | 2 | 2026-08-07 | [Apply](https://www.mycareersfuture.gov.sg/job/8d7d50b6dfe330c540b2aca2ec1cead7) |
-| People & Culture Analyst (Mid-Level) – Singapore | EBANX | LinkedIn | — | 2026-08-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20%26amp%3B%20Culture%20Analyst%20(Mid-Level)%20%E2%80%93%20Singapore%20EBANX&location=Singapore) |
-| Human Resources Specialist | Applied Medical | LinkedIn | — | 2026-08-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Specialist%20Applied%20Medical&location=Singapore) |
-| People & Culture Manager | Raffles Hotels & Resorts | LinkedIn | — | 2026-08-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20%26amp%3B%20Culture%20Manager%20Raffles%20Hotels%20%26amp%3B%20Resorts&location=Singapore) |
-| HR Executive (Human Resource Department) [NIE] | Nanyang Technological University Singapore | LinkedIn | — | 2026-08-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Executive%20(Human%20Resource%20Department)%20%5BNIE%5D%20Nanyang%20Technological%20University%20Singapore&location=Singapore) |
-| Human Resources Executive | Capella Hotels and Resorts | LinkedIn | — | 2026-08-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20Capella%20Hotels%20and%20Resorts&location=Singapore) |
-| Human Resources Manager | Onesea Solutions Pte Ltd | LinkedIn | — | 2026-08-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Manager%20Onesea%20Solutions%20Pte%20Ltd&location=Singapore) |
+| HR Business Partner - Singapore | Plaud | LinkedIn | — | 2026-08-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Business%20Partner%20-%20Singapore%20Plaud&location=Singapore) |
+| People Business Partner - SEA & Regional Commercial Functions | Ferrero | LinkedIn | — | 2026-08-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20Business%20Partner%20-%20SEA%20%26amp%3B%20Regional%20Commercial%20Functions%20Ferrero&location=Singapore) |
+| Manager, Human Resources (South Asia RHQ) | Ocean Network Express | LinkedIn | — | 2026-08-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Manager%2C%20Human%20Resources%20(South%20Asia%20RHQ)%20Ocean%20Network%20Express&location=Singapore) |
