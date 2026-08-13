@@ -3,12 +3,12 @@
 This repository automatically updates repository activity stats for my GitHub account.
 
 <!-- REPO_ACTIVITY:START -->
-Generated: 2026-08-13T13:40:58.423Z
+Generated: 2026-08-13T19:16:17.308Z
 
 Active window: last 90 days (cutoff: 2026-05-15)
 Total repositories analyzed: 50
-Active: 11
-Inactive: 39
+Active: 10
+Inactive: 40
 
 ### Active Repositories
 - 🌐 [lsyurea/project_bot](https://github.com/lsyurea/project_bot) — last push: 2026-08-13
@@ -21,9 +21,9 @@ Inactive: 39
 - 🔒 [lsyurea/portfolio_management](https://github.com/lsyurea/portfolio_management) — last push: 2026-06-10
 - 🔒 [lsyurea/Ecommerce](https://github.com/lsyurea/Ecommerce) — last push: 2026-05-24
 - 🔒 [lsyurea/learnGPT](https://github.com/lsyurea/learnGPT) — last push: 2026-05-17
-- 🌐 [lsyurea/miles](https://github.com/lsyurea/miles) — last push: 2026-05-15
 
 ### Inactive Repositories
+- 🌐 [lsyurea/miles](https://github.com/lsyurea/miles) — last push: 2026-05-15
 - 🔒 [lsyurea/Meetify](https://github.com/lsyurea/Meetify) — last push: 2026-04-05
 - 🌐 [lsyurea/openclaude](https://github.com/lsyurea/openclaude) — last push: 2026-04-02
 - 🌐 [lsyurea/claude-code](https://github.com/lsyurea/claude-code) — last push: 2026-04-01
