@@ -2,9 +2,9 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-08-15T01:59:30.570Z*
+> *Last updated: 2026-08-15T13:10:01.062Z*
 
-**Total listings: 50** *(MyCareersFuture: 42 | LinkedIn: 10)*
+**Total listings: 30** *(MyCareersFuture: 20 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
@@ -32,29 +32,9 @@
 | Assistant Manager Talent Management | Singapore Airlines | LinkedIn | — | 2026-08-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Assistant%20Manager%20Talent%20Management%20Singapore%20Airlines&location=Singapore) |
 | HR Business Partner | LVMH Perfumes & Cosmetics | LinkedIn | — | 2026-08-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Business%20Partner%20LVMH%20Perfumes%20%26amp%3B%20Cosmetics&location=Singapore) |
 | HR Business Partner | Travelex | LinkedIn | — | 2026-08-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Business%20Partner%20Travelex&location=Singapore) |
-| Guest Relations cum Admin Officer | CHAINUP PTE. LTD. | MyCareersFuture | 2 | 2026-08-13 | [Apply](https://www.mycareersfuture.gov.sg/job/264685f177b11f233f6ed7b33545731e) |
-| Senior Business Process Analyst | KOCH BUSINESS SOLUTIONS - ASIA PACIFIC PTE. LTD. | MyCareersFuture | 1 | 2026-08-13 | [Apply](https://www.mycareersfuture.gov.sg/job/78f86382d624ad98344a2b1f8c7b9eb1) |
-| Accounts & HR Executive | GENTLE GIANT VENTURES PTE. LTD. | MyCareersFuture | 2 | 2026-08-13 | [Apply](https://www.mycareersfuture.gov.sg/job/e82b514b4335b36a848b35e9d94e38c4) |
-| HR Projects Analyst - Corporate Bank & Investment Bank | DEUTSCHE BANK AKTIENGESELLSCHAFT | MyCareersFuture | 2 | 2026-08-13 | [Apply](https://www.mycareersfuture.gov.sg/job/73839f9d9f6b2ded05096ee83463d8de) |
-| Executive Officer / Senior Executive Officer – Human Resources | PRO BONO SG | MyCareersFuture | 1 | 2026-08-13 | [Apply](https://www.mycareersfuture.gov.sg/job/5115244e04937c9b577384788cbe21a2) |
-| HR & Admin Executive | INFINIX HOSPITALITY MANAGEMENT PTE. LTD. | MyCareersFuture | 2 | 2026-08-13 | [Apply](https://www.mycareersfuture.gov.sg/job/791b9fb73e269db63af43b41149745d6) |
-| Restaurant Manager | SURREY HILLS HOLDINGS (PRIVATE LIMITED) | MyCareersFuture | 1 | 2026-08-13 | [Apply](https://www.mycareersfuture.gov.sg/job/728f5725d79ab357a30e5c51eba994bb) |
-| HR Intern  | AC P. COMPUTER TRAINING & CONSULTANCY PTE LTD | MyCareersFuture | 0 | 2026-08-13 | [Apply](https://www.mycareersfuture.gov.sg/job/d6154e07e477f0a2d5709a8e4c2c994e) |
-| SALES MANAGER | STEEL ALLY RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-08-13 | [Apply](https://www.mycareersfuture.gov.sg/job/c768ea64bd58fed18932b74adab5acd2) |
-| HR Executive (Training & Development) | SASCO SENIOR CITIZENS' HOME | MyCareersFuture | 2 | 2026-08-13 | [Apply](https://www.mycareersfuture.gov.sg/job/65cf7d5bce51ecd7e65de9241e51bb8c) |
-| Purchaser Cum Admin | HOCK SOON LEE FURNITURE INDUSTRIES PTE. LTD. | MyCareersFuture | 2 | 2026-08-13 | [Apply](https://www.mycareersfuture.gov.sg/job/1801a1a7da8a235da4b84a773c98ec11) |
-| Human Resources Assistant | TIONG NAM LOGISTICS (S) PTE. LTD. | MyCareersFuture | 1 | 2026-08-13 | [Apply](https://www.mycareersfuture.gov.sg/job/2b80fe4b800980055f0f901adcf5b2d7) |
-| Management Trainee Program (Fresh Graduate)) | FUTURUM SPACE PTE. LTD. | MyCareersFuture | 0 | 2026-08-13 | [Apply](https://www.mycareersfuture.gov.sg/job/e78e6419e6bbaaebcb7f45f89b0ba48a) |
-| BUS DRIVER | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-08-13 | [Apply](https://www.mycareersfuture.gov.sg/job/ab98b4312365b58a33bfa222010e1e43) |
-| Management Trainee | GAIAX INTERNATIONAL PTE. LTD. | MyCareersFuture | 0 | 2026-08-13 | [Apply](https://www.mycareersfuture.gov.sg/job/de6bd2dd607e6963a805616016a29130) |
-| Human Resources Assistant - Recruitment & HR Admin - Min A Level / Diploma - Bishan Private Healthcare - $12/hr #HYT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-08-13 | [Apply](https://www.mycareersfuture.gov.sg/job/2f33c2b162ea03bf83b37394566f4b4a) |
-| supervisor | MOTON INTERNATIONAL HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-08-13 | [Apply](https://www.mycareersfuture.gov.sg/job/87d34cbb89a89cb7e277b9a2bdc29346) |
-| Part-Time HR Assistant | ALLINTON ENGINEERING & TRADING PTE. LTD. | MyCareersFuture | 1 | 2026-08-13 | [Apply](https://www.mycareersfuture.gov.sg/job/cdf4cbb096a91358ab08b5caca4ec8a7) |
-| HR Intern ( Recruitment / Talent Acquisition ) #HYT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-08-13 | [Apply](https://www.mycareersfuture.gov.sg/job/19b23737bea8f578ecaa80a96079742c) |
-| HR Intern ( Healthcare ) #HYT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-08-13 | [Apply](https://www.mycareersfuture.gov.sg/job/d27781ffc50c3e3d20612fa00e4dfd67) |
-| Compensation & Benefits Specialist | Shopee | LinkedIn | — | 2026-08-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Compensation%20%26amp%3B%20Benefits%20Specialist%20Shopee&location=Singapore) |
-| Total Rewards Specialist | Samsung Southeast Asia & Oceania | LinkedIn | — | 2026-08-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Total%20Rewards%20Specialist%20Samsung%20Southeast%20Asia%20%26amp%3B%20Oceania&location=Singapore) |
+| HR Manager | CloudHQ, LLC | LinkedIn | — | 2026-08-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Manager%20CloudHQ%2C%20LLC&location=Singapore) |
+| HR Advisor | BGC Group | LinkedIn | — | 2026-08-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Advisor%20BGC%20Group&location=Singapore) |
 | Workforce Governance Expert | ByteDance | LinkedIn | — | 2026-08-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Workforce%20Governance%20Expert%20ByteDance&location=Singapore) |
-| Human Resources Operations Specialist | JC Consulting | LinkedIn | — | 2026-08-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Operations%20Specialist%20JC%20Consulting&location=Singapore) |
 | Human Resources Business Partner | Vanguard International Semiconductor Corporation (VIS) | LinkedIn | — | 2026-08-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Business%20Partner%20Vanguard%20International%20Semiconductor%20Corporation%20(VIS)&location=Singapore) |
 | HR Operations Specialist | ADM | LinkedIn | — | 2026-08-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Operations%20Specialist%20ADM&location=Singapore) |
+| HR Shared Services Practitioner | Accenture Southeast Asia | LinkedIn | — | 2026-08-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Shared%20Services%20Practitioner%20Accenture%20Southeast%20Asia&location=Singapore) |
