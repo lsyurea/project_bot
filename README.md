@@ -3,7 +3,7 @@
 This repository automatically updates repository activity stats for my GitHub account.
 
 <!-- REPO_ACTIVITY:START -->
-Generated: 2026-08-15T01:46:50.569Z
+Generated: 2026-08-15T06:54:48.485Z
 
 Active window: last 90 days (cutoff: 2026-05-17)
 Total repositories analyzed: 50
@@ -11,16 +11,16 @@ Active: 10
 Inactive: 40
 
 ### Active Repositories
+- 🔒 [lsyurea/learnGPT](https://github.com/lsyurea/learnGPT) — last push: 2026-08-15
+- 🔒 [lsyurea/PromptHire](https://github.com/lsyurea/PromptHire) — last push: 2026-08-15
+- 🌐 [lsyurea/project_bot](https://github.com/lsyurea/project_bot) — last push: 2026-08-15
 - 🔒 [lsyurea/portfolio_next](https://github.com/lsyurea/portfolio_next) — last push: 2026-08-15
-- 🌐 [lsyurea/project_bot](https://github.com/lsyurea/project_bot) — last push: 2026-08-14
 - 🔒 [lsyurea/Transformers](https://github.com/lsyurea/Transformers) — last push: 2026-08-13
 - 🌐 [lsyurea/ml_streamlit_template](https://github.com/lsyurea/ml_streamlit_template) — last push: 2026-08-11
 - 🔒 [lsyurea/CodeChallenge](https://github.com/lsyurea/CodeChallenge) — last push: 2026-07-14
-- 🔒 [lsyurea/PromptHire](https://github.com/lsyurea/PromptHire) — last push: 2026-07-08
 - 🔒 [lsyurea/frontend_mono](https://github.com/lsyurea/frontend_mono) — last push: 2026-06-30
 - 🔒 [lsyurea/portfolio_management](https://github.com/lsyurea/portfolio_management) — last push: 2026-06-10
 - 🔒 [lsyurea/Ecommerce](https://github.com/lsyurea/Ecommerce) — last push: 2026-05-24
-- 🔒 [lsyurea/learnGPT](https://github.com/lsyurea/learnGPT) — last push: 2026-05-17
 
 ### Inactive Repositories
 - 🌐 [lsyurea/miles](https://github.com/lsyurea/miles) — last push: 2026-05-15
