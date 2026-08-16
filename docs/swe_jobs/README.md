@@ -2,7 +2,7 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-08-15T13:10:06.960Z*
+> *Last updated: 2026-08-16T02:08:16.804Z*
 
 **Total listings: 23** *(MyCareersFuture: 14 | LinkedIn: 10)*
 
@@ -10,8 +10,7 @@
 |-----------|---------|--------|---------|--------|-------|
 | Assistant Software Engineer / Software Engineer (SCADA & System Integration) | EA RECRUITMENT PTE. LTD. | MyCareersFuture | 1 | 2026-08-15 | [Apply](https://www.mycareersfuture.gov.sg/job/cdf3356fc719ca8646700eb3fb56ea7d) |
 | Software Engineer (C++, UX/UI) Automation | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 2 | 2026-08-15 | [Apply](https://www.mycareersfuture.gov.sg/job/0335177413245ee27cd9484f9fe25143) |
-| Software Engineer, Safe Coding | Google | LinkedIn | — | 2026-08-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Safe%20Coding%20Google&location=Singapore) |
-| Software Engineer, Desktop | A1 | LinkedIn | — | 2026-08-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Desktop%20A1&location=Singapore) |
+| Software Engineer (Information) | DSO National Laboratories | LinkedIn | — | 2026-08-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Information)%20DSO%20National%20Laboratories&location=Singapore) |
 | C++ Software Engineer | Optiver | LinkedIn | — | 2026-08-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=C%2B%2B%20Software%20Engineer%20Optiver&location=Singapore) |
 | Software Engineer (Ref 23939JA) | JOBLINE RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-08-14 | [Apply](https://www.mycareersfuture.gov.sg/job/ab59afe309e14c10a748f106c657ffcc) |
 | Software Engineer (Automation) PLC | SYS-MAC AUTOMATION ENGINEERING PTE LTD | MyCareersFuture | 2 | 2026-08-14 | [Apply](https://www.mycareersfuture.gov.sg/job/ee6d6bb10d0b3e8e6f3a08260794925f) |
@@ -27,7 +26,8 @@
 | Software Engineer | Accenture Southeast Asia | LinkedIn | — | 2026-08-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Accenture%20Southeast%20Asia&location=Singapore) |
 | Software Engineer, Payments | Stripe | LinkedIn | — | 2026-08-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Payments%20Stripe&location=Singapore) |
 | Software Engineer | SteelSeries | LinkedIn | — | 2026-08-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20SteelSeries&location=Singapore) |
-| Software Engineer, Excellence & Performance | GovTech Singapore | LinkedIn | — | 2026-08-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Excellence%20%26amp%3B%20Performance%20GovTech%20Singapore&location=Singapore) |
-| Software Engineer | Goliath Partners | LinkedIn | — | 2026-08-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Goliath%20Partners&location=Singapore) |
-| Software Engineer (Developer Platform) | Centre for Strategic Infocomm Technologies (CSIT) | LinkedIn | — | 2026-08-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Developer%20Platform)%20Centre%20for%20Strategic%20Infocomm%20Technologies%20(CSIT)&location=Singapore) |
-| AI Product Engineer | Accenture Southeast Asia | LinkedIn | — | 2026-08-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=AI%20Product%20Engineer%20Accenture%20Southeast%20Asia&location=Singapore) |
+| Software Engineer, ActiveSG | Open Government Products | LinkedIn | — | 2026-08-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20ActiveSG%20Open%20Government%20Products&location=Singapore) |
+| Software Engineer | Total eBiz Solutions | LinkedIn | — | 2026-08-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Total%20eBiz%20Solutions&location=Singapore) |
+| Software Engineer, Content Safety | Google | LinkedIn | — | 2026-08-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Content%20Safety%20Google&location=Singapore) |
+| AI Full-Stack Engineer - Nas.com | Nas Company | LinkedIn | — | 2026-08-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=AI%20Full-Stack%20Engineer%20-%20Nas.com%20Nas%20Company&location=Singapore) |
+| Software Engineer (Java) | Capgemini | LinkedIn | — | 2026-08-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Java)%20Capgemini&location=Singapore) |
