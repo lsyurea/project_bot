@@ -2,12 +2,17 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-08-15T13:10:01.062Z*
+> *Last updated: 2026-08-16T02:08:12.116Z*
 
-**Total listings: 30** *(MyCareersFuture: 20 | LinkedIn: 10)*
+**Total listings: 31** *(MyCareersFuture: 21 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Assistant Director, Organisational Development (Healthcare) #HHW | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 2 | 2026-08-16 | [Apply](https://www.mycareersfuture.gov.sg/job/44245575ca64220d1c93596a3e0cc578) |
+| Human Resources Specialist | Vishay Intertechnology, Inc. | LinkedIn | — | 2026-08-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Specialist%20Vishay%20Intertechnology%2C%20Inc.&location=Singapore) |
+| Rewards and People Programs Partner, SEAA | CHANEL | LinkedIn | — | 2026-08-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Rewards%20and%20People%20Programs%20Partner%2C%20SEAA%20CHANEL&location=Singapore) |
+| 2026 Inexperienced Hire - HR Professional | ExxonMobil | LinkedIn | — | 2026-08-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=2026%20Inexperienced%20Hire%20-%20HR%20Professional%20ExxonMobil&location=Singapore) |
+| AVP, Employee Relations Specialist, Group Human Resources | OCBC | LinkedIn | — | 2026-08-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=AVP%2C%20Employee%20Relations%20Specialist%2C%20Group%20Human%20Resources%20OCBC&location=Singapore) |
 | Human Resources - Learning & Development Executive | THE RITZ-CARLTON, MILLENIA SINGAPORE | MyCareersFuture | 1 | 2026-08-14 | [Apply](https://www.mycareersfuture.gov.sg/job/91d61aa59ff804b60cfd23cc6cad68ff) |
 | Crew Executive | TALENT-MERGE PTE. LTD. | MyCareersFuture | 2 | 2026-08-14 | [Apply](https://www.mycareersfuture.gov.sg/job/da4543a5fdf792a6bfe99342323f29f2) |
 | HR & Operations Executive | HWA INTERNATIONAL SCHOOL PTE. LTD. | MyCareersFuture | 2 | 2026-08-14 | [Apply](https://www.mycareersfuture.gov.sg/job/b344b858e4d3c9bae84669c683ada52f) |
@@ -34,7 +39,3 @@
 | HR Business Partner | Travelex | LinkedIn | — | 2026-08-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Business%20Partner%20Travelex&location=Singapore) |
 | HR Manager | CloudHQ, LLC | LinkedIn | — | 2026-08-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Manager%20CloudHQ%2C%20LLC&location=Singapore) |
 | HR Advisor | BGC Group | LinkedIn | — | 2026-08-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Advisor%20BGC%20Group&location=Singapore) |
-| Workforce Governance Expert | ByteDance | LinkedIn | — | 2026-08-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Workforce%20Governance%20Expert%20ByteDance&location=Singapore) |
-| Human Resources Business Partner | Vanguard International Semiconductor Corporation (VIS) | LinkedIn | — | 2026-08-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Business%20Partner%20Vanguard%20International%20Semiconductor%20Corporation%20(VIS)&location=Singapore) |
-| HR Operations Specialist | ADM | LinkedIn | — | 2026-08-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Operations%20Specialist%20ADM&location=Singapore) |
-| HR Shared Services Practitioner | Accenture Southeast Asia | LinkedIn | — | 2026-08-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Shared%20Services%20Practitioner%20Accenture%20Southeast%20Asia&location=Singapore) |
