@@ -2,12 +2,15 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-08-17T13:23:16.470Z*
+> *Last updated: 2026-08-18T02:01:51.887Z*
 
 **Total listings: 39** *(MyCareersFuture: 30 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Human Resources & Admin Executive | LUMINA ADVISORY & GLOBAL SEARCH PTE. LTD. | MyCareersFuture | 1 | 2026-08-18 | [Apply](https://www.mycareersfuture.gov.sg/job/fb93e64ba6074fe214d2c7d5633bbcdf) |
+| Total Rewards Specialist | Samsung Southeast Asia & Oceania | LinkedIn | — | 2026-08-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Total%20Rewards%20Specialist%20Samsung%20Southeast%20Asia%20%26amp%3B%20Oceania&location=Singapore) |
+| Talent Acquisition Specialist (1-year contract) | Samsung Southeast Asia & Oceania | LinkedIn | — | 2026-08-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Specialist%20(1-year%20contract)%20Samsung%20Southeast%20Asia%20%26amp%3B%20Oceania&location=Singapore) |
 | Human Resource Executive | PRECIOUS HOMES PTE. LTD. | MyCareersFuture | 2 | 2026-08-17 | [Apply](https://www.mycareersfuture.gov.sg/job/12f86581f1f912f5d70ea764a77c9c50) |
 | HR Assistant (Construction) (YS81) | TRUST RECRUIT PTE. LTD. | MyCareersFuture | 1 | 2026-08-17 | [Apply](https://www.mycareersfuture.gov.sg/job/14ea5cb5028b398dcfb559f947f5303e) |
 | Human Resources Executive - Payroll & Recruitment - Diploma / Degree in HR - Lorong Chuan FMCG MNC - UP $4.5K #HYT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-08-17 | [Apply](https://www.mycareersfuture.gov.sg/job/7f224e9b18c7a18deabc608a128714ec) |
@@ -31,19 +34,16 @@
 | Intern, Human Resources | CAA SPORTS PTE. LTD. | MyCareersFuture | 1 | 2026-08-17 | [Apply](https://www.mycareersfuture.gov.sg/job/c3789a170f876ed3d8d17c9e2d106e5e) |
 | HR & Admin Executive (Human Resources / Transport Provided) | EA RECRUITMENT PTE. LTD. | MyCareersFuture | 2 | 2026-08-17 | [Apply](https://www.mycareersfuture.gov.sg/job/0a4d9202d0f071f9a147b50c8f388720) |
 | Human Resource | ASEANET MANPOWER CONSULTING PTE. LTD. | MyCareersFuture | 2 | 2026-08-17 | [Apply](https://www.mycareersfuture.gov.sg/job/0b063513a579871f43a8b3795c3b9a95) |
-| Human Resources - Executive (Business Partner) | The Ritz-Carlton Hotel Company, L.L.C. | LinkedIn | — | 2026-08-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20-%20Executive%20(Business%20Partner)%20The%20Ritz-Carlton%20Hotel%20Company%2C%20L.L.C.&location=Singapore) |
-| Senior Human Resource Specialist | E.SUN Financial Holding Co., Ltd | LinkedIn | — | 2026-08-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Human%20Resource%20Specialist%20E.SUN%20Financial%20Holding%20Co.%2C%20Ltd&location=Singapore) |
-| Senior Executive, Human Resources | Fleet Management Limited | LinkedIn | — | 2026-08-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Executive%2C%20Human%20Resources%20Fleet%20Management%20Limited&location=Singapore) |
-| Senior Human Resources Specialist | Confidential | LinkedIn | — | 2026-08-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Human%20Resources%20Specialist%20Confidential&location=Singapore) |
-| Senior HR Executive | SJ Group | LinkedIn | — | 2026-08-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20HR%20Executive%20SJ%20Group&location=Singapore) |
-| HR Manager | Brunel | LinkedIn | — | 2026-08-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Manager%20Brunel&location=Singapore) |
-| HR Generalist Singapore | Ant International | LinkedIn | — | 2026-08-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Generalist%20Singapore%20Ant%20International&location=Singapore) |
 | Senior HR Associate - Singapore | Bhima Gold - B Krishnan Group | LinkedIn | — | 2026-08-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20HR%20Associate%20%7C%20Singapore%20Bhima%20Gold%20-%20B%20Krishnan%20Group&location=Singapore) |
-| Global HR Operations Director - PE Backed | Frazer Jones | LinkedIn | — | 2026-08-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Global%20HR%20Operations%20Director%20-%20PE%20Backed%20Frazer%20Jones&location=Singapore) |
+| Human Resources - Executive (Business Partner) | The Ritz-Carlton Hotel Company, L.L.C. | LinkedIn | — | 2026-08-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20-%20Executive%20(Business%20Partner)%20The%20Ritz-Carlton%20Hotel%20Company%2C%20L.L.C.&location=Singapore) |
+| HR Generalist Singapore | Ant International | LinkedIn | — | 2026-08-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Generalist%20Singapore%20Ant%20International&location=Singapore) |
+| Human Resources Business Partner | ViewQwest | LinkedIn | — | 2026-08-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Business%20Partner%20ViewQwest&location=Singapore) |
+| Employee Relations Specialist (1 Year Contract, Opportunity to Renew / Convert) | Certis | LinkedIn | — | 2026-08-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Employee%20Relations%20Specialist%20(1%20Year%20Contract%2C%20Opportunity%20to%20Renew%20%2F%20Convert)%20Certis&location=Singapore) |
+| Human Resources Business Partner | GOLDTECH RESOURCES PTE LTD | LinkedIn | — | 2026-08-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Business%20Partner%20GOLDTECH%20RESOURCES%20PTE%20LTD&location=Singapore) |
 | Human Resources and Admin Executive | LIM WEN HENG CONSTRUCTION PTE LTD | MyCareersFuture | 2 | 2026-08-16 | [Apply](https://www.mycareersfuture.gov.sg/job/c8bebdd623f059532e51fc06db129a01) |
 | HR & Admin Executive #10153 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-08-16 | [Apply](https://www.mycareersfuture.gov.sg/job/07bcd0a53680406ebd2d0feca7491424) |
 | HR Executive #10235 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-08-16 | [Apply](https://www.mycareersfuture.gov.sg/job/172e6bc9a6d4d006bd54066560cf4447) |
 | Brand, Training & Client Communications Manager | ACN INTERNATIONAL PTE. LTD. | MyCareersFuture | 2 | 2026-08-16 | [Apply](https://www.mycareersfuture.gov.sg/job/b3201d85fb2cc5602d473e70c94b2810) |
 | ACCOUNTS/HR ASSISTANT | FUJI SMBE INDUSTRIES PTE. LTD. | MyCareersFuture | 1 | 2026-08-16 | [Apply](https://www.mycareersfuture.gov.sg/job/1f4233e6d66ea50e2d82f23ef1ee06ee) |
-| Assistant Director, Organisational Development (Healthcare) #HHW | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 2 | 2026-08-16 | [Apply](https://www.mycareersfuture.gov.sg/job/44245575ca64220d1c93596a3e0cc578) |
 | Talent Partner | DHL Supply Chain | LinkedIn | — | 2026-08-16 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Partner%20DHL%20Supply%20Chain&location=Singapore) |
+| Human Resource Manager | Housing & Development Board | LinkedIn | — | 2026-08-16 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resource%20Manager%20Housing%20%26amp%3B%20Development%20Board&location=Singapore) |
