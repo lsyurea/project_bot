@@ -2,12 +2,13 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-08-19T13:27:21.654Z*
+> *Last updated: 2026-08-20T02:04:10.521Z*
 
-**Total listings: 35** *(MyCareersFuture: 28 | LinkedIn: 10)*
+**Total listings: 36** *(MyCareersFuture: 29 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| SENIOR SOFTWARE CONTROLS ENGINEER | ACCUSYS PTE. LTD. | MyCareersFuture | 1 | 2026-08-20 | [Apply](https://www.mycareersfuture.gov.sg/job/32113b2b89e3a4d15fb39af390230856) |
 | 2027 Software Engineer Program - Full Time Analyst (Singapore) | JPMORGAN CHASE BANK, N.A. | MyCareersFuture | 0 | 2026-08-19 | [Apply](https://www.mycareersfuture.gov.sg/job/2340a48576c8aa19ad12bbf7ab2115db) |
 | SOFTWARE ENGINEER | OCTA METIER PTE. LTD. | MyCareersFuture | 2 | 2026-08-19 | [Apply](https://www.mycareersfuture.gov.sg/job/f3ad12c78fb842ad73364111f1a85ec1) |
 | Automation Software Engineer (PLC Programming) #10232 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-08-19 | [Apply](https://www.mycareersfuture.gov.sg/job/42ca1bbe69af4db194a313e76f4476ed) |
@@ -21,9 +22,12 @@
 | Assistant Software Engineer / Software Engineer (SCADA & System Integration) | EA RECRUITMENT PTE. LTD. | MyCareersFuture | 1 | 2026-08-19 | [Apply](https://www.mycareersfuture.gov.sg/job/92038d3fcfc570ba826443d0f610b5d4) |
 | Software Engineer | ROHDE & SCHWARZ ASIA PTE. LTD. | MyCareersFuture | 1 | 2026-08-19 | [Apply](https://www.mycareersfuture.gov.sg/job/89dca5adddbe0ac725ef5ff37c3226ad) |
 | Software Engineer, Google Wallet, Transit and eMoney - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 2 | 2026-08-19 | [Apply](https://www.mycareersfuture.gov.sg/job/274048f718d212da32f7ed9ced6c1c86) |
-| Software Development Engineer | Wipro | LinkedIn | — | 2026-08-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Development%20Engineer%20Wipro&location=Singapore) |
-| Full Stack Engineer | Tata Consultancy Services | LinkedIn | — | 2026-08-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Full%20Stack%20Engineer%20Tata%20Consultancy%20Services&location=Singapore) |
-| Software Engineer (C++, Low latency) | Morgan McKinley | LinkedIn | — | 2026-08-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(C%2B%2B%2C%20Low%20latency)%20Morgan%20McKinley&location=Singapore) |
+| Software Engineer III, Payments Technology | JPMorganChase | LinkedIn | — | 2026-08-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20III%2C%20Payments%20Technology%20JPMorganChase&location=Singapore) |
+| Software Engineer III, Business Mobile App, Payments | Google | LinkedIn | — | 2026-08-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20III%2C%20Business%20Mobile%20App%2C%20Payments%20Google&location=Singapore) |
+| Backend Software Engineer - AI Finance Agent | BJAK | LinkedIn | — | 2026-08-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Backend%20Software%20Engineer%20-%20AI%20Finance%20Agent%20BJAK&location=Singapore) |
+| Full Stack Software Engineer - AI Finance Agent | BJAK | LinkedIn | — | 2026-08-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Full%20Stack%20Software%20Engineer%20-%20AI%20Finance%20Agent%20BJAK&location=Singapore) |
+| Senior Software Engineer, Card Solutions | Reap | LinkedIn | — | 2026-08-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%2C%20Card%20Solutions%20Reap&location=Singapore) |
+| Expert Engineer, Backend (Java) | Shopee | LinkedIn | — | 2026-08-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Expert%20Engineer%2C%20Backend%20(Java)%20Shopee&location=Singapore) |
 | Full Stack AI Engineer | CMC-APAC PRIVATE LIMITED | MyCareersFuture | 2 | 2026-08-18 | [Apply](https://www.mycareersfuture.gov.sg/job/32f436cd125f6fa5385ecff379b446af) |
 | Control (Software) Design Engineer / PLC Programmer #70912 | ANRADUS PTE. LTD. | MyCareersFuture | 0 | 2026-08-18 | [Apply](https://www.mycareersfuture.gov.sg/job/48519daec71ae46284ec7aaf414bcee2) |
 | Software Engineer, Product (Singapore) | FACEBOOK SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-08-18 | [Apply](https://www.mycareersfuture.gov.sg/job/42598d5f0fc3166644bdf1d337b5bb21) |
@@ -36,10 +40,7 @@
 | Junior AI Software Engineer | SCIENTEC CONSULTING PTE. LTD. | MyCareersFuture | 1 | 2026-08-18 | [Apply](https://www.mycareersfuture.gov.sg/job/247ab57fef11cdfad9918f320828ff66) |
 | Software Engineer, ML Infrastructure | MOTIONAL SINGAPORE PTE. LIMITED | MyCareersFuture | 2 | 2026-08-18 | [Apply](https://www.mycareersfuture.gov.sg/job/ba4dcdcd198276de67bf3a48da09253f) |
 | Software Engineer (Unreal Engine / C++) | TALENTSIS PTE. LTD. | MyCareersFuture | 1 | 2026-08-18 | [Apply](https://www.mycareersfuture.gov.sg/job/075d377069417b278755ccfb4a7375e0) |
-| Software Engineer (Procode) | RAPSYS TECHNOLOGIES PTE LTD | LinkedIn | — | 2026-08-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Procode)%20RAPSYS%20TECHNOLOGIES%20PTE%20LTD&location=Singapore) |
-| Back End Developer | Total eBiz Solutions | LinkedIn | — | 2026-08-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Back%20End%20Developer%20Total%20eBiz%20Solutions&location=Singapore) |
-| C++ Engineer | Maisha Mazuri | LinkedIn | — | 2026-08-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=C%2B%2B%20Engineer%20Maisha%20Mazuri&location=Singapore) |
-| C++ Software Developer | Ambition | LinkedIn | — | 2026-08-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=C%2B%2B%20Software%20Developer%20Ambition&location=Singapore) |
-| Software Engineer - HealthCare Tech | GovTech Singapore | LinkedIn | — | 2026-08-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20-%20HealthCare%20Tech%20GovTech%20Singapore&location=Singapore) |
-| Software Engineer, Google Pay, Server Infrastructure | Google | LinkedIn | — | 2026-08-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Google%20Pay%2C%20Server%20Infrastructure%20Google&location=Singapore) |
-| Software Engineer, C++ | Grasshopper | LinkedIn | — | 2026-08-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20C%2B%2B%20Grasshopper&location=Singapore) |
+| Cloud Software Engineer III - Java/Python | JPMorganChase | LinkedIn | — | 2026-08-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Cloud%20Software%20Engineer%20III%20-%20Java%2FPython%20JPMorganChase&location=Singapore) |
+| Senior Backend Software Engineer, Enterprise Technology Services | Apple | LinkedIn | — | 2026-08-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Backend%20Software%20Engineer%2C%20Enterprise%20Technology%20Services%20Apple&location=Singapore) |
+| Software Engineer, Google Pay Mobile Development | Google | LinkedIn | — | 2026-08-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Google%20Pay%20Mobile%20Development%20Google&location=Singapore) |
+| Java Senior Software Engineer (salary up to SGD 300k-400k total comp) | Ambition | LinkedIn | — | 2026-08-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Java%20Senior%20Software%20Engineer%20(salary%20up%20to%20SGD%20300k-400k%20total%20comp)%20Ambition&location=Singapore) |
