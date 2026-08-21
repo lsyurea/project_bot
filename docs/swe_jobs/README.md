@@ -2,12 +2,13 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-08-20T13:29:27.681Z*
+> *Last updated: 2026-08-21T02:10:45.901Z*
 
-**Total listings: 34** *(MyCareersFuture: 25 | LinkedIn: 10)*
+**Total listings: 35** *(MyCareersFuture: 26 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Software Engineer (C++) – AMK | COMBUILDER PTE LTD | MyCareersFuture | 1 | 2026-08-21 | [Apply](https://www.mycareersfuture.gov.sg/job/362e8ea19f3089aa83a41df6edd900fe) |
 | Software Engineer (PLC Programming) - LCYL | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 2 | 2026-08-20 | [Apply](https://www.mycareersfuture.gov.sg/job/01bc5c73b01146d8bbb03795e7ac3dd8) |
 | Software Engineer, Google Pay Mobile Development - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 1 | 2026-08-20 | [Apply](https://www.mycareersfuture.gov.sg/job/44a35007644d0b764082635f00352066) |
 | Software Engineer (Fleet Management) | XSQUARE TECHNOLOGIES PTE. LTD. | MyCareersFuture | 2 | 2026-08-20 | [Apply](https://www.mycareersfuture.gov.sg/job/88078a47f4b6f9ac099f0f3b5237eff4) |
@@ -21,7 +22,9 @@
 | C++ Software Engineer (Ref 101) | IT CONSULTANCY & SERVICES PTE LTD | MyCareersFuture | 2 | 2026-08-20 | [Apply](https://www.mycareersfuture.gov.sg/job/7d625667d887c78c42410cc5c0a03421) |
 | SENIOR SOFTWARE CONTROLS ENGINEER | ACCUSYS PTE. LTD. | MyCareersFuture | 1 | 2026-08-20 | [Apply](https://www.mycareersfuture.gov.sg/job/32113b2b89e3a4d15fb39af390230856) |
 | Software Engineer | Hitachi Rail | LinkedIn | — | 2026-08-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Hitachi%20Rail&location=Singapore) |
+| Software Engineer, Google Pay, Consumer Payments | Google | LinkedIn | — | 2026-08-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Google%20Pay%2C%20Consumer%20Payments%20Google&location=Singapore) |
 | C++ Software Developer | Ambition | LinkedIn | — | 2026-08-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=C%2B%2B%20Software%20Developer%20Ambition&location=Singapore) |
+| Software Engineer, Product (Singapore) | Meta | LinkedIn | — | 2026-08-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Product%20(Singapore)%20Meta&location=Singapore) |
 | 2027 Software Engineer Program - Full Time Analyst (Singapore) | JPMORGAN CHASE BANK, N.A. | MyCareersFuture | 0 | 2026-08-19 | [Apply](https://www.mycareersfuture.gov.sg/job/2340a48576c8aa19ad12bbf7ab2115db) |
 | SOFTWARE ENGINEER | OCTA METIER PTE. LTD. | MyCareersFuture | 2 | 2026-08-19 | [Apply](https://www.mycareersfuture.gov.sg/job/f3ad12c78fb842ad73364111f1a85ec1) |
 | Automation Software Engineer (PLC Programming) #10232 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-08-19 | [Apply](https://www.mycareersfuture.gov.sg/job/42ca1bbe69af4db194a313e76f4476ed) |
@@ -37,8 +40,6 @@
 | Software Senior Engineer | Dell Technologies | LinkedIn | — | 2026-08-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Senior%20Engineer%20Dell%20Technologies&location=Singapore) |
 | Software Development Engineer | Wipro | LinkedIn | — | 2026-08-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Development%20Engineer%20Wipro&location=Singapore) |
 | Software Engineer | Goliath Partners | LinkedIn | — | 2026-08-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Goliath%20Partners&location=Singapore) |
-| Software Engineer, Data Programme | GovTech Singapore | LinkedIn | — | 2026-08-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Data%20Programme%20GovTech%20Singapore&location=Singapore) |
 | Backend Engineer | Swiss Nexus | LinkedIn | — | 2026-08-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Backend%20Engineer%20Swiss%20Nexus&location=Singapore) |
 | Full Stack Engineer | Tata Consultancy Services | LinkedIn | — | 2026-08-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Full%20Stack%20Engineer%20Tata%20Consultancy%20Services&location=Singapore) |
 | Software Engineer (C++, Low latency) | Morgan McKinley | LinkedIn | — | 2026-08-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(C%2B%2B%2C%20Low%20latency)%20Morgan%20McKinley&location=Singapore) |
-| C++ Engineer | Maisha Mazuri | LinkedIn | — | 2026-08-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=C%2B%2B%20Engineer%20Maisha%20Mazuri&location=Singapore) |
