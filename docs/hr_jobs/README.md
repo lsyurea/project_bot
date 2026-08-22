@@ -2,9 +2,9 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-08-21T13:28:33.076Z*
+> *Last updated: 2026-08-22T02:00:58.793Z*
 
-**Total listings: 54** *(MyCareersFuture: 45 | LinkedIn: 10)*
+**Total listings: 50** *(MyCareersFuture: 41 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
@@ -30,11 +30,13 @@
 | HR Intern | ORIENTAL REMEDIES INCORPORATED (PRIVATE LIMITED) | MyCareersFuture | 1 | 2026-08-21 | [Apply](https://www.mycareersfuture.gov.sg/job/14249954a78835c22a57b0e7f61cb50f) |
 | HR Executive #10235 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-08-21 | [Apply](https://www.mycareersfuture.gov.sg/job/6d893b009e37d694e1460ec6aa27401e) |
 | HR Intern | ORIENTAL REMEDIES EAST COAST PRIVATE LIMITED | MyCareersFuture | 1 | 2026-08-21 | [Apply](https://www.mycareersfuture.gov.sg/job/4266cb2bc6e0c9097a2f9c19ab7c946a) |
+| Senior HR Executive | Sandpiper | LinkedIn | — | 2026-08-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20HR%20Executive%20Sandpiper&location=Singapore) |
 | Head of Human Resources | Charterhouse Partnership | LinkedIn | — | 2026-08-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Head%20of%20Human%20Resources%20Charterhouse%20Partnership&location=Singapore) |
 | Human Resources Director (Global) | Charterhouse Partnership | LinkedIn | — | 2026-08-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Director%20(Global)%20Charterhouse%20Partnership&location=Singapore) |
 | VP, Human Resource - Data Center | Hyphen Partners | LinkedIn | — | 2026-08-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=VP%2C%20Human%20Resource%20-%20Data%20Center%20Hyphen%20Partners&location=Singapore) |
+| People Business Partner Lead - APJ | ClickHouse | LinkedIn | — | 2026-08-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20Business%20Partner%20Lead%20-%20APJ%20ClickHouse&location=Singapore) |
+| HR Manager | Hello Group Inc. | LinkedIn | — | 2026-08-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Manager%20Hello%20Group%20Inc.&location=Singapore) |
 | Senior Executive, Human Resources | Fleet Management Limited | LinkedIn | — | 2026-08-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Executive%2C%20Human%20Resources%20Fleet%20Management%20Limited&location=Singapore) |
-| Senior Manager, Group HR Business Partnering Healthcare | DKSH | LinkedIn | — | 2026-08-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Manager%2C%20Group%20HR%20Business%20Partnering%20Healthcare%20DKSH&location=Singapore) |
 | HR Generalist | UNITED OIL COMPANY PTE LTD | MyCareersFuture | 1 | 2026-08-20 | [Apply](https://www.mycareersfuture.gov.sg/job/50d4999ef02f272575dcc28f5f9552c6) |
 | Accountant | GOLDEN DRAGON HUMAN RESOURCES | MyCareersFuture | 2 | 2026-08-20 | [Apply](https://www.mycareersfuture.gov.sg/job/4828dc6e848e13c72e32fdd0fa48aa68) |
 | [ INFOTECH SYSTEM ] HR Executive - Payroll & HR Operations - Lorong Chuan FMCG MNC - UP $4.5K #HYT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-08-20 | [Apply](https://www.mycareersfuture.gov.sg/job/a2aab0722f07ccdea05b94e29d7da0a6) |
@@ -53,12 +55,6 @@
 | Human Resources Executive | SHILLA TRAVEL RETAIL PTE. LTD. | MyCareersFuture | 1 | 2026-08-20 | [Apply](https://www.mycareersfuture.gov.sg/job/d80b509f2c119899ab11db2f6d1f54f3) |
 | HR Executive (Employer Branding) - Govt Board | PERSOL SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-08-20 | [Apply](https://www.mycareersfuture.gov.sg/job/6d1aafb4a8a2e224c68de561012e0e07) |
 | HR EXECUTIVE | TOTAL MANPOWER PTE. LTD. | MyCareersFuture | 1 | 2026-08-20 | [Apply](https://www.mycareersfuture.gov.sg/job/a61ff83fda010551b91eccd0a78d4e53) |
-| Accounts & Admin Exec / Corporate Support Officer | Financial Markets Association of Singapore | MyCareersFuture | 2 | 2026-08-20 | [Apply](https://www.mycareersfuture.gov.sg/job/e167b2ace945713aed873d5de641fb39) |
-| Human Resources (HR) Intern | JR FOODS PTE. LTD. | MyCareersFuture | 1 | 2026-08-20 | [Apply](https://www.mycareersfuture.gov.sg/job/7791616e22f3f5aef9889b69aefe2869) |
-| HR Executive - Compensation & Benefits (3 months/MEDICAL) - Training Provided #HAO | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-08-20 | [Apply](https://www.mycareersfuture.gov.sg/job/d436891b0adb28c75d5a12062ae66f72) |
 | Human Resources Executive | Valiram | LinkedIn | — | 2026-08-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20Valiram&location=Singapore) |
 | Human Resource Manager | Epicsoft Asia Pte Ltd | LinkedIn | — | 2026-08-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resource%20Manager%20Epicsoft%20Asia%20Pte%20Ltd&location=Singapore) |
 | Head of HR, CIB COO | Standard Chartered Singapore | LinkedIn | — | 2026-08-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Head%20of%20HR%2C%20CIB%20COO%20Standard%20Chartered%20Singapore&location=Singapore) |
-| Senior HR Lifecycle Specialist, Employee Relations and Transitions - APAC (HRBP) | Remote | LinkedIn | — | 2026-08-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20HR%20Lifecycle%20Specialist%2C%20Employee%20Relations%20and%20Transitions%20-%20APAC%20(HRBP)%20Remote&location=Singapore) |
-| HR Director (Healthcare) | Randstad Singapore | LinkedIn | — | 2026-08-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Director%20(Healthcare)%20Randstad%20Singapore&location=Singapore) |
-| Receptionist cum Admin | CHAINUP PTE. LTD. | MyCareersFuture | 2 | 2026-08-19 | [Apply](https://www.mycareersfuture.gov.sg/job/379e166791daa64a1d4247e907f8b906) |
