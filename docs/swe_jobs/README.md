@@ -2,13 +2,18 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-08-22T02:01:07.030Z*
+> *Last updated: 2026-08-22T13:11:39.784Z*
 
-**Total listings: 42** *(MyCareersFuture: 34 | LinkedIn: 10)*
+**Total listings: 35** *(MyCareersFuture: 26 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Software Developer / Software Engineer #10123 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-08-22 | [Apply](https://www.mycareersfuture.gov.sg/job/cbe49f4e06ed34a5f1bfbdc72a6fb4cb) |
+| AI Engineer (Software Development) | SEATRIUM (SG) PTE. LTD. | MyCareersFuture | 2 | 2026-08-22 | [Apply](https://www.mycareersfuture.gov.sg/job/2d71da7846501846140cf58af7ecee8c) |
+| Software Engineer (C++/C#, Machine Automation) #76684 | ANRADUS PTE. LTD. | MyCareersFuture | 1 | 2026-08-22 | [Apply](https://www.mycareersfuture.gov.sg/job/a620c25183643926685f17b14e6986f0) |
 | Backend developer | Microslot | LinkedIn | — | 2026-08-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Backend%20developer%20Microslot&location=Singapore) |
+| Engineer II, Software | Thermo Fisher Scientific | LinkedIn | — | 2026-08-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Engineer%20II%2C%20Software%20Thermo%20Fisher%20Scientific&location=Singapore) |
+| Software Engineer, Google Pay, Growth and Communications | Google | LinkedIn | — | 2026-08-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Google%20Pay%2C%20Growth%20and%20Communications%20Google&location=Singapore) |
 | Software Engineer | MATRIX TECH PTE. LTD. | MyCareersFuture | 0 | 2026-08-21 | [Apply](https://www.mycareersfuture.gov.sg/job/e69b0be9690b472b7d8bc98ec27171fa) |
 | Software Engineer - Up to $4k - Flexi Time - Backend – C# - 88901 | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 2 | 2026-08-21 | [Apply](https://www.mycareersfuture.gov.sg/job/ba98b33ebcff91875585984fc00d773a) |
 | [T05] Junior/Senior Software DevOps Engineer [Open to Fresh Entry Level] | TALENTSIS PTE. LTD. | MyCareersFuture | 0 | 2026-08-21 | [Apply](https://www.mycareersfuture.gov.sg/job/114cf3081457c79537c365e6249adf2a) |
@@ -37,16 +42,4 @@
 | Fullstack Software Engineer | User Experience Researchers Pte Ltd (Singapore) | LinkedIn | — | 2026-08-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Fullstack%20Software%20Engineer%20User%20Experience%20Researchers%20Pte%20Ltd%20(Singapore)&location=Singapore) |
 | Software Engineer | SGInnovate | LinkedIn | — | 2026-08-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20SGInnovate&location=Singapore) |
 | Full Stack Software Engineer | Knovel Engineering | LinkedIn | — | 2026-08-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Full%20Stack%20Software%20Engineer%20Knovel%20Engineering&location=Singapore) |
-| C++ Software Engineer | XTX Markets | LinkedIn | — | 2026-08-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=C%2B%2B%20Software%20Engineer%20XTX%20Markets&location=Singapore) |
-| C++ Software Engineer | Citadel Securities | LinkedIn | — | 2026-08-21 | [Apply](https://www.linkedin.com/jobs/search/?keywords=C%2B%2B%20Software%20Engineer%20Citadel%20Securities&location=Singapore) |
-| Software Engineer, Google Pay Mobile Development - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 1 | 2026-08-20 | [Apply](https://www.mycareersfuture.gov.sg/job/44a35007644d0b764082635f00352066) |
-| Software Engineer (Fleet Management) | XSQUARE TECHNOLOGIES PTE. LTD. | MyCareersFuture | 2 | 2026-08-20 | [Apply](https://www.mycareersfuture.gov.sg/job/88078a47f4b6f9ac099f0f3b5237eff4) |
-| Software Engineer * Go/NodeJS/Python/Rust. (AMK) | MAESTRO HUMAN RESOURCE PTE. LTD. | MyCareersFuture | 2 | 2026-08-20 | [Apply](https://www.mycareersfuture.gov.sg/job/1524b803cdd953f23b1a9e2aa41c9f0c) |
-| Software Engineer, Google Pay, Server Infrastructure - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 2 | 2026-08-20 | [Apply](https://www.mycareersfuture.gov.sg/job/3df868ed4140b2809abbca759eef3b48) |
-| Mobile Software Engineer, Google Pay, Client Infrastructure - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 2 | 2026-08-20 | [Apply](https://www.mycareersfuture.gov.sg/job/0b71b28aa210ebf7981599c7228c7947) |
-| Mobile Software Engineer, Digital Car Keys - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 2 | 2026-08-20 | [Apply](https://www.mycareersfuture.gov.sg/job/4b39f1dce2b15526265523f3583dbf29) |
-| Software Engineer, Wallet Multimodal Intelligence - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 2 | 2026-08-20 | [Apply](https://www.mycareersfuture.gov.sg/job/563007e9e3b1d09dac9fe494c03f4b5d) |
-| Software Engineer (C / C++) | JAC RECRUITMENT PTE. LTD. | MyCareersFuture | 0 | 2026-08-20 | [Apply](https://www.mycareersfuture.gov.sg/job/26a8f8a5cc1cf6dd027aa46d3bc690e5) |
-| Full stack developer | U3 INFOTECH PTE. LTD. | MyCareersFuture | 2 | 2026-08-20 | [Apply](https://www.mycareersfuture.gov.sg/job/2e3c1549f63291cc07c98c2e5d2a078c) |
-| C++ Software Engineer (Ref 101) | IT CONSULTANCY & SERVICES PTE LTD | MyCareersFuture | 2 | 2026-08-20 | [Apply](https://www.mycareersfuture.gov.sg/job/7d625667d887c78c42410cc5c0a03421) |
 | Software Engineer | Hitachi Rail | LinkedIn | — | 2026-08-20 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Hitachi%20Rail&location=Singapore) |
