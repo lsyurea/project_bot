@@ -2,12 +2,15 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-08-27T10:26:45.269Z*
+> *Last updated: 2026-08-27T22:32:24.191Z*
 
-**Total listings: 60** *(MyCareersFuture: 52 | LinkedIn: 10)*
+**Total listings: 58** *(MyCareersFuture: 50 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| URGENT HIRING!! Contract HR Executive Assistant (Up to $4500/Month, Gain Hands-On HR Experience!) #HCGT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-08-27 | [Apply](https://www.mycareersfuture.gov.sg/job/6f53d26652098effd1003cfb7c97f863) |
+| Employee Engagement & Internal Communications Specialist | CORNERSTONE GLOBAL PARTNERS PTE. LTD. | MyCareersFuture | 2 | 2026-08-27 | [Apply](https://www.mycareersfuture.gov.sg/job/37b1c0902f2c1075bad0ddb63e1229a1) |
+| HR Assistant (No Experience Needed!!) (YS81) | TRUST RECRUIT PTE. LTD. | MyCareersFuture | 1 | 2026-08-27 | [Apply](https://www.mycareersfuture.gov.sg/job/0e87cf507a168fd180212e3c414e5df0) |
 | Associate, General Administration Department | GUOTAI JUNAN FUTURES (SINGAPORE) PTE. LTD. | MyCareersFuture | 1 | 2026-08-27 | [Apply](https://www.mycareersfuture.gov.sg/job/ad1dedd31e65d272665f11b456362477) |
 | 6 Months Contract Senior Executive Assistant (HR analytics) #HZTK | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-08-27 | [Apply](https://www.mycareersfuture.gov.sg/job/a3ea4259e568510a5aaa1fe2974290ab) |
 | HR Intern | ACP COMPUTER TRAINING SCHOOL PTE. LTD. | MyCareersFuture | 0 | 2026-08-27 | [Apply](https://www.mycareersfuture.gov.sg/job/58c95282d478cff6e825b423b0cf3789) |
@@ -34,9 +37,11 @@
 | TELESALES | ACTIVE MANPOWER RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-08-27 | [Apply](https://www.mycareersfuture.gov.sg/job/f0b9a62c9a31b8f13dabe0ae79bf2718) |
 | Talent Acquisition & HR Operations Executive | S. F. EXPRESS (SINGAPORE) PRIVATE LIMITED | MyCareersFuture | 2 | 2026-08-27 | [Apply](https://www.mycareersfuture.gov.sg/job/33b2089c218a91b5b2da66cd514deb3f) |
 | HR EXECUTIVE | YONG FONG ENGINEERING & CONSTRUCTION PTE. LTD. | MyCareersFuture | 1 | 2026-08-27 | [Apply](https://www.mycareersfuture.gov.sg/job/57b9b6150fa59d87dbea86f10dbbadd8) |
-| HRBP | KAYTUS | LinkedIn | — | 2026-08-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HRBP%20KAYTUS&location=Singapore) |
-| Human Resources Executive | SaladStop Group | LinkedIn | — | 2026-08-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20SaladStop%20Group&location=Singapore) |
-| HR Assistant (No Experience Needed!!) (YS81) | TRUST RECRUIT PTE. LTD. | MyCareersFuture | 1 | 2026-08-26 | [Apply](https://www.mycareersfuture.gov.sg/job/c318d7d33b29de45653b935f8cac3300) |
+| Senior HR Executive (Talent Development & Retail Ops) | Michael Page | LinkedIn | — | 2026-08-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20HR%20Executive%20(Talent%20Development%20%26amp%3B%20Retail%20Ops)%20Michael%20Page&location=Singapore) |
+| Senior HR Generalist, APAC | Chainalysis | LinkedIn | — | 2026-08-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20HR%20Generalist%2C%20APAC%20Chainalysis&location=Singapore) |
+| Senior Executive Human Resources | Acclime | LinkedIn | — | 2026-08-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Executive%20Human%20Resources%20Acclime&location=Singapore) |
+| People Business Partner Lead - APJ | ClickHouse | LinkedIn | — | 2026-08-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20Business%20Partner%20Lead%20-%20APJ%20ClickHouse&location=Singapore) |
+| Head of HR - Manufacturing | Frazer Jones | LinkedIn | — | 2026-08-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Head%20of%20HR%20-%20Manufacturing%20Frazer%20Jones&location=Singapore) |
 | Sales & Human Resources Trainee (Entry-level, Travel Opportunities) | ROYAL ORG PTE. LTD. | MyCareersFuture | 0 | 2026-08-26 | [Apply](https://www.mycareersfuture.gov.sg/job/c76708a074212ae0d4427144b2598eca) |
 | HR Operations Executive (1 year Contract) #HJO | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-08-26 | [Apply](https://www.mycareersfuture.gov.sg/job/7ca966d56000708dbf188879ae83b4bc) |
 | Sales Executive (security industry/sales/CCTV/Electrical/electronic) | JE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-08-26 | [Apply](https://www.mycareersfuture.gov.sg/job/2ae82537be447712dbcceded6ae88a8c) |
@@ -56,15 +61,8 @@
 | Wellbeing School Counsellor | INTERNATIONAL FRENCH SCHOOL (SINGAPORE) LTD. | MyCareersFuture | 2 | 2026-08-26 | [Apply](https://www.mycareersfuture.gov.sg/job/7d6bb9fc27bf7d0fea285522c1ae9ad8) |
 | L&D Specialist (Curriculum development - Gov) | PERSOL SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-08-26 | [Apply](https://www.mycareersfuture.gov.sg/job/442025bfcbd5d11fbb8f81d9d06870b5) |
 | HR EXECUTIVE | BAFANG CONSTRUCTION PTE. LTD. | MyCareersFuture | 2 | 2026-08-26 | [Apply](https://www.mycareersfuture.gov.sg/job/9bf131d23d9f9a324d0d7c0ff47870a0) |
-| HR Specialist (f/m/d) APAC Region | proMX | LinkedIn | — | 2026-08-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Specialist%20(f%2Fm%2Fd)%20APAC%20Region%20proMX&location=Singapore) |
-| Human Resources Generalist | Energizer Holdings | LinkedIn | — | 2026-08-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Generalist%20Energizer%20Holdings&location=Singapore) |
 | Principal Human Resources Executive | Singapore Aero Engine Services Private Limited (SAESL) | LinkedIn | — | 2026-08-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Principal%20Human%20Resources%20Executive%20Singapore%20Aero%20Engine%20Services%20Private%20Limited%20(SAESL)&location=Singapore) |
-| Generalist, Human Resources | Energizer Holdings | LinkedIn | — | 2026-08-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Generalist%2C%20Human%20Resources%20Energizer%20Holdings&location=Singapore) |
+| Head of Human Resources | Charterhouse Partnership | LinkedIn | — | 2026-08-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Head%20of%20Human%20Resources%20Charterhouse%20Partnership&location=Singapore) |
 | HR Executive / HRBP  (Gaming Company) | Dada Consultants | LinkedIn | — | 2026-08-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Executive%20%2F%20HRBP%20%20(Gaming%20Company)%20Dada%20Consultants&location=Singapore) |
-| HR Executive | Confidential Jobs | LinkedIn | — | 2026-08-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Executive%20Confidential%20Jobs&location=Singapore) |
-| HR Executive #10235 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-08-25 | [Apply](https://www.mycareersfuture.gov.sg/job/2be5c1ed7f05e1a85576cefd149c02b7) |
-| [Entry] HR Recruitment/ Talent Acquisition (start Dec 2026) | PERSOL SINGAPORE PTE. LTD. | MyCareersFuture | 0 | 2026-08-25 | [Apply](https://www.mycareersfuture.gov.sg/job/7d06b5983123f4182a4b3b1fda731eb8) |
-| PROGRAM EXECUTIVE - (CONTRACT TILL DECEMBER 2027) | THE SINGAPORE CONTRACTORS ASSOCIATION LIMITED | MyCareersFuture | 2 | 2026-08-25 | [Apply](https://www.mycareersfuture.gov.sg/job/4b5828d27a6c418cb389823182ce780e) |
-| HR ＆ Admin Executive / Senior Executive (F&B) | PASONA SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-08-25 | [Apply](https://www.mycareersfuture.gov.sg/job/86453ccc66af98ead83f00cec6832891) |
-| Human Resource Business Partner | Groz-Beckert | LinkedIn | — | 2026-08-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resource%20Business%20Partner%20Groz-Beckert&location=Singapore) |
-| Human Resources Advisor | Frazer Jones | LinkedIn | — | 2026-08-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Advisor%20Frazer%20Jones&location=Singapore) |
+| Human Resources Director (Global) | Charterhouse Partnership | LinkedIn | — | 2026-08-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Director%20(Global)%20Charterhouse%20Partnership&location=Singapore) |
+| Senior/Manager, HR Business Partner | Resorts World Sentosa | LinkedIn | — | 2026-08-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%2FManager%2C%20HR%20Business%20Partner%20Resorts%20World%20Sentosa&location=Singapore) |
