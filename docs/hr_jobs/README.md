@@ -2,12 +2,13 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-08-28T12:06:12.338Z*
+> *Last updated: 2026-08-28T22:34:58.569Z*
 
-**Total listings: 67** *(MyCareersFuture: 62 | LinkedIn: 10)*
+**Total listings: 68** *(MyCareersFuture: 62 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Sales & Human Resources Trainee (Entry-level, Travel Opportunities) | ROYAL ORG PTE. LTD. | MyCareersFuture | 0 | 2026-08-28 | [Apply](https://www.mycareersfuture.gov.sg/job/24597bf09bb49aabac2bf708d1adbcdc) |
 | Admin Associate (Mental Health Service) | HYPERSCAL SOLUTIONS PTE. LTD. | MyCareersFuture | 2 | 2026-08-28 | [Apply](https://www.mycareersfuture.gov.sg/job/cd482700e6bdeff995b839074638ec77) |
 | 5 Months Contract Senior Executive (HRIS) #HZTK | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-08-28 | [Apply](https://www.mycareersfuture.gov.sg/job/439df936c3c878c03d9d3a81406bc680) |
 | *URGENT* HR Assistant (Nursing Home) #HRY | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 2 | 2026-08-28 | [Apply](https://www.mycareersfuture.gov.sg/job/f04e7111e47a33669530509de8b832d8) |
@@ -37,9 +38,12 @@
 | Management Associate (Graduate Program) at Labrador Tower, Up to $4,000 + Comm + PB (Flexible working hours, WFH available) | SUCCESS RESOURCE CENTRE PTE. LTD. | MyCareersFuture | 0 | 2026-08-28 | [Apply](https://www.mycareersfuture.gov.sg/job/25f496a0d0e870b0f73aac6cefe62579) |
 | Human Resource Executive | LAGUNA HOTEL HOLDINGS PTE. LTD. | MyCareersFuture | 2 | 2026-08-28 | [Apply](https://www.mycareersfuture.gov.sg/job/35a386ab746ebae433d15fa369683a2e) |
 | HR Recruitment Consultant Internship #HCK | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-08-28 | [Apply](https://www.mycareersfuture.gov.sg/job/ab34f9278e28d6a5fb8db020cde202ff) |
+| Director of People & Culture | Avani Hotels and Resorts | LinkedIn | — | 2026-08-28 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Director%20of%20People%20%26amp%3B%20Culture%20Avani%20Hotels%20and%20Resorts&location=Singapore) |
 | Executive/Senior Executive, HR Business Partner | Resorts World Sentosa | LinkedIn | — | 2026-08-28 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Executive%2FSenior%20Executive%2C%20HR%20Business%20Partner%20Resorts%20World%20Sentosa&location=Singapore) |
+| Human Resources Specialist | Applied Medical | LinkedIn | — | 2026-08-28 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Specialist%20Applied%20Medical&location=Singapore) |
 | Senior Human Resources Executive (HRBP) | UNIQLO | LinkedIn | — | 2026-08-28 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Human%20Resources%20Executive%20(HRBP)%20UNIQLO&location=Singapore) |
-| Senior HR Executive | Brady Corporation Asia Pte Ltd | LinkedIn | — | 2026-08-28 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20HR%20Executive%20Brady%20Corporation%20Asia%20Pte%20Ltd&location=Singapore) |
+| People & Culture Manager | Raffles Hotels & Resorts | LinkedIn | — | 2026-08-28 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20%26amp%3B%20Culture%20Manager%20Raffles%20Hotels%20%26amp%3B%20Resorts&location=Singapore) |
+| Senior Manager, HR SEA & SG | adidas | LinkedIn | — | 2026-08-28 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Manager%2C%20HR%20SEA%20%26amp%3B%20SG%20adidas&location=Singapore) |
 | URGENT HIRING!! Contract HR Executive Assistant (Up to $4500/Month, Gain Hands-On HR Experience!) #HCGT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-08-27 | [Apply](https://www.mycareersfuture.gov.sg/job/6f53d26652098effd1003cfb7c97f863) |
 | Employee Engagement & Internal Communications Specialist | CORNERSTONE GLOBAL PARTNERS PTE. LTD. | MyCareersFuture | 2 | 2026-08-27 | [Apply](https://www.mycareersfuture.gov.sg/job/37b1c0902f2c1075bad0ddb63e1229a1) |
 | HR Assistant (No Experience Needed!!) (YS81) | TRUST RECRUIT PTE. LTD. | MyCareersFuture | 1 | 2026-08-27 | [Apply](https://www.mycareersfuture.gov.sg/job/0e87cf507a168fd180212e3c414e5df0) |
@@ -72,6 +76,3 @@
 | Senior Executive Human Resources | Acclime | LinkedIn | — | 2026-08-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Executive%20Human%20Resources%20Acclime&location=Singapore) |
 | People Business Partner Lead - APJ | ClickHouse | LinkedIn | — | 2026-08-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20Business%20Partner%20Lead%20-%20APJ%20ClickHouse&location=Singapore) |
 | Head of HR - Manufacturing | Frazer Jones | LinkedIn | — | 2026-08-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Head%20of%20HR%20-%20Manufacturing%20Frazer%20Jones&location=Singapore) |
-| Group Head of Human Resources | Frazer Jones | LinkedIn | — | 2026-08-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Group%20Head%20of%20Human%20Resources%20Frazer%20Jones&location=Singapore) |
-| Regional HR Manager (Team management experience preferred - Global MNC) | Caliber8 Recruitment | LinkedIn | — | 2026-08-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Regional%20HR%20Manager%20(Team%20management%20experience%20preferred%20-%20Global%20MNC)%20Caliber8%20Recruitment&location=Singapore) |
-| Principal Human Resources Executive | Singapore Aero Engine Services Private Limited (SAESL) | LinkedIn | — | 2026-08-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Principal%20Human%20Resources%20Executive%20Singapore%20Aero%20Engine%20Services%20Private%20Limited%20(SAESL)&location=Singapore) |
