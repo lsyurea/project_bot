@@ -2,9 +2,9 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-08-28T12:06:23.734Z*
+> *Last updated: 2026-08-28T22:35:03.137Z*
 
-**Total listings: 40** *(MyCareersFuture: 37 | LinkedIn: 10)*
+**Total listings: 40** *(MyCareersFuture: 36 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
@@ -46,5 +46,5 @@
 | Software Engineer, Backend | Epiq | LinkedIn | — | 2026-08-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Backend%20Epiq&location=Singapore) |
 | Software Engineer, Data Programme | GovTech Singapore | LinkedIn | — | 2026-08-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Data%20Programme%20GovTech%20Singapore&location=Singapore) |
 | Backend Engineer | Sea | LinkedIn | — | 2026-08-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Backend%20Engineer%20Sea&location=Singapore) |
-| Software Engineer | YouTrip | LinkedIn | — | 2026-08-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20YouTrip&location=Singapore) |
-| Software Engineer, Google Payments, Growth | Google | LinkedIn | — | 2026-08-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Google%20Payments%2C%20Growth%20Google&location=Singapore) |
+| Backend Software Engineer | Epiq | LinkedIn | — | 2026-08-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Backend%20Software%20Engineer%20Epiq&location=Singapore) |
+| Software Engineer (Data Discovery and Operations) | Centre for Strategic Infocomm Technologies (CSIT) | LinkedIn | — | 2026-08-27 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Data%20Discovery%20and%20Operations)%20Centre%20for%20Strategic%20Infocomm%20Technologies%20(CSIT)&location=Singapore) |
