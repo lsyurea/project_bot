@@ -2,12 +2,24 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-08-31T19:13:41.351Z*
+> *Last updated: 2026-09-01T05:33:24.381Z*
 
-**Total listings: 46** *(MyCareersFuture: 36 | LinkedIn: 10)*
+**Total listings: 56** *(MyCareersFuture: 48 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| L&D Trainer / Trainer Executive [Ang Mo Kio] | DIGIPHOTO ENTERTAINMENT IMAGING PTE. LTD. | MyCareersFuture | 2 | 2026-09-01 | [Apply](https://www.mycareersfuture.gov.sg/job/f4ba93a602c991692b0b1bc55a1e588d) |
+| Reservations & Admin Coordinator | SCDA ARCHITECTS PTE LTD | MyCareersFuture | 1 | 2026-09-01 | [Apply](https://www.mycareersfuture.gov.sg/job/fd147839c842ee05362648b0fab2dcd0) |
+| Reservations & Admin Coordinator | SOORI HOTEL & RESORTS PTE. LTD. | MyCareersFuture | 1 | 2026-09-01 | [Apply](https://www.mycareersfuture.gov.sg/job/8f42a5919ddaecf9173470da5deb7a15) |
+| HR AND ADMINISTRATIVE ASSISTANT | SAKE LABO PTE. LTD. | MyCareersFuture | 1 | 2026-09-01 | [Apply](https://www.mycareersfuture.gov.sg/job/bbd7c293aabfdf96fe31ae1357548924) |
+| BUS DRIVER | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-09-01 | [Apply](https://www.mycareersfuture.gov.sg/job/ac3f683e45c194a6453a089a97b11248) |
+| Human Resource Executive - Employee Relations & HR Operations #HDCE | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-09-01 | [Apply](https://www.mycareersfuture.gov.sg/job/8aab9c140d27c856475cfcabfc56939d) |
+| HR Assistant – HR Operations & Admin - Up to $3,000 - WLWHV | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 0 | 2026-09-01 | [Apply](https://www.mycareersfuture.gov.sg/job/f3ab4fbed59776075450cf0c5a676a24) |
+| HR & Admin Assistant – Grow Your HR Skills - Training Provided - Up to $3,000 - WLWHV | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 0 | 2026-09-01 | [Apply](https://www.mycareersfuture.gov.sg/job/5312188da31a7a6a6ec9a05bdc145846) |
+| Human Resource Associate (1 year contract, convertible) -CK | PASONA SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-09-01 | [Apply](https://www.mycareersfuture.gov.sg/job/bddcfff4ebd6a24f75ba68d1cab7abe7) |
+| Training Consultant – Leadership & OrganizationalDevelopment | EDUCARE HUMAN CAPITAL PRIVATE LIMITED | MyCareersFuture | 2 | 2026-09-01 | [Apply](https://www.mycareersfuture.gov.sg/job/8af20de80f5e8c7a7e96c998534d7584) |
+| Recruiter(Gebiz) | EDUCARE HUMAN CAPITAL PRIVATE LIMITED | MyCareersFuture | 1 | 2026-09-01 | [Apply](https://www.mycareersfuture.gov.sg/job/0804ab2aa3326e34570d350cc76b2600) |
+| Sales & Human Resources Trainee (Entry-level, Travel Opportunities) | ROYAL ORG PTE. LTD. | MyCareersFuture | 0 | 2026-09-01 | [Apply](https://www.mycareersfuture.gov.sg/job/72b429562ed7165e7573d590d24fb603) |
 | HR Executive / Generalist - Payroll + Infotech System - Lorong Chuan FMCG MNC - 4 Months - UP $4.5K #HYT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-08-31 | [Apply](https://www.mycareersfuture.gov.sg/job/fbaba4467737987637285008e6618782) |
 | [ INFOTECH SYSTEM ] HR Generalist + Payroll- Lorong Chuan FMCG MNC - UP $4.5K #HYT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-08-31 | [Apply](https://www.mycareersfuture.gov.sg/job/2e6ba4f3ea85bf9962dda7f872f9d4d0) |
 | Human Resources Executive - Payroll & Recruitment - Diploma / Degree in HR - Lorong Chuan FMCG MNC - UP $4.5K #HYT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-08-31 | [Apply](https://www.mycareersfuture.gov.sg/job/9d5b55e2e8e7607e8e81b13667640853) |
@@ -52,5 +64,3 @@
 | HR Executive #10235 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-08-30 | [Apply](https://www.mycareersfuture.gov.sg/job/f263044cb7f300501101c848b9fa6706) |
 | Contract Accounts Administrative Clerk | CONSTRUKT PTE. LTD. | MyCareersFuture | 2 | 2026-08-30 | [Apply](https://www.mycareersfuture.gov.sg/job/f67dcca53c8908cc8dd681eb412299a3) |
 | HR Assistant (Healthcare) - Nursing Home  #HTJ | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 2 | 2026-08-30 | [Apply](https://www.mycareersfuture.gov.sg/job/2958fe13fafc9fd4d448b09e20e9acf7) |
-| HR AND ADMINISTRATIVE ASSISTANT | SAKE LABO PTE. LTD. | MyCareersFuture | 1 | 2026-08-30 | [Apply](https://www.mycareersfuture.gov.sg/job/2674ae2c901cb6094602c6fba55e7e28) |
-| Sales & Human Resources Trainee (Entry-level, Travel Opportunities) | ROYAL ORG PTE. LTD. | MyCareersFuture | 0 | 2026-08-30 | [Apply](https://www.mycareersfuture.gov.sg/job/cbf38ca1f215fc4b50314158ef90e857) |
