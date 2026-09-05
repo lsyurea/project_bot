@@ -2,17 +2,17 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-09-04T16:34:27.993Z*
+> *Last updated: 2026-09-05T04:53:44.124Z*
 
-**Total listings: 59** *(MyCareersFuture: 51 | LinkedIn: 10)*
+**Total listings: 52** *(MyCareersFuture: 45 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Sales & Human Resources Trainee (Entry-level, Travel Opportunities) | ROYAL ORG PTE. LTD. | MyCareersFuture | 0 | 2026-09-05 | [Apply](https://www.mycareersfuture.gov.sg/job/f6626f95d7762dcb43723d1f4cf0a70f) |
 | Sales Executive (B2B/Sanitaryware) | JE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-09-04 | [Apply](https://www.mycareersfuture.gov.sg/job/26fb388ba87074b939f62e5f4ed47f54) |
 | Accounts & HR Executive (Payroll / Recruitment) | SEARCH PERSONNEL PRIVATE LIMITED | MyCareersFuture | 2 | 2026-09-04 | [Apply](https://www.mycareersfuture.gov.sg/job/011ef90be4dea1916dc9840e77eceadb) |
 | Project Engineer (Lighting/EV Charger/Electrical/Class 3) | JE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-09-04 | [Apply](https://www.mycareersfuture.gov.sg/job/72fb993b6db68cc9f850f188fd1fb888) |
 | Sales Executive (security industry/sales/CCTV/Electrical/electronic) | JE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-09-04 | [Apply](https://www.mycareersfuture.gov.sg/job/220d93e275fd56ab3b4cf5320bc0e6f7) |
-| Sales & Human Resources Trainee (Entry-level, Travel Opportunities) | ROYAL ORG PTE. LTD. | MyCareersFuture | 0 | 2026-09-04 | [Apply](https://www.mycareersfuture.gov.sg/job/8baf8e5fdaa8542a248da5cbaf0a3fdc) |
 | People Operations Executive | GRANT THORNTON SINGAPORE PRIVATE LIMITED | MyCareersFuture | 0 | 2026-09-04 | [Apply](https://www.mycareersfuture.gov.sg/job/a4ec42a838718f4135459b8778834c36) |
 | Human Resources Administrator - Up to $3.8K - Entry Level - 0310 | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-09-04 | [Apply](https://www.mycareersfuture.gov.sg/job/ead843b279eed79b8b0b01760dd3af96) |
 | HR Executive (L&D) | KAH ENGINEERING (1986) PTE. LTD. | MyCareersFuture | 2 | 2026-09-04 | [Apply](https://www.mycareersfuture.gov.sg/job/74407a2f7ee52029e580cde4be3d0959) |
@@ -35,10 +35,15 @@
 | Recruitment Executive | Centre for Seniors | MyCareersFuture | 2 | 2026-09-04 | [Apply](https://www.mycareersfuture.gov.sg/job/265c4c183a014551335a039a75003277) |
 | Accountant (12 months contract) | NEXTKIDNEY SG PTE. LTD. | MyCareersFuture | 2 | 2026-09-04 | [Apply](https://www.mycareersfuture.gov.sg/job/7da356e621947468cfd7002a11d01ae3) |
 | HR Executive (Recruitment) | UES HOLDINGS PTE. LTD. | MyCareersFuture | 2 | 2026-09-04 | [Apply](https://www.mycareersfuture.gov.sg/job/c1a0f86bd134b5c0301eb0f6e42b1ead) |
-| Specialist, HR Services | Marina Bay Sands | LinkedIn | — | 2026-09-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Specialist%2C%20HR%20Services%20Marina%20Bay%20Sands&location=Singapore) |
-| HR Generalist | Element Solutions Inc | LinkedIn | — | 2026-09-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Generalist%20Element%20Solutions%20Inc&location=Singapore) |
-| HR Specialist | Hyve Solutions | LinkedIn | — | 2026-09-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Specialist%20Hyve%20Solutions&location=Singapore) |
-| Benefits Consultant | Visa | LinkedIn | — | 2026-09-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Benefits%20Consultant%20Visa&location=Singapore) |
+| Director, People Operations | Coda | LinkedIn | — | 2026-09-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Director%2C%20People%20Operations%20Coda&location=Singapore) |
+| Head of People Operations Business Partner | Grab | LinkedIn | — | 2026-09-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Head%20of%20People%20Operations%20Business%20Partner%20Grab&location=Singapore) |
+| Director of Human Resources | The Ritz-Carlton Hotel Company, L.L.C. | LinkedIn | — | 2026-09-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Director%20of%20Human%20Resources%20The%20Ritz-Carlton%20Hotel%20Company%2C%20L.L.C.&location=Singapore) |
+| Director of Human Resources - Hotel Stripes Singapore China Square, Autograph Collection | Autograph Collection | LinkedIn | — | 2026-09-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Director%20of%20Human%20Resources%20-%20Hotel%20Stripes%20Singapore%20China%20Square%2C%20Autograph%20Collection%20Autograph%20Collection&location=Singapore) |
+| Assistant Vice President / Vice President, HR Governance, People and Culture | SimplyGo Pte. Ltd. | LinkedIn | — | 2026-09-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Assistant%20Vice%20President%20%2F%20Vice%20President%2C%20HR%20Governance%2C%20People%20and%20Culture%20SimplyGo%20Pte.%20Ltd.&location=Singapore) |
+| International Head of HR (FMCG) | Michael Page | LinkedIn | — | 2026-09-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=International%20Head%20of%20HR%20(FMCG)%20Michael%20Page&location=Singapore) |
+| Senior APAC HRBP (Retail F&B) | PeopleLAKE Group | LinkedIn | — | 2026-09-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20APAC%20HRBP%20(Retail%20F%26amp%3BB)%20PeopleLAKE%20Group&location=Singapore) |
+| Human Resources Executive - Moxy Singapore Clarke Quay | Moxy Hotels | LinkedIn | — | 2026-09-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20-%20Moxy%20Singapore%20Clarke%20Quay%20Moxy%20Hotels&location=Singapore) |
+| Senior HR Business Partner | Dyson | LinkedIn | — | 2026-09-04 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20HR%20Business%20Partner%20Dyson&location=Singapore) |
 | HR cum Admin Executive | TROPIC PLANNERS & LANDSCAPE PTE. LTD. | MyCareersFuture | 1 | 2026-09-03 | [Apply](https://www.mycareersfuture.gov.sg/job/37b52c8ca4dde4694b3e00fc87affdfb) |
 | Executive Recruiter (Part Time) | CTES CONSULTING PTE. LTD. | MyCareersFuture | 1 | 2026-09-03 | [Apply](https://www.mycareersfuture.gov.sg/job/ff4f6f775f993002c4fff49b89723025) |
 | HR Associate - Medical (1 year/GOVT) - West/Training Provided/up to $3k #HAO | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-09-03 | [Apply](https://www.mycareersfuture.gov.sg/job/4bfd256fdd8a6dc9c0eb1699a3a77c5f) |
@@ -54,16 +59,4 @@
 | Admin Assistant (HR and Finance) | TECSON ENGINEERING PTE LTD | MyCareersFuture | 1 | 2026-09-03 | [Apply](https://www.mycareersfuture.gov.sg/job/fb3492dd5fc49b03d9b003a4afde2888) |
 | Volunteer Impact Strategist | TASEK ACADEMY AND SOCIAL SERVICES LIMITED | MyCareersFuture | 2 | 2026-09-03 | [Apply](https://www.mycareersfuture.gov.sg/job/e4da28a399836ca701afcfc2f258ebc2) |
 | HR & Admin Executive | TALENTBOLT | MyCareersFuture | 1 | 2026-09-03 | [Apply](https://www.mycareersfuture.gov.sg/job/ea93b52e8c50da2dc0c6ee0637fd32b6) |
-| HR & Office Administrator | CTC GLOBAL PTE. LTD. | MyCareersFuture | 2 | 2026-09-03 | [Apply](https://www.mycareersfuture.gov.sg/job/672e9cee1ee119b61a33257865e12afa) |
-| Executive, Human Resources & Infrastructure (HRI) | SCREEN SPE SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-09-03 | [Apply](https://www.mycareersfuture.gov.sg/job/0ea25576189db91715f482516d987bb4) |
-| SENIOR HR EXECUTIVE | GREEN ZENERGY PTE. LTD. | MyCareersFuture | 2 | 2026-09-03 | [Apply](https://www.mycareersfuture.gov.sg/job/bbceeda9943ec43e3a586018f7aaaf8c) |
-| Human Resource Executive | AVOLT PTE. LTD. | MyCareersFuture | 2 | 2026-09-03 | [Apply](https://www.mycareersfuture.gov.sg/job/3aa791d57c8d1e97e9983afe4f3f60be) |
-| ADMIN ASSISTANT | SAMSON MACHINERY MOVERS PTE. LTD. | MyCareersFuture | 2 | 2026-09-03 | [Apply](https://www.mycareersfuture.gov.sg/job/7f4f85960dd815a9a609f5bc61bf1cb4) |
-| HR Executive #10149 | ANRADUS PTE. LTD. | MyCareersFuture | 1 | 2026-09-03 | [Apply](https://www.mycareersfuture.gov.sg/job/019e070cdf6a7718bce282e6a81fb779) |
-| HR Assistant | TY INNOVATIONS PTE. LTD. | MyCareersFuture | 1 | 2026-09-03 | [Apply](https://www.mycareersfuture.gov.sg/job/394fc04a14e03e6b5abcf6e0da319337) |
-| Compensation & Benefits Specialist | Shopee | LinkedIn | — | 2026-09-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Compensation%20%26amp%3B%20Benefits%20Specialist%20Shopee&location=Singapore) |
-| Senior HR Executive - People Operations | Richemont | LinkedIn | — | 2026-09-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20HR%20Executive%20-%20People%20Operations%20Richemont&location=Singapore) |
-| Assistant Manager, People & Culture | Hegen | LinkedIn | — | 2026-09-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Assistant%20Manager%2C%20People%20%26amp%3B%20Culture%20Hegen&location=Singapore) |
-| Employee Relations Specialist (1 Year Contract, Opportunity to Renew / Convert) | Certis | LinkedIn | — | 2026-09-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Employee%20Relations%20Specialist%20(1%20Year%20Contract%2C%20Opportunity%20to%20Renew%20%2F%20Convert)%20Certis&location=Singapore) |
-| HR Operations Specialist | ADM | LinkedIn | — | 2026-09-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Operations%20Specialist%20ADM&location=Singapore) |
-| Compensation & Benefits Specialist, India & South Africa | Munich Re | LinkedIn | — | 2026-09-02 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Compensation%20%26amp%3B%20Benefits%20Specialist%2C%20India%20%26amp%3B%20South%20Africa%20Munich%20Re&location=Singapore) |
+| Senior HR Executive/ Manager, HR Service | Ministry of Education, Singapore (MOE) | LinkedIn | — | 2026-09-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20HR%20Executive%2F%20Manager%2C%20HR%20Service%20Ministry%20of%20Education%2C%20Singapore%20(MOE)&location=Singapore) |
