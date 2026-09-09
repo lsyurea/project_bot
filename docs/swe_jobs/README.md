@@ -2,12 +2,15 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-09-08T16:49:53.652Z*
+> *Last updated: 2026-09-09T05:05:42.109Z*
 
-**Total listings: 35** *(MyCareersFuture: 30 | LinkedIn: 10)*
+**Total listings: 36** *(MyCareersFuture: 31 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| I39 - Software Engineer, Java (079) | FPT ASIA PACIFIC PTE. LTD. | MyCareersFuture | 2 | 2026-09-09 | [Apply](https://www.mycareersfuture.gov.sg/job/537526b504a36ad431b91bf5c44343cd) |
+| 1 Year Assistant Engineer (Hardware/Software) #EST | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-09-09 | [Apply](https://www.mycareersfuture.gov.sg/job/b39609435b054c5bc13150ead9bb4de5) |
+| Software Engineer (C++, UX/UI) Automation - VTTO | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 2 | 2026-09-09 | [Apply](https://www.mycareersfuture.gov.sg/job/7bdac8f71dc84c744976f17e3b2df0a6) |
 | Robotic Software Engineer | DYSON OPERATIONS PTE. LTD. | MyCareersFuture | 2 | 2026-09-08 | [Apply](https://www.mycareersfuture.gov.sg/job/7cf90177662f587cbf38ac4f52b6aa04) |
 | Control (Software) Design Engineer / PLC Programmer #70912 | ANRADUS PTE. LTD. | MyCareersFuture | 0 | 2026-09-08 | [Apply](https://www.mycareersfuture.gov.sg/job/3795f24afc43537c985adbd7acfdc008) |
 | Software Engineer – Agentic AI/Contract/West | RMA CONSULTANTS PTE LTD | MyCareersFuture | 1 | 2026-09-08 | [Apply](https://www.mycareersfuture.gov.sg/job/1ca53f352a824dcdea16ad18d9ed6611) |
@@ -18,7 +21,6 @@
 | Software Engineer (Must Have Java + Preferred Angular) | ITCAN PTE. LIMITED | MyCareersFuture | 2 | 2026-09-08 | [Apply](https://www.mycareersfuture.gov.sg/job/ea90b6c1832b14d99ea23a68cd58586a) |
 | [Senior] Software Engineer | D4L DATA4LIFE ASIA LIMITED | MyCareersFuture | 1 | 2026-09-08 | [Apply](https://www.mycareersfuture.gov.sg/job/e484820c5638d6049f79091963d60d98) |
 | Software & DevOps Engineer (Fresh Graduate Welcome) | TALENTSIS PTE. LTD. | MyCareersFuture | 0 | 2026-09-08 | [Apply](https://www.mycareersfuture.gov.sg/job/8938e5c7b73f9c037dd05f1523cbd2dd) |
-| Software Engineer (C++, UX/UI) Automation - VTTO | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 2 | 2026-09-08 | [Apply](https://www.mycareersfuture.gov.sg/job/64a30dff7e74f8eba0837b06e46be899) |
 | Software Engineer III, Global Portfolio Holdings Technology | JPMorganChase | LinkedIn | — | 2026-09-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20III%2C%20Global%20Portfolio%20Holdings%20Technology%20JPMorganChase&location=Singapore) |
 | Software Engineer, Google Pay, Server Infrastructure | Google | LinkedIn | — | 2026-09-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Google%20Pay%2C%20Server%20Infrastructure%20Google&location=Singapore) |
 | Software Engineer, Singpass | GovTech Singapore | LinkedIn | — | 2026-09-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Singpass%20GovTech%20Singapore&location=Singapore) |
@@ -39,7 +41,6 @@
 | Senior/Software Engineer (Java/javascript) | TALENTSIS PTE. LTD. | MyCareersFuture | 1 | 2026-09-07 | [Apply](https://www.mycareersfuture.gov.sg/job/8a8b735396edbaa9f2e6d779f401d396) |
 | Software Engineer - Production AI Workflows | SUNNYSTEP PTE. LTD. | MyCareersFuture | 1 | 2026-09-07 | [Apply](https://www.mycareersfuture.gov.sg/job/83f95d23a7cb18d1d61a883d1a884353) |
 | Software Engineer | MICHAEL PAGE INTERNATIONAL PTE LTD | MyCareersFuture | 1 | 2026-09-07 | [Apply](https://www.mycareersfuture.gov.sg/job/be0b874d589f00dee91955975f09773e) |
-| Maintanence Engineer | GLOBAL RECRUITMENT AGENCY | MyCareersFuture | 2 | 2026-09-07 | [Apply](https://www.mycareersfuture.gov.sg/job/f117f5c5db3b16ce54166903dd48b14d) |
 | Senior Software Engineer, Google Pay Ads | Google | LinkedIn | — | 2026-09-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%2C%20Google%20Pay%20Ads%20Google&location=Singapore) |
 | Full Stack Developer | Changi Airport Group | LinkedIn | — | 2026-09-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Full%20Stack%20Developer%20Changi%20Airport%20Group&location=Singapore) |
-| 后端开发工程师 | DiDi | LinkedIn | — | 2026-09-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%20DiDi&location=Singapore) |
+| AVP/VP, Software Engineer (Python), Technology Group | GIC | LinkedIn | — | 2026-09-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=AVP%2FVP%2C%20Software%20Engineer%20(Python)%2C%20Technology%20Group%20GIC&location=Singapore) |
