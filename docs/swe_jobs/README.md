@@ -2,17 +2,20 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-09-12T04:56:27.235Z*
+> *Last updated: 2026-09-12T15:47:20.986Z*
 
-**Total listings: 36** *(MyCareersFuture: 26 | LinkedIn: 10)*
+**Total listings: 31** *(MyCareersFuture: 22 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Software Engineer (C++, Embedded system) Automation - VTTO | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 2 | 2026-09-12 | [Apply](https://www.mycareersfuture.gov.sg/job/888508ea492db1f05ce56bc26df54e50) |
+| Software Engineer II - Java / Spring / AWS | JPMorganChase | LinkedIn | — | 2026-09-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20II%20-%20Java%20%2F%20Spring%20%2F%20AWS%20JPMorganChase&location=Singapore) |
+| Engineer II, Software | Thermo Fisher Scientific | LinkedIn | — | 2026-09-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Engineer%20II%2C%20Software%20Thermo%20Fisher%20Scientific&location=Singapore) |
+| Backend Software Engineer - AI Finance Agent | BJAK | LinkedIn | — | 2026-09-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Backend%20Software%20Engineer%20-%20AI%20Finance%20Agent%20BJAK&location=Singapore) |
 | Software Engineer | ELEC-PRO TECHNOLOGY PTE. LTD. | MyCareersFuture | 0 | 2026-09-11 | [Apply](https://www.mycareersfuture.gov.sg/job/ab333d304f0be44599460d2f3c738459) |
 | Software Engineer II - Java / Spring / AWS | JPMORGAN CHASE BANK, N.A. | MyCareersFuture | 2 | 2026-09-11 | [Apply](https://www.mycareersfuture.gov.sg/job/bda83a2326f90013fb1b1ecda9a8fa3e) |
 | Software Engineer. | RECRUIT LYNC PTE. LTD. | MyCareersFuture | 2 | 2026-09-11 | [Apply](https://www.mycareersfuture.gov.sg/job/a6824108b0b02edfe6b9499dadb3c36d) |
 | Software Developer / Software Engineer #10123 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-09-11 | [Apply](https://www.mycareersfuture.gov.sg/job/d303e425baad86983f2bfb90422179b9) |
-| Software Engineer (C++, Embedded system) Automation - VTTO | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 2 | 2026-09-11 | [Apply](https://www.mycareersfuture.gov.sg/job/20d4bda4788b4f19fdb1f5d9d9995567) |
 | Software Engineer Ecosystem | KABAM PTE. LTD. | MyCareersFuture | 1 | 2026-09-11 | [Apply](https://www.mycareersfuture.gov.sg/job/2d01535539d0f8dc66121eb2a8cf908a) |
 | Software Engineer (C++/C#, Machine Automation) #76684 | ANRADUS PTE. LTD. | MyCareersFuture | 1 | 2026-09-11 | [Apply](https://www.mycareersfuture.gov.sg/job/6f88464d50a642c1aef5240ff7148f29) |
 | Software Engineer (Platform Support Services) | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 2 | 2026-09-11 | [Apply](https://www.mycareersfuture.gov.sg/job/46ca0298054eadc983c91e6645953f7f) |
@@ -35,12 +38,4 @@
 | Software Engineer II -  Behavioral Identity Security (Singapore) | Abnormal AI | LinkedIn | — | 2026-09-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20II%20-%20%20Behavioral%20Identity%20Security%20(Singapore)%20Abnormal%20AI&location=Singapore) |
 | Software Engineer - AVP | OCBC | LinkedIn | — | 2026-09-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20-%20AVP%20OCBC&location=Singapore) |
 | Full Stack Engineer (Java, React & Cloud) | Tap Growth ai | LinkedIn | — | 2026-09-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Full%20Stack%20Engineer%20(Java%2C%20React%20%26amp%3B%20Cloud)%20Tap%20Growth%20ai&location=Singapore) |
-| Senior Software Engineer (Maintenance & Support) | UFINITY PTE LTD | MyCareersFuture | 2 | 2026-09-10 | [Apply](https://www.mycareersfuture.gov.sg/job/0739dae2260045de01d2c54b80406367) |
-| Full Stack Engineer (Golang / SvelteKit / GraphQL) - $6000 to $7000- AMK #5252 | PERSOL OUTSOURCING SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-09-10 | [Apply](https://www.mycareersfuture.gov.sg/job/47a920bbd63559e515c7a2c518b4a961) |
-| Full Stack Software Engineer | ZENITH EDUCATION STUDIO PTE. LTD. | MyCareersFuture | 1 | 2026-09-10 | [Apply](https://www.mycareersfuture.gov.sg/job/7ba6768486ee36d88cee044ada2c0d39) |
-| Software Engineer Intern | PICK NETWORK PTE. LTD. | MyCareersFuture | 1 | 2026-09-10 | [Apply](https://www.mycareersfuture.gov.sg/job/f6742014cd3316d3176768f93020b0d4) |
-| Software Engineer, Android, Google Wallet, Transit and eMoney - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 1 | 2026-09-10 | [Apply](https://www.mycareersfuture.gov.sg/job/9baac6075c33d5141220771dd6dd1dc9) |
-| Software Engineer III, Payments Technology | JPMorganChase | LinkedIn | — | 2026-09-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20III%2C%20Payments%20Technology%20JPMorganChase&location=Singapore) |
 | Software Engineer, Payments | Stripe | LinkedIn | — | 2026-09-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Payments%20Stripe&location=Singapore) |
-| Software Engineer(.Net Development) | Tap Growth ai | LinkedIn | — | 2026-09-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer(.Net%20Development)%20Tap%20Growth%20ai&location=Singapore) |
-| Backend Java Engineer (salary up to SGD 200k-300k+) | Ambition | LinkedIn | — | 2026-09-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Backend%20Java%20Engineer%20(salary%20up%20to%20SGD%20200k-300k%2B)%20Ambition&location=Singapore) |
