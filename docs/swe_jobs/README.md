@@ -2,9 +2,9 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-09-11T16:44:13.743Z*
+> *Last updated: 2026-09-12T04:56:27.235Z*
 
-**Total listings: 41** *(MyCareersFuture: 31 | LinkedIn: 10)*
+**Total listings: 36** *(MyCareersFuture: 26 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
@@ -34,18 +34,13 @@
 | Software Engineer, Google Pay, Consumer Payments | Google | LinkedIn | — | 2026-09-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Google%20Pay%2C%20Consumer%20Payments%20Google&location=Singapore) |
 | Software Engineer II -  Behavioral Identity Security (Singapore) | Abnormal AI | LinkedIn | — | 2026-09-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20II%20-%20%20Behavioral%20Identity%20Security%20(Singapore)%20Abnormal%20AI&location=Singapore) |
 | Software Engineer - AVP | OCBC | LinkedIn | — | 2026-09-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20-%20AVP%20OCBC&location=Singapore) |
+| Full Stack Engineer (Java, React & Cloud) | Tap Growth ai | LinkedIn | — | 2026-09-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Full%20Stack%20Engineer%20(Java%2C%20React%20%26amp%3B%20Cloud)%20Tap%20Growth%20ai&location=Singapore) |
 | Senior Software Engineer (Maintenance & Support) | UFINITY PTE LTD | MyCareersFuture | 2 | 2026-09-10 | [Apply](https://www.mycareersfuture.gov.sg/job/0739dae2260045de01d2c54b80406367) |
 | Full Stack Engineer (Golang / SvelteKit / GraphQL) - $6000 to $7000- AMK #5252 | PERSOL OUTSOURCING SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-09-10 | [Apply](https://www.mycareersfuture.gov.sg/job/47a920bbd63559e515c7a2c518b4a961) |
 | Full Stack Software Engineer | ZENITH EDUCATION STUDIO PTE. LTD. | MyCareersFuture | 1 | 2026-09-10 | [Apply](https://www.mycareersfuture.gov.sg/job/7ba6768486ee36d88cee044ada2c0d39) |
 | Software Engineer Intern | PICK NETWORK PTE. LTD. | MyCareersFuture | 1 | 2026-09-10 | [Apply](https://www.mycareersfuture.gov.sg/job/f6742014cd3316d3176768f93020b0d4) |
 | Software Engineer, Android, Google Wallet, Transit and eMoney - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 1 | 2026-09-10 | [Apply](https://www.mycareersfuture.gov.sg/job/9baac6075c33d5141220771dd6dd1dc9) |
-| Software Engineer II, Business Mobile App, Google Pay - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 1 | 2026-09-10 | [Apply](https://www.mycareersfuture.gov.sg/job/e07de7fc121453c379651f42ddce56f5) |
-| [T02] Software Engineer (C++) | TALENTSIS PTE. LTD. | MyCareersFuture | 2 | 2026-09-10 | [Apply](https://www.mycareersfuture.gov.sg/job/730cc7fdf0563655290127b8d1afef94) |
-| Golang Software Engineer (Full Stack) | MCI CAREER  SERVICES PTE. LTD. | MyCareersFuture | 2 | 2026-09-10 | [Apply](https://www.mycareersfuture.gov.sg/job/a98bd4cf6b8f37295d40a30d24aab27c) |
-| Software Engineer (C++, UX/UI) Automation - VTTO | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 2 | 2026-09-10 | [Apply](https://www.mycareersfuture.gov.sg/job/aafbafa510f8b1616fc398828cf6997a) |
 | Software Engineer III, Payments Technology | JPMorganChase | LinkedIn | — | 2026-09-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20III%2C%20Payments%20Technology%20JPMorganChase&location=Singapore) |
 | Software Engineer, Payments | Stripe | LinkedIn | — | 2026-09-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Payments%20Stripe&location=Singapore) |
 | Software Engineer(.Net Development) | Tap Growth ai | LinkedIn | — | 2026-09-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer(.Net%20Development)%20Tap%20Growth%20ai&location=Singapore) |
 | Backend Java Engineer (salary up to SGD 200k-300k+) | Ambition | LinkedIn | — | 2026-09-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Backend%20Java%20Engineer%20(salary%20up%20to%20SGD%20200k-300k%2B)%20Ambition&location=Singapore) |
-| Digital Marketing Account Manager (AI-Powered) | BEST MARKETING AGENCY PTE. LTD. | MyCareersFuture | 2 | 2026-09-09 | [Apply](https://www.mycareersfuture.gov.sg/job/18f15d6b97dd5051345380beb486c0c1) |
-| Software Engineer (Real Time Payments) | Mastercard | LinkedIn | — | 2026-09-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Real%20Time%20Payments)%20Mastercard&location=Singapore) |
