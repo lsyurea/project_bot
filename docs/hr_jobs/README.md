@@ -2,9 +2,9 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-09-12T15:47:13.542Z*
+> *Last updated: 2026-09-13T05:17:57.314Z*
 
-**Total listings: 47** *(MyCareersFuture: 39 | LinkedIn: 10)*
+**Total listings: 36** *(MyCareersFuture: 28 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
@@ -35,18 +35,6 @@
 | Talent Sourcer(internship) | DADACONSULTANTS PTE. LTD. | MyCareersFuture | 1 | 2026-09-11 | [Apply](https://www.mycareersfuture.gov.sg/job/38d767abd93d95b22ef6fda9475c8288) |
 | HR Executive (Training) | ACEPLP.COM PTE LTD | MyCareersFuture | 1 | 2026-09-11 | [Apply](https://www.mycareersfuture.gov.sg/job/d4a6bbaad85fa4f4c61823dd50669b1a) |
 | Intern (HR C&B) | CHINA TELECOM (ASIA PACIFIC) PTE. LTD. | MyCareersFuture | 0 | 2026-09-11 | [Apply](https://www.mycareersfuture.gov.sg/job/52f6a3eb13ae0cb42b5d68de204745fa) |
-| HR Executive #10235 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-09-11 | [Apply](https://www.mycareersfuture.gov.sg/job/318552ac1f2693e2de886973c3a249aa) |
-| 5 days HUMAN RESOURCE GENERALIST up to $4000 | TALENT RECRUITMENT PTE. LTD. | MyCareersFuture | 1 | 2026-09-11 | [Apply](https://www.mycareersfuture.gov.sg/job/8acbfd14a3f86ebaf870fa46a8f57c47) |
-| Human Resource Manager | THESEAFOODCOMPANY PTE. LTD. | MyCareersFuture | 2 | 2026-09-11 | [Apply](https://www.mycareersfuture.gov.sg/job/194a8f8bd5b9d611bbd96859b739aeff) |
-| Talent Acquisition Officer - 1 year contract | AETOS HOLDINGS PTE. LTD. | MyCareersFuture | 1 | 2026-09-11 | [Apply](https://www.mycareersfuture.gov.sg/job/34a8bb5c4bed7174ed6406fc4fb150ac) |
-| Human Resource Executive - Employee Relations & HR Operations #HDCE | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-09-11 | [Apply](https://www.mycareersfuture.gov.sg/job/10aa5b620c00dadb70da7568156ae3f6) |
-| Senior/ Talent Acquisition Executive | RAFFLES HOSPITAL PTE LTD | MyCareersFuture | 2 | 2026-09-11 | [Apply](https://www.mycareersfuture.gov.sg/job/439ad4508eadd95a5914a5c35487b1d7) |
-| Talent Acquisition Specialist | INTER ISLAND MANPOWER PTE. LTD. | MyCareersFuture | 2 | 2026-09-11 | [Apply](https://www.mycareersfuture.gov.sg/job/9513ff75fd2bd8f15d7adf8c810e4e25) |
-| Human Resources Manager | FU XIANG ENGINEERING PTE. LTD. | MyCareersFuture | 2 | 2026-09-11 | [Apply](https://www.mycareersfuture.gov.sg/job/f0f3c1ab6e5556c572b4adfefe3421c1) |
-| Specialist, Recruitment (2 years contract) | SMRT TRAINS LTD. | MyCareersFuture | 2 | 2026-09-11 | [Apply](https://www.mycareersfuture.gov.sg/job/1d0827762e0f5ecccf59a7c667b752e4) |
-| Specialist, Recruitment (1 Year Contract) | SMRT TRAINS LTD. | MyCareersFuture | 1 | 2026-09-11 | [Apply](https://www.mycareersfuture.gov.sg/job/1b7f21058f413a518ef5a0dccf5bf30f) |
-| HR Administration Assistant | GAIN CITY ENGINEERING (M&E) PTE LTD | MyCareersFuture | 1 | 2026-09-11 | [Apply](https://www.mycareersfuture.gov.sg/job/8989b33ec06e3257471519f52b7eca3c) |
-| Senior Human Resource Executive | DM Dasher Pte Ltd | LinkedIn | — | 2026-09-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Human%20Resource%20Executive%20DM%20Dasher%20Pte%20Ltd&location=Singapore) |
 | Talent Acquisition Specialist, Senior | Qualcomm | LinkedIn | — | 2026-09-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Specialist%2C%20Senior%20Qualcomm&location=Singapore) |
 | Head of Human Resources | HMI Medical | LinkedIn | — | 2026-09-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Head%20of%20Human%20Resources%20HMI%20Medical&location=Singapore) |
 | Senior HR Business Partner (Korean-speaking) | Samsung Southeast Asia & Oceania | LinkedIn | — | 2026-09-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20HR%20Business%20Partner%20(Korean-speaking)%20Samsung%20Southeast%20Asia%20%26amp%3B%20Oceania&location=Singapore) |
@@ -54,4 +42,5 @@
 | Senior Manager, Group HR Business Partnering Healthcare | DKSH | LinkedIn | — | 2026-09-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Manager%2C%20Group%20HR%20Business%20Partnering%20Healthcare%20DKSH&location=Singapore) |
 | HR Associate, Human Resources | CLSA | LinkedIn | — | 2026-09-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Associate%2C%20Human%20Resources%20CLSA&location=Singapore) |
 | Human Resource Manager | Confidential Jobs | LinkedIn | — | 2026-09-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resource%20Manager%20Confidential%20Jobs&location=Singapore) |
-| Generalist-Human Resources | W Hotels | LinkedIn | — | 2026-09-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Generalist-Human%20Resources%20W%20Hotels&location=Singapore) |
+| HR Executive | Telenor | LinkedIn | — | 2026-09-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Executive%20Telenor&location=Singapore) |
+| HR Manager (Medical Devices) | Hunt Talent Partners | LinkedIn | — | 2026-09-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Manager%20(Medical%20Devices)%20Hunt%20Talent%20Partners&location=Singapore) |
