@@ -2,12 +2,18 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-09-14T18:10:28.150Z*
+> *Last updated: 2026-09-15T05:13:27.560Z*
 
-**Total listings: 30** *(MyCareersFuture: 20 | LinkedIn: 10)*
+**Total listings: 35** *(MyCareersFuture: 26 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Software Engineer | MMI SYSTEMS PTE LTD | MyCareersFuture | 2 | 2026-09-15 | [Apply](https://www.mycareersfuture.gov.sg/job/980680da0d2848354e5a7ff19dceb2a9) |
+| Software Engineer, Google Wallet, Multimodal Intelligence - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 1 | 2026-09-15 | [Apply](https://www.mycareersfuture.gov.sg/job/e2cd00387516213167e7f5e928f05be6) |
+| Software Engineer | TELERADIO ENGINEERING PTE. LTD. | MyCareersFuture | 1 | 2026-09-15 | [Apply](https://www.mycareersfuture.gov.sg/job/2cd753c91e8e5ee7f22337c19faac5f9) |
+| Software & DevOps Engineer (Fresh Graduate Welcome) | TALENTSIS PTE. LTD. | MyCareersFuture | 0 | 2026-09-15 | [Apply](https://www.mycareersfuture.gov.sg/job/0af246779c9e599d7749359ab036e7e6) |
+| Software Engineer (C++, Embedded system) Automation - VTTO | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 2 | 2026-09-15 | [Apply](https://www.mycareersfuture.gov.sg/job/d1b64a23d820f4f9d36f5440844cf95c) |
+| Software Engineer (Computer Vision/Vision Inspection, C++) | RECRUIT EXPERT PTE. LTD. | MyCareersFuture | 2 | 2026-09-14 | [Apply](https://www.mycareersfuture.gov.sg/job/0dcc42002f52b3e9aaee15c98bb5b8ee) |
 | Software Engineer | RED ALPHA CYBERSECURITY PTE. LTD. | MyCareersFuture | 0 | 2026-09-14 | [Apply](https://www.mycareersfuture.gov.sg/job/55e55cb25c02d5d54b906e8935a9a175) |
 | Software Engineer. | RECRUIT LYNC PTE. LTD. | MyCareersFuture | 2 | 2026-09-14 | [Apply](https://www.mycareersfuture.gov.sg/job/6579350cfffd22152381bae8f51445c4) |
 | Junior Software Engineer | JUST TALENT PTE. LTD. | MyCareersFuture | 2 | 2026-09-14 | [Apply](https://www.mycareersfuture.gov.sg/job/897cda6a302b20d07b02c78524cbd601) |
@@ -24,7 +30,6 @@
 | Software engineer (Production/Applications support, Shift job)- Contract | QUESSCORP SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-09-14 | [Apply](https://www.mycareersfuture.gov.sg/job/44b9397bbe7cc5a18fab763e14e96ce4) |
 | Software Development and Support Engineer | WINSYS TECHNOLOGY PTE LTD | MyCareersFuture | 2 | 2026-09-14 | [Apply](https://www.mycareersfuture.gov.sg/job/cc53cb2a4577438ed79e437a9ed25e00) |
 | Software Development Engineer (Intern) (Dec 2026 - June/July 2027) | THE SOFTWARE PRACTICE PTE. LTD. | MyCareersFuture | 0 | 2026-09-14 | [Apply](https://www.mycareersfuture.gov.sg/job/e6f3941cb0f149f732cb87105ee3a9b3) |
-| Software Engineer (C++, Embedded system) Automation - VTTO | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 2 | 2026-09-14 | [Apply](https://www.mycareersfuture.gov.sg/job/1d251bd73e155adb880025ff35784df1) |
 | Software Development Engineer - Apps, Enterprise Technology Services | Apple | LinkedIn | — | 2026-09-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Development%20Engineer%20-%20Apps%2C%20Enterprise%20Technology%20Services%20Apple&location=Singapore) |
 | Senior Backend Engineer | Pratt & Whitney | LinkedIn | — | 2026-09-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Backend%20Engineer%20Pratt%20%26amp%3B%20Whitney&location=Singapore) |
 | Software Engineer, Payments | Stripe | LinkedIn | — | 2026-09-14 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Payments%20Stripe&location=Singapore) |
