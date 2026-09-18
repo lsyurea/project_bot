@@ -2,12 +2,23 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-09-18T05:06:40.190Z*
+> *Last updated: 2026-09-18T16:41:19.615Z*
 
-**Total listings: 63** *(MyCareersFuture: 55 | LinkedIn: 10)*
+**Total listings: 57** *(MyCareersFuture: 48 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Human Resources Executive (Part Time) | Lakeside Family Services | MyCareersFuture | 1 | 2026-09-18 | [Apply](https://www.mycareersfuture.gov.sg/job/21158c7499b80e3181d37d6b6acf1525) |
+| HR / ACCOUNTING MANAGER | JING PIN FOOD PTE. LTD. | MyCareersFuture | 2 | 2026-09-18 | [Apply](https://www.mycareersfuture.gov.sg/job/2c89c31598122fb3f75bf4797e963dc7) |
+| Learning & Development Executive (Corporate Training) | MR DAI PTE. LTD. | MyCareersFuture | 1 | 2026-09-18 | [Apply](https://www.mycareersfuture.gov.sg/job/df7c0fb65f850a9bc40c18a08a1f9704) |
+| HR Admin/Assistant | BOMS AND BUNS PTE. LTD. | MyCareersFuture | 1 | 2026-09-18 | [Apply](https://www.mycareersfuture.gov.sg/job/db7e9d2fe6299c9ba68fae6bece7b0eb) |
+| Assistant General Manager | Singapore Island Country Club, The | MyCareersFuture | 2 | 2026-09-18 | [Apply](https://www.mycareersfuture.gov.sg/job/f675c7499c92e7420d8cc490f512f18d) |
+| HR Generalist | BIPO SERVICE (SINGAPORE) PTE. LTD. | MyCareersFuture | 2 | 2026-09-18 | [Apply](https://www.mycareersfuture.gov.sg/job/936070ae6dd0656bee32e2b6b34bb963) |
+| People and Culture Executive- 1 Year Contract | WWF-WORLD WIDE FUND FOR NATURE (SINGAPORE) LIMITED | MyCareersFuture | 2 | 2026-09-18 | [Apply](https://www.mycareersfuture.gov.sg/job/57930a6f1d8a4f245ac5e9e2e3eabbd5) |
+| People Intern | HERBERT SMITH FREEHILLS KRAMER LLP | MyCareersFuture | 0 | 2026-09-18 | [Apply](https://www.mycareersfuture.gov.sg/job/5957b8f75a1e9a607b9c85d93d70668a) |
+| HR Executive (L&D, Construction) | KAH ENGINEERING (1986) PTE. LTD. | MyCareersFuture | 2 | 2026-09-18 | [Apply](https://www.mycareersfuture.gov.sg/job/8fb76c3d6a472152ab38b2592e6aa0a5) |
+| HR Intern - Recruitment & Talent Acquisition - Healthcare - No Experience Required #HYT | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-09-18 | [Apply](https://www.mycareersfuture.gov.sg/job/01dd146ffb9020c3a9ac86afee8c57c2) |
+| HR Intern | ADDCEL ENGINEERING PTE. LTD. | MyCareersFuture | 1 | 2026-09-18 | [Apply](https://www.mycareersfuture.gov.sg/job/1513997fe6f077459419029a2b5fe77b) |
 | 5 days HR GENERALIST up to $4000 (Tuas) | TALENT RECRUITMENT PTE. LTD. | MyCareersFuture | 1 | 2026-09-18 | [Apply](https://www.mycareersfuture.gov.sg/job/1b1bf9206b3fda792493a83bf729d4a9) |
 | Contract Specialist | Naval Support Activity Singapore | MyCareersFuture | 1 | 2026-09-18 | [Apply](https://www.mycareersfuture.gov.sg/job/7d2d082ddf424214213b0568542847f8) |
 | Office Administrator / Human Resources | AVATAR MODERN TECHNO SERVICES PTE. LTD. | MyCareersFuture | 2 | 2026-09-18 | [Apply](https://www.mycareersfuture.gov.sg/job/c02d467b03b6c22f84b1f7616bd73ca6) |
@@ -23,6 +34,8 @@
 | Document Controller | STI ADVANCE (S) PTE. LTD. | MyCareersFuture | 1 | 2026-09-18 | [Apply](https://www.mycareersfuture.gov.sg/job/b725a545ba62a6aba08385fd785cab6f) |
 | Assistant HR Manager / HRBP (Talent Aquisition) - North - VTTO | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 2 | 2026-09-18 | [Apply](https://www.mycareersfuture.gov.sg/job/9edce1d1c6e6be187773ac0b5cce6b6f) |
 | Senior HR Executive (Talent Acquisition) - North - VTTO | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 2 | 2026-09-18 | [Apply](https://www.mycareersfuture.gov.sg/job/6b68aff1fe85c1875ab9dff4b3651d86) |
+| Human Resources Specialist | Applied Medical | LinkedIn | — | 2026-09-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Specialist%20Applied%20Medical&location=Singapore) |
+| Senior HR Generalist, APAC | Chainalysis | LinkedIn | — | 2026-09-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20HR%20Generalist%2C%20APAC%20Chainalysis&location=Singapore) |
 | HR Associate | Sea | LinkedIn | — | 2026-09-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Associate%20Sea&location=Singapore) |
 | Human Resources Associate | Sea | LinkedIn | — | 2026-09-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Associate%20Sea&location=Singapore) |
 | HR Specialist (People Services & Benefits) | Hyundai Motor Group Innovation Center Singapore (HMGICS) | LinkedIn | — | 2026-09-18 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Specialist%20(People%20Services%20%26amp%3B%20Benefits)%20Hyundai%20Motor%20Group%20Innovation%20Center%20Singapore%20(HMGICS)&location=Singapore) |
@@ -52,22 +65,3 @@
 | Head of Human Resources (Infrastructure related industry) | Caliber8 Recruitment | LinkedIn | — | 2026-09-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Head%20of%20Human%20Resources%20(Infrastructure%20related%20industry)%20Caliber8%20Recruitment&location=Singapore) |
 | Senior Human Resources Manager | E-Bridge Pre-School | LinkedIn | — | 2026-09-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Human%20Resources%20Manager%20E-Bridge%20Pre-School&location=Singapore) |
 | Global HR Business Partner Leader | Coins.ph | LinkedIn | — | 2026-09-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Global%20HR%20Business%20Partner%20Leader%20Coins.ph&location=Singapore) |
-| Country HR Manager, Singapore | Parker Hannifin | LinkedIn | — | 2026-09-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Country%20HR%20Manager%2C%20Singapore%20Parker%20Hannifin&location=Singapore) |
-| HR & Admin Executive #10153 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-09-16 | [Apply](https://www.mycareersfuture.gov.sg/job/a3a1e7344ce9cc1d8cf148b1af641093) |
-| HR Officer, People Experience (1 year contract) | SMRT TRAINS LTD. | MyCareersFuture | 1 | 2026-09-16 | [Apply](https://www.mycareersfuture.gov.sg/job/75a4a0ee86ee0b579b9a3aa8bb686aea) |
-| HR Executive (Construction/Dormitory/Central area) | TRUST RECRUIT PTE. LTD. | MyCareersFuture | 2 | 2026-09-16 | [Apply](https://www.mycareersfuture.gov.sg/job/db67a7828a91e0e1034778bbde2a1235) |
-| Executive (HR & Administration) | EDUBLITZ PTE LTD | MyCareersFuture | 1 | 2026-09-16 | [Apply](https://www.mycareersfuture.gov.sg/job/d13e5e618686906f05777edf9fd39d48) |
-| HR Senior Executive | PROJECT DELIVERY PARTNERS PTE. LTD. | MyCareersFuture | 2 | 2026-09-16 | [Apply](https://www.mycareersfuture.gov.sg/job/52e635e7dff5f2659b4367cf11d2e9a4) |
-| Talent Acquisition Partner (Tampines/ Manufacturing/Engineering) | ACHIEVE CAREER CONSULTANT PTE LTD | MyCareersFuture | 2 | 2026-09-16 | [Apply](https://www.mycareersfuture.gov.sg/job/e9c096045c7ee06ff0c0548705702d84) |
-| HR Assistant #HYNA | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-09-16 | [Apply](https://www.mycareersfuture.gov.sg/job/bf9492f7e9874f4d2358622b688c4be4) |
-| People Advisor (6-month temp contract) | LF LOGISTICS SERVICES PTE. LTD. | MyCareersFuture | 2 | 2026-09-16 | [Apply](https://www.mycareersfuture.gov.sg/job/5a5c96581fe9c964845e0258a67bb725) |
-| Talent Acquisition Executive (North) Construction - RPAL | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 2 | 2026-09-16 | [Apply](https://www.mycareersfuture.gov.sg/job/1be1f79df291cdf270ea19a668cb3847) |
-| HR Executive, Payroll & Total Rewards | ALTRAD FRP PRODUCTS CO., PTE. LTD. | MyCareersFuture | 2 | 2026-09-16 | [Apply](https://www.mycareersfuture.gov.sg/job/6b85b8a0359ca77cd97417ef2c8d11f4) |
-| Recruitment Executive | APLUS GLOBAL PTE. LTD. | MyCareersFuture | 2 | 2026-09-16 | [Apply](https://www.mycareersfuture.gov.sg/job/963a192efb56f093ad1ba650f7ac6291) |
-| HR cum Account | CREATIVE TECH ENGINEERING PTE. LTD. | MyCareersFuture | 0 | 2026-09-16 | [Apply](https://www.mycareersfuture.gov.sg/job/c107602f8acb61b6e1e91c9ff903ad28) |
-| HR cum Account | KING DAO CONSTRUCTION & ENGINEERING PTE. LTD. | MyCareersFuture | 2 | 2026-09-16 | [Apply](https://www.mycareersfuture.gov.sg/job/27d9394124e917eac239ec609a1401be) |
-| Human Resources Intern (6 months) | SHILLA TRAVEL RETAIL PTE. LTD. | MyCareersFuture | 0 | 2026-09-16 | [Apply](https://www.mycareersfuture.gov.sg/job/d3affdeeee515e138d2e021af42a26e3) |
-| HR Executive #10235 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-09-16 | [Apply](https://www.mycareersfuture.gov.sg/job/c28964f166cbb34bf1d6902fb0842c85) |
-| Executive, Programmes & Community Outreach Dept | PERTAPIS Education and Welfare Centre | MyCareersFuture | 2 | 2026-09-16 | [Apply](https://www.mycareersfuture.gov.sg/job/1e4c1a88a0864854d6fa43bdf9180581) |
-| Human Resource Assistant (HR) | REOLINK TECHNOLOGY PTE. LTD. | MyCareersFuture | 0 | 2026-09-16 | [Apply](https://www.mycareersfuture.gov.sg/job/2dd095a45f160dc1f4b9c7f9db5f12de) |
-| Principal Human Resources Executive | Singapore Aero Engine Services Private Limited (SAESL) | LinkedIn | — | 2026-09-16 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Principal%20Human%20Resources%20Executive%20Singapore%20Aero%20Engine%20Services%20Private%20Limited%20(SAESL)&location=Singapore) |
