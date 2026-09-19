@@ -2,12 +2,13 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-09-18T16:41:19.615Z*
+> *Last updated: 2026-09-19T04:57:12.208Z*
 
-**Total listings: 57** *(MyCareersFuture: 48 | LinkedIn: 10)*
+**Total listings: 53** *(MyCareersFuture: 43 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| HR Business Partner | Clarksons | LinkedIn | — | 2026-09-19 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Business%20Partner%20Clarksons&location=Singapore) |
 | Human Resources Executive (Part Time) | Lakeside Family Services | MyCareersFuture | 1 | 2026-09-18 | [Apply](https://www.mycareersfuture.gov.sg/job/21158c7499b80e3181d37d6b6acf1525) |
 | HR / ACCOUNTING MANAGER | JING PIN FOOD PTE. LTD. | MyCareersFuture | 2 | 2026-09-18 | [Apply](https://www.mycareersfuture.gov.sg/job/2c89c31598122fb3f75bf4797e963dc7) |
 | Learning & Development Executive (Corporate Training) | MR DAI PTE. LTD. | MyCareersFuture | 1 | 2026-09-18 | [Apply](https://www.mycareersfuture.gov.sg/job/df7c0fb65f850a9bc40c18a08a1f9704) |
@@ -56,12 +57,7 @@
 | Assistant Manager / Manager (Admin & HR) | Singapore Kindness Movement | MyCareersFuture | 2 | 2026-09-17 | [Apply](https://www.mycareersfuture.gov.sg/job/6b060d499a671124ace7cd06281330a1) |
 | Human Resources Administrator | ELUSH (T3) PTE. LTD. | MyCareersFuture | 1 | 2026-09-17 | [Apply](https://www.mycareersfuture.gov.sg/job/6c409558a5ed98113484c32ffb35ecea) |
 | Office Administrator / Human Resources (6 Months Contract) | CORNERSTONE GLOBAL PARTNERS PTE. LTD. | MyCareersFuture | 0 | 2026-09-17 | [Apply](https://www.mycareersfuture.gov.sg/job/8a4bcca40fd6051058e5ab7471d72d44) |
-| HR / Recruitment Intern - Human Resource & Talent Acquisition - Internship / Temp - Healthcare Recruitment | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-09-17 | [Apply](https://www.mycareersfuture.gov.sg/job/38f42f7d681eaacf655daf1aec41f412) |
-| Coordinator, Human Resources | BUSINESS NEWS (ASIA) LLP | MyCareersFuture | 2 | 2026-09-17 | [Apply](https://www.mycareersfuture.gov.sg/job/631bff3a9868eb3c9a06a06166ea61f5) |
-| HR Assistant (Up to $3500) | RECRUIT LYNC PTE. LTD. | MyCareersFuture | 1 | 2026-09-17 | [Apply](https://www.mycareersfuture.gov.sg/job/304322f1373a55348509020f2fe89d2e) |
-| PAYROLL EXECUTIVE | SAVILLS PROPERTY MANAGEMENT PTE. LTD. | MyCareersFuture | 2 | 2026-09-17 | [Apply](https://www.mycareersfuture.gov.sg/job/14f40af27897681c75dad20c5fe70ef2) |
-| Senior Executive Human Resources | Dasher Singapore | LinkedIn | — | 2026-09-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Executive%20Human%20Resources%20Dasher%20Singapore&location=Singapore) |
 | HR People Partner - TikTok RD - Singapore | TikTok | LinkedIn | — | 2026-09-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20People%20Partner%20-%20TikTok%20RD%20-%20Singapore%20TikTok&location=Singapore) |
 | Head of Human Resources (Infrastructure related industry) | Caliber8 Recruitment | LinkedIn | — | 2026-09-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Head%20of%20Human%20Resources%20(Infrastructure%20related%20industry)%20Caliber8%20Recruitment&location=Singapore) |
 | Senior Human Resources Manager | E-Bridge Pre-School | LinkedIn | — | 2026-09-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Human%20Resources%20Manager%20E-Bridge%20Pre-School&location=Singapore) |
-| Global HR Business Partner Leader | Coins.ph | LinkedIn | — | 2026-09-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Global%20HR%20Business%20Partner%20Leader%20Coins.ph&location=Singapore) |
+| Country HR Manager, Singapore | Parker Hannifin | LinkedIn | — | 2026-09-17 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Country%20HR%20Manager%2C%20Singapore%20Parker%20Hannifin&location=Singapore) |
