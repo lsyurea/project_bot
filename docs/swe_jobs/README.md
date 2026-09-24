@@ -2,12 +2,16 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-09-23T17:26:17.089Z*
+> *Last updated: 2026-09-24T05:16:32.312Z*
 
-**Total listings: 33** *(MyCareersFuture: 26 | LinkedIn: 10)*
+**Total listings: 32** *(MyCareersFuture: 24 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Full Stack Engineer (Golang / SvelteKit / GraphQL) - $6000 to $7000- AMK #5252 | PERSOL OUTSOURCING SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/d0ce212deb1bc74fc163a796e577e26e) |
+| Software/ Full Stack Engineer (React / Node.js/ CMS) | INTUIT RECRUITMENT PTE. LTD. | MyCareersFuture | 2 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/40967ae5a548e21a32d1e2108fd43927) |
+| Senior Software Developer (.Net) | User Experience Researchers Pte Ltd (Singapore) | LinkedIn | — | 2026-09-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Developer%20(.Net)%20User%20Experience%20Researchers%20Pte%20Ltd%20(Singapore)&location=Singapore) |
+| Control (Software) Design Engineer / PLC Programmer #70912 | ANRADUS PTE. LTD. | MyCareersFuture | 0 | 2026-09-23 | [Apply](https://www.mycareersfuture.gov.sg/job/eb291f982eb75e0b660cf47d7bcb5d04) |
 | Software Engineer | CPO PTE. LTD. | MyCareersFuture | 0 | 2026-09-23 | [Apply](https://www.mycareersfuture.gov.sg/job/407731050996d88d6a1a69e5cd625a09) |
 | Backend Software Engineer (.NET) - YZ11 | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 2 | 2026-09-23 | [Apply](https://www.mycareersfuture.gov.sg/job/cc56dda3575e45a80af50e1615b156d6) |
 | Software Engineer (Computer Vision/Vision Inspection, C++) | RECRUIT EXPERT PTE. LTD. | MyCareersFuture | 2 | 2026-09-23 | [Apply](https://www.mycareersfuture.gov.sg/job/7851db207bdf4a3cb07f2a6ec0d30ba3) |
@@ -20,9 +24,8 @@
 | Senior/Software Engineer (C++) | TALENTSIS PTE. LTD. | MyCareersFuture | 1 | 2026-09-23 | [Apply](https://www.mycareersfuture.gov.sg/job/08d4c2cc69f60e02f782e735eb422f52) |
 | Software Engineer, Product (Singapore) | FACEBOOK SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-09-23 | [Apply](https://www.mycareersfuture.gov.sg/job/e78feebd271ee7e2c81ded4e7ae6ca4e) |
 | Software Engineer (C++, Embedded system) Automation - VTTO | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 2 | 2026-09-23 | [Apply](https://www.mycareersfuture.gov.sg/job/973bc3c6cdc4bda65e69dc113e3435fb) |
-| Java Full Stack Developer | Cognizant | LinkedIn | — | 2026-09-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Java%20Full%20Stack%20Developer%20Cognizant&location=Singapore) |
-| Java Software Engineer | Charterhouse Partnership | LinkedIn | — | 2026-09-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Java%20Software%20Engineer%20Charterhouse%20Partnership&location=Singapore) |
-| Staff Backend Software Engineer - Loki - Singapore - Remote | Grafana Labs | LinkedIn | — | 2026-09-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Staff%20Backend%20Software%20Engineer%20-%20Loki%20%7C%20Singapore%20%7C%20Remote%20Grafana%20Labs&location=Singapore) |
+| Backend Engineer - G&A Solutions Engineering | Apple | LinkedIn | — | 2026-09-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Backend%20Engineer%20-%20G%26amp%3BA%20Solutions%20Engineering%20Apple&location=Singapore) |
+| Software Engineer, New Grad | Palantir Technologies | LinkedIn | — | 2026-09-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20New%20Grad%20Palantir%20Technologies&location=Singapore) |
 | Senior Software Engineer | HPS PARTNERS PTE. LTD. | MyCareersFuture | 2 | 2026-09-22 | [Apply](https://www.mycareersfuture.gov.sg/job/55679c238587d6b014845f8edee7173e) |
 | Software Engineer | AVN DIGITAL PTE. LTD. | MyCareersFuture | 1 | 2026-09-22 | [Apply](https://www.mycareersfuture.gov.sg/job/d4a001d9026b5bd07542179f58243cd8) |
 | Vision Engineer (Software - Machine Control) | GMP TECHNOLOGIES (S) PTE LTD | MyCareersFuture | 2 | 2026-09-22 | [Apply](https://www.mycareersfuture.gov.sg/job/a3512b64e5dce8145ca6d176fbda480e) |
@@ -31,13 +34,9 @@
 | PLC Automation Software Engineer (Automation / Semiconductor) | SEARCH PERSONNEL PRIVATE LIMITED | MyCareersFuture | 2 | 2026-09-22 | [Apply](https://www.mycareersfuture.gov.sg/job/a92a89d3d4c9d10a63d25b6b6b2db7c9) |
 | Software Developer Engineer/ Manager | AS UNITED PTE. LTD. | MyCareersFuture | 2 | 2026-09-22 | [Apply](https://www.mycareersfuture.gov.sg/job/dc8588084b8f84f330164176946bf2e2) |
 | Software Engineer (.NET / Angular) | ES RECRUITMENT PTE. LTD. | MyCareersFuture | 2 | 2026-09-22 | [Apply](https://www.mycareersfuture.gov.sg/job/6d45dd98ff06f2c1e86c6ab5fd2b3a7a) |
-| Software Engineer (Java) | R SYSTEMS CONSULTING SERVICES LIMITED | MyCareersFuture | 2 | 2026-09-22 | [Apply](https://www.mycareersfuture.gov.sg/job/43eaf68faf75dc62c95bb289c7aa1bc9) |
-| Software Engineer (Systems Architecture) | AEGIS TECHNOLOGIES PTE. LTD. | MyCareersFuture | 0 | 2026-09-22 | [Apply](https://www.mycareersfuture.gov.sg/job/e94cf7cdb5bbe919b1143b2e75be47ae) |
-| [T07] Senior/Software Engineer (Java Experience) | TALENTSIS PTE. LTD. | MyCareersFuture | 1 | 2026-09-22 | [Apply](https://www.mycareersfuture.gov.sg/job/99789b496ac3f79d2c5e83c358a31e2e) |
 | Senior Software Engineer, Backend | Grab | LinkedIn | — | 2026-09-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%2C%20Backend%20Grab&location=Singapore) |
 | Software Engineer (User) | SEPHORA | LinkedIn | — | 2026-09-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(User)%20SEPHORA&location=Singapore) |
 | Cloud Software Engineer III - Java/Python | JPMorganChase | LinkedIn | — | 2026-09-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Cloud%20Software%20Engineer%20III%20-%20Java%2FPython%20JPMorganChase&location=Singapore) |
 | Backend Engineer | Virtuos | LinkedIn | — | 2026-09-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Backend%20Engineer%20Virtuos&location=Singapore) |
 | Software Engineer, AISS | IMDA | LinkedIn | — | 2026-09-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20AISS%20IMDA&location=Singapore) |
 | Senior Software Engineer (Python - AI/ML Deployment - AWS) | Hays | LinkedIn | — | 2026-09-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%20(Python%20%7C%20AI%2FML%20Deployment%20%7C%20AWS)%20Hays&location=Singapore) |
-| Senior Software Engineer, Full Stack | Grab | LinkedIn | — | 2026-09-22 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%2C%20Full%20Stack%20Grab&location=Singapore) |
