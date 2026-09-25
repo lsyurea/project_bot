@@ -2,12 +2,32 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-09-25T05:18:02.607Z*
+> *Last updated: 2026-09-25T17:30:25.347Z*
 
-**Total listings: 54** *(MyCareersFuture: 45 | LinkedIn: 10)*
+**Total listings: 60** *(MyCareersFuture: 50 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Marketing Trainee (Fast Growth, Entry-Level) | ROYAL ORG PTE. LTD. | MyCareersFuture | 0 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/51520b8f2a1d434b2053dd8d1739f4f7) |
+| SALES TRAINEE & HUMAN RESOURCES (Travel Opportunities) | ROYAL ORG PTE. LTD. | MyCareersFuture | 0 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/05853c7fed5aae9116df572cc8199dda) |
+| HR Executive | PACIFIC INTEGRATED LOGISTICS PTE LTD | MyCareersFuture | 2 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/a773f235531d5f6ff7779af655a2ae0c) |
+| Chef De Partie (Western) (Sport club/Central area) | JE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/6764b71a9385bf9cb2301c5ec5e7ee47) |
+| Maintenance Technician (sport club/central area) | JE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/ac5fa4260c35f12b014c305b8d8d0757) |
+| Inside Sales Executive (Chemical industry) | JE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/988bd62843db92d6c270f7539fa1af63) |
+| HR Executive (6 months contract) (ID: 712897) | PERSOL SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/85767faceed0147c26a4628ae5a76c56) |
+| Service Engineer (CCTV/Security system) | JE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/a66002d822fca5614a70f1743cfba57b) |
+| Shipping Executive (FTA certificate/food manufacturing) | JE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/b83c64a1299f75ba1490ad640343fa17) |
+| Project Coordinator (Crane Service/AutoCAD) | JE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/341b58610314fc3db31a0f003de74790) |
+| Warehouse Assistant (West/5 days work week) | JE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/c415b8c8bce7741bf8d14735dff921d4) |
+| Machinist (CNC/milling/lathe) | JE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/9075ff45345657eec65045e72ae03bf4) |
+| Delivery Driver (Class 3/Urgent) | JE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/e69095632f30d77f5be6d7bb8e6d832f) |
+| Human Resources Executive | RB CAPITAL FARRER HOTEL PTE. LTD. | MyCareersFuture | 1 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/c8a763f36eccbd6192a32db5187f0047) |
+| Drafter cum QS (AutoCad) | JE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/c50b05bf475b4b4b8888aeaf0d76e1b8) |
+| HR / Training/Administration - Ongoing opportunities | BUSINESS EDGE PERSONNEL SERVICES PTE LTD | MyCareersFuture | 1 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/da7d28a894c5d6095d940d4d1cfbcff2) |
+| IT Support Executive (West/transport provided from Jurong East and Outram Park) | JE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/884bc42dec3fa3568d5af83feb81f9d7) |
+| BUS DRIVERS | WOODLANDS TRANSPORT SERVICE PTE LTD | MyCareersFuture | 1 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/a02ac37dd9feb7a6372a26fabb2123d2) |
+| Events Executive (Contract / Intern) | Singapore Human Resources Institute (SHRI) | MyCareersFuture | 1 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/89f6629db87062f8b172ec8ce8bc1d31) |
+| HR & ADMIN EXECUTIVE | U SQUARE ENGINEERING & SERVICES PTE. LTD. | MyCareersFuture | 2 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/c689bee599876fde3ac8f3902e907261) |
 | HR & Accounting Manager | AF KITCHEN PTE. LTD. | MyCareersFuture | 2 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/84e9ea5366be4b78f188c428f73fea65) |
 | Executive - Human Resources (1-year Contract) | Singapore Indian Development Association (SINDA) | MyCareersFuture | 2 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/3de03e25be74892639fb76a825e40e55) |
 | Human Resources Executive | CRYSTAL JADE FINE DINING PTE. LTD. | MyCareersFuture | 2 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/9c602c4146d934c7b9c22174fafe1c8d) |
@@ -21,6 +41,12 @@
 | HR Executive Assistant - MEDICAL (GOVT/West) - Training Provided/up to $3k #HAO | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/c94cd3a2e099cef9694e1669cadfc0ff) |
 | Multi-Subject Secondary School Teacher (English / Mathematics / Physics / Chemistry – Minimum 2 Subjects) | WASEDA SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/23c233411470498cca9a5589bc5eab6e) |
 | Human Resources Business Partner (Tampines) | ACHIEVE CAREER CONSULTANT PTE LTD | MyCareersFuture | 1 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/11328040d4f8c9658b27f13f0b785d72) |
+| Director, People Operations | Coda | LinkedIn | — | 2026-09-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Director%2C%20People%20Operations%20Coda&location=Singapore) |
+| Head of Human Resources | Trulyyy | LinkedIn | — | 2026-09-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Head%20of%20Human%20Resources%20Trulyyy&location=Singapore) |
+| Human Resources Business Partner | Evolute - Executive Search | LinkedIn | — | 2026-09-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Business%20Partner%20Evolute%20-%20Executive%20Search&location=Singapore) |
+| Human Resources Executive - Holiday Inn Singapore Little India | IHG Hotels & Resorts | LinkedIn | — | 2026-09-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20-%20Holiday%20Inn%20Singapore%20Little%20India%20IHG%20Hotels%20%26amp%3B%20Resorts&location=Singapore) |
+| Human Resources Generalist | DN & Associates Executive Search Pte Ltd - HEADHUNTER | LinkedIn | — | 2026-09-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Generalist%20DN%20%26amp%3B%20Associates%20Executive%20Search%20Pte%20Ltd%20%7C%20HEADHUNTER&location=Singapore) |
+| Senior Human Resources Business Partner | Frazer Jones | LinkedIn | — | 2026-09-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Human%20Resources%20Business%20Partner%20Frazer%20Jones&location=Singapore) |
 | Senior HR Executive (Talent Acquisition) - North - VTTO | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 2 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/70fd55a7a38bc860ca0cbbf48fbab782) |
 | Assistant HR Manager / HRBP (Talent Aquisition) - North - VTTO | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 2 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/c3001228cba1cc8c527b76712637ec0f) |
 | Programme Management (STEP Office) | Specialists Trade Alliance of Singapore | MyCareersFuture | 0 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/c4f6f33b0e9bda5205cab146529df3ac) |
@@ -42,23 +68,3 @@
 | Principal HR Business Partner | GlobalFoundries | LinkedIn | — | 2026-09-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Principal%20HR%20Business%20Partner%20GlobalFoundries&location=Singapore) |
 | Senior Human Resources Specialist (European MNC) | Caliber8 Recruitment | LinkedIn | — | 2026-09-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Human%20Resources%20Specialist%20(European%20MNC)%20Caliber8%20Recruitment&location=Singapore) |
 | HR Manager (Commodities Trading, Singapore) | Stavian Singapore | LinkedIn | — | 2026-09-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Manager%20(Commodities%20Trading%2C%20Singapore)%20Stavian%20Singapore&location=Singapore) |
-| Senior Associate, Human Resources | HarbourVest Partners | LinkedIn | — | 2026-09-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Associate%2C%20Human%20Resources%20HarbourVest%20Partners&location=Singapore) |
-| HR Executive #10149 | ANRADUS PTE. LTD. | MyCareersFuture | 1 | 2026-09-23 | [Apply](https://www.mycareersfuture.gov.sg/job/5171cb43bc73765ce996777e8a9c331a) |
-| HR Executive | UNITED ELITE CONSTRUCTION PTE. LTD. | MyCareersFuture | 2 | 2026-09-23 | [Apply](https://www.mycareersfuture.gov.sg/job/0e7eca82a7c61a6346923bb1a48e10a7) |
-| HR Executive (Construction/Dormitory/Central area) | TRUST RECRUIT PTE. LTD. | MyCareersFuture | 2 | 2026-09-23 | [Apply](https://www.mycareersfuture.gov.sg/job/3724b4d9dbefb8baf45ef95604006afa) |
-| HR Executive - Construction Sector | MASE  E & C PTE. LTD. | MyCareersFuture | 2 | 2026-09-23 | [Apply](https://www.mycareersfuture.gov.sg/job/89144c3b7270b2c2cc08ecbfaa0d3bcc) |
-| Executive (HR & Administration) | EDUBLITZ PTE LTD | MyCareersFuture | 1 | 2026-09-23 | [Apply](https://www.mycareersfuture.gov.sg/job/69165d7380d6e21840262bdbe40f4831) |
-| HR OPERATIONS ASSISTANT/OFFICER | ABSOLUTE MAINTENANCE SERVICES PTE. LTD. | MyCareersFuture | 1 | 2026-09-23 | [Apply](https://www.mycareersfuture.gov.sg/job/f7b90ad269f1456f98f961147738fd82) |
-| HR Officer (Entry Level) - 2 months | SCIENTEC CONSULTING PTE. LTD. | MyCareersFuture | 0 | 2026-09-23 | [Apply](https://www.mycareersfuture.gov.sg/job/d55cef23b8398163944786aef2aa86bc) |
-| HR Talent Acqusition Executive – Recruitment #HCK | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-09-23 | [Apply](https://www.mycareersfuture.gov.sg/job/f424e68d74a898414a60a933b67a5729) |
-| HR & Admin Executive - LCYL | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 2 | 2026-09-23 | [Apply](https://www.mycareersfuture.gov.sg/job/0c7a0bf3cea328f4d899ff426afdb5c4) |
-| Personal Assistant | VQ PRO PTE. LTD. | MyCareersFuture | 2 | 2026-09-23 | [Apply](https://www.mycareersfuture.gov.sg/job/f138443135220e3e5b604de64af6dc03) |
-| Recruitment Officer | VQ PRO PTE. LTD. | MyCareersFuture | 2 | 2026-09-23 | [Apply](https://www.mycareersfuture.gov.sg/job/d7dd612200e7b89e6bdd576eb7407713) |
-| Human Resource Assistant (6 months Internship) | MOORE STEPHENS CONSULTANTS PTE LTD | MyCareersFuture | 0 | 2026-09-23 | [Apply](https://www.mycareersfuture.gov.sg/job/3eeabfdcddfba949b7469c9e0d3b7ef6) |
-| Human Resources Assistant | FIRST MAID PTE. LTD. | MyCareersFuture | 1 | 2026-09-23 | [Apply](https://www.mycareersfuture.gov.sg/job/cfe0c868cf6efd96bd6d60708fbd220d) |
-| Human Resources Assistant | CTCI SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-09-23 | [Apply](https://www.mycareersfuture.gov.sg/job/27b90696edbb35a793bee37ce2462bb5) |
-| Assistant Director | HYPERSCAL SOLUTIONS PTE. LTD. | MyCareersFuture | 1 | 2026-09-23 | [Apply](https://www.mycareersfuture.gov.sg/job/dd718f6783d18281d972562d91c5c21c) |
-| Head of HR - Business Units & CEO Office | Dyson | LinkedIn | — | 2026-09-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Head%20of%20HR%20-%20Business%20Units%20%26amp%3B%20CEO%20Office%20Dyson&location=Singapore) |
-| HR Manager (Manufacturing) | Adecco | LinkedIn | — | 2026-09-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Manager%20(Manufacturing)%20Adecco&location=Singapore) |
-| Senior HR Operations Executive | BIT Official | LinkedIn | — | 2026-09-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20HR%20Operations%20Executive%20BIT%20Official&location=Singapore) |
-| Human Resources Specialist | LIBIAO ROBOTICS | LinkedIn | — | 2026-09-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Specialist%20LIBIAO%20ROBOTICS&location=Singapore) |
