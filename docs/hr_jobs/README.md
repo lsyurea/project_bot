@@ -2,12 +2,27 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-09-24T17:31:08.089Z*
+> *Last updated: 2026-09-25T05:18:02.607Z*
 
-**Total listings: 49** *(MyCareersFuture: 40 | LinkedIn: 10)*
+**Total listings: 54** *(MyCareersFuture: 45 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| HR & Accounting Manager | AF KITCHEN PTE. LTD. | MyCareersFuture | 2 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/84e9ea5366be4b78f188c428f73fea65) |
+| Executive - Human Resources (1-year Contract) | Singapore Indian Development Association (SINDA) | MyCareersFuture | 2 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/3de03e25be74892639fb76a825e40e55) |
+| Human Resources Executive | CRYSTAL JADE FINE DINING PTE. LTD. | MyCareersFuture | 2 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/9c602c4146d934c7b9c22174fafe1c8d) |
+| Civil Engineer | JE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/9588064fe8cfb7ab4f8dd7d64040b86a) |
+| Human Resource Officer | FLOURISH OC I PTE. LTD. | MyCareersFuture | 1 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/764977380daaad18b94ea7d9a43822dc) |
+| Assistant Learning and Development & Human Resource Manager | FLOURISH OC I PTE. LTD. | MyCareersFuture | 2 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/c1787b983cb7a9de806d7faf4b855a9e) |
+| HR Operations Executive (Public Agency) | SCIENTEC CONSULTING PTE. LTD. | MyCareersFuture | 2 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/0d28749bea568ed2f6eeb6d785b57241) |
+| Healthcare Talent Acquisition Intern #HDC1 | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/13661fccb886676a10722a1ef835d46c) |
+| People & HR Operations Executive - Employee Relations #HDC1 | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/0198ddcb74ae8714cc7ca6dde7f1f9ef) |
+| HR Executive (6 months/GOVT/Central) - Training Provided/up to $22 per hr #HAO | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/9e80df520f30b02ba8b2f7130f3cf029) |
+| HR Executive Assistant - MEDICAL (GOVT/West) - Training Provided/up to $3k #HAO | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/c94cd3a2e099cef9694e1669cadfc0ff) |
+| Multi-Subject Secondary School Teacher (English / Mathematics / Physics / Chemistry – Minimum 2 Subjects) | WASEDA SINGAPORE PTE. LTD. | MyCareersFuture | 1 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/23c233411470498cca9a5589bc5eab6e) |
+| Human Resources Business Partner (Tampines) | ACHIEVE CAREER CONSULTANT PTE LTD | MyCareersFuture | 1 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/11328040d4f8c9658b27f13f0b785d72) |
+| Senior HR Executive (Talent Acquisition) - North - VTTO | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 2 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/70fd55a7a38bc860ca0cbbf48fbab782) |
+| Assistant HR Manager / HRBP (Talent Aquisition) - North - VTTO | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 2 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/c3001228cba1cc8c527b76712637ec0f) |
 | Programme Management (STEP Office) | Specialists Trade Alliance of Singapore | MyCareersFuture | 0 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/c4f6f33b0e9bda5205cab146529df3ac) |
 | HR Executive | TRIPLE 'S' PROTECTION PRIVATE LIMITED | MyCareersFuture | 2 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/f9581ee3e354c80de86697bf542eb82b) |
 | SUPERVISOR | GOLDEN DRAGON HUMAN RESOURCES | MyCareersFuture | 2 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/81c6988f45faa291b493569a98f45bf7) |
@@ -25,10 +40,9 @@
 | Talent Acquisition Specialist / Senior Specialist (Logistics & Supply Chain) | S. F. EXPRESS (SINGAPORE) PRIVATE LIMITED | MyCareersFuture | 2 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/10654736a8ead463f2dfbb146cb3ac02) |
 | Human Resources Director, COE | Kerry Consulting | LinkedIn | — | 2026-09-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Director%2C%20COE%20Kerry%20Consulting&location=Singapore) |
 | Principal HR Business Partner | GlobalFoundries | LinkedIn | — | 2026-09-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Principal%20HR%20Business%20Partner%20GlobalFoundries&location=Singapore) |
-| Human Resources Manager | Skool4Kidz Preschool | LinkedIn | — | 2026-09-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Manager%20Skool4Kidz%20Preschool&location=Singapore) |
-| Head of HR - Family Office | Michael Page | LinkedIn | — | 2026-09-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Head%20of%20HR%20-%20Family%20Office%20Michael%20Page&location=Singapore) |
 | Senior Human Resources Specialist (European MNC) | Caliber8 Recruitment | LinkedIn | — | 2026-09-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Human%20Resources%20Specialist%20(European%20MNC)%20Caliber8%20Recruitment&location=Singapore) |
 | HR Manager (Commodities Trading, Singapore) | Stavian Singapore | LinkedIn | — | 2026-09-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Manager%20(Commodities%20Trading%2C%20Singapore)%20Stavian%20Singapore&location=Singapore) |
+| Senior Associate, Human Resources | HarbourVest Partners | LinkedIn | — | 2026-09-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Associate%2C%20Human%20Resources%20HarbourVest%20Partners&location=Singapore) |
 | HR Executive #10149 | ANRADUS PTE. LTD. | MyCareersFuture | 1 | 2026-09-23 | [Apply](https://www.mycareersfuture.gov.sg/job/5171cb43bc73765ce996777e8a9c331a) |
 | HR Executive | UNITED ELITE CONSTRUCTION PTE. LTD. | MyCareersFuture | 2 | 2026-09-23 | [Apply](https://www.mycareersfuture.gov.sg/job/0e7eca82a7c61a6346923bb1a48e10a7) |
 | HR Executive (Construction/Dormitory/Central area) | TRUST RECRUIT PTE. LTD. | MyCareersFuture | 2 | 2026-09-23 | [Apply](https://www.mycareersfuture.gov.sg/job/3724b4d9dbefb8baf45ef95604006afa) |
@@ -44,16 +58,7 @@
 | Human Resources Assistant | FIRST MAID PTE. LTD. | MyCareersFuture | 1 | 2026-09-23 | [Apply](https://www.mycareersfuture.gov.sg/job/cfe0c868cf6efd96bd6d60708fbd220d) |
 | Human Resources Assistant | CTCI SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-09-23 | [Apply](https://www.mycareersfuture.gov.sg/job/27b90696edbb35a793bee37ce2462bb5) |
 | Assistant Director | HYPERSCAL SOLUTIONS PTE. LTD. | MyCareersFuture | 1 | 2026-09-23 | [Apply](https://www.mycareersfuture.gov.sg/job/dd718f6783d18281d972562d91c5c21c) |
-| Receptionist cum Admin | CHAINUP PTE. LTD. | MyCareersFuture | 2 | 2026-09-23 | [Apply](https://www.mycareersfuture.gov.sg/job/57d3e3f426dde90f5c983f7eeec0cb5b) |
-| Talent Acquisition Executive/Asst Manager (FT/PT) | Centre for Seniors | MyCareersFuture | 2 | 2026-09-23 | [Apply](https://www.mycareersfuture.gov.sg/job/89d27e5636679547bb7fb2e9e75c0cab) |
-| HR Intern | ADDVALUE INNOVATION PTE LTD | MyCareersFuture | 2 | 2026-09-23 | [Apply](https://www.mycareersfuture.gov.sg/job/68bb408816695a9de452cb35e9fbdd69) |
-| HR Executive | TRUEGENICS PTE. LTD. | MyCareersFuture | 2 | 2026-09-23 | [Apply](https://www.mycareersfuture.gov.sg/job/766641b45078a2bcfb9c096896d7a3f3) |
-| Talent Acquisition Intern (Jan 2027 intake) | SINGAPORE TELECOMMUNICATIONS LIMITED | MyCareersFuture | 0 | 2026-09-23 | [Apply](https://www.mycareersfuture.gov.sg/job/d91a64d348bf65bf9b839e0d2c3b63fb) |
-| Senior HR Executive (Talent Acquisition) - North - VTTO | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 2 | 2026-09-23 | [Apply](https://www.mycareersfuture.gov.sg/job/3b7589fc4bbe56215508ed4999cf4b37) |
-| Executive, Corporate Services | HYPERSCAL SOLUTIONS PTE. LTD. | MyCareersFuture | 2 | 2026-09-23 | [Apply](https://www.mycareersfuture.gov.sg/job/d4d47b0acf2c0bcdc5d76d3d51aee766) |
-| Assistant HR Manager / HRBP (Talent Aquisition) - North - VTTO | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 2 | 2026-09-23 | [Apply](https://www.mycareersfuture.gov.sg/job/4016c7527139cf2b537d8c755288fb06) |
-| Group Human Resources Manager | Winmark Investments Pte Ltd | LinkedIn | — | 2026-09-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Group%20Human%20Resources%20Manager%20Winmark%20Investments%20Pte%20Ltd&location=Singapore) |
 | Head of HR - Business Units & CEO Office | Dyson | LinkedIn | — | 2026-09-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Head%20of%20HR%20-%20Business%20Units%20%26amp%3B%20CEO%20Office%20Dyson&location=Singapore) |
 | HR Manager (Manufacturing) | Adecco | LinkedIn | — | 2026-09-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Manager%20(Manufacturing)%20Adecco&location=Singapore) |
 | Senior HR Operations Executive | BIT Official | LinkedIn | — | 2026-09-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20HR%20Operations%20Executive%20BIT%20Official&location=Singapore) |
-| Officer - Human Resources (Upto 6 months maternity cover) | TOUCH COMMUNITY SERVICES LIMITED | MyCareersFuture | 1 | 2026-09-22 | [Apply](https://www.mycareersfuture.gov.sg/job/b2b71ea02fd6f26c7530ea6a355f1045) |
+| Human Resources Specialist | LIBIAO ROBOTICS | LinkedIn | — | 2026-09-23 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Specialist%20LIBIAO%20ROBOTICS&location=Singapore) |
