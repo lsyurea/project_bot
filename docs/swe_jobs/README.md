@@ -2,12 +2,13 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-09-26T05:22:50.337Z*
+> *Last updated: 2026-09-26T16:41:32.314Z*
 
-**Total listings: 29** *(MyCareersFuture: 20 | LinkedIn: 10)*
+**Total listings: 25** *(MyCareersFuture: 16 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Senior Lead Software Engineer, Python Developer, Equities Technology - Prime Services | JPMorganChase | LinkedIn | — | 2026-09-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Lead%20Software%20Engineer%2C%20Python%20Developer%2C%20Equities%20Technology%20-%20Prime%20Services%20JPMorganChase&location=Singapore) |
 | Software Engineer (.NET/SQL Server) | SECUR FOUNDRY PTE. LTD. | MyCareersFuture | 2 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/cfaf671ff8a47b08430425d27c3bc392) |
 | AI Engineer / data analyst/ software engineer | VEBITS AI PTE. LIMITED | MyCareersFuture | 0 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/9113ffd0d270bee85f4c02e75f68592e) |
 | Software Engineer - Up to $4000 - Bras Basah {hkhdv} | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 0 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/487b7cad851254bef8ed327cb1abced9) |
@@ -26,14 +27,9 @@
 | Senior Full Stack Developer (Microservice Developer) | PERSOL APAC | LinkedIn | — | 2026-09-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Full%20Stack%20Developer%20(Microservice%20Developer)%20PERSOL%20APAC&location=Singapore) |
 | .NET Developer | User Experience Researchers Pte Ltd (Singapore) | LinkedIn | — | 2026-09-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=.NET%20Developer%20User%20Experience%20Researchers%20Pte%20Ltd%20(Singapore)&location=Singapore) |
 | Senior Software Engineer – Back End (C#) | TP ICAP | LinkedIn | — | 2026-09-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%20%E2%80%93%20Back%20End%20(C%23)%20TP%20ICAP&location=Singapore) |
+| Senior Software Engineer - Postgres | ClickHouse | LinkedIn | — | 2026-09-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%20-%20Postgres%20ClickHouse&location=Singapore) |
+| Senior Software Engineer, Singpass | GovTech Singapore | LinkedIn | — | 2026-09-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%2C%20Singpass%20GovTech%20Singapore&location=Singapore) |
+| Software Engineer (Lean & Growing Startup)-Golang | Trulyyy | LinkedIn | — | 2026-09-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(Lean%20%26amp%3B%20Growing%20Startup)-Golang%20Trulyyy&location=Singapore) |
 | Software Engineer (C++, Embedded system) Automation - VTTO | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 2 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/89ba86ddfe959df64a985deb8ec3a155) |
-| Software Engineer II, Payments Technology | JPMORGAN CHASE BANK, N.A. | MyCareersFuture | 2 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/cf04749c33ec4afc4e642910592739f7) |
-| Software QA Engineer | ZENIKA PTE. LTD. | MyCareersFuture | 2 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/58c8275059ba42c7ec4a26750d509fcc) |
-| IMMEDIATE HIRING- Software Developer (Java+Angular) | ITCAN PTE. LIMITED | MyCareersFuture | 2 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/4eb003884cb12246edda031bf5b38920) |
-| Software cum Data Engineer — AMK | COMBUILDER PTE LTD | MyCareersFuture | 2 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/28ac16ad05e7eb8b295410b138d4d296) |
 | Software Engineer II, Payments Technology | JPMorganChase | LinkedIn | — | 2026-09-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20II%2C%20Payments%20Technology%20JPMorganChase&location=Singapore) |
-| Software Development Engineer | Autodesk | LinkedIn | — | 2026-09-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Development%20Engineer%20Autodesk&location=Singapore) |
-| Senior Software Engineer | Grab | LinkedIn | — | 2026-09-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%20Grab&location=Singapore) |
 | Software Engineer, New Grad | Stripe | LinkedIn | — | 2026-09-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20New%20Grad%20Stripe&location=Singapore) |
-| Software Engineer III, Equities Technology - C++ Low Latency | JPMorganChase | LinkedIn | — | 2026-09-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20III%2C%20Equities%20Technology%20-%20C%2B%2B%20Low%20Latency%20JPMorganChase&location=Singapore) |
-| Senior Software Engineer | Autodesk | LinkedIn | — | 2026-09-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%20Autodesk&location=Singapore) |
