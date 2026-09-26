@@ -2,16 +2,19 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-09-26T05:22:45.938Z*
+> *Last updated: 2026-09-26T16:41:28.238Z*
 
-**Total listings: 56** *(MyCareersFuture: 47 | LinkedIn: 10)*
+**Total listings: 49** *(MyCareersFuture: 39 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| HR & Office Admin (East/ up to $3,300 + PB) | GOOD JOB CREATIONS (SINGAPORE) PTE. LTD. | MyCareersFuture | 0 | 2026-09-26 | [Apply](https://www.mycareersfuture.gov.sg/job/da5b8ece88817148d74cc9965108319c) |
 | CHEF DE CUISINE | LA BRACERIA PTE. LTD. | MyCareersFuture | 2 | 2026-09-26 | [Apply](https://www.mycareersfuture.gov.sg/job/d02e21c1406eaf21374ba164170b5d5f) |
 | Talent Acquisition Executive (North) Construction - RPAL | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 2 | 2026-09-26 | [Apply](https://www.mycareersfuture.gov.sg/job/07ff795ec5d3586a38bf74dcfab89ab3) |
 | HR & Admin Executive | TECHLEAD TECHNOLOGY PTE. LTD. | MyCareersFuture | 2 | 2026-09-26 | [Apply](https://www.mycareersfuture.gov.sg/job/49043fc853a7e446e5ff1b2ecf6f65ff) |
+| International Head of HR (FMCG) | Michael Page | LinkedIn | — | 2026-09-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=International%20Head%20of%20HR%20(FMCG)%20Michael%20Page&location=Singapore) |
 | Head of HR - Manufacturing | Frazer Jones | LinkedIn | — | 2026-09-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Head%20of%20HR%20-%20Manufacturing%20Frazer%20Jones&location=Singapore) |
+| Senior HR Business Partner | Dyson | LinkedIn | — | 2026-09-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20HR%20Business%20Partner%20Dyson&location=Singapore) |
 | Marketing Trainee (Fast Growth, Entry-Level) | ROYAL ORG PTE. LTD. | MyCareersFuture | 0 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/51520b8f2a1d434b2053dd8d1739f4f7) |
 | SALES TRAINEE & HUMAN RESOURCES (Travel Opportunities) | ROYAL ORG PTE. LTD. | MyCareersFuture | 0 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/05853c7fed5aae9116df572cc8199dda) |
 | HR Executive | PACIFIC INTEGRATED LOGISTICS PTE LTD | MyCareersFuture | 2 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/a773f235531d5f6ff7779af655a2ae0c) |
@@ -50,17 +53,7 @@
 | Human Resources Business Partner | Evolute - Executive Search | LinkedIn | — | 2026-09-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Business%20Partner%20Evolute%20-%20Executive%20Search&location=Singapore) |
 | Human Resources Executive - Holiday Inn Singapore Little India | IHG Hotels & Resorts | LinkedIn | — | 2026-09-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20-%20Holiday%20Inn%20Singapore%20Little%20India%20IHG%20Hotels%20%26amp%3B%20Resorts&location=Singapore) |
 | Human Resources Generalist | DN & Associates Executive Search Pte Ltd - HEADHUNTER | LinkedIn | — | 2026-09-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Generalist%20DN%20%26amp%3B%20Associates%20Executive%20Search%20Pte%20Ltd%20%7C%20HEADHUNTER&location=Singapore) |
+| Senior Human Resources Business Partner | Frazer Jones | LinkedIn | — | 2026-09-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Human%20Resources%20Business%20Partner%20Frazer%20Jones&location=Singapore) |
+| Senior Associate, Regional People Team | Garena | LinkedIn | — | 2026-09-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Associate%2C%20Regional%20People%20Team%20Garena&location=Singapore) |
 | Senior HR Executive (Talent Acquisition) - North - VTTO | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 2 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/70fd55a7a38bc860ca0cbbf48fbab782) |
 | Assistant HR Manager / HRBP (Talent Aquisition) - North - VTTO | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 2 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/c3001228cba1cc8c527b76712637ec0f) |
-| Programme Management (STEP Office) | Specialists Trade Alliance of Singapore | MyCareersFuture | 0 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/c4f6f33b0e9bda5205cab146529df3ac) |
-| HR Executive | TRIPLE 'S' PROTECTION PRIVATE LIMITED | MyCareersFuture | 2 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/f9581ee3e354c80de86697bf542eb82b) |
-| SUPERVISOR | GOLDEN DRAGON HUMAN RESOURCES | MyCareersFuture | 2 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/81c6988f45faa291b493569a98f45bf7) |
-| Human Resources Executive | AMT PTE. LTD. | MyCareersFuture | 2 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/e54bda17bd032dc132ece5f5b1ecd130) |
-| HR Executive (Work Pass Operations) - 6-Month Contract [GOVT] | BGC GROUP PTE. LTD. | MyCareersFuture | 1 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/8b6ec16b948c08a85fd59433ec34f3f8) |
-| CARPENTER | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/eb2017b5d632f2d2f3667a331f06c4e0) |
-| Human Resources Manager (PT) | WHARTON EASTCOAST PTE. LTD. | MyCareersFuture | 2 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/a38af9b368d13976ab3916b9df3d2bc3) |
-| [0580] HR & Admin Officer - Aljunied/ 5 days/ $3.3k | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 2 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/8b5a3f9b09fb570ef91e730b318ed2e2) |
-| Assistant Manager, Wellbeing Analyst (Up to $4,200) #NJN | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/b560845800f858a007631a9280f60fa6) |
-| Human Resources Director, COE | Kerry Consulting | LinkedIn | — | 2026-09-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Director%2C%20COE%20Kerry%20Consulting&location=Singapore) |
-| Principal HR Business Partner | GlobalFoundries | LinkedIn | — | 2026-09-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Principal%20HR%20Business%20Partner%20GlobalFoundries&location=Singapore) |
-| Senior Human Resources Specialist (European MNC) | Caliber8 Recruitment | LinkedIn | — | 2026-09-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Human%20Resources%20Specialist%20(European%20MNC)%20Caliber8%20Recruitment&location=Singapore) |
