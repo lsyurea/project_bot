@@ -2,12 +2,16 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-09-25T17:30:25.347Z*
+> *Last updated: 2026-09-26T05:22:45.938Z*
 
-**Total listings: 60** *(MyCareersFuture: 50 | LinkedIn: 10)*
+**Total listings: 56** *(MyCareersFuture: 47 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| CHEF DE CUISINE | LA BRACERIA PTE. LTD. | MyCareersFuture | 2 | 2026-09-26 | [Apply](https://www.mycareersfuture.gov.sg/job/d02e21c1406eaf21374ba164170b5d5f) |
+| Talent Acquisition Executive (North) Construction - RPAL | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 2 | 2026-09-26 | [Apply](https://www.mycareersfuture.gov.sg/job/07ff795ec5d3586a38bf74dcfab89ab3) |
+| HR & Admin Executive | TECHLEAD TECHNOLOGY PTE. LTD. | MyCareersFuture | 2 | 2026-09-26 | [Apply](https://www.mycareersfuture.gov.sg/job/49043fc853a7e446e5ff1b2ecf6f65ff) |
+| Head of HR - Manufacturing | Frazer Jones | LinkedIn | — | 2026-09-26 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Head%20of%20HR%20-%20Manufacturing%20Frazer%20Jones&location=Singapore) |
 | Marketing Trainee (Fast Growth, Entry-Level) | ROYAL ORG PTE. LTD. | MyCareersFuture | 0 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/51520b8f2a1d434b2053dd8d1739f4f7) |
 | SALES TRAINEE & HUMAN RESOURCES (Travel Opportunities) | ROYAL ORG PTE. LTD. | MyCareersFuture | 0 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/05853c7fed5aae9116df572cc8199dda) |
 | HR Executive | PACIFIC INTEGRATED LOGISTICS PTE LTD | MyCareersFuture | 2 | 2026-09-25 | [Apply](https://www.mycareersfuture.gov.sg/job/a773f235531d5f6ff7779af655a2ae0c) |
@@ -46,7 +50,6 @@
 | Human Resources Business Partner | Evolute - Executive Search | LinkedIn | — | 2026-09-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Business%20Partner%20Evolute%20-%20Executive%20Search&location=Singapore) |
 | Human Resources Executive - Holiday Inn Singapore Little India | IHG Hotels & Resorts | LinkedIn | — | 2026-09-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Executive%20-%20Holiday%20Inn%20Singapore%20Little%20India%20IHG%20Hotels%20%26amp%3B%20Resorts&location=Singapore) |
 | Human Resources Generalist | DN & Associates Executive Search Pte Ltd - HEADHUNTER | LinkedIn | — | 2026-09-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Generalist%20DN%20%26amp%3B%20Associates%20Executive%20Search%20Pte%20Ltd%20%7C%20HEADHUNTER&location=Singapore) |
-| Senior Human Resources Business Partner | Frazer Jones | LinkedIn | — | 2026-09-25 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Human%20Resources%20Business%20Partner%20Frazer%20Jones&location=Singapore) |
 | Senior HR Executive (Talent Acquisition) - North - VTTO | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 2 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/70fd55a7a38bc860ca0cbbf48fbab782) |
 | Assistant HR Manager / HRBP (Talent Aquisition) - North - VTTO | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 2 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/c3001228cba1cc8c527b76712637ec0f) |
 | Programme Management (STEP Office) | Specialists Trade Alliance of Singapore | MyCareersFuture | 0 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/c4f6f33b0e9bda5205cab146529df3ac) |
@@ -58,13 +61,6 @@
 | Human Resources Manager (PT) | WHARTON EASTCOAST PTE. LTD. | MyCareersFuture | 2 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/a38af9b368d13976ab3916b9df3d2bc3) |
 | [0580] HR & Admin Officer - Aljunied/ 5 days/ $3.3k | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 2 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/8b5a3f9b09fb570ef91e730b318ed2e2) |
 | Assistant Manager, Wellbeing Analyst (Up to $4,200) #NJN | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/b560845800f858a007631a9280f60fa6) |
-| 5 days Human Resources Executive up to $4000 (Tuas) | TALENT RECRUITMENT PTE. LTD. | MyCareersFuture | 1 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/3557754a06c4e3bf770b140e9bf2ee1f) |
-| Senior Regional HR Executive | DEYE INVERTER (SINGAPORE) PTE. LTD. | MyCareersFuture | 2 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/89d31dc89aea608eea41f196cb165401) |
-| HR & RECRUITMENT EXECUTIVE | MI CUN PTE. LTD. | MyCareersFuture | 2 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/a3a47ee1a2009af311a697b502ef9767) |
-| Business Development Intern | HR SG PTE. LTD. | MyCareersFuture | 0 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/8ea6625ca658f2c15a755b81c20d4fc3) |
-| HR Specialist (up to $5K) | PERSOL SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/5f1006d6bdb704fc378b1c49fa472152) |
-| Talent Acquisition Specialist / Senior Specialist (Logistics & Supply Chain) | S. F. EXPRESS (SINGAPORE) PRIVATE LIMITED | MyCareersFuture | 2 | 2026-09-24 | [Apply](https://www.mycareersfuture.gov.sg/job/10654736a8ead463f2dfbb146cb3ac02) |
 | Human Resources Director, COE | Kerry Consulting | LinkedIn | — | 2026-09-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Director%2C%20COE%20Kerry%20Consulting&location=Singapore) |
 | Principal HR Business Partner | GlobalFoundries | LinkedIn | — | 2026-09-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Principal%20HR%20Business%20Partner%20GlobalFoundries&location=Singapore) |
 | Senior Human Resources Specialist (European MNC) | Caliber8 Recruitment | LinkedIn | — | 2026-09-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Human%20Resources%20Specialist%20(European%20MNC)%20Caliber8%20Recruitment&location=Singapore) |
-| HR Manager (Commodities Trading, Singapore) | Stavian Singapore | LinkedIn | — | 2026-09-24 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Manager%20(Commodities%20Trading%2C%20Singapore)%20Stavian%20Singapore&location=Singapore) |
