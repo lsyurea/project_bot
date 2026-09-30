@@ -2,12 +2,17 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-09-29T18:14:20.732Z*
+> *Last updated: 2026-09-30T05:54:17.993Z*
 
-**Total listings: 25** *(MyCareersFuture: 17 | LinkedIn: 10)*
+**Total listings: 27** *(MyCareersFuture: 18 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Software Engineer, Google Pay Mobile Development - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 1 | 2026-09-30 | [Apply](https://www.mycareersfuture.gov.sg/job/f3c8a3e364e4a0bea15d0ecd636030ff) |
+| Junior/Senior Software Engineer | EUREKA ROBOTICS PTE. LTD. | MyCareersFuture | 1 | 2026-09-30 | [Apply](https://www.mycareersfuture.gov.sg/job/e16b3b105c4780cf729671afde6fc85e) |
+| Software Engineer (Training provided) | RECRUIT LYNC PTE. LTD. | MyCareersFuture | 1 | 2026-09-30 | [Apply](https://www.mycareersfuture.gov.sg/job/03f6f60584aaa14610cb3cd8ada824df) |
+| Senior/Software Engineer, Lead | TALENTSIS PTE. LTD. | MyCareersFuture | 1 | 2026-09-30 | [Apply](https://www.mycareersfuture.gov.sg/job/67f981345e125f1382b0cc06a76f0f86) |
+| Software Engineer (C++, Embedded system) Automation - VTTO | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 2 | 2026-09-30 | [Apply](https://www.mycareersfuture.gov.sg/job/a08051f4cd97bb312ab7952144a58676) |
 | Software Engineer - Java Backend Developer | REOLINK TECHNOLOGY PTE. LTD. | MyCareersFuture | 1 | 2026-09-29 | [Apply](https://www.mycareersfuture.gov.sg/job/3fa522a91af02705c3e53f6687a13fc8) |
 | Software Engineer | ALC TECHNOLOGIES SG PTE. LTD. | MyCareersFuture | 0 | 2026-09-29 | [Apply](https://www.mycareersfuture.gov.sg/job/13836cb22eb9b24eb9dee98f294d1382) |
 | Software Engineer | IP-TRIBE (PRIVATE) LIMITED | MyCareersFuture | 1 | 2026-09-29 | [Apply](https://www.mycareersfuture.gov.sg/job/abde7f6cc41569833e23b2efe34e6d03) |
@@ -17,7 +22,6 @@
 | Embedded Software Engineer | AUTHENTIC HR PTE. LTD. | MyCareersFuture | 1 | 2026-09-29 | [Apply](https://www.mycareersfuture.gov.sg/job/65d00fee378f608292648288661441ba) |
 | Software Engineer (C++/Unreal Engine) | TALENTSIS PTE. LTD. | MyCareersFuture | 1 | 2026-09-29 | [Apply](https://www.mycareersfuture.gov.sg/job/4ffe2b48ad963305ba5f0d9cb0e6caa4) |
 | Senior CIM\MES Software Engineer | RONNA SYSTEMS PTE. LTD. | MyCareersFuture | 1 | 2026-09-29 | [Apply](https://www.mycareersfuture.gov.sg/job/551b2b85654ff949f96f5f8d1b9bb2f7) |
-| Software Engineer (C++, Embedded system) Automation - VTTO | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 2 | 2026-09-29 | [Apply](https://www.mycareersfuture.gov.sg/job/68d0d4160cca86d81e682bbae49e16a4) |
 | Software Engineer | MEGA PLUS TECHNOLOGY PRIVATE LIMITED | MyCareersFuture | 2 | 2026-09-29 | [Apply](https://www.mycareersfuture.gov.sg/job/fcfdf0bc0ac42344c79cf9d3b773e8a7) |
 | Software Engineer III, Global Portfolio Holdings Technology | JPMorganChase | LinkedIn | — | 2026-09-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20III%2C%20Global%20Portfolio%20Holdings%20Technology%20JPMorganChase&location=Singapore) |
 | Senior / Software Engineer | Renesas Electronics | LinkedIn | — | 2026-09-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20%2F%20Software%20Engineer%20Renesas%20Electronics&location=Singapore) |
@@ -25,8 +29,6 @@
 | Backend Software Engineer - AI Finance Agent | BJAK | LinkedIn | — | 2026-09-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Backend%20Software%20Engineer%20-%20AI%20Finance%20Agent%20BJAK&location=Singapore) |
 | Piping Engineer - Software - CAD Worx | DIAN TECH PTE. LTD. | MyCareersFuture | 2 | 2026-09-28 | [Apply](https://www.mycareersfuture.gov.sg/job/258ff7b301317ba01750996b2519bebb) |
 | [T04] Senior/Software Engineer - Permanent Role | TALENTSIS PTE. LTD. | MyCareersFuture | 1 | 2026-09-28 | [Apply](https://www.mycareersfuture.gov.sg/job/dad71709c44e177f56b85df05608819b) |
-| Software Engineer 2 | DELL GLOBAL B.V. (SINGAPORE BRANCH) | MyCareersFuture | 2 | 2026-09-28 | [Apply](https://www.mycareersfuture.gov.sg/job/77c25fca14046db1794d395e881fd208) |
-| Software Engineer II : Cloudera Object Storage - Powered by Apache Ozone | CLOUDERA SINGAPORE PTE. LTD. | MyCareersFuture | 0 | 2026-09-28 | [Apply](https://www.mycareersfuture.gov.sg/job/61ace97fbe98161c4226f5733fdc86ce) |
 | Senior Software Engineer, Google Pay Ads | Google | LinkedIn | — | 2026-09-28 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%2C%20Google%20Pay%20Ads%20Google&location=Singapore) |
 | Software Engineer | RAPSYS TECHNOLOGIES PTE LTD | LinkedIn | — | 2026-09-28 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20RAPSYS%20TECHNOLOGIES%20PTE%20LTD&location=Singapore) |
 | Senior Full Stack Developer (Microservice Developer) | PERSOL APAC | LinkedIn | — | 2026-09-28 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Full%20Stack%20Developer%20(Microservice%20Developer)%20PERSOL%20APAC&location=Singapore) |
