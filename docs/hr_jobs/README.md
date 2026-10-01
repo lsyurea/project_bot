@@ -2,12 +2,27 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-09-30T18:06:52.051Z*
+> *Last updated: 2026-10-01T06:29:06.029Z*
 
-**Total listings: 37** *(MyCareersFuture: 32 | LinkedIn: 10)*
+**Total listings: 45** *(MyCareersFuture: 39 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Senior Associate - People Consulting | ERNST & YOUNG ADVISORY PTE. LTD. | MyCareersFuture | 2 | 2026-10-01 | [Apply](https://www.mycareersfuture.gov.sg/job/26f625b0b7fa7c8db59c4efc7aff42f6) |
+| Corporate Affairs & HR Executive (Chinese Business Writing) -Banking-CBD-Perm | GREENLANE PRIVATE LTD. | MyCareersFuture | 2 | 2026-10-01 | [Apply](https://www.mycareersfuture.gov.sg/job/553699ca9d7ff7533e02081a69a4a134) |
+| HR Executive | MIAO WORLDS PTE. LTD. | MyCareersFuture | 0 | 2026-10-01 | [Apply](https://www.mycareersfuture.gov.sg/job/241e71734a24410d7e13bd820766ef9e) |
+| Business Intelligence Manager [CCP for ICT Professionals (Data & Artificial Intelligence)] | BOILERMASTER HOLDINGS PTE LTD | MyCareersFuture | 1 | 2026-10-01 | [Apply](https://www.mycareersfuture.gov.sg/job/d97a10f6d3a3c1160f28c875b6d7775e) |
+| HR Executive | DIRECT SEARCH ASIA PTE. LTD. | MyCareersFuture | 1 | 2026-10-01 | [Apply](https://www.mycareersfuture.gov.sg/job/b0d9a845708fe8c38bccabfef8209734) |
+| HR Operations & Employee Relations Specialist #HDC1 | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-10-01 | [Apply](https://www.mycareersfuture.gov.sg/job/0b5d09c9b70b4201634c9983f68243f3) |
+| [0580] HR & Admin Support - Aljunied/ 5 days/ $3.3k | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 2 | 2026-10-01 | [Apply](https://www.mycareersfuture.gov.sg/job/4b2a1f76d0b06ddd0aecfa7d5c45e17b) |
+| Healthcare Recruitment & Talent Acquisition Intern #HDC1 | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-10-01 | [Apply](https://www.mycareersfuture.gov.sg/job/aea6d62de40e718e25ab7a8eacdfb59f) |
+| HR Executive (Generalist) | DIRECT SEARCH ASIA PTE. LTD. | MyCareersFuture | 2 | 2026-10-01 | [Apply](https://www.mycareersfuture.gov.sg/job/75359b6849274d4580592971c8ee9946) |
+| Office Administrator | DYNASAFE TECHNOLOGIES PTE. LTD. | MyCareersFuture | 2 | 2026-10-01 | [Apply](https://www.mycareersfuture.gov.sg/job/c8f0dfbf5f713a202ab55b006ac9438a) |
+| Senior HR Executive (Talent Acquisition) - North - VTTO | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 2 | 2026-10-01 | [Apply](https://www.mycareersfuture.gov.sg/job/bfdb9ee5bb47503f190c395f0cdc4130) |
+| Assistant HR Manager / HRBP (Talent Aquisition) - North - VTTO | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 2 | 2026-10-01 | [Apply](https://www.mycareersfuture.gov.sg/job/af8e10515dbdfde86bded5d03e04a857) |
+| HR Administrator - Tuas- Training Provided - 3972 | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-10-01 | [Apply](https://www.mycareersfuture.gov.sg/job/a1f50a41ac5e81b6923e7f6f98234cd5) |
+| HR Generalist (West Location) | Michael Page | LinkedIn | — | 2026-10-01 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Generalist%20(West%20Location)%20Michael%20Page&location=Singapore) |
+| Human Resource Executive | Watsons Singapore | LinkedIn | — | 2026-10-01 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resource%20Executive%20Watsons%20Singapore&location=Singapore) |
 | HR ,ACCOUNT | SINGJOB INTERNATIONAL PTE. LTD. | MyCareersFuture | 2 | 2026-09-30 | [Apply](https://www.mycareersfuture.gov.sg/job/d0a321ab2779077a4172680da2e85374) |
 | HR ,ADMIN,ACCOUN | SINGJOB INTERNATIONAL PTE. LTD. | MyCareersFuture | 2 | 2026-09-30 | [Apply](https://www.mycareersfuture.gov.sg/job/abb0bcc0962ccb362343618fc18e8403) |
 | Operations cum HR | STAG MATCH PRIVATE LIMITED | MyCareersFuture | 2 | 2026-09-30 | [Apply](https://www.mycareersfuture.gov.sg/job/d3a90ee2b0db9c6bf30bc6d3a632988b) |
@@ -19,11 +34,10 @@
 | Accounts / Finance Intern | LEE YIN APPAREL INTERNATIONAL PTE. LTD. | MyCareersFuture | 0 | 2026-09-30 | [Apply](https://www.mycareersfuture.gov.sg/job/7a30367b7e350059a6ca1a5b2df77d38) |
 | #sg Material Handler (with Forklift Licence) | DREX-CHEM TECHNOLOGIES PTE LTD | MyCareersFuture | 1 | 2026-09-30 | [Apply](https://www.mycareersfuture.gov.sg/job/46039f2445c1b0012f7dfada97ed6372) |
 | Senior Officer / Assistant Manager, Human Resources (Contract) | CHINA CITIC BANK INTERNATIONAL LIMITED SINGAPORE BRANCH | MyCareersFuture | 2 | 2026-09-30 | [Apply](https://www.mycareersfuture.gov.sg/job/8d9434c4530b90ac91cc46104479c7bf) |
-| Assistant HR Manager / HRBP (Talent Aquisition) - North - VTTO | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 2 | 2026-09-30 | [Apply](https://www.mycareersfuture.gov.sg/job/2b349f97bf80e40bcc40c3fd8f6a0820) |
-| Senior HR Executive (Talent Acquisition) - North - VTTO | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 2 | 2026-09-30 | [Apply](https://www.mycareersfuture.gov.sg/job/e42e1d03be7a223a486ae9c64be58dcd) |
 | HR Associate, Infrastructure | Sea | LinkedIn | — | 2026-09-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Associate%2C%20Infrastructure%20Sea&location=Singapore) |
 | Director People & Culture | Robert Walters | LinkedIn | — | 2026-09-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Director%20People%20%26amp%3B%20Culture%20Robert%20Walters&location=Singapore) |
 | Director, Human Resources | Singapore Business Federation | LinkedIn | — | 2026-09-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Director%2C%20Human%20Resources%20Singapore%20Business%20Federation&location=Singapore) |
+| People & Culture Manager, Singapore | Blackpanda | LinkedIn | — | 2026-09-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20%26amp%3B%20Culture%20Manager%2C%20Singapore%20Blackpanda&location=Singapore) |
 | Payroll & HR Officer (Contract) | TEMP-TEAM PTE LTD | MyCareersFuture | 1 | 2026-09-29 | [Apply](https://www.mycareersfuture.gov.sg/job/709691dde229d073214c0a40ed6b5f04) |
 | HR Executive (L&D) - MNC; Good Benefits, Basic Up to $4300 | STAFFKING PTE. LTD. | MyCareersFuture | 2 | 2026-09-29 | [Apply](https://www.mycareersfuture.gov.sg/job/f2928a2fc37ee8b3a80162f64141f127) |
 | HR Executive (Talent Acquisition) - MNC; Good Benefits, Basic Up to $4300 | STAFFKING PTE. LTD. | MyCareersFuture | 2 | 2026-09-29 | [Apply](https://www.mycareersfuture.gov.sg/job/5b994e0862cca0d45215cb3259687d3d) |
@@ -35,13 +49,7 @@
 | HR Officer | ALWATCH SECURITY MANAGEMENT PTE. LTD. | MyCareersFuture | 2 | 2026-09-29 | [Apply](https://www.mycareersfuture.gov.sg/job/c0f72d6ec994d95ab8ca5125d7d02a6c) |
 | MACHINING AND TOOLING TECHNICIAN | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-09-29 | [Apply](https://www.mycareersfuture.gov.sg/job/dc37cea2b9e603cf76db61bd595fcd73) |
 | COMPUTER NUMERICAL CONTROL (CNC) PROGRAMMER | FK HUMAN RESOURCES PRIVATE LIMITED | MyCareersFuture | 2 | 2026-09-29 | [Apply](https://www.mycareersfuture.gov.sg/job/f26e7bda0b160a11db26321d174739b2) |
-| Management Trainee | TECKWAH INDUSTRIAL CORPORATION PTE. LTD. | MyCareersFuture | 2 | 2026-09-29 | [Apply](https://www.mycareersfuture.gov.sg/job/14dc45527058ef6c696a0f49affd4224) |
-| [0580] HR Admin Officer - Aljunied/ 5 days/ $3.3k | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 2 | 2026-09-29 | [Apply](https://www.mycareersfuture.gov.sg/job/da97831aa0252ffe1a20011bbc8a439d) |
-| Head of Human Resources | PeopleSearch | LinkedIn | — | 2026-09-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Head%20of%20Human%20Resources%20PeopleSearch&location=Singapore) |
 | HR Manager | Fiserv | LinkedIn | — | 2026-09-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Manager%20Fiserv&location=Singapore) |
 | Senior HR Business Partner | Bitdeer (NASDAQ: BTDR) | LinkedIn | — | 2026-09-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20HR%20Business%20Partner%20Bitdeer%20(NASDAQ%3A%20BTDR)&location=Singapore) |
-| HR Manager | EAGLEX DIGITAL PTE. LTD. | LinkedIn | — | 2026-09-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Manager%20EAGLEX%20DIGITAL%20PTE.%20LTD.&location=Singapore) |
 | Singapore HR Manager | Anta International | LinkedIn | — | 2026-09-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Singapore%20HR%20Manager%20Anta%20International&location=Singapore) |
 | Vice President International Human Resources | Achieve Group | LinkedIn | — | 2026-09-29 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Vice%20President%20International%20Human%20Resources%20Achieve%20Group&location=Singapore) |
-| Beverage Manager | SOUTH BEACH INTERNATIONAL HOTEL MANAGEMENT PTE. LTD. | MyCareersFuture | 2 | 2026-09-28 | [Apply](https://www.mycareersfuture.gov.sg/job/bcb38e1d2fbe9ab80e46f41905a863c3) |
-| Learning & Development Executive | SOUTH BEACH INTERNATIONAL HOTEL MANAGEMENT PTE. LTD. | MyCareersFuture | 1 | 2026-09-28 | [Apply](https://www.mycareersfuture.gov.sg/job/b09a07fc86f20d810eb3063b5e37026e) |
