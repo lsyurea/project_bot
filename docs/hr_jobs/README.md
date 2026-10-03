@@ -2,13 +2,19 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-10-03T05:40:16.413Z*
+> *Last updated: 2026-10-03T16:38:17.666Z*
 
-**Total listings: 41** *(MyCareersFuture: 32 | LinkedIn: 10)*
+**Total listings: 32** *(MyCareersFuture: 23 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| QUALITY CONTROL MANAGER | LI LI SHUN WOODWORK PTE. LTD. | MyCareersFuture | 2 | 2026-10-03 | [Apply](https://www.mycareersfuture.gov.sg/job/a7808f679708a0225a3c74d7eef7d9ef) |
+| ACCOUNTING OFFICER | TOP ONE CARPENTRY PTE. LTD. | MyCareersFuture | 2 | 2026-10-03 | [Apply](https://www.mycareersfuture.gov.sg/job/354b57aab8cea550c2823fedefeaf0b0) |
+| Payroll Executive | PIONEER CORPORATE SERVICES PTE LTD | MyCareersFuture | 0 | 2026-10-03 | [Apply](https://www.mycareersfuture.gov.sg/job/2a861552826059ba1a1e6a48c15399b0) |
 | Human Resources | CORVANTA TRADING PTE. LTD. | MyCareersFuture | 0 | 2026-10-03 | [Apply](https://www.mycareersfuture.gov.sg/job/aff5c0e0866db8d4ba2965e0507fa13c) |
+| Talent Acquisition Specialist, Senior | Qualcomm | LinkedIn | — | 2026-10-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Talent%20Acquisition%20Specialist%2C%20Senior%20Qualcomm&location=Singapore) |
+| Senior Manager, Group HR Business Partnering Healthcare | DKSH | LinkedIn | — | 2026-10-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Manager%2C%20Group%20HR%20Business%20Partnering%20Healthcare%20DKSH&location=Singapore) |
+| Senior HR Manager (Asia) | Gateway Search | LinkedIn | — | 2026-10-03 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20HR%20Manager%20(Asia)%20Gateway%20Search&location=Singapore) |
 | HR & Accounts Executive (Hybrid/ Up to $4,200 + AWS + VB - Bugis) | GOOD JOB CREATIONS (SINGAPORE) PTE. LTD. | MyCareersFuture | 2 | 2026-10-02 | [Apply](https://www.mycareersfuture.gov.sg/job/b181b6c13e12227b09501d69e4768b19) |
 | HR & Accounts Executive | LUMINA ADVISORY & GLOBAL SEARCH PTE. LTD. | MyCareersFuture | 2 | 2026-10-02 | [Apply](https://www.mycareersfuture.gov.sg/job/5c30bec1a2cb90e7c2c970d47044e572) |
 | Loss Prevention Manager | FLOURISH OC I PTE. LTD. | MyCareersFuture | 1 | 2026-10-02 | [Apply](https://www.mycareersfuture.gov.sg/job/d9ce8535be255868d0e28c2f23e8db5e) |
@@ -32,20 +38,5 @@
 | Human Resources Manager, South-East Asia & Australia | Loro Piana | LinkedIn | — | 2026-10-02 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Manager%2C%20South-East%20Asia%20%26amp%3B%20Australia%20Loro%20Piana&location=Singapore) |
 | Senior HR Business Partnering Lead - Up to 176k  P.A | Hays | LinkedIn | — | 2026-10-02 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20HR%20Business%20Partnering%20Lead%20%7C%20Up%20to%20176k%20%20P.A%20Hays&location=Singapore) |
 | Manager, Human Capital Business Partner | SATS Ltd. | LinkedIn | — | 2026-10-02 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Manager%2C%20Human%20Capital%20Business%20Partner%20SATS%20Ltd.&location=Singapore) |
-| Office Operations Associate | UNIVERSAL VAPOR JET CORPORATION PTE. LTD. | MyCareersFuture | 0 | 2026-10-01 | [Apply](https://www.mycareersfuture.gov.sg/job/cbba8d5201e01571c9a36ee9c0b18a79) |
-| HR & Admin Executive #81914 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-10-01 | [Apply](https://www.mycareersfuture.gov.sg/job/e9a023b7a9965990a7cd96b489e25616) |
-| Accounts Executive | CONSTRUKT PTE. LTD. | MyCareersFuture | 2 | 2026-10-01 | [Apply](https://www.mycareersfuture.gov.sg/job/07a537260b76ae2636c7901d19ea6b81) |
-| Contract Accounts Administrative Clerk | CONSTRUKT PTE. LTD. | MyCareersFuture | 2 | 2026-10-01 | [Apply](https://www.mycareersfuture.gov.sg/job/5bde4ee1fca4f915c1a12ac434ab6808) |
-| HR & Operations Executive (Contract) | MAVIS TUTORIAL CENTRE PTE. LTD. | MyCareersFuture | 1 | 2026-10-01 | [Apply](https://www.mycareersfuture.gov.sg/job/9ed8de200ca2a33edbec368c3932b445) |
-| HR Talent Acqusition Executive – Recruitment #HCK | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 0 | 2026-10-01 | [Apply](https://www.mycareersfuture.gov.sg/job/42336ee9e6b7b51ef749215e0d2bd0af) |
-| HR Executive / Senior HR Executive (Healthcare) | SWIFT SEARCH GLOBAL PTE. LTD. | MyCareersFuture | 2 | 2026-10-01 | [Apply](https://www.mycareersfuture.gov.sg/job/0614d2f181253f4d1c981c53b1694dc3) |
-| HR Executive | TAIHAN CABLE & SOLUTION CO., LTD. | MyCareersFuture | 1 | 2026-10-01 | [Apply](https://www.mycareersfuture.gov.sg/job/50cc3be64506b32ba0e41964c7bc594d) |
-| Talent Acquisition Executive (Junior / Entry-Level) | ALPHAEUS PTE. LTD. | MyCareersFuture | 1 | 2026-10-01 | [Apply](https://www.mycareersfuture.gov.sg/job/66269cd8bd092cdd91b08a797898acb6) |
-| Senior Executive, Talent Management | SEMBCORP UTILITIES SERVICES PTE. LTD. | MyCareersFuture | 2 | 2026-10-01 | [Apply](https://www.mycareersfuture.gov.sg/job/2c8a1970afb5d65332ccf3372d98dabe) |
-| [1 YEAR AGENCY CONTRACT] Senior Executive Assistant, Human Resources #HZTS | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-10-01 | [Apply](https://www.mycareersfuture.gov.sg/job/945af1978e5eb0abbd9cb1aa6158669a) |
-| ADMINISTRATION MANAGER | SUGAM INTEGRATED SERVICES PTE. LTD. | MyCareersFuture | 2 | 2026-10-01 | [Apply](https://www.mycareersfuture.gov.sg/job/0dd18ef23272a41fffa196eb405e93b3) |
-| Senior Human Resources Business Partner | Confidential | LinkedIn | — | 2026-10-01 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Human%20Resources%20Business%20Partner%20Confidential&location=Singapore) |
-| Group VP, People & Culture - Industrial Manufacturing | Michael Page | LinkedIn | — | 2026-10-01 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Group%20VP%2C%20People%20%26amp%3B%20Culture%20-%20Industrial%20Manufacturing%20Michael%20Page&location=Singapore) |
-| Head of HR | Manpower Singapore | LinkedIn | — | 2026-10-01 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Head%20of%20HR%20Manpower%20Singapore&location=Singapore) |
-| Human Resource Executive | Watsons Singapore | LinkedIn | — | 2026-10-01 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resource%20Executive%20Watsons%20Singapore&location=Singapore) |
-| Associate, Human Resources m/w/d | DZ BANK AG | LinkedIn | — | 2026-10-01 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Associate%2C%20Human%20Resources%20m%2Fw%2Fd%20DZ%20BANK%20AG&location=Singapore) |
+| People Operations Lead - Major FI | Kerry Consulting | LinkedIn | — | 2026-10-02 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20Operations%20Lead%20-%20Major%20FI%20Kerry%20Consulting&location=Singapore) |
+| Staff Specialist HR Business Partner | Infineon Technologies | LinkedIn | — | 2026-10-02 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Staff%20Specialist%20HR%20Business%20Partner%20Infineon%20Technologies&location=Singapore) |
