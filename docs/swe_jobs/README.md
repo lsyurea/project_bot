@@ -2,9 +2,9 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-10-02T18:00:31.695Z*
+> *Last updated: 2026-10-03T05:40:28.093Z*
 
-**Total listings: 41** *(MyCareersFuture: 32 | LinkedIn: 10)*
+**Total listings: 37** *(MyCareersFuture: 27 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
@@ -28,9 +28,12 @@
 | Software Engineer (C++, Embedded system) Automation - VTTO | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 2 | 2026-10-02 | [Apply](https://www.mycareersfuture.gov.sg/job/c92dcf963c6ed7fe4b1866f4035cb019) |
 | Software cum Data Engineer — AMK | COMBUILDER PTE LTD | MyCareersFuture | 2 | 2026-10-02 | [Apply](https://www.mycareersfuture.gov.sg/job/f6fd34bef30029d64891da51ef068e47) |
 | Software Engineer III, Payments Technology | JPMorganChase | LinkedIn | — | 2026-10-02 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20III%2C%20Payments%20Technology%20JPMorganChase&location=Singapore) |
+| Software Development Engineer | Autodesk | LinkedIn | — | 2026-10-02 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Development%20Engineer%20Autodesk&location=Singapore) |
+| Software Engineer III, AI Enablement | JPMorganChase | LinkedIn | — | 2026-10-02 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20III%2C%20AI%20Enablement%20JPMorganChase&location=Singapore) |
 | Senior Software Engineer | Changi Airport Group | LinkedIn | — | 2026-10-02 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%20Changi%20Airport%20Group&location=Singapore) |
 | Senior Full Stack Developer (.NET / Azure) | GTS Consulting | LinkedIn | — | 2026-10-02 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Full%20Stack%20Developer%20(.NET%20%2F%20Azure)%20GTS%20Consulting&location=Singapore) |
 | Software Engineer 2 | Dell Technologies | LinkedIn | — | 2026-10-02 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%202%20Dell%20Technologies&location=Singapore) |
+| Software Engineer - AVP | OCBC | LinkedIn | — | 2026-10-02 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20-%20AVP%20OCBC&location=Singapore) |
 | Automation Software Engineer (C# Programming) #10233 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-10-01 | [Apply](https://www.mycareersfuture.gov.sg/job/818703ac55c0671a0b07fa7e8fe1a238) |
 | Software Engineer #84739 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-10-01 | [Apply](https://www.mycareersfuture.gov.sg/job/f860a7c0d6237f4e746760bbfea2e2c5) |
 | Software Engineer (UI) - HRN | HYPERSCAL SOLUTIONS PTE. LTD. | MyCareersFuture | 2 | 2026-10-01 | [Apply](https://www.mycareersfuture.gov.sg/job/4ad3aa697e8f0cbe2cd8062b018cd017) |
@@ -39,13 +42,6 @@
 | Assistant Engineer (Engineering Lab / Equipment & Software Support) - YZ11 | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-10-01 | [Apply](https://www.mycareersfuture.gov.sg/job/f809ca44d4d3b4f73db020ec188141cd) |
 | Full Stack Engineer - #1664 | JOBSTER PRIVATE LTD. | MyCareersFuture | 2 | 2026-10-01 | [Apply](https://www.mycareersfuture.gov.sg/job/6d956f9de6f6682f657c2c5900b5e1c2) |
 | [T07] Junior/Senior Software Engineer (Java Experience) | TALENTSIS PTE. LTD. | MyCareersFuture | 1 | 2026-10-01 | [Apply](https://www.mycareersfuture.gov.sg/job/643dac7552fc2a07a848ea9b6c6dfeed) |
-| Software Engineer, AI Agents | MIAO WORLDS PTE. LTD. | MyCareersFuture | 1 | 2026-10-01 | [Apply](https://www.mycareersfuture.gov.sg/job/fd5bb51b7c1fc6e520a45fb726f29f17) |
-| [0580] Assistant Engineer – Engineering Lab, Equipment & Software Support - Private Higher Education Institution - 5 days | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-10-01 | [Apply](https://www.mycareersfuture.gov.sg/job/c0ffe3e903ba4bb34fd9887018f787b7) |
-| Software Engineer III, Full Stack, Enterprise Data Protection - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 2 | 2026-10-01 | [Apply](https://www.mycareersfuture.gov.sg/job/1af5e2b0011922a61cc4273de58d21a0) |
-| Assistant Engineer (Software, Equipment Maintenance and Lab Duties) | PSB ACADEMY PTE. LTD. | MyCareersFuture | 1 | 2026-10-01 | [Apply](https://www.mycareersfuture.gov.sg/job/26cd9982968e3926b3d6fd9f5636774b) |
 | Software Engineer, Google Wallet, 1P Integrations | Google | LinkedIn | — | 2026-10-01 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Google%20Wallet%2C%201P%20Integrations%20Google&location=Singapore) |
 | Software Engineer | Autodesk | LinkedIn | — | 2026-10-01 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20Autodesk&location=Singapore) |
-| Java Developer (Middle/Senior) | Amaris Consulting  - Part of Mantu | LinkedIn | — | 2026-10-01 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Java%20Developer%20(Middle%2FSenior)%20Amaris%20Consulting%20%20%7C%20Part%20of%20Mantu&location=Singapore) |
 | Software Engineer, Elections Department Singapore | GovTech Singapore | LinkedIn | — | 2026-10-01 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Elections%20Department%20Singapore%20GovTech%20Singapore&location=Singapore) |
-| Software Engineer III, Trading Technology | JPMorganChase | LinkedIn | — | 2026-09-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20III%2C%20Trading%20Technology%20JPMorganChase&location=Singapore) |
-| Software Development Engineer | Autodesk | LinkedIn | — | 2026-09-30 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Development%20Engineer%20Autodesk&location=Singapore) |
