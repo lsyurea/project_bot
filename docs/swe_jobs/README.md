@@ -2,12 +2,19 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-10-07T06:24:03.407Z*
+> *Last updated: 2026-10-07T19:04:11.700Z*
 
-**Total listings: 36** *(MyCareersFuture: 38 | LinkedIn: 0)*
+**Total listings: 38** *(MyCareersFuture: 30 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Software Engineer | CODEX SOLUTIONS PTE. LTD. | MyCareersFuture | 1 | 2026-10-07 | [Apply](https://www.mycareersfuture.gov.sg/job/15b2d3e2f4d75f8b04af8ec204ef1966) |
+| 5 days Software Engineer (Automation Control) up to $5000 (Kaki Bukit) | TALENT RECRUITMENT PTE. LTD. | MyCareersFuture | 1 | 2026-10-07 | [Apply](https://www.mycareersfuture.gov.sg/job/6859a8b37c26f79cb5a470b10e0f267e) |
+| Software Testing Engineer | N8XT AEROSPACE PTE. LTD. | MyCareersFuture | 1 | 2026-10-07 | [Apply](https://www.mycareersfuture.gov.sg/job/7959c0fcdc5318abe64830439ee75c79) |
+| 6723 - Quotation Engineer [ up to $4500 - Cost Estimation - Design Software - Woodlands] | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 1 | 2026-10-07 | [Apply](https://www.mycareersfuture.gov.sg/job/1959350d8d95eb25d8eaa5d0d6d6fe8e) |
+| 6723 - IT Support Engineer [ up to $3000 -SCCM / Software Centre] | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 2 | 2026-10-07 | [Apply](https://www.mycareersfuture.gov.sg/job/13b8c4522c984791b1f63cbbaa70215f) |
+| Software Engineer | NOVACITYNETS PTE LTD | MyCareersFuture | 2 | 2026-10-07 | [Apply](https://www.mycareersfuture.gov.sg/job/5c35fc09d5253917ca92b85b1712a729) |
+| Software Developer (Java Programming) | INTELLIVISION TECHNOLOGY PTE. LTD. | MyCareersFuture | 2 | 2026-10-07 | [Apply](https://www.mycareersfuture.gov.sg/job/52be68700daa2222dc1d87aef6fdf308) |
 | Control (Software) Design Engineer / PLC Programmer #70912 | ANRADUS PTE. LTD. | MyCareersFuture | 0 | 2026-10-07 | [Apply](https://www.mycareersfuture.gov.sg/job/129c5bffd1e2ea33abb28e3e2f07e3dc) |
 | Software Engineer II | JEPPESEN ASIA/PACIFIC PTE. LTD. | MyCareersFuture | 1 | 2026-10-07 | [Apply](https://www.mycareersfuture.gov.sg/job/4aa160332597650622a9410c319d3170) |
 | Software Engineer Intern | INSPHERE TECHNOLOGY PTE. LTD. | MyCareersFuture | 2 | 2026-10-07 | [Apply](https://www.mycareersfuture.gov.sg/job/e4917330eab163354d2dce5a019d6608) |
@@ -21,6 +28,9 @@
 | Software Engineer (C++, Embedded system) Automation - VTTO | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 2 | 2026-10-07 | [Apply](https://www.mycareersfuture.gov.sg/job/47e88ec29c5cef2008f37a0f24a8bee2) |
 | Junior Software Engineer | DIGITAL ROUNDABOUT PTE. LTD. | MyCareersFuture | 0 | 2026-10-07 | [Apply](https://www.mycareersfuture.gov.sg/job/f13860582ea85a24165bdab1892d493d) |
 | Software Engineer (Training provided) | RECRUIT LYNC PTE. LTD. | MyCareersFuture | 1 | 2026-10-07 | [Apply](https://www.mycareersfuture.gov.sg/job/1f46b419b7da4ad91dfd4fdef0482da2) |
+| Senior Software Engineer, Google Pay | Google | LinkedIn | — | 2026-10-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%2C%20Google%20Pay%20Google&location=Singapore) |
+| Senior Software Engineer, Ask Google Pay | Google | LinkedIn | — | 2026-10-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%2C%20Ask%20Google%20Pay%20Google&location=Singapore) |
+| Software Engineer | PayPal | LinkedIn | — | 2026-10-07 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20PayPal&location=Singapore) |
 | Software Engineer (C++ , Computer Vision) | GMP TECHNOLOGIES (S) PTE LTD | MyCareersFuture | 1 | 2026-10-06 | [Apply](https://www.mycareersfuture.gov.sg/job/dd6cbb7d82c11184a983eaf49d01969b) |
 | AI Engineer (Software Development) | SEATRIUM (SG) PTE. LTD. | MyCareersFuture | 2 | 2026-10-06 | [Apply](https://www.mycareersfuture.gov.sg/job/b6560d54d72e73bcafdef868bbedf155) |
 | Robotics Software Engineer | ENGGSOL PTE. LTD. | MyCareersFuture | 1 | 2026-10-06 | [Apply](https://www.mycareersfuture.gov.sg/job/5e71af464de8cab78b006ae536118584) |
@@ -29,18 +39,10 @@
 | Software Engineer II, Google Payments - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 1 | 2026-10-06 | [Apply](https://www.mycareersfuture.gov.sg/job/d4f8cac8df72e9e0bfd07954ac0c12c4) |
 | Software Engineer (Application Support) | R SYSTEMS CONSULTING SERVICES LIMITED | MyCareersFuture | 2 | 2026-10-06 | [Apply](https://www.mycareersfuture.gov.sg/job/764545828686399ea83c7ee2f9efb6d2) |
 | Software Engineer (Application Support) | R SYSTEMS (SINGAPORE) PTE LIMITED | MyCareersFuture | 2 | 2026-10-06 | [Apply](https://www.mycareersfuture.gov.sg/job/01c1ea4a594ab7c57cd865a0a99624de) |
-| Software Engineer (Computer Vision/Vision Inspection, C++) | RECRUIT EXPERT PTE. LTD. | MyCareersFuture | 2 | 2026-10-05 | [Apply](https://www.mycareersfuture.gov.sg/job/83699d9b9facf9599ec7da82f3b2b2a1) |
-| Linux Software Engineer– Solution Engineering | NEXTLABS INTERNATIONAL PRIVATE LIMITED | MyCareersFuture | 2 | 2026-10-05 | [Apply](https://www.mycareersfuture.gov.sg/job/8a67c91311b4251eef154422121a486f) |
-| Software Engineer Intern | CODEX SOLUTIONS PTE. LTD. | MyCareersFuture | 1 | 2026-10-05 | [Apply](https://www.mycareersfuture.gov.sg/job/5fbaf64a1e4f2091e4e2f2f8065545aa) |
-| Software Engineer (Java) | EPS COMPUTER SYSTEMS PTE LTD | MyCareersFuture | 2 | 2026-10-05 | [Apply](https://www.mycareersfuture.gov.sg/job/eedb8b518667ded1428e0e76dc5d43cb) |
-| .NET Full Stack Developer | ELLIOTT MOSS CONSULTING PTE. LTD. | MyCareersFuture | 2 | 2026-10-05 | [Apply](https://www.mycareersfuture.gov.sg/job/39767b62b61cc098676f3b03e8f95bde) |
-| SoC & Multimedia Software Engineer | XG TECH PTE. LTD. | MyCareersFuture | 2 | 2026-10-05 | [Apply](https://www.mycareersfuture.gov.sg/job/e873109b8380807b9904f4ffe9b75688) |
-| Cobol Developer | MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD | MyCareersFuture | 2 | 2026-10-05 | [Apply](https://www.mycareersfuture.gov.sg/job/2cb7f755da959933e6dbd7909906139b) |
-| Software Engineer #IFL | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 1 | 2026-10-05 | [Apply](https://www.mycareersfuture.gov.sg/job/bce12db818d31d5560621ebd8fde1a82) |
-| .Net Software Engineer(.Net/Cloud/Angular) | AVENSYS CONSULTING PTE. LTD. | MyCareersFuture | 2 | 2026-10-05 | [Apply](https://www.mycareersfuture.gov.sg/job/d3774a68ca7d7a882f7a09d46bfb5de6) |
-| Software Engineer (Java / .NET) | ALTROCKS TECH PTE. LTD. | MyCareersFuture | 2 | 2026-10-05 | [Apply](https://www.mycareersfuture.gov.sg/job/aa629ac549a5609e2d8422678d096505) |
-| Software Developer / Software Engineer #10123 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-10-05 | [Apply](https://www.mycareersfuture.gov.sg/job/06cbeae60b50e2eff118675bb6341aaf) |
-| Permanent Perception Engineer (Computer Vision & Multimodal AI) at Ang Mo Kio , Up to $5,000 (Office hours) | SUCCESS RESOURCE CENTRE PTE. LTD. | MyCareersFuture | 0 | 2026-10-05 | [Apply](https://www.mycareersfuture.gov.sg/job/8a6e26b8395e5c3bcf2962f388d952d0) |
-| Permanent Robotics Software Engineer (Sensor & Perception Integration) at Ang Mo Kio , Up to $6,000 (Office hours) | SUCCESS RESOURCE CENTRE PTE. LTD. | MyCareersFuture | 0 | 2026-10-05 | [Apply](https://www.mycareersfuture.gov.sg/job/9f761fbdcaf7da57e618b053b14aad36) |
-| Software Engineer (Permanent) | TALENTSIS PTE. LTD. | MyCareersFuture | 1 | 2026-10-05 | [Apply](https://www.mycareersfuture.gov.sg/job/3c571e3fdef74cdb33042dc856f69792) |
-| Software Engineer (C++/C#, Machine Automation) #76684 | ANRADUS PTE. LTD. | MyCareersFuture | 1 | 2026-10-05 | [Apply](https://www.mycareersfuture.gov.sg/job/d72d00c534ec47eb84c8209e84e878e9) |
+| Senior Software Engineer | Grab | LinkedIn | — | 2026-10-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%20Grab&location=Singapore) |
+| Backend Software Engineer | Manpower Singapore | LinkedIn | — | 2026-10-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Backend%20Software%20Engineer%20Manpower%20Singapore&location=Singapore) |
+| JAVA Backend Developer | Manpower Singapore | LinkedIn | — | 2026-10-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=JAVA%20Backend%20Developer%20Manpower%20Singapore&location=Singapore) |
+| Full Stack Engineer | OCBC | LinkedIn | — | 2026-10-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Full%20Stack%20Engineer%20OCBC&location=Singapore) |
+| Software Development Engineer, LaserJet R&D | HP | LinkedIn | — | 2026-10-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Development%20Engineer%2C%20LaserJet%20R%26amp%3BD%20HP&location=Singapore) |
+| Senior Software Engineer, Full Stack | Grab | LinkedIn | — | 2026-10-06 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%2C%20Full%20Stack%20Grab&location=Singapore) |
+| Software Engineer, New Grad | Stripe | LinkedIn | — | 2026-10-05 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20New%20Grad%20Stripe&location=Singapore) |
