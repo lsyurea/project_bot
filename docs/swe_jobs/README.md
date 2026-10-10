@@ -2,12 +2,13 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-10-10T06:19:38.828Z*
+> *Last updated: 2026-10-10T17:27:27.673Z*
 
-**Total listings: 26** *(MyCareersFuture: 16 | LinkedIn: 10)*
+**Total listings: 23** *(MyCareersFuture: 13 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Senior Software Engineer, App Ads, Data and Measurement | Google | LinkedIn | — | 2026-10-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%2C%20App%20Ads%2C%20Data%20and%20Measurement%20Google&location=Singapore) |
 | Senior Software Engineer | Virtusa | LinkedIn | — | 2026-10-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%20Virtusa&location=Singapore) |
 | Software Engineer (Backend/Frontend) - 5 days work - Immediate Hiring | TRUST RECRUIT PTE. LTD. | MyCareersFuture | 2 | 2026-10-09 | [Apply](https://www.mycareersfuture.gov.sg/job/8b22594c7eddd6670c1a1b2432fbd5eb) |
 | Software Engineer | CORVANTA TRADING PTE. LTD. | MyCareersFuture | 1 | 2026-10-09 | [Apply](https://www.mycareersfuture.gov.sg/job/13887c18d91bc6034bc8c351cf67ddec) |
@@ -28,9 +29,5 @@
 | Senior Software Engineer - ShopeePay | Shopee | LinkedIn | — | 2026-10-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%20-%20ShopeePay%20Shopee&location=Singapore) |
 | Software Engineer (B2B/B2X) | Thunes | LinkedIn | — | 2026-10-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20(B2B%2FB2X)%20Thunes&location=Singapore) |
 | Backend Software Engineer - AI Finance Agent | BJAK | LinkedIn | — | 2026-10-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Backend%20Software%20Engineer%20-%20AI%20Finance%20Agent%20BJAK&location=Singapore) |
-| Java Developer(Java/Orcal.PL SQL/Spring boot/react) | AVENSYS CONSULTING PTE. LTD. | MyCareersFuture | 2 | 2026-10-08 | [Apply](https://www.mycareersfuture.gov.sg/job/e3c207a665120e551a4585b55323842e) |
-| Software Engineer / Prompt Engineer (C# / .NET) | DADACONSULTANTS PTE. LTD. | MyCareersFuture | 2 | 2026-10-08 | [Apply](https://www.mycareersfuture.gov.sg/job/3d1d4da4eaa84ecdc086ef92704729b5) |
-| Software Engineer. | RECRUIT LYNC PTE. LTD. | MyCareersFuture | 2 | 2026-10-08 | [Apply](https://www.mycareersfuture.gov.sg/job/f0625e29b15a75f990d789c499ac4aa9) |
-| Software Engineer, Google Pay, Server | Google | LinkedIn | — | 2026-10-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Google%20Pay%2C%20Server%20Google&location=Singapore) |
-| Software Engineer, Money as a Service | Stripe | LinkedIn | — | 2026-10-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Money%20as%20a%20Service%20Stripe&location=Singapore) |
-| Software Engineer | PayPal | LinkedIn | — | 2026-10-08 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20PayPal&location=Singapore) |
+| Senior Software Engineer, Singapore Exams & Assessment Board (SEAB) | GovTech Singapore | LinkedIn | — | 2026-10-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%2C%20Singapore%20Exams%20%26amp%3B%20Assessment%20Board%20(SEAB)%20GovTech%20Singapore&location=Singapore) |
+| Senior Software Engineer - Full Stack | Illumina | LinkedIn | — | 2026-10-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%20-%20Full%20Stack%20Illumina&location=Singapore) |
