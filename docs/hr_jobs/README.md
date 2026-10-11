@@ -2,12 +2,16 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-10-11T06:19:25.424Z*
+> *Last updated: 2026-10-11T17:46:28.386Z*
 
-**Total listings: 71** *(MyCareersFuture: 65 | LinkedIn: 10)*
+**Total listings: 51** *(MyCareersFuture: 45 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| HR Executive (Central/ Up to $3,500) | GOOD JOB CREATIONS (SINGAPORE) PTE. LTD. | MyCareersFuture | 1 | 2026-10-11 | [Apply](https://www.mycareersfuture.gov.sg/job/ed1d385ef79d8e0644df8be5839bb7a7) |
+| Human Resources Specialist II | Hyve Solutions | LinkedIn | — | 2026-10-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Specialist%20II%20Hyve%20Solutions&location=Singapore) |
+| Senior HR Manager (Asia) | Gateway Search | LinkedIn | — | 2026-10-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20HR%20Manager%20(Asia)%20Gateway%20Search&location=Singapore) |
+| People Operations Partner | Airwallex | LinkedIn | — | 2026-10-11 | [Apply](https://www.linkedin.com/jobs/search/?keywords=People%20Operations%20Partner%20Airwallex&location=Singapore) |
 | Mechanical / Aircon / Electrical Engineer | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-10-10 | [Apply](https://www.mycareersfuture.gov.sg/job/f3cfdf59b12a2feadc297bb5e871a5de) |
 | HVAC ENGINEERING TECHNICIAN | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-10-10 | [Apply](https://www.mycareersfuture.gov.sg/job/21c30392460463e933b22e94324e26aa) |
 | ELECTRICAL ENGINEERING TECHNICIAN | ONE PLUS ONE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-10-10 | [Apply](https://www.mycareersfuture.gov.sg/job/eb73811ac572a29755f937b424d32a4a) |
@@ -51,31 +55,7 @@
 | Senior HR Generalist, APAC | Chainalysis | LinkedIn | — | 2026-10-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20HR%20Generalist%2C%20APAC%20Chainalysis&location=Singapore) |
 | SENIOR HR EXECUTIVE / ASSISTANT HR MANAGER | OCD HANDS PTE. LTD. | LinkedIn | — | 2026-10-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=SENIOR%20HR%20EXECUTIVE%20%2F%20ASSISTANT%20HR%20MANAGER%20OCD%20HANDS%20PTE.%20LTD.&location=Singapore) |
 | HR Rewards Specialist | Mizuho | LinkedIn | — | 2026-10-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Rewards%20Specialist%20Mizuho&location=Singapore) |
-| HR Executive (Regional) (Up to $4k + AWS + VB / Bugis) | GOOD JOB CREATIONS (SINGAPORE) PTE. LTD. | MyCareersFuture | 2 | 2026-10-09 | [Apply](https://www.mycareersfuture.gov.sg/job/7b50237660cae8237de597586620d60c) |
-| HR & Accounts Executive (Hybrid/ Up to $4,200 + AWS + VB - Bugis) | GOOD JOB CREATIONS (SINGAPORE) PTE. LTD. | MyCareersFuture | 2 | 2026-10-09 | [Apply](https://www.mycareersfuture.gov.sg/job/d18a22c4b798caf017daab6bb769e4eb) |
-| product manager | AIRY AI PTE. LTD. | MyCareersFuture | 2 | 2026-10-09 | [Apply](https://www.mycareersfuture.gov.sg/job/a7854d4190259befa100c5f04d3f2990) |
-| HR & Admin Executive #81914 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-10-09 | [Apply](https://www.mycareersfuture.gov.sg/job/41ca18bf1f08eeb6dd4fe102d95c7b64) |
-| Contract HR Executive (Learning & Development) #HZO | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 2 | 2026-10-09 | [Apply](https://www.mycareersfuture.gov.sg/job/7c3480035b38095c2e981f48407001b9) |
-| HR Executive (6 months contract) (ID: 712897) | PERSOL SINGAPORE PTE. LTD. | MyCareersFuture | 2 | 2026-10-09 | [Apply](https://www.mycareersfuture.gov.sg/job/6d66748836318cabb76ac642df7a6cb0) |
-| Warehouse Assistant (West/5 days work week) | JE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-10-09 | [Apply](https://www.mycareersfuture.gov.sg/job/15ce0d7b6892e2bf1fde0974fc18738f) |
-| IT Support Executive (West/transport provided from Jurong East and Outram Park) | JE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-10-09 | [Apply](https://www.mycareersfuture.gov.sg/job/15b52af114f7a70b7f09c1289e9917bb) |
-| Drafter cum QS (AutoCad) | JE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-10-09 | [Apply](https://www.mycareersfuture.gov.sg/job/0ae3bc3041664142c111985fd5f0a07e) |
-| Shipping Executive (FTA certificate/food manufacturing) | JE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-10-09 | [Apply](https://www.mycareersfuture.gov.sg/job/a5c50d15542f6889d32cf2a3104ef2e8) |
-| Maintenance Technician (sport club/central area) | JE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-10-09 | [Apply](https://www.mycareersfuture.gov.sg/job/c1c3c5f65f2b349b5e1795ebc2da1fbe) |
-| Chef De Partie (Western) (Sport club/Central area) | JE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-10-09 | [Apply](https://www.mycareersfuture.gov.sg/job/b40d14af98021b64b363c38541bfa536) |
-| Junior Sales Executive (Manufacturing/B2B/Electronic) | JE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 1 | 2026-10-09 | [Apply](https://www.mycareersfuture.gov.sg/job/54c90129ecdca75c8b3e6e7486feba7c) |
-| Project Assistant Manager (Construction/M&E/CAD/PLC) | JE HUMAN RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-10-09 | [Apply](https://www.mycareersfuture.gov.sg/job/ca7359a5ea5f0c914d539ddeb6c4578d) |
-| HR Operations Assistant - 12 months contract | BGC GROUP PTE. LTD. | MyCareersFuture | 1 | 2026-10-09 | [Apply](https://www.mycareersfuture.gov.sg/job/d0fbc5de532e8560702eb1e2010d07e6) |
-| HR Executive (Payroll) | PRINCE'S LANDSCAPE PTE. LTD. | MyCareersFuture | 2 | 2026-10-09 | [Apply](https://www.mycareersfuture.gov.sg/job/35e1743c004acee391ab9546f8f3ce4b) |
-| 5 Months Junior HRBP - Banking - Up to $5000 #NKA` | RECRUIT EXPRESS PTE LTD | MyCareersFuture | 2 | 2026-10-09 | [Apply](https://www.mycareersfuture.gov.sg/job/708f2793d58f011e356befcd89963f86) |
-| Junior Talent Acquisition Specialist | TREVOSE PARTNERS EXECUTIVE PTE. LIMITED | MyCareersFuture | 2 | 2026-10-09 | [Apply](https://www.mycareersfuture.gov.sg/job/67d63311686a7b57f50c7454f6b01bb2) |
-| HR AND ADMINISTRATIVE ASSISTANT | SAKE LABO PTE. LTD. | MyCareersFuture | 1 | 2026-10-09 | [Apply](https://www.mycareersfuture.gov.sg/job/bff3a5a1e418c03b0eb88ce3b110ec1e) |
-| SUPERVISOR | STEEL ALLY RESOURCES PTE. LTD. | MyCareersFuture | 2 | 2026-10-09 | [Apply](https://www.mycareersfuture.gov.sg/job/1cf87a8caee0c891c9d7a335ff650ba3) |
-| HR & Admin Executive | MAXIUS TRADING PTE. LTD. | MyCareersFuture | 1 | 2026-10-09 | [Apply](https://www.mycareersfuture.gov.sg/job/7a377997f74a9362595b86fccdd36827) |
-| Human Resources Specialist | Applied Medical | LinkedIn | — | 2026-10-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Specialist%20Applied%20Medical&location=Singapore) |
-| HR Associate | Sea | LinkedIn | — | 2026-10-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Associate%20Sea&location=Singapore) |
-| Senior/Manager, Human Resource | Thomson Medical | LinkedIn | — | 2026-10-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%2FManager%2C%20Human%20Resource%20Thomson%20Medical&location=Singapore) |
+| HR Executive | SUNMAN SOLUTION ENGINEERING PTE. LTD. | LinkedIn | — | 2026-10-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=HR%20Executive%20SUNMAN%20SOLUTION%20ENGINEERING%20PTE.%20LTD.&location=Singapore) |
+| Senior People Partner | Airwallex | LinkedIn | — | 2026-10-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20People%20Partner%20Airwallex&location=Singapore) |
+| Human Resource Business Partner | Tan Tock Seng Hospital | LinkedIn | — | 2026-10-10 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resource%20Business%20Partner%20Tan%20Tock%20Seng%20Hospital&location=Singapore) |
 | Senior Manager, Group HR Business Partnering Healthcare | DKSH | LinkedIn | — | 2026-10-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Manager%2C%20Group%20HR%20Business%20Partnering%20Healthcare%20DKSH&location=Singapore) |
-| Human Resources Specialist (Global) | LANDI Global | LinkedIn | — | 2026-10-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Human%20Resources%20Specialist%20(Global)%20LANDI%20Global&location=Singapore) |
-| Assistant Manager, Group Human Resources | Aesen | LinkedIn | — | 2026-10-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Assistant%20Manager%2C%20Group%20Human%20Resources%20Aesen&location=Singapore) |
-| Associate, Talent Acquisition | West Pharmaceutical Services | LinkedIn | — | 2026-10-09 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Associate%2C%20Talent%20Acquisition%20West%20Pharmaceutical%20Services&location=Singapore) |
