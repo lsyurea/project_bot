@@ -2,12 +2,17 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-10-13T19:29:39.075Z*
+> *Last updated: 2026-10-14T05:17:31.888Z*
 
-**Total listings: 42** *(MyCareersFuture: 37 | LinkedIn: 10)*
+**Total listings: 29** *(MyCareersFuture: 33 | LinkedIn: 0)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
+| Software Engineer | ACTELLIGENT PRIVATE LIMITED | MyCareersFuture | 2 | 2026-10-14 | [Apply](https://www.mycareersfuture.gov.sg/job/36136693dd00b5af407b054f4619112f) |
+| Junior Software Engineer (AI) | SCIENTEC CONSULTING PTE. LTD. | MyCareersFuture | 1 | 2026-10-14 | [Apply](https://www.mycareersfuture.gov.sg/job/f05a4580af5614a6b72136dc4c56bfaf) |
+| Software Quality Engineer - A26391 | ACTIVATE INTERACTIVE PTE LTD | MyCareersFuture | 2 | 2026-10-14 | [Apply](https://www.mycareersfuture.gov.sg/job/636ff1e2ca347c548e4c90d2df2f3e09) |
+| Software & DevOps Engineer (Fresh Graduate Welcome) | TALENTSIS PTE. LTD. | MyCareersFuture | 0 | 2026-10-14 | [Apply](https://www.mycareersfuture.gov.sg/job/979a8ea140de74af02f3c194c365c463) |
+| Software Engineer (C++, Embedded system) Automation - VTTO | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 2 | 2026-10-14 | [Apply](https://www.mycareersfuture.gov.sg/job/0e2ad6fa98d7bc23a0fa3b56a06f3924) |
 | Software Engineer (Computer Vision/Vision Inspection, C++) | RECRUIT EXPERT PTE. LTD. | MyCareersFuture | 2 | 2026-10-13 | [Apply](https://www.mycareersfuture.gov.sg/job/2a8009b64b5af45d7fbbc4139d92751c) |
 | Software Engineer (Must Have Java Prefer Oracle PL/SQL,React,Spring Boot) | ITCAN PTE. LIMITED | MyCareersFuture | 2 | 2026-10-13 | [Apply](https://www.mycareersfuture.gov.sg/job/e0c1e1a574535c73b1ee019de95ebe05) |
 | Automation Software Engineer (PLC Programming) #10232 | ANRADUS PTE. LTD. | MyCareersFuture | 2 | 2026-10-13 | [Apply](https://www.mycareersfuture.gov.sg/job/c6b0d8269d54a32e00dbf14d6cfe6de1) |
@@ -22,14 +27,6 @@
 | SOFTWARE ENGINEER | NORDIC FLOW CONTROL PTE. LTD. | MyCareersFuture | 2 | 2026-10-13 | [Apply](https://www.mycareersfuture.gov.sg/job/1a06601c09b9ddf97ea4e2494fdc6cc4) |
 | Perception Engineer | ENGGSOL PTE. LTD. | MyCareersFuture | 0 | 2026-10-13 | [Apply](https://www.mycareersfuture.gov.sg/job/c14dbb6ad718fb56398f306e0dd7e895) |
 | Software Engineer (Go/Python) — AMK | COMBUILDER PTE LTD | MyCareersFuture | 2 | 2026-10-13 | [Apply](https://www.mycareersfuture.gov.sg/job/74b87d37be3441801e9d56838e5f93ba) |
-| Software Engineer (C++, Embedded system) Automation - VTTO | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 2 | 2026-10-13 | [Apply](https://www.mycareersfuture.gov.sg/job/b454ab1cf6f87fced4068fd49b7d2cf0) |
-| Software Engineer III, Real-Time Payments Services | JPMorganChase | LinkedIn | — | 2026-10-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20III%2C%20Real-Time%20Payments%20Services%20JPMorganChase&location=Singapore) |
-| Engineer II, Software | Thermo Fisher Scientific | LinkedIn | — | 2026-10-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Engineer%20II%2C%20Software%20Thermo%20Fisher%20Scientific&location=Singapore) |
-| Software Engineer, Google Pay Mobile Development | Google | LinkedIn | — | 2026-10-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20Google%20Pay%20Mobile%20Development%20Google&location=Singapore) |
-| Software Engineer, AISS | IMDA | LinkedIn | — | 2026-10-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%2C%20AISS%20IMDA&location=Singapore) |
-| Senior Software Developer (Cloud & AI) | Wipro | LinkedIn | — | 2026-10-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Developer%20(Cloud%20%26amp%3B%20AI)%20Wipro&location=Singapore) |
-| Senior Software Developer (Java & Kotlin) - Strong in Equity derivatives | Luxoft Singapore | LinkedIn | — | 2026-10-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Developer%20(Java%20%26amp%3B%20Kotlin)%20-%20Strong%20in%20Equity%20derivatives%20Luxoft%20Singapore&location=Singapore) |
-| Senior Software Engineer | Visa | LinkedIn | — | 2026-10-13 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%20Visa&location=Singapore) |
 | Software Engineer | NOVACITYNETS PTE LTD | MyCareersFuture | 2 | 2026-10-12 | [Apply](https://www.mycareersfuture.gov.sg/job/e962fc31fe8ed29a8aab994cbf4ecf20) |
 | Security Engineer | PADLET PTE. LTD. | MyCareersFuture | 2 | 2026-10-12 | [Apply](https://www.mycareersfuture.gov.sg/job/b8e42ccf3dca0b19ae0aadd38bebcd0d) |
 | Backend Software Engineer (.NET) - Up to $4k - C# - HTML5 - JL99 | THE SUPREME HR ADVISORY PTE. LTD. | MyCareersFuture | 2 | 2026-10-12 | [Apply](https://www.mycareersfuture.gov.sg/job/1cbc55ff4eaf3812ed2a83bb6a19f915) |
@@ -40,13 +37,3 @@
 | Software Engineer (Many Positions) | TALENTSIS PTE. LTD. | MyCareersFuture | 1 | 2026-10-12 | [Apply](https://www.mycareersfuture.gov.sg/job/b623b3c8141420711b204f7407abb3d7) |
 | Software Engineer, Google Pay, Server - Singapore | GOOGLE ASIA PACIFIC PTE. LTD. | MyCareersFuture | 2 | 2026-10-12 | [Apply](https://www.mycareersfuture.gov.sg/job/e002d6fe3262c3f21d6f6dbc5c210419) |
 | Software Engineer in Machine Learning Infra, TikTok Recommendation Architecture | TIKTOK PTE. LTD. | MyCareersFuture | 1 | 2026-10-12 | [Apply](https://www.mycareersfuture.gov.sg/job/7e6c3e79940c0050a7bb6844383f815c) |
-| Site Reliability Engineer, TikTok Recommendation Architecture | TIKTOK PTE. LTD. | MyCareersFuture | 1 | 2026-10-12 | [Apply](https://www.mycareersfuture.gov.sg/job/b69de883727d503cc569485c6d1264f1) |
-| Software Engineer (Big Data), Application Computing | TIKTOK PTE. LTD. | MyCareersFuture | 1 | 2026-10-12 | [Apply](https://www.mycareersfuture.gov.sg/job/67e22f143ad2ce0d9af5c05dd4680cfa) |
-| Backend Software Engineer, TikTok Data Ecosystem (Data Lake) | TIKTOK PTE. LTD. | MyCareersFuture | 1 | 2026-10-12 | [Apply](https://www.mycareersfuture.gov.sg/job/19559dc4b85092c5e0f26fe3b45c8229) |
-| Backend Software Engineer - TikTok Data Ecosystem (Storage) | TIKTOK PTE. LTD. | MyCareersFuture | 2 | 2026-10-12 | [Apply](https://www.mycareersfuture.gov.sg/job/0cc43a5450bfe8ec062f9474b1b2aa40) |
-| Software Engineer – WiFi/ Embedded System Development | REALTEK SINGAPORE PRIVATE LIMITED | MyCareersFuture | 0 | 2026-10-12 | [Apply](https://www.mycareersfuture.gov.sg/job/7aa303f69a7ac6b346efb41e2de884ad) |
-| Software Engineer - Test Automation | REALTEK SINGAPORE PRIVATE LIMITED | MyCareersFuture | 0 | 2026-10-12 | [Apply](https://www.mycareersfuture.gov.sg/job/d893829db18b92f8da63375f1f4aa1fe) |
-| Software cum Data Engineer — AMK | COMBUILDER PTE LTD | MyCareersFuture | 2 | 2026-10-12 | [Apply](https://www.mycareersfuture.gov.sg/job/72549a8564fd2473e42d0a5212772bf1) |
-| Senior Software Developer (Java & Kotlin) | Luxoft Singapore | LinkedIn | — | 2026-10-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Developer%20(Java%20%26amp%3B%20Kotlin)%20Luxoft%20Singapore&location=Singapore) |
-| Java Software Developer (Backend) | Reolink | LinkedIn | — | 2026-10-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Java%20Software%20Developer%20(Backend)%20Reolink&location=Singapore) |
-| Senior Software Developer (Java & Kotlin) | Luxoft | LinkedIn | — | 2026-10-12 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Developer%20(Java%20%26amp%3B%20Kotlin)%20Luxoft&location=Singapore) |
