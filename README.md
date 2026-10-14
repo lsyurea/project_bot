@@ -3,18 +3,19 @@
 This repository automatically updates repository activity stats for my GitHub account.
 
 <!-- REPO_ACTIVITY:START -->
-Generated: 2026-10-14T11:44:27.104Z
+Generated: 2026-10-14T17:05:18.626Z
 
 Active window: last 90 days (cutoff: 2026-07-16)
 Total repositories analyzed: 52
-Active: 11
-Inactive: 41
+Active: 12
+Inactive: 40
 
 ### Active Repositories
+- 🔒 [lsyurea/portfolio_next](https://github.com/lsyurea/portfolio_next) — last push: 2026-10-14
+- 🔒 [lsyurea/Meetify](https://github.com/lsyurea/Meetify) — last push: 2026-10-14
+- 🔒 [lsyurea/shortcuts](https://github.com/lsyurea/shortcuts) — last push: 2026-10-14
+- 🔒 [lsyurea/interview-questions-scraper](https://github.com/lsyurea/interview-questions-scraper) — last push: 2026-10-14
 - 🌐 [lsyurea/project_bot](https://github.com/lsyurea/project_bot) — last push: 2026-10-14
-- 🔒 [lsyurea/portfolio_next](https://github.com/lsyurea/portfolio_next) — last push: 2026-10-13
-- 🔒 [lsyurea/Meetify](https://github.com/lsyurea/Meetify) — last push: 2026-10-13
-- 🔒 [lsyurea/interview-questions-scraper](https://github.com/lsyurea/interview-questions-scraper) — last push: 2026-10-13
 - 🔒 [lsyurea/PromptHire](https://github.com/lsyurea/PromptHire) — last push: 2026-10-13
 - 🔒 [lsyurea/Transformers](https://github.com/lsyurea/Transformers) — last push: 2026-10-05
 - 🌐 [lsyurea/pytorch](https://github.com/lsyurea/pytorch) — last push: 2026-09-24
@@ -32,7 +33,6 @@ Inactive: 41
 - 🌐 [lsyurea/kimi-cli](https://github.com/lsyurea/kimi-cli) — last push: 2026-03-23
 - 🌐 [lsyurea/courserekt](https://github.com/lsyurea/courserekt) — last push: 2026-03-22
 - 🌐 [lsyurea/ollama](https://github.com/lsyurea/ollama) — last push: 2026-03-21
-- 🔒 [lsyurea/shortcuts](https://github.com/lsyurea/shortcuts) — last push: 2026-03-13
 - 🔒 [lsyurea/yq_portfolio](https://github.com/lsyurea/yq_portfolio) — last push: 2026-03-07
 - 🌐 [lsyurea/lsyurea](https://github.com/lsyurea/lsyurea) — last push: 2026-03-01
 - 🔒 [lsyurea/Build-your-own-X](https://github.com/lsyurea/Build-your-own-X) — last push: 2025-09-06
