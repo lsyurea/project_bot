@@ -3,7 +3,7 @@
 This repository automatically updates repository activity stats for my GitHub account.
 
 <!-- REPO_ACTIVITY:START -->
-Generated: 2026-10-14T17:05:18.626Z
+Generated: 2026-10-14T21:36:46.851Z
 
 Active window: last 90 days (cutoff: 2026-07-16)
 Total repositories analyzed: 52
@@ -12,17 +12,17 @@ Inactive: 40
 
 ### Active Repositories
 - 🔒 [lsyurea/portfolio_next](https://github.com/lsyurea/portfolio_next) — last push: 2026-10-14
+- 🔒 [lsyurea/learnGPT](https://github.com/lsyurea/learnGPT) — last push: 2026-10-14
 - 🔒 [lsyurea/Meetify](https://github.com/lsyurea/Meetify) — last push: 2026-10-14
+- 🌐 [lsyurea/project_bot](https://github.com/lsyurea/project_bot) — last push: 2026-10-14
 - 🔒 [lsyurea/shortcuts](https://github.com/lsyurea/shortcuts) — last push: 2026-10-14
 - 🔒 [lsyurea/interview-questions-scraper](https://github.com/lsyurea/interview-questions-scraper) — last push: 2026-10-14
-- 🌐 [lsyurea/project_bot](https://github.com/lsyurea/project_bot) — last push: 2026-10-14
 - 🔒 [lsyurea/PromptHire](https://github.com/lsyurea/PromptHire) — last push: 2026-10-13
 - 🔒 [lsyurea/Transformers](https://github.com/lsyurea/Transformers) — last push: 2026-10-05
 - 🌐 [lsyurea/pytorch](https://github.com/lsyurea/pytorch) — last push: 2026-09-24
 - 🔒 [lsyurea/Ecommerce](https://github.com/lsyurea/Ecommerce) — last push: 2026-09-17
 - 🔒 [lsyurea/frontend_mono](https://github.com/lsyurea/frontend_mono) — last push: 2026-09-10
 - 🌐 [lsyurea/ml_streamlit_template](https://github.com/lsyurea/ml_streamlit_template) — last push: 2026-09-05
-- 🔒 [lsyurea/learnGPT](https://github.com/lsyurea/learnGPT) — last push: 2026-08-15
 
 ### Inactive Repositories
 - 🔒 [lsyurea/CodeChallenge](https://github.com/lsyurea/CodeChallenge) — last push: 2026-07-14
