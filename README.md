@@ -3,25 +3,26 @@
 This repository automatically updates repository activity stats for my GitHub account.
 
 <!-- REPO_ACTIVITY:START -->
-Generated: 2026-10-16T11:15:16.294Z
+Generated: 2026-10-16T16:33:26.975Z
 
 Active window: last 90 days (cutoff: 2026-07-18)
-Total repositories analyzed: 52
-Active: 13
-Inactive: 39
+Total repositories analyzed: 50
+Active: 14
+Inactive: 36
 
 ### Active Repositories
+- 🔒 [lsyurea/learnGPT](https://github.com/lsyurea/learnGPT) — last push: 2026-10-16
+- 🔒 [lsyurea/Ecommerce](https://github.com/lsyurea/Ecommerce) — last push: 2026-10-16
+- 🌐 [lsyurea/ollama](https://github.com/lsyurea/ollama) — last push: 2026-10-16
+- 🔒 [lsyurea/portfolio_next](https://github.com/lsyurea/portfolio_next) — last push: 2026-10-16
+- 🔒 [lsyurea/interview-questions-scraper](https://github.com/lsyurea/interview-questions-scraper) — last push: 2026-10-16
 - 🌐 [lsyurea/project_bot](https://github.com/lsyurea/project_bot) — last push: 2026-10-16
-- 🔒 [lsyurea/portfolio_next](https://github.com/lsyurea/portfolio_next) — last push: 2026-10-15
 - 🌐 [lsyurea/pytorch](https://github.com/lsyurea/pytorch) — last push: 2026-10-15
 - 🔒 [lsyurea/CodeChallenge](https://github.com/lsyurea/CodeChallenge) — last push: 2026-10-15
-- 🔒 [lsyurea/interview-questions-scraper](https://github.com/lsyurea/interview-questions-scraper) — last push: 2026-10-15
-- 🔒 [lsyurea/learnGPT](https://github.com/lsyurea/learnGPT) — last push: 2026-10-14
 - 🔒 [lsyurea/Meetify](https://github.com/lsyurea/Meetify) — last push: 2026-10-14
 - 🔒 [lsyurea/shortcuts](https://github.com/lsyurea/shortcuts) — last push: 2026-10-14
 - 🔒 [lsyurea/PromptHire](https://github.com/lsyurea/PromptHire) — last push: 2026-10-13
 - 🔒 [lsyurea/Transformers](https://github.com/lsyurea/Transformers) — last push: 2026-10-05
-- 🔒 [lsyurea/Ecommerce](https://github.com/lsyurea/Ecommerce) — last push: 2026-09-17
 - 🔒 [lsyurea/frontend_mono](https://github.com/lsyurea/frontend_mono) — last push: 2026-09-10
 - 🌐 [lsyurea/ml_streamlit_template](https://github.com/lsyurea/ml_streamlit_template) — last push: 2026-09-05
 
@@ -32,7 +33,6 @@ Inactive: 39
 - 🌐 [lsyurea/claude-code](https://github.com/lsyurea/claude-code) — last push: 2026-04-01
 - 🌐 [lsyurea/kimi-cli](https://github.com/lsyurea/kimi-cli) — last push: 2026-03-23
 - 🌐 [lsyurea/courserekt](https://github.com/lsyurea/courserekt) — last push: 2026-03-22
-- 🌐 [lsyurea/ollama](https://github.com/lsyurea/ollama) — last push: 2026-03-21
 - 🔒 [lsyurea/yq_portfolio](https://github.com/lsyurea/yq_portfolio) — last push: 2026-03-07
 - 🌐 [lsyurea/lsyurea](https://github.com/lsyurea/lsyurea) — last push: 2026-03-01
 - 🔒 [lsyurea/Build-your-own-X](https://github.com/lsyurea/Build-your-own-X) — last push: 2025-09-06
@@ -41,8 +41,6 @@ Inactive: 39
 - 🔒 [lsyurea/tsa_stock](https://github.com/lsyurea/tsa_stock) — last push: 2025-01-06
 - 🔒 [lsyurea/codeditor](https://github.com/lsyurea/codeditor) — last push: 2024-12-23
 - 🌐 [lsyurea/cs3219-ay2425s1-project-g11](https://github.com/lsyurea/cs3219-ay2425s1-project-g11) — last push: 2024-12-10
-- 🔒 [lsyurea/Simple_Ecommerce](https://github.com/lsyurea/Simple_Ecommerce) — last push: 2024-10-31
-- 🌐 [lsyurea/code-to-give-frontend](https://github.com/lsyurea/code-to-give-frontend) — last push: 2024-08-26
 - 🔒 [lsyurea/Ecommerce_Mobile](https://github.com/lsyurea/Ecommerce_Mobile) — last push: 2024-08-15
 - 🔒 [lsyurea/stuBuddy](https://github.com/lsyurea/stuBuddy) — last push: 2024-08-05
 - 🔒 [lsyurea/gen_shorts](https://github.com/lsyurea/gen_shorts) — last push: 2024-06-19
