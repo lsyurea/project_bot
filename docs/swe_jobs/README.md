@@ -2,9 +2,9 @@
 
 > Entry-level / 0–2 years experience &nbsp;•&nbsp; Singapore &nbsp;•&nbsp; Posted within the last 48 hours
 >
-> *Last updated: 2026-10-16T16:54:03.208Z*
+> *Last updated: 2026-10-17T04:55:15.424Z*
 
-**Total listings: 38** *(MyCareersFuture: 34 | LinkedIn: 10)*
+**Total listings: 31** *(MyCareersFuture: 27 | LinkedIn: 10)*
 
 | Job Title | Company | Source | Yrs Exp | Posted | Apply |
 |-----------|---------|--------|---------|--------|-------|
@@ -36,13 +36,6 @@
 | Software Engineer in Machine Learning Infra, Recommendation Architecture (ByteDance Singapore) | BYTEDANCE PTE. LTD. | MyCareersFuture | 1 | 2026-10-15 | [Apply](https://www.mycareersfuture.gov.sg/job/32ad28ebaa027b4b08703bbedc487c4d) |
 | Site Reliability Engineer, Recommendation Architecture (ByteDance Singapore) | BYTEDANCE PTE. LTD. | MyCareersFuture | 1 | 2026-10-15 | [Apply](https://www.mycareersfuture.gov.sg/job/dcbf27d8c898a12efbfbbafb57d8ca9d) |
 | Backend Software Engineer, Recommendation Content Understanding Architecture | TIKTOK PTE. LTD. | MyCareersFuture | 1 | 2026-10-15 | [Apply](https://www.mycareersfuture.gov.sg/job/340a59186c4edd285c4f53a83bb95c2e) |
-| Software Engineer (Java) | ITCAN PTE. LIMITED | MyCareersFuture | 2 | 2026-10-15 | [Apply](https://www.mycareersfuture.gov.sg/job/229d12143e8cc7265c3939dab48eda17) |
-| Software Engineer - Application Development | FLEXXON PTE. LTD. | MyCareersFuture | 2 | 2026-10-15 | [Apply](https://www.mycareersfuture.gov.sg/job/cceb14a64e75e5745543ad3f37a9a81d) |
-| Software Engineer (Computer Vision/Vision Inspection, C++) | RECRUIT EXPERT PTE. LTD. | MyCareersFuture | 2 | 2026-10-15 | [Apply](https://www.mycareersfuture.gov.sg/job/82630616c368fd7e536c274c72d894c8) |
-| Junior/Senior Software DevOps Engineer [Open to Fresh Entry Level] | TALENTSIS PTE. LTD. | MyCareersFuture | 0 | 2026-10-15 | [Apply](https://www.mycareersfuture.gov.sg/job/09f809af856a0e7bf70c9b68e3e8bb48) |
-| Software Engineer (Playable Ads) | HAPPY HOUR GAMES PTE. LTD. | MyCareersFuture | 2 | 2026-10-15 | [Apply](https://www.mycareersfuture.gov.sg/job/99798e88c1251139bcc72dd4f16c92bf) |
-| Software Engineer (C++, Embedded system) Automation - VTTO | RECRUITPEDIA PTE. LTD. | MyCareersFuture | 2 | 2026-10-15 | [Apply](https://www.mycareersfuture.gov.sg/job/3bb7e13183490a28843760f1ab95d978) |
 | Senior Software Engineer | Changi Airport Group | LinkedIn | — | 2026-10-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Senior%20Software%20Engineer%20Changi%20Airport%20Group&location=Singapore) |
 | Backend Engineer - G&A Solutions Engineering | Apple | LinkedIn | — | 2026-10-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Backend%20Engineer%20-%20G%26amp%3BA%20Solutions%20Engineering%20Apple&location=Singapore) |
 | Staff Backend Software Engineer - Loki - Singapore - Remote | Grafana Labs | LinkedIn | — | 2026-10-15 | [Apply](https://www.linkedin.com/jobs/search/?keywords=Staff%20Backend%20Software%20Engineer%20-%20Loki%20%7C%20Singapore%20%7C%20Remote%20Grafana%20Labs&location=Singapore) |
-| Embedded Software Engineer (Firmware) | ORIENT ROBOTICS PTE. LTD. | MyCareersFuture | 2 | 2026-10-14 | [Apply](https://www.mycareersfuture.gov.sg/job/f9b66a78cd80c725df3f492b538b7c9a) |
