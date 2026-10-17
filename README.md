@@ -3,17 +3,18 @@
 This repository automatically updates repository activity stats for my GitHub account.
 
 <!-- REPO_ACTIVITY:START -->
-Generated: 2026-10-17T04:17:40.025Z
+Generated: 2026-10-17T10:34:29.144Z
 
 Active window: last 90 days (cutoff: 2026-07-19)
 Total repositories analyzed: 50
-Active: 14
-Inactive: 36
+Active: 15
+Inactive: 35
 
 ### Active Repositories
-- 🌐 [lsyurea/project_bot](https://github.com/lsyurea/project_bot) — last push: 2026-10-16
+- 🌐 [lsyurea/project_bot](https://github.com/lsyurea/project_bot) — last push: 2026-10-17
+- 🔒 [lsyurea/portfolio_next](https://github.com/lsyurea/portfolio_next) — last push: 2026-10-17
+- 🔒 [lsyurea/gen_shorts](https://github.com/lsyurea/gen_shorts) — last push: 2026-10-17
 - 🔒 [lsyurea/Ecommerce](https://github.com/lsyurea/Ecommerce) — last push: 2026-10-16
-- 🔒 [lsyurea/portfolio_next](https://github.com/lsyurea/portfolio_next) — last push: 2026-10-16
 - 🔒 [lsyurea/learnGPT](https://github.com/lsyurea/learnGPT) — last push: 2026-10-16
 - 🌐 [lsyurea/ollama](https://github.com/lsyurea/ollama) — last push: 2026-10-16
 - 🔒 [lsyurea/interview-questions-scraper](https://github.com/lsyurea/interview-questions-scraper) — last push: 2026-10-16
@@ -43,7 +44,6 @@ Inactive: 36
 - 🌐 [lsyurea/cs3219-ay2425s1-project-g11](https://github.com/lsyurea/cs3219-ay2425s1-project-g11) — last push: 2024-12-10
 - 🔒 [lsyurea/Ecommerce_Mobile](https://github.com/lsyurea/Ecommerce_Mobile) — last push: 2024-08-15
 - 🔒 [lsyurea/stuBuddy](https://github.com/lsyurea/stuBuddy) — last push: 2024-08-05
-- 🔒 [lsyurea/gen_shorts](https://github.com/lsyurea/gen_shorts) — last push: 2024-06-19
 - 🔒 [lsyurea/gen_image](https://github.com/lsyurea/gen_image) — last push: 2024-06-18
 - 🔒 [lsyurea/3d_aigen_shirt](https://github.com/lsyurea/3d_aigen_shirt) — last push: 2024-06-09
 - 🔒 [lsyurea/til](https://github.com/lsyurea/til) — last push: 2024-06-02
